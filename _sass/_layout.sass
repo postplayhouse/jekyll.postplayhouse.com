@@ -32,6 +32,9 @@ body
 
 // Header
 header.site-header
+  .pre-nav
+    +clearfix
+
   img
     width: 100%
     max-width: 650px
@@ -41,26 +44,32 @@ header.site-header
     text-decoration: none
     color: $text-color
   
-  .site-title h1
-    display: block
-    display: none
-    color: #444
-    text-align: center
-    padding: 0.2em
-    font-size: $base-font-size
-    font-size: 2.6em
-    font-weight: 100
-    line-height: 1em
-    
-    +breakpoint($medium)
-      color: #fff
-      font-size: 4em
-      position: absolute
-      bottom: 0
-      right: 0
-    
+  .site-title 
     +breakpoint($large)
-      font-size: 5em
+      display: block
+      float: left
+      width: 70%
+
+    h1
+      display: block
+      display: none
+      color: #444
+      text-align: center
+      padding: 0.2em
+      font-size: $base-font-size
+      font-size: 2.6em
+      font-weight: 100
+      line-height: 1em
+      
+      +breakpoint($medium)
+        color: #fff
+        font-size: 4em
+        position: absolute
+        bottom: 0
+        right: 0
+      
+      +breakpoint($large)
+        font-size: 5em
 
   h2.site-description
     font-weight: 100
@@ -71,12 +80,24 @@ header.site-header
 
   .get-tickets
     font-weight: normal
-    max-width: 300px
     margin: auto
+    margin-bottom: 2em
     text-align: center
+
+    +breakpoint($large)
+      float: left
+      margin: auto
+      margin-top: 5em
+
+    form
+      display: inline-block
+      +breakpoint($large)
+        display: block
 
     a
       color: $article-link
+
+
 
 
 // Main Nav
