@@ -1,0 +1,71 @@
+.final-thoughts{
+	margin: 0 auto;
+	padding: 0 12px;
+	padding-top: 50px;
+	text-align: left;
+	max-width: 500px;
+
+	@include breakpoint(790px){
+		max-width: 930px;
+	}
+
+	a:link, a:visited, a{
+		&:hover, &{
+			text-decoration: underline;
+		}
+	}
+
+	.sponsors:before{
+		content:'';
+		display: block;
+		width: 310px;
+		height: 174px;
+		float: none;
+		background: url(#{ $baseurl }/images/playhouse-pic.jpg);
+		margin: 24px auto;
+		max-width: 100%;
+
+		@include breakpoint(790px){
+			float: left;
+			margin-right: 12px;
+			margin-top: 5px;
+		}
+	}
+	.sponsor{
+		@include clearfix;
+		position: relative;
+		font-size: 0.7em;
+		min-height: 55px;
+		margin-bottom: 6px;
+
+		
+		@include breakpoint($medium){
+			padding-left: 126px;
+
+			p{
+				margin-bottom: 4px;
+			}
+		}
+
+		img{
+			float: left;
+			margin-right: 6px;
+			margin-bottom: 6px;
+
+			@include breakpoint($medium){
+				position: absolute;
+				left: 0;
+				margin: auto;
+			}
+		}
+	}
+}
+
+.site-info{
+	text-align: center;
+	a:link, a:visited, a{
+		&:hover, &{
+			text-decoration: underline;
+		}
+	}	
+}
