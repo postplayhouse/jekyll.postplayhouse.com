@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Variables
+$base-font-family: "proxima-nova", sans-serif;
+$base-font-size:   16px;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #222;
+$background-color: #fff;
+
+$trans-grey:       #bbb;
+$border-radius:    3px;
+$body-padding:     8px;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "libraries",
+        "media-queries",
+        "post-colors",
+        "variables-colors",
+        "base",
+        "helpers",
+        "layout",
+        "resume",
+        "form-elements"
+;

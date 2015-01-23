@@ -1,0 +1,17 @@
+=bars-setup
+  content: ""
+  background-color: inherit
+  position: absolute
+  top: 0
+  bottom: 0
+  width: 9999px
+
+=fw-bars
+  position: relative
+  &:before 
+    +bars-setup
+    left: -9999px
+  &:after 
+    +bars-setup
+    right: -9999px
+      

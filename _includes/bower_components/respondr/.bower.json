@@ -1,0 +1,28 @@
+{
+  "name": "respondr",
+  "version": "0.2.0",
+  "main": "dist/jquery.respondr.js",
+  "license": "MIT",
+  "ignore": [
+    "test",
+    "**/.*",
+    "*.json",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.11.1"
+  },
+  "devDependencies": {
+    "qunit": "~1.12.0"
+  },
+  "homepage": "https://github.com/happycollision/respondr",
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.0",
+    "commit": "68e466c4bab15bcd2e15f5d076c36f9591086d4a"
+  },
+  "_source": "git://github.com/happycollision/respondr.git",
+  "_target": "*",
+  "_originalSource": "respondr"
+}

@@ -1,0 +1,161 @@
+/**
+ * Prevent horizontal scrolling with full width bars
+ */
+html, body 
+  overflow-x: hidden
+
+html
+  box-sizing: border-box
+
+*, *:before, *:after 
+  box-sizing: inherit
+
+body
+  padding: 0
+
+  +breakpoint($large)
+    font-size: 1.2em
+
+%content-width
+  padding-left: $body-padding
+  padding-right: $body-padding
+  max-width: 650px
+  margin-left: auto
+  margin-right: auto
+
+  +breakpoint($large)
+    max-width: 900px
+
+
+.page-content
+  @extend %content-width
+
+// Header
+header.site-header
+  img
+    width: 100%
+    max-width: 650px
+    display: block
+    margin: auto
+  a
+    text-decoration: none
+    color: $text-color
+  
+  .site-title h1
+    display: block
+    display: none
+    color: #444
+    text-align: center
+    padding: 0.2em
+    font-size: $base-font-size
+    font-size: 2.6em
+    font-weight: 100
+    line-height: 1em
+    
+    +breakpoint($medium)
+      color: #fff
+      font-size: 4em
+      position: absolute
+      bottom: 0
+      right: 0
+    
+    +breakpoint($large)
+      font-size: 5em
+
+  h2.site-description
+    font-weight: 100
+    text-align: center
+    display: none
+    +breakpoint($medium)
+      display: block
+
+  .get-tickets
+    font-weight: normal
+    max-width: 300px
+    margin: auto
+    text-align: center
+
+    a
+      color: $article-link
+
+
+// Main Nav
+
+.js .site-nav ul
+  display: none
+  +breakpoint($medium)
+    display: block
+
+.site-nav
+  font-size: $base-font-size
+  text-align: center
+  margin-bottom: $spacing-unit
+  
+  ul
+    +container()
+    padding: 0
+    margin: 0
+    list-style: none
+    background-color: $trans-grey
+
+  label, li
+    font-size: 1.3em
+    display: block
+
+  label, li a
+    display: block
+    padding: 8px
+    background-color: $trans-grey
+
+    &, &:link, &:hover, &:visited
+      color: $text-color
+
+
+    &:hover
+      background-color: darken($trans-grey, 20)
+
+  +breakpoint($medium)
+    label
+      display: none
+    li
+      +span(2)
+    li:nth-of-type(2n)
+      +span(2 at 3)
+
+  +breakpoint($large)
+    li
+      display: inline !important
+      float: none !important
+      margin: auto !important
+
+      a
+        width: 10em !important
+        display: inline-block !important
+
+// Articles
+
+article
+  margin: $spacing-unit auto
+
+  & > h2
+    text-align: center
+
+.post-link
+  text-decoration: none
+  color: $text-color
+
+  &.outgoing
+    text-decoration: underline
+
+
+// Footer
+
+.site-footer
+  @extend %content-width
+  background-color: darken($trans-grey, 0)
+  margin-top: $spacing-unit *2
+  margin-bottom: 0
+  padding-top: $spacing-unit 
+  padding-bottom: $spacing-unit 
+
+  +fw-bars

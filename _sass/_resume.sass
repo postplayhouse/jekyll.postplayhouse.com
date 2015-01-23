@@ -1,0 +1,113 @@
+.resume
+  header
+    +clearfix
+    position: relative
+    margin-bottom: 3em
+
+  .label
+    font-weight: bold
+    &:after
+      content: ':'
+    
+  +breakpoint($large)
+    .stats, .contact
+      width: 50%
+      text-align: right
+      position: absolute
+      top: 1.5em
+      right: 0
+
+    .stats
+      top: 3.5em
+
+    .stat
+      display: inline-block
+      margin-left: 1em
+
+  h3
+    font-size: $base-font-size
+    font-size: 1.8em
+    padding: 0
+    margin-top: 2em
+
+  .credits h3
+    margin-top: 0
+
+  .production
+    margin-bottom: 4em
+
+  .title
+    display: block
+    font-size: 1.1em
+    padding-bottom: 0.5em
+    margin-bottom: 0.5em
+    border-bottom: 1px solid #ccc
+
+  .role, .company, .leader
+    display: block
+    text-align: right
+    color: lighten($text-color, 40)
+
+  .role
+    color: $text-color
+
+  footer
+    color: lighten($text-color, 40)
+
+  +breakpoint($medium)
+    .production
+      display: inline-block
+      width: 50%
+
+    .production:nth-of-type(odd)
+      padding-right: 8px
+    .production:nth-of-type(even)
+      padding-left: 8px
+    
+    // If the last one is odd, give it full width
+    .production:nth-of-type(odd):last-child
+      width: 100%
+
+  +breakpoint($large)
+    font-size: $base-font-size
+    
+    h3
+      font-size: 1.5em
+      padding: 0
+      margin: $spacing-unit 0 8px
+
+      &.section-title
+        margin-top: 1em
+
+    .production
+      display: block
+      width: 100%
+      padding: 0 !important
+      margin-bottom: 0.75em
+      line-height: 1em
+      font-size: $base-font-size
+      +clearfix
+
+    .title, .role, .company, .leader
+      text-align: left
+      font-size: inherit
+      display: inline
+      color: $text-color
+      padding-left: 8px
+
+    .title
+      border-bottom: none
+      width: 30%
+      float: left
+      padding: 0
+      margin: 0
+
+    .role
+      width: 25%
+      float: left
+
+    .leader
+      font-style: italic
+      color: lighten($text-color, 40)
+      padding: 0
+
