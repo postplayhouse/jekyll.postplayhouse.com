@@ -14,6 +14,7 @@
     "jquery": "~1.11",
     "compass-mixin": "~1.0.2",
     "picturefill": "~2.2.0",
-    "respondr": "*"
+    "respondr": "*",
+    "fitvids": "~1.1.0"
   }
 }
