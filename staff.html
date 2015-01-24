@@ -1,0 +1,12 @@
+---
+title: Staff
+group: main
+layout: page
+---
+
+{% assign path_to_images = "/images/people/staff/" %}
+{% for person in site.data.people.staff %}
+  {% include bio.html %}
+{% endfor %}
+
+Staff and Board ought to be separate data files. Each year of cast/crew/directors/musicians should be a single data file. Images should be searched for in folders pertaining to years where the bio exists, then look in previous years, if possible.

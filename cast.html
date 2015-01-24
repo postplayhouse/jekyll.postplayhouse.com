@@ -1,0 +1,82 @@
+---
+title: Creative Teams
+group: main
+layout: page
+---
+
+{% capture path_to_images %}/images/people/{{ site.season }}/{% endcapture %}
+
+{% assign people = site.data.people.[site.season] | sort: "last_name" %}
+
+{% assign has_cast = false %}
+{% assign has_crew = false %}
+{% assign has_creative = false %}
+{% assign has_musicians = false %}
+{% for person in people %}
+  
+  {% if person.groups contains "cast" %}
+    {% assign has_cast = true %}
+  {% endif %}
+  
+  {% if person.groups contains "crew" %}
+    {% assign has_crew = true %}
+  {% endif %}
+  
+  {% if person.groups contains "creative" %}
+    {% assign has_creative = true %}
+  {% endif %}
+  
+  {% if person.groups contains "musicians" %}
+    {% assign has_musicians = true %}
+  {% endif %}
+
+{% endfor %}
+
+
+{% if has_cast %}
+  <div class="bio-group cast">
+    <h2>Cast</h2>
+
+    {% for person in people %}
+      {% if person.groups contains "cast" %}
+        {% include bio.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
+
+{% if has_crew %}
+  <div class="bio-group crew">
+    <h2>Crew</h2>
+
+    {% for person in people %}
+      {% if person.groups contains "crew" %}
+        {% include bio.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
+
+{% if has_creative %}
+  <div class="bio-group creative">
+    <h2>Creative</h2>
+
+    {% for person in people %}
+      {% if person.groups contains "creative" %}
+        {% include bio.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
+
+{% if has_musicians %}
+  <div class="bio-group musicians">
+    <h2>Musicians</h2>
+
+    {% for person in people %}
+      {% if person.groups contains "musicians" %}
+        {% include bio.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}

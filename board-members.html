@@ -1,0 +1,10 @@
+---
+title: Board Members
+group: main
+layout: page
+---
+
+{% assign path_to_images = "/images/people/board/" %}
+{% for person in site.data.people.board %}
+  {% include bio.html %}
+{% endfor %}

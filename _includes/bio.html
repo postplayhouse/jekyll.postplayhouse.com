@@ -1,0 +1,28 @@
+<div class="person">
+  
+  {% if person.image contains "/" %}
+    {% capture headshot %}{{ person.image | prepend: site.baseurl }}{% endcapture %}
+  {% elsif person.image != nil %}
+    {% capture headshot %}{{ site.baseurl }}{{ path_to_images }}{{person.image}}{% endcapture %}
+  {% else %}
+    {% assign headshot = nil %}
+  {% endif %}
+  
+  {% if headshot != nil %}
+    <img src="{{ headshot }}" alt="Picture of {{ person.first_name }}">
+  {% endif %}
+
+  <h3 class="name">{{ person.first_name }} {{ person.last_name }}</h3>
+  
+  {% if person.positions != nil %}
+    <ul class="positions">
+      {% for position in person.positions %}
+        <li>{{ position | markdownify }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  
+  <div class="bio">
+    {{ person.bio | markdownify }}
+  </div>
+</div>
