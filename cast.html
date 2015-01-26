@@ -32,8 +32,14 @@ layout: page
 
 {% endfor %}
 
+{% if site.casting_complete != true %}
+  <div class="bio-group cast">
+    <h2>Cast</h2>
+    <p>Casting is not yet complete for the {{ site.season }} Summer season.</p>
+  </div>
+{% endif %}
 
-{% if has_cast %}
+{% if has_cast and site.casting_complete %}
   <div class="bio-group cast">
     <h2>Cast</h2>
 
