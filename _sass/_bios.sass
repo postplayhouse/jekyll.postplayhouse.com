@@ -1,0 +1,50 @@
+.bio-group
+  +clearfix
+
+.person
+  +clearfix
+  margin: ($spacing-unit * 4) auto
+
+  
+  &:first-of-type
+    margin-top: 0
+
+  img
+    max-width: 100%
+    display: block
+    margin: auto
+    margin-bottom: $spacing-unit / 3
+  h2
+    font-size: 2em
+    line-height: 1em
+    text-align: center
+  .positions
+    margin: ($spacing-unit / 2) auto
+
+    li 
+      margin-bottom: $spacing-unit / 5
+      line-height: 1em
+      text-indent: -1em
+      padding-left: 1em
+      font-weight: 100
+
+      p
+        margin: 0
+
++breakpoint($medium)
+  .bio-group.board .person
+    margin-top: 0
+    padding: 8px
+    +span(1 of 2)
+
+    &:nth-of-type(odd)
+      clear: left
+
++breakpoint($large)
+  .bio-group.board .person
+    +span(1 of 3)
+
+    &:nth-of-type(odd)
+      clear: none
+    &:nth-of-type(3n + 1)
+      clear: left
