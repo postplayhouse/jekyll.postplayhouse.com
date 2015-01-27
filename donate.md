@@ -4,6 +4,7 @@ layout: page
 parmalink: /doante/
 group: main
 nav_title: Donate
+order: 8
 ---
 
 Post Playhouse is a 501 ( c ) ( 3 ) non-profit organization, so your donations are happily accepted. Post Playhouse loves to give back to those who give to us. View our Contributor Levels below to see the benefits of donating to Post Playhouse.

@@ -3,6 +3,7 @@ title: Industry Professionals
 layout: page
 nav_title: Work at Post
 group: main
+order: 7
 ---
 
 ## Actors
@@ -13,4 +14,4 @@ Please feel free to submit resumes and video clip to tom@postplayhouse.com.
 
 ## Designers, Technicians, and Musicians
 
-We are currently searching for a Music Director,  Sound Designer, Drummer and a Box Office Manager for our 2015 Season.  Please send resumes to tom@postplayhouse.com.
+We are currently searching for a Music Director, Drummer and a Box Office Manager for our 2015 Season.  Please send resumes to tom@postplayhouse.com.
