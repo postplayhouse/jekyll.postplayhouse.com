@@ -7,7 +7,7 @@ email: don@happycollision.com
 description: > # this means to ignore newlines until "baseurl:"
   Post Playhouse is Northwestern Nebraska's premiere venue for live theatre.  Located on Historic Fort Robinson State Park, Post Playhouse produces several musicals running in a repertory schedule every summer by utilizing the talent of creative professionals from across the country and nearby.
 #baseurl: "/jekyll.postplayhouse.com" # the subpath of your site, e.g. /blog/
-baseurl: "/"
+baseurl: ""
 url: "http://happycollision.github.io" # the base hostname & protocol for your site
 
 # Build settings
