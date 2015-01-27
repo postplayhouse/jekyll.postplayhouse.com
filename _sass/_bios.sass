@@ -33,12 +33,15 @@
 
 +breakpoint($medium)
   .bio-group.board .person
-    margin-top: 0
-    padding: 8px
+    margin: 0
+    padding-bottom: $spacing-unit * 3
     +span(1 of 2)
 
     &:nth-of-type(odd)
-      clear: left
+      clear: both
+
+    &:nth-of-type(even)
+      +span(1 of 2 at 2)
 
 +breakpoint($large)
   .bio-group.board .person
@@ -46,5 +49,9 @@
 
     &:nth-of-type(odd)
       clear: none
+    &:nth-of-type(even)
+      +span(1 of 3)
+    &:nth-of-type(3n)
+      +span(1 of 3 at 3)
     &:nth-of-type(3n + 1)
-      clear: left
+      clear: both
