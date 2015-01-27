@@ -6,6 +6,8 @@ group: main
 order: 7
 ---
 
+![]({{ site.baseurl }}/images/playhouse-pic-large.jpg)
+
 ## Actors
 
 Auditions for our 2015 Season will be held in NYC the week of March 9, 2015.
