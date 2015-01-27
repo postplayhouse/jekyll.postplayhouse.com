@@ -1,8 +1,19 @@
-.home
-  +clearfix
-  
+.home  
   & > div
     margin-bottom: $spacing-unit
+
+  +breakpoint($large)
+    .featured-pictures
+      margin-top: $spacing-unit * 3 
+      
+      .picture
+        +span(2 of 4)
+
+        &:nth-of-type(even)
+          +span(2 of 4 at 3)
+
+        &:nth-of-type(odd)
+          clear: both
 
 div.full
   text-align: center
