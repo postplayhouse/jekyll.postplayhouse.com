@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
 group: main
+order: 10
 ---
 
 {{ site.description }}

@@ -2,6 +2,7 @@
 title: Videos
 layout: page
 group: main
+order: 7
 ---
 
 # 2013 Videos

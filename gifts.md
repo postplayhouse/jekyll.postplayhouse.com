@@ -2,6 +2,7 @@
 title: Gifts
 layout: page
 group: main
+order: 4
 ---
 Now when you buy a gift via [www.postplayhousetickets.com](http://www.postplayhousetickets.com), you can print off any of our certificates/subscription cards below and give them to the recipient! Use the information in your confirmation email to fill out the gift card. Be sure to write in your Record Locator number.
 
