@@ -68,3 +68,16 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
 }
+
+a, a:link {
+    color: $article-link;
+    &:hover {
+        color: $article-link-hover;
+    }
+}
+a:visited {
+    color: $article-link-visited;
+    &:hover {
+        color: $article-link-hover;
+    }
+}

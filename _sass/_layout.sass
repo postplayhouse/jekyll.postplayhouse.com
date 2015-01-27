@@ -118,7 +118,7 @@ header.site-header
     padding: 0
     margin: 0
     list-style: none
-    background-color: $trans-grey
+    background-color: $subtle-bg-alt
 
   label, li
     font-size: 1.3em
@@ -127,14 +127,14 @@ header.site-header
   label, li a
     display: block
     padding: 8px
-    background-color: $trans-grey
+    background-color: $subtle-bg-alt
 
     &, &:link, &:hover, &:visited
       color: $text-color
 
 
     &:hover
-      background-color: darken($trans-grey, 20)
+      background-color: $subtle-bg
 
   +breakpoint($medium)
     label
@@ -173,8 +173,7 @@ article
 // Footer
 
 .site-footer
-  @extend %content-width
-  background-color: darken($trans-grey, 0)
+  background-color: $subtle-bg-alt
   margin-top: $spacing-unit *2
   margin-bottom: 0
   padding-top: $spacing-unit 
