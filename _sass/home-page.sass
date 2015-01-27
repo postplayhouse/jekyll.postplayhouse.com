@@ -1,0 +1,21 @@
+.home
+  +clearfix
+  
+  & > div
+    margin-bottom: $spacing-unit
+
+div.full
+  text-align: center
+  font-size: 2em
+  margin-bottom: $spacing-unit * 3
+
+.new-tickets
+  background-color: $subtle-bg
+  padding: 16px
+
+  +breakpoint($large)
+    +span(2 of 3)
+
+.donations
+  +breakpoint($large)
+    +span(1 of 3 at 3)
