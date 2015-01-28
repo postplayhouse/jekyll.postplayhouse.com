@@ -257,6 +257,8 @@
 
 - first_name: Scott
   last_name: Cavin
+  groups:
+    - creative
   positions:
     - Post Playhouse Technical Director
     - Sound Design
