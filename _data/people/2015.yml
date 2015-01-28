@@ -1,6 +1,7 @@
 
 - first_name: Don
   last_name: Denton
+  location: "Chicago, IL"
   groups:
     - cast
   positions:
@@ -16,6 +17,7 @@
 
 - first_name: Jeff
   last_name: Parker
+  location: "Denver, CO"
   groups:
     - cast
     - creative
@@ -36,6 +38,7 @@
 
 - first_name: Mark
   last_name: DeLancey
+  location: "Indianapolis, IN"
   groups:
     - creative
   positions:
@@ -47,6 +50,7 @@
 
 - first_name: Wally
   last_name: Seiler
+  location: "Alliance, NE"
   groups:
     - cast
   positions:
@@ -61,6 +65,7 @@
 
 - first_name: Phoebe H.
   last_name: Boynton
+  location: 
   groups:
     - creative
   positions:
@@ -72,6 +77,7 @@
 
 - first_name: Tommy
   last_name: Wallace
+  location: "New York, NY"
   groups:
     - creative
     - cast
@@ -89,6 +95,7 @@
 
 - first_name: Don
   last_name: Fox
+  location: 
   groups:
     - creative
   positions:
@@ -100,6 +107,7 @@
 
 - first_name: Britte
   last_name: Steele
+  location: "New York, NY"
   groups:
     - cast
   positions:
@@ -115,6 +123,7 @@
 
 - first_name: Paige
   last_name: Salter
+  location: "Chattanooga, TN"
   groups:
     - cast
   positions:
@@ -130,6 +139,7 @@
 
 - first_name: Samantha A.
   last_name: Matthews
+  location: "New York, NY"
   groups:
     - cast
   positions:
@@ -145,6 +155,7 @@
 
 - first_name: Jorie
   last_name: Janeway
+  location: "Los Angeles, CA"
   groups:
     - cast
     - creative
@@ -162,6 +173,7 @@
 
 - first_name: Marge
   last_name: Rotherham
+  location: "Crawford, NE"
   groups:
     - cast
   positions:
@@ -174,6 +186,7 @@
 
 - first_name: Nathan
   last_name: Sonnenschein
+  location: 
   groups:
     - crew
   positions:
@@ -186,6 +199,7 @@
 
 - first_name: David
   last_name: Salter
+  location: 
   groups:
     - musicians
   positions:
@@ -197,6 +211,7 @@
 
 - first_name: Ken
   last_name: Phillips
+  location: 
   groups:
     - crew
   positions:
@@ -208,6 +223,7 @@
 
 - first_name: Jennifer
   last_name: Poarch
+  location: 
   groups:
     - cast
     - creative
@@ -221,6 +237,7 @@
 
 - first_name: Garrett
   last_name: Seaton
+  location: 
   groups:
     - creative
     - crew
@@ -234,6 +251,7 @@
 
 - first_name: Gavin
   last_name: Mayer
+  location: 
   groups:
     - creative
   positions:
@@ -245,6 +263,7 @@
 
 - first_name: Tom
   last_name: Ossowski
+  location: "Tallahasse, FL"
   groups:
     - creative
   positions:
@@ -257,6 +276,7 @@
 
 - first_name: Scott
   last_name: Cavin
+  location: "Chadron, NE"
   groups:
     - creative
   positions:
