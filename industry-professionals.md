@@ -10,9 +10,12 @@ order: 7
 
 ## Actors
 
-Auditions for our 2015 Season will be held in NYC the week of March 9, 2015.
-The announcement will be posted in BACKSTAGE and on this website in January/February.
-Please feel free to submit resumes and video clip to tom@postplayhouse.com.
+Auditions for the Post Playhouse 2015 season will be held in NY by appointment only
+March 11.
+
+For an appointment please submit headshot, resume and video clips / links to [tom@postplayhouse.com](mailroom:tom@postplayhouse.com)
+
+Please submit something “standard” and something “pop / rock”.
 
 ## Designers, Technicians, and Musicians
 
