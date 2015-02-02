@@ -6,7 +6,7 @@ group: main
 order: 7
 ---
 
-![]({{ site.baseurl }}/images/playhouse-pic-large.jpg)
+![The outside front entrance of Post Playhouse]({{ site.baseurl }}/images/playhouse-pic-large.jpg)
 
 ## Actors
 
