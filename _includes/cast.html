@@ -28,14 +28,14 @@
 
 {% if site.casting_complete != true %}
   <div class="bio-group cast">
-    <h2>Cast</h2>
+    <h2 class="bio-group-label">Cast</h2>
     <p>Casting is not yet complete for the {{ site.season }} Summer season.</p>
   </div>
 {% endif %}
 
 {% if has_cast and site.casting_complete %}
   <div class="bio-group cast">
-    <h2>Cast</h2>
+    <h2 class="bio-group-label">Cast</h2>
 
     {% for person in people %}
       {% if person.groups contains "cast" %}
@@ -47,7 +47,7 @@
 
 {% if has_crew %}
   <div class="bio-group crew">
-    <h2>Crew</h2>
+    <h2 class="bio-group-label">Crew</h2>
 
     {% for person in people %}
       {% if person.groups contains "crew" %}
@@ -59,7 +59,7 @@
 
 {% if has_creative %}
   <div class="bio-group creative">
-    <h2>Creative</h2>
+    <h2 class="bio-group-label">Creative</h2>
 
     {% for person in people %}
       {% if person.groups contains "creative" %}
@@ -71,7 +71,7 @@
 
 {% if has_musicians %}
   <div class="bio-group musicians">
-    <h2>Musicians</h2>
+    <h2 class="bio-group-label">Musicians</h2>
 
     {% for person in people %}
       {% if person.groups contains "musicians" %}

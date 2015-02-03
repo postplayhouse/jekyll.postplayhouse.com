@@ -12,7 +12,10 @@ $(document).ready(function(){
   })
   $('.page-content').respondr();
 
-  $('.video').fitVids();  
+  $('.video').fitVids();
+  
+  {% include_relative _js/sticky-titles.js %}
+
 });
 
 //Google Analytics
