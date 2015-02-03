@@ -1,6 +1,7 @@
 <div class="bio-group staff">
   {% assign path_to_images = "/images/people/staff/" %}
-  {% for person in site.data.people.staff %}
+  {% assign people = site.data.people.staff | sort: "last_name" %}
+  {% for person in people %}
     {% include bio.html %}
   {% endfor %}
 </div>
