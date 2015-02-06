@@ -1,0 +1,76 @@
+// Footer
+
+.site-footer
+  background-color: $subtle-bg-alt
+  margin-top: $spacing-unit *2
+  margin-bottom: 0
+  padding-top: $spacing-unit * 2
+  padding-bottom: $spacing-unit 
+
+  +fw-bars
+
+  .description
+    font-weight: normal
+
+.final-thanks
+  margin: 0 auto
+  padding: 0 $body-padding
+  text-align: left
+  max-width: 500px
+
+  +breakpoint(790px)
+    max-width: 930px
+  
+  a:link, a:visited, a
+    &:hover, &
+      text-decoration: underline
+
+  .sponsors:before
+    content: ''
+    display: block
+    width: 310px
+    height: 174px
+    float: none
+    background: url(#{ $baseurl }/images/playhouse-pic.jpg)
+    margin: 24px auto
+    max-width: 100%
+
+    +breakpoint(790px)
+      float: left
+      margin-right: 12px
+      margin-top: 5px
+    
+  
+  .sponsor
+    +clearfix
+    position: relative
+    font-size: 0.7em
+    min-height: 55px
+    margin-bottom: 6px
+
+    
+    @include breakpoint($medium)
+      padding-left: 126px
+
+      p
+        margin-bottom: 4px
+      
+    
+
+    img
+      float: left
+      margin-right: 6px
+      margin-bottom: 6px
+
+      +breakpoint($medium)
+        position: absolute
+        left: 0
+        margin: auto
+
+.credits
+  text-align: center
+  font-size: $base-font-size * 0.85
+  margin-top: $spacing-unit
+  a:link, a:visited, a
+    &:hover, &
+      text-decoration: underline

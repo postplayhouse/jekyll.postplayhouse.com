@@ -19,7 +19,7 @@ body
   +breakpoint($large)
     font-size: 1.2em
 
-%content-width
+.content-width
   padding-left: $body-padding
   padding-right: $body-padding
   max-width: 650px
@@ -31,7 +31,7 @@ body
 
 
 .page-content
-  @extend %content-width
+  @extend .content-width
 
 // Header
 header.site-header
@@ -174,20 +174,6 @@ article
   &.outgoing
     text-decoration: underline
 
-
-// Footer
-
-.site-footer
-  background-color: $subtle-bg-alt
-  margin-top: $spacing-unit *2
-  margin-bottom: 0
-  padding-top: $spacing-unit 
-  padding-bottom: $spacing-unit 
-
-  +fw-bars
-
-  .description
-    font-weight: 100
 
 // Image Display
 img
