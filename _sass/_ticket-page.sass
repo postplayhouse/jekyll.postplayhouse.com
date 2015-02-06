@@ -1,0 +1,51 @@
+/*  --------Ticket page tables------- */
+.tickets 
+  //background-color: #99c
+  line-height: 1.8em
+  //border: 1px solid #070b34
+  border-collapse: collapse
+  font-size: 0.8em
+  margin-bottom: 18px
+
+.tickets .dotted_under 
+  border-bottom-width: 1px
+  border-bottom-style: solid
+  border-bottom-color: #ccc
+
+.tickets  th 
+  //color: #070b34
+  font-weight: normal
+  font-size: 1.3em
+  background: #ccc
+  line-height: 2em
+
+.tickets .centered 
+  text-align: center
+
+.tickets .info 
+  //color: #070b34
+  font-size: 0.75em
+  line-height: 1em
+  padding-bottom: 5px
+
+.tickets .solid_under 
+  border-bottom-width: 1px
+  border-bottom-style: solid
+  border-bottom-color: #000
+
+.tickets  td:first-child 
+  width: 25%
+  padding-left: 2%
+
+.subscription-pricing
+  +breakpoint($medium)
+    +span(2 of 4)
+
+.subscriber-alert 
+  font-size: 0.8em
+  //color: #070b34
+  padding-left: 8px
+  line-height: 1.5em
+  +breakpoint($medium)
+    +span(2 of 4 at 3)
+
