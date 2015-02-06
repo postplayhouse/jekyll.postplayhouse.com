@@ -41,7 +41,7 @@ Call our box office at 308-665-1976
       <td class="centered">$23</td>
     </tr>
     <tr class="dotted_under">
-      <td>Youth <span class="info"> (12 and under)</span></td>
+      <td>Youth <span class="info"> (12-)</span></td>
       <td class="centered">$12</td>
       <td class="centered">$14</td>
       <td class="centered">$14</td>
