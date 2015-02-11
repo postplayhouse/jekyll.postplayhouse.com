@@ -65,7 +65,7 @@
 
 - first_name: Phoebe H.
   last_name: Boynton
-  location: 
+  location: "Los Angeles, CA"
   groups:
     - creative
   positions:
@@ -224,7 +224,7 @@
 
 - first_name: Ken
   last_name: Phillips
-  location: 
+  location: "Los Angeles, CA"
   groups:
     - crew
   positions:
