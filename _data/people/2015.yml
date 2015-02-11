@@ -208,6 +208,19 @@
     
   image: 
 
+- first_name: Nick
+  last_name: Place
+  location: 
+  groups:
+    - musicians
+    - creative
+  positions:
+    - "Music Director --- Cinderella, A Man of No Importance"
+    - Piano
+  bio: >
+    Nick Place grew up in Portland, Maine where he was involved in music throughout the community starting at age 5. Nick has served as assistant conductor for Pensacola Opera's productions of Puccini’s *La Boheme*, Gilbert and Sullivan's *Pirates of Penzance*, Bizet's *Carmen* and Rossini's *Cenerentola*, The Boston Conservatory's productions of Conrad Susa's *Transformations* and Puccini's *La Bohéme*; as Music Director for Pensacola Opera's Artist-in-Residence program production of *The Medium* by Gian Carlo Menotti and Mozart's *Cosi fan tutte*; as assistant music director for Boston Opera Collaborative's production of Rossini's *La Cenerentola*; as vocal coach and rehearsal pianist for The Boston Conservatory's production of Mozart's *Don Giovanni* and Ravel's *L'enfant et les sortilege*. In the summer of '08, Nick participated in the Bowdoin International Music Festival at Bowdoin College. Nick holds Master of Music degrees in Collaborative Piano and Piano Performance from The Boston Conservatory and a Bachelor of Music degree in Piano Performance w/ Collaborative Emphasis from Ithaca College.  Nick was also a semi-finalist for the New World Symphony for their 2013-2014 season. Nick is very excited to be involved in his first summer at Post Playhouse as MD for *Cinderella* and *A Man of No Importance*!
+  image: nick-place.jpg
+
 
 - first_name: Ken
   last_name: Phillips
