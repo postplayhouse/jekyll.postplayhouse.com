@@ -226,7 +226,7 @@
 
 - first_name: Nick
   last_name: Place
-  location: 
+  location: "Portland, ME"
   groups:
     - musicians
     - creative
