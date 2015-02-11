@@ -15,7 +15,10 @@ $(document).ready(function(){
   $('.video').fitVids();
   
   {% include_relative _js/sticky-titles.js %}
-
+  
+  if ($('.calendar').length > 0) {
+    {% include_relative _js/calendar.js %}
+  }
 });
 
 //Google Analytics
