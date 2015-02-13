@@ -11,7 +11,7 @@ order: 7
 ## Actors
 
 Auditions for the Post Playhouse 2015 season will be held in NY by appointment only
-March 11. For an appointment please submit headshot, resume and video clips / links to [tom@postplayhouse.com](mailto:tom@postplayhouse.com). Please submit something “standard” and something “pop / rock”.
+March 11. For an appointment please submit headshot, resume and video clips / links to [tom@postplayhouse.com](mailto:tom@postplayhouse.com). Please submit something "standard" and something "pop / rock".
 
 ## Designers, Technicians, and Musicians
 

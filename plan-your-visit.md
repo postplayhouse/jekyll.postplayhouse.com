@@ -4,9 +4,9 @@ group: main
 layout: page
 order: 8
 ---
-Post Playhouse is located on Fort Robinson State Park in Nebraska. The area is brimming with fun activities for all ages. Use the two documents below to help plan your visit and decide what you are going to do during the time you aren’t at the theatre.
+Post Playhouse is located on Fort Robinson State Park in Nebraska. The area is brimming with fun activities for all ages. Use the two documents below to help plan your visit and decide what you are going to do during the time you aren't at the theatre.
 
-[Fort Rob Accomodations]({{ site.baseurl }}/documents/Fort-Rob-Accomodations.pdf) (PDF)
+[Fort Rob Accommodations]({{ site.baseurl }}/documents/Fort-Rob-Accomodations.pdf) (PDF)
 
 [Fort Rob Activities]({{ site.baseurl }}/documents/Fort-Rob-Activities.pdf) (PDF)
 

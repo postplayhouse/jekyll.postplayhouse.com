@@ -113,7 +113,7 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
   Subscribers: After purchasing your subscription, you can reserve your seats to any 4 or 5 performances by emailing us at <a href="mailto:tickets@postplayhouse.com">tickets@postplayhouse.com</a> or calling our box office 308-665-1976. Seats are based on availability, so please make your reservations as soon as you can.
 </div>
 
-### Season Subcriptions 2015
+### Season Subscriptions 2015
 
 Please choose from the following shows to fill out your season subscription:
 

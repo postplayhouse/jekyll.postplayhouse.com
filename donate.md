@@ -23,20 +23,20 @@ Please make all checks payable to Post Playhouse and include your name, mailing 
 
 # Contributor Levels
 
-### Sponsor – $48
+### Sponsor --- $48
 
 - Your name listed in lobby display of contributors
 - Be the first to hear next year's season announcement
 - Receive our annual report
 
-### Friend – $250
+### Friend --- $250
 
 - Your name listed in lobby display of contributors
 - 2 complimentary tickets for opening night for the show of your choice
 - Be the first to hear next year's season announcement
 - Receive our annual report
 
-### Benefactor – $500
+### Benefactor --- $500
 
 - Your name listed in lobby display of contributors
 - 4 complimentary tickets for opening night for the show of your choice
@@ -44,7 +44,7 @@ Please make all checks payable to Post Playhouse and include your name, mailing 
 - Be the first to hear next year's season announcement
 - Receive our annual report
 
-### Director – $1,000
+### Director --- $1,000
 
 - Your name listed in lobby display of contributors
 - 6 complimentary tickets for opening night for the show of your choice
@@ -52,7 +52,7 @@ Please make all checks payable to Post Playhouse and include your name, mailing 
 - Be the first to hear next year's season announcement
 - Receive our annual report
 
-### Show Sponsor – $5,000
+### Show Sponsor --- $5,000
 
 - Company logo and sponsorship listing in:
   - Post Playhouse season brochures: 10,000 print copies
