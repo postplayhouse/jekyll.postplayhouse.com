@@ -9,13 +9,17 @@ order: 8
 
 Post Playhouse is a 501 ( c ) ( 3 ) non-profit organization, so your donations are happily accepted. Post Playhouse loves to give back to those who give to us. View our contributor levels below to see the benefits of donating to Post Playhouse.
 
-Please contact the Box Office at 308-665-1976 or email us at [tom@postplayhouse.com](mailto:tom@postplayhouse.com)
+Please contact the box office at 308-665-1976 or email us at [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with any questions about donating.
 
-Mailing Address:  
+Send donations via mail at:
+
 Post Playhouse  
-Chadron State College Conferencing  
-1000 Main Street  
+c/o Tim Gastwick  
+H&R Block  
+P.O. Box 749  
 Chadron, NE 69337
+
+Please make all checks payable to Post Playhouse and include your name, mailing address, and email address so we can contact you regarding your benefits.
 
 # Contributor Levels
 
