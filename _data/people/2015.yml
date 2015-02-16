@@ -265,7 +265,7 @@
 
 - first_name: Garrett
   last_name: Seaton
-  location: 
+  location: "Aurora, IL"
   groups:
     - creative
     - crew
@@ -273,8 +273,8 @@
     - Sound Designer
     - Sound Board Operator
   bio: >
-    
-  image: 
+    Garrett is currently enrolled at the University of Arizona working towards his BFA in Sound Design at the College of Theatre, Film, and Television. With previous designing and assistant designing experience with *Boom*, *This*, *The Full Monty*, and mixing experience with *A Little Night Music*.
+  image: garrett-seaton.jpg
 
 
 - first_name: Gavin
