@@ -1,3 +1,36 @@
+# - first_name: 
+#   last_name: 
+#   location: ""
+#   groups:
+#     - 
+#   positions:
+#     - The Best Little Whorehouse in Texas --- 
+#     - Grease --- 
+#     - Cinderella --- 
+#     - All Shook Up --- 
+#     - A Man of No Importance --- 
+#   bio: >
+#     
+#   image_year: 2015
+#   image_file:
+#
+
+# Use the template above for quick entry
+# If you specify an 'image_path', the year and file are ignored and
+# the full path to the image (prepended by the baseurl) is used.
+# Start the 'image_path' with a '/'
+
+
+#
+#
+#
+#
+#        CAST CREW MUSICIANS CREATIVE
+#
+#
+#
+#
+
 # - first_name: Derek
 #   last_name: Phelps
 #   location: "Chicago, IL"
@@ -25,7 +58,8 @@
     -  Piano
   bio: >
     Amanda Wansa Morgan currently serves as Assistant Professor of Performance at The University of Mississippi (Ole Miss).  She has directed Ole Miss productions of *The Mystery of Edwin Drood*, *Marisol*, and *Time Stands Still*; and music directed *Hairspray* and *The Spitfire Grill*. Prior to joining the Ole Miss faculty, she spent three years as the Director of Music Education at Charleston Stage, South Carolina's largest professional theater, where she served as music director, director, sound designer, dialect coach, music arranger, and/or composer for 28 productions.  Amanda also has free-lanced as a music director at Playhouse on the Square (Memphis), Osceola Center for the Arts (Orlando), and other various venues.   Amanda holds an MFA in Acting from The University of Central Florida and undergraduate degrees in Music (Voice) and Theatre from the Florida State University.  She has worked as a professional actor at Orlando Shakespeare Theater, Seaside Music Theater, Oxford Shakespeare Festival, *Tony and Tina's Wedding* (Orlando), and Theatre Southeast (FL).  Notable acting credits include Pennywise in *Urinetown*, Maggie in *Lend Me a Tenor*, and Rona Lisa Peretti in *The 25th Annual Putnum County Spelling Bee*.  Amanda has composed original music for productions of A *Christmas Carol*, *Twelfth Night*, *The Little Mermaid*, *The Velveteen Rabbit*, and August Wilson's *The Piano Lesson*.  She is currently adapting a children’s book called *Mary Had a Little Ham* into a children’s musical in partnership with the book’s original author, Margie Palatini.   Amanda has also served as an improvisational pianist for Theatre99 Improv Theatre (SC), as well as a private voice coach, music arranger and orchestrator, and professional jazz pianist/vocalist in the Oxford, Charleston, and Orlando areas.
-  image: amanda-morgan.jpg
+  image_year: 2015
+  image_file: amanda-morgan.jpg
 
 
 - first_name: Don
@@ -41,7 +75,8 @@
     - A Man of No Importance --- Robbie Fay
   bio: >
     Don is happy to be returning to Post Playhouse for another amazing summer! Favorite professional credits include Joseph in *Joseph and the Amazing Technicolor Dreamcoat* (Circa &rsquo;21 Dinner Playhouse, Rock Island, IL), Sky Masterson in *Guys &amp; Dolls* (Post Playhouse), Sir Bliant in *Camelot* (Drury Lane Theatre, Chicago), Bernard in *Boeing Boeing* (Wayside Theatre, Middletown, VA) and Jean Valjean in *Les Mis&eacute;rables* (Circa &rsquo;21). Thanks to Tom and all the staff at Post. Thanks to mom, dad, Dan, Amber, and little Oliver. Thanks to Kim, WP, Peter, and Carol. Thanks to God.
-  image: /images/people/staff/don-denton.jpg
+  image_year: 2015
+  image_file: don-denton.jpg
 
 - first_name: Mark
   last_name: DeLancey
@@ -52,7 +87,8 @@
     - Season Scenic Designer
   bio: >
     Mark is happy to be joining the creative team at Post Playhouse for his second year. Mark is currently an Assistant Professor at Indiana University Purdue University Fort Wayne(IPFW). In his 6 years there he has designed scenery for shows ranging from *King Lear* to *Hot L Baltimore* to most recently, *Gint*. He has designed scenery for the Weathervane Playhouse of Newark Ohio and Millbrook Playhouse in Mill Hall Pennsylvania. Prior to teaching at IPFW Delancey was a Designer and Scenic Artist in NYC from 1999 to 2008. He thanks his friends and family for their support over the year and most especially his dear parents for everything.
-  image: mark-delancey.jpg
+  image_year: 2015
+  image_file: mark-delancey.jpg
 
 
 - first_name: Wally
@@ -66,7 +102,8 @@
     - A Man of No Importance --- Baldy
   bio: >
     
-  image: /images/people/board/wally-seiler.jpg
+  image_year: 2015
+  image_file: wally-seiler.jpg
 
 
 
@@ -79,7 +116,8 @@
     - Season Costume Designer
   bio: >
     Pheobe has a BA in Art History from Cornell University and an MFA in Costume Design from the University of Missouri-Kansas City. She has been honored to work with such companies as the LA Opera, The LA Philharmonic, Machinima, and the American Musical and Dramatic Academy. Favorite productions she has designed include the costumes for *Mary Shelley's Frankenstein* (California Theater of the Performing Arts), *The Drowsy Chaperone* (Cerritos College), *A Christmas Carol* (Kansas City Rep), *The Lieutenant of Inishmore* (Unicorn Theatre), and *The History Boys* (Cornell University) as well as several films in and around the Los Angeles area.
-  image: phoebe-boynton.jpg
+  image_year: 2015
+  image_file: phoebe-boynton.jpg
 
 
 - first_name: Tommy
@@ -97,7 +135,8 @@
     - A Man of No Importance --- Rasher
   bio: >
     Tommy is thrilled to be returning to the Post Playhouse for a third summer! A few favorite past performance credits include George, *The Drowsy Chaperone*, at the Arts Center of Coastal Carolina, Uncle Henry/Oz Guard, *The Wizard of Oz*, at the Fireside Theatre, Spats, *Sugar*, at the Broadway Palm Dinner Theatre, Gangster #1, *The Drowsy Chaperone*, at the Dutch Apple Dinner Theatre, and Nicely Nicely Johnson, *Guys and Dolls*,* *right here at the Post Playhouse. Tommy would like to thank Tom and the board at the Post for all of the amazing opportunities they have provided, and all of his friends and family for their constant support. [www.tommy-wallace.com](http://www.tommy-wallace.com)
-  image: tommy-wallace.jpg
+  image_year: 2015
+  image_file: tommy-wallace.jpg
 
 
 - first_name: Don
@@ -109,7 +148,8 @@
     - Season Lighting Designer
   bio: >
     Don Fox is a professional freelance lighting designer and theatre producer who holds an MFA in Lighting Design from the University of Arizona and a BA in Theatre Administration from St. Edward’s University in Austin, TX. He has served as lighting designer and production manager for The Moscow Ballet’s *Great Russian Nutcracker* tour of 2014, designed the world premiere tour of *Circus Electronica*, has served as lighting and sound consultant for Silversea Cruises, and has twice designed Shakespeare in the park for the San Antonio Botanical Gardens. He designed *The Great American Dance Tour* which toured the great opera houses of China in 2012 for Artifact Dance Project in Tucson, AZ, for whom he is resident lighting designer. Fox is also the resident lighting designer for the critically acclaimed Rogue Theatre Company in Tucson with productions that include *Arcadia, Betrayal, Measure for Measure,* and *Dante’s Purgatorio*. No stranger to musical theatre, Fox has designed hundreds of productions including favorites *Forever Plaid, Jesus Christ Superstar, The Fantasticks,* and *Les Miserables.* Fox regularly designs and produces theatre for the Numerica Performing Arts Center of Wenatchee, WA where he has produced *The Rocky Horror Show, Bat Boy: The Musical,* and in August of 2015 will produce *Cabaret*. In the spring of 2015 Fox served as interim instructor for lighting at the University of Arizona. His extensive design portfolio can be found at [www.DonFoxDesigns.com](http://www.DonFoxDesigns.com).
-  image: don-fox.jpg
+  image_year: 2015
+  image_file: don-fox.jpg
 
 
 - first_name: Britte
@@ -125,7 +165,8 @@
     - "A Man of No Importance --- Mrs. Patrick"
   bio: >
     Britte is excited to return for a second wonderful season here at Post! Favorite credits include the National Tour of *The Music Man*, NYC: *Tony n' Tina's Wedding*, *Musicals Tonight*, *Sondheim's 75th* with Bernadette Peters, *Cinderella*. REGIONAL: *Xanadu* at the Lake Dillon Theatre, *La Cage Aux Folles* at Theatre by the Sea, *The Music Man* at Ogunquit Playhouse, *How to Succeed in Business...* and *Christmas Carol* with Prather Entertainment Group, *Grease* at Adirondack Repertory Theatre, *Godspell* at Mount Wachusett Theatre. Britte's last summer at Post included  Roz in *9 to 5*,  Woman 1 in *My Way*, and of course the trombone player and Cuban dancer in *Guys and Dolls*. Thanks to Tom, to everyone who is making this season happen both off-stage and on the boards, and to YOU for coming to support live theatre! [brittesteele.net](http://brittesteele.net). Protect your magic! 
-  image: britte-steele.jpg
+  image_year: 2015
+  image_file: britte-steele.jpg
 
 
 - first_name: Paige
@@ -141,7 +182,8 @@
     - "A Man of No Importance --- Mrs. Curtain"
   bio: >
     Paige is happy to be back at Post Playhouse for her sixth season! Favorite roles on this stage include Sarah in *Guys and Dolls*, Doralee in *9 to 5*, Mrs. Tottendale in *Drowsy Chaperone*, Rona in *The 25th Annual Putnam County Spelling Bee*, Mayzie in *Seussical*, and Sister Robert Anne in *Nunsense*. Favorite roles outside of the Post include Mother in *Ragtime* (Ensemble Theatre of Chattanooga), Lucy/ Bad Idea Bear/ Mrs. T in *Avenue Q* (ETC), and Kay in *Sesame Street Live, Elmo's Healthy Heroes* (East Coast/ Puerto Rico Tour). Paige has worked as a vocalist on the Norwegian Majesty cruise ship and a guest vocalist for the Chattanooga Monday Night Big Band. She has also recorded a number of songs for the children's musicals *A Whale of a Tale* and *Esther! Elevated* (Michael Huseman Music). Paige is a Belmont University grad. Many thanks to Mom and Dad, Tom, and the board members. For Jordan.
-  image: paige-salter.jpg
+  image_year: 2015
+  image_file: paige-salter.jpg
 
 
 - first_name: Samantha A.
@@ -157,7 +199,8 @@
     - "A Man of No Importance --- Mrs. Crowe, Kitty"
   bio: >
     Samantha could not be happier to return to the Post stage this year! You may remember her from last summer, most memorably as Maria in *The Sound of Music*. Recent credits include *Les Mis&eacute;rables* (Circa &rsquo;21 Dinner Playhouse), *A Year with Frog and Toad* (Playhouse on Park) as well as multiple Off-Broadway productions in NYC. Samantha recently moved out of New York City and is excited to be relocating to Chicago at the end of this season. She would like to thank her Post Playhouse family for another magical summer, Tom for giving her the opportunity to return to her favorite corner of the world, and her family for coming to visit all of the places she calls home across the country. [www.SamanthaAMatthews.com](http://samanthaamatthews.com)
-  image: samantha-matthews.jpg
+  image_year: 2015
+  image_file: samantha-matthews.jpg
 
 
 - first_name: Jorie
@@ -175,7 +218,8 @@
     - "A Man of No Importance --- Lily"
   bio: >
     Jorie Janeway is beyond thrilled to be returning to Post Playhouse for her fourth season! In the past years at Post Jorie was seen in such roles as the Drowsy Chaperone (*The Drowsy Chaperone*), Louise (*Always...Patsy Cline*), and Ado Annie (*Oklahoma*) as well as choreographing the 2013 season. National Tours: Female Authority Figure (*Hairspray*), Mrs. Frankweiler (*From the Mixed up Files of Mrs. Basil E. Frankweiler*). Regional: Cindy Lou (*The Marvelous Wonderettes*), Charlotte Lucas (*Pride and Prejudice*). Jorie lives in Los Angeles and is a proud company member of the Actors Co-op theatre company there. Many thanks to Tom Ossowski for his continued friendship and his commitment to this beloved place! [www.joriejane.com](http://joriejane.com)
-  image: jorie-janeway.jpg
+  image_year: 2015
+  image_file: jorie-janeway.jpg
 
 
 - first_name: Marge
@@ -188,7 +232,8 @@
     - "Cinderella --- Queen"
   bio: >
     
-  image: /images/people/board/marge-rotherham.jpg
+  image_year: 2015
+  image_file: marge-rotherham.jpg
 
 
 - first_name: Nathan
@@ -196,6 +241,7 @@
   location: 
   groups:
     - crew
+    - staff
   positions:
     - Box Office Staff
     - Follow Spot Operator
@@ -226,7 +272,8 @@
     - Piano
   bio: >
     Nick Place grew up in Portland, Maine where he was involved in music throughout the community starting at age 5. Nick has served as assistant conductor for Pensacola Opera's productions of Puccini’s *La Boheme*, Gilbert and Sullivan's *Pirates of Penzance*, Bizet's *Carmen* and Rossini's *Cenerentola*, The Boston Conservatory's productions of Conrad Susa's *Transformations* and Puccini's *La Bohéme*; as Music Director for Pensacola Opera's Artist-in-Residence program production of *The Medium* by Gian Carlo Menotti and Mozart's *Cosi fan tutte*; as assistant music director for Boston Opera Collaborative's production of Rossini's *La Cenerentola*; as vocal coach and rehearsal pianist for The Boston Conservatory's production of Mozart's *Don Giovanni* and Ravel's *L'enfant et les sortilege*. In the summer of '08, Nick participated in the Bowdoin International Music Festival at Bowdoin College. Nick holds Master of Music degrees in Collaborative Piano and Piano Performance from The Boston Conservatory and a Bachelor of Music degree in Piano Performance w/ Collaborative Emphasis from Ithaca College.  Nick was also a semi-finalist for the New World Symphony for their 2013-2014 season. Nick is very excited to be involved in his first summer at Post Playhouse as MD for *Cinderella* and *A Man of No Importance*!
-  image: nick-place.jpg
+  image_year: 2015
+  image_file: nick-place.jpg
 
 
 - first_name: Ken
@@ -238,7 +285,8 @@
     - Season Production Stage Manager
   bio: >
     
-  image: ken-phillips.jpg
+  image_year: 2015
+  image_file: ken-phillips.jpg
 
 
 - first_name: Jennifer
@@ -247,13 +295,15 @@
   groups:
     - cast
     - creative
+    - staff
   positions:
     - Director --- Cinderella
     - "All Shook Up --- Natalie"
     - Managing Director
   bio: >
     Jennifer is ecstatic to be making her Post Playhouse debut in *All Shook Up*.  A graduate of Lees-McRae College in North Carolina, Jennifer earned both a Musical Theater and Dance degree then pursued her career in the Performing Arts.  Some favorite regional credits include:  Kala (*Tarzan*), Lilli/Kate (*Kiss Me Kate*), Narrator (*Joseph*), Cassie (*A Chorus Line*), Guinevere (*Camelot*), Mrs. Anna (*The King And I*), Shelby (*Steel Magnolias*), and Julie (*Pizza Man*).  When Jennifer is not performing, she enjoys directing and choreographing for theaters across the country and spreading those immortal words of Elvis, himself:  "All I ever wanted was to help people, love them, lift them up, and spread some joy."  Jennifer gives thanks to her family, friends and God for all their love and support.
-  image: jennifer-poarch.jpg
+  image_year: 2015
+  image_file: jennifer-poarch.jpg
 
 
 - first_name: Garrett
@@ -267,7 +317,8 @@
     - Sound Board Operator
   bio: >
     Garrett is currently enrolled at the University of Arizona working towards his BFA in Sound Design at the College of Theatre, Film, and Television. With previous designing and assistant designing experience with *Boom*, *This*, *The Full Monty*, and mixing experience with *A Little Night Music*.
-  image: garrett-seaton.jpg
+  image_year: 2015
+  image_file: garrett-seaton.jpg
 
 
 - first_name: Gavin
@@ -279,7 +330,8 @@
     - Director --- The Best Little Whorehouse in Texas
   bio: >
     
-  image: gavin-mayer.jpg
+  image_year: 2015
+  image_file: gavin-mayer.jpg
 
 
 - first_name: Tom
@@ -287,12 +339,14 @@
   location: "Tallahasse, FL"
   groups:
     - creative
+    - staff
   positions:
     - Post Playhouse Artistic Director
     - "Director --- Grease, All Shook Up, A Man of No Importance"
   bio: >
     Tom is the Producing Artistic Director for the Post Playhouse at Fort Robinson State Park in Nebraska and is an Associate Professor for the BFA Music Theatre Program at Florida State University. Most recently at the Post Playhouse, Tom has directed *The Drowsy Chaperone,* *Grease*, *Broadway Gold: a Cabaret*, *Pump Boys &amp; Dinnettes*, *The Wizard of Oz*, *Nunsense*, *Always…Patsy Cline*, *Hello, Dolly!*, *Oklahoma!*, *South Pacific*, and *Guys and Dolls*, and at Florida State, he has directed *The Drowsy Chaperone*, *How To Succeed in Business Without Really Trying*, *On The Town*, *Hair*, *The Rocky Horror Show* and *Sweeney Todd* and music directed *Spring Awakening*, *Jesus Christ Superstar*, *Spelling Bee*, *RENT*, *Into The Woods*, *The Man of LaMancha*, and *Urinetown*. Tom has also directed for theatres such as the Centennial Theatre Festival in Connecticut, Seaside Music Theatre in Daytona Beach, FL, The Lost Colony in Manteo, North Carolina, and the Bigfork Musical Theatre in Montana. His work has also taken him to Zug, Switzerland and to St. Croix in the U.S. Virgin Islands. Tom is also the former Head of the Music Theatre Department at Illinois Wesleyan University, where he taught acting, directing, and musical theatre courses. Some additional directing/music directing credits include *Chicago*, *42nd Street*, *A New Brain*, and *A Man of No Importance*. Other professional credits include *You're A Good Man, Charlie Brown!*, *Lucky Stiff*, *The Fantasticks!*, *Crazy for You*, *Grease*, *Little Shop of Horrors*, and *Fiddler on the Roof*. He is also a member of The Society of Stage Directors and Choreographers.
-  image: /images/people/staff/tom-ossowski.jpg
+  image_year: 2015
+  image_file: tom-ossowski.jpg
 
 
 - first_name: Scott
@@ -306,4 +360,307 @@
     - Props Master
   bio: >
     This is Scott's 19th year at the Post Playhouse. Scott graduated with a MFA from Illinois State College and a BFA from Stephens College in Columbia MO. After graduation Scott worked and designed for theaters in Los Angles, Chicago, Albany GA, Boise ID before landing in Chadron. Scott is currently employed at Chadron State College in Chadron NE. His responsibilities include Designer (Scenic and Lighting), Technical Director and Production Manager for theatre, college, community, Galaxy (touring), and Fine Arts events. Recent designs credits (Set and Light) include:  *The Underpants, Little Shop of Horrors, Bus Stop, Almost Maine, Godspell, Cat on a Hot Tin Roof* and *Junglebook*. He has also recently returned to Directing. Directing credits include:*The Vampire Cowboy Trilogy* and *The Play About the Baby, Beautiful Child, The Shape of Things* and *Boy Gets Girl*. [www.scottcavin.com](http://www.scottcavin.com)
-  image: /images/people/staff/scott-cavin.jpg
+  image_year: 2015
+  image_file: scott-cavin.jpg
+
+#
+#
+#
+#
+#        STAFF
+#
+#
+#
+#
+
+- first_name: Connie
+  last_name: Frandson
+  groups: >
+    - staff
+  positions:
+    - Winter Box Office
+  bio: >
+    Conferencing --- Chadron State University
+  image_year: 2015
+  image_file: connie-frandson.jpg
+
+
+- first_name: Shellie
+  last_name: Johns
+  groups: >
+    - staff
+  positions:
+    - Winter Box Office
+  bio: >
+    Conferencing --- Chadron State University
+  image_year: 2015
+  image_file: shellie-johns.jpg
+
+
+- first_name: Darlene
+  last_name: Serres
+  groups: >
+    - staff
+  positions:
+    - Season Stitcher
+  bio: >
+    Darlene was born and raised around the Crawford and Harrison area on a farm/ranch with her parents, sister and brother. She currently works as a cook at the Crawford Senior Center and several other odd jobs. Darlene also owns her own quilting business, "The Butterfly Patch" and enjoys sewing and will join the Post Playhouse this summer as stitcher for all of the musicals. She has two sons, Cody and Clayton. Darlene was seen previously at Post helping out with *A Year With Frog & Toad* and *Oklahoma*. She is looking forward to helping the Post Playhouse out again this summer. It should be a lot of fun!
+  image_year: 2015
+  image_file: darlene-serres.jpg
+
+
+
+- first_name: Scott
+  last_name: Cavin
+  groups: >
+    - staff
+  positions:
+    - Technical Director
+  bio: >
+    This is Scott’s 19th year at the Post Playhouse. Scott graduated with a MFA from Illinois State College and a BFA from Stephens College in Columbia MO. After graduation Scott worked and designed for theaters in Los Angles, Chicago, Albany GA, Boise ID before landing in Chadron. Scott is currently employed at Chadron State College in Chadron NE. His responsibilities include Designer (Scenic and Lighting), Technical Director and Production Manager for theatre, college, community, Galaxy (touring), and Fine Arts events. Recent designs credits (Set and Light) include:  *The Underpants, Little Shop of Horrors, Bus Stop, Almost Maine, Godspell, Cat on a Hot Tin Roof* and *Junglebook*. He has also recently returned to Directing. Directing credits include:*The Vampire Cowboy Trilogy* and *The Play About the Baby, Beautiful Child, The Shape of Things* and *Boy Gets Girl*. [www.scottcavin.com](http://www.scottcavin.com)
+  image_year: 2015
+  image_file: scott-cavin.jpg
+
+
+- first_name: Don
+  last_name: Denton
+  groups: >
+    - staff
+  positions:
+    - "Assistant Marketing Manager"
+  bio: >
+    Don Denton has been performing with Post Playhouse off and on since 2008. Since that time, he has been slowly working with Tom to rethink all their marketing materials and marketing efforts. For the past few years, all the mailings and the website have been designed by Don. He is very proud to continue to help the Playhouse reach for new heights both on stage and off.
+  image_year: 2015
+  image_file: don-denton.jpg
+
+
+- first_name: Tim
+  last_name: Gaswick
+  groups: >
+    - staff
+  positions:
+    - Accountant
+  bio: >
+    
+  image_year: 2015
+  image_file: tim-gaswick.jpg
+
+#
+#
+#
+#
+#        BOARD
+#
+#
+#
+#
+
+- first_name: Wally
+  last_name: Seiler
+  location: "Alliance, NE"
+  groups: >
+    - board
+  positions:
+    - President of the Board
+  bio: >
+  image_year: 2015
+  image_file: wally-seiler.jpg
+
+
+- first_name: Deb
+  last_name: Kennedy
+  location: "Crawford, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    Fort Robinson State Park 
+  image_year: 2015
+  image_file: deb-kennedy.jpg
+
+
+- first_name: Tim
+  last_name: Gaswick
+  location: "Chadron, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    H & R Block 
+  image_year: 2015
+  image_file: tim-gaswick.jpg
+
+
+- first_name: Jo
+  last_name: Buchheit
+  location: "Hemingford, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+  image_year: 2015
+  image_file: jo-buchheit.jpg
+
+
+- first_name: Amy
+  last_name: Hindman
+  location: "Hay Springs, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+  image_year: 2015
+  image_file: amy-hindman.jpg
+
+
+- first_name: Randy
+  last_name: Rhine
+  location: "Chadron, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    Chadron State College 
+  image_year: 2015
+  image_file: randy-rhine.jpg
+
+
+- first_name: Lacy
+  last_name: Willey
+  location: "Harrison, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    Security First Bank 
+  image_year: 2015
+  image_file: lacy-willey.jpg
+
+
+- first_name: Kathie
+  last_name: King
+  location: "Gordon, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+  image_year: 2015
+  image_file: kathie-king.jpg
+
+
+- first_name: Bernadine
+  last_name: Maginnis
+  location: "Crawford, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+  image_year: 2015
+  image_file: bernadine-maginnis.jpg
+
+
+- first_name: Joni
+  last_name: Merrigan
+  location: "Alliance, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+  image_year: 2015
+  image_file: joni-merrigan.jpg
+
+
+- first_name: Mike
+  last_name: Morava
+  location: "Crawford, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    Director Fort Robinson State Park 
+  image_year: 2015
+  image_file: mike-morova.jpg
+
+
+- first_name: Gordon
+  last_name: Hoff
+  location: "Alliance, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    Alliance Floral Company <br>
+    Hoffhaus Gardens 
+  image_year: 2015
+  image_file: gordon-hoff.jpg
+
+
+- first_name: Bev
+  last_name: Hanks
+  location: "Hemingford, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+  image_year: 2015
+  image_file: bev-hanks.jpg
+
+
+- first_name: Lyle
+  last_name: Fodnes
+  location: "Hemingford, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    Hemingford Ledger 
+  image_year: 2015
+  image_file: lyle-fodnes.jpg
+
+
+- first_name: Karleen
+  last_name: Gramberg
+  location: "Chadron, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+  image_year: 2015
+  image_file: karleen-gramberg.jpg
+
+
+- first_name: Diane
+  last_name: Clark
+  location: "Crawford, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    Crawford Clipper 
+  image_year: 2015
+  image_file: diane-clark.jpg
+
+
+- first_name: Marge
+  last_name: Rotherham
+  location: "Crawford, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    Post Playhouse Alum 
+  image_year: 2015
+  image_file: marge-rotherham.jpg
+
+
+- first_name: Ellen
+  last_name: Feldges
+  location: "Alliance, Nebraska"
+  groups: >
+    - board
+  positions:
+  bio: >
+    New York Life Insurance Company 
+  image_year: 2015
+  image_file: ellen-feldges.jpg
+

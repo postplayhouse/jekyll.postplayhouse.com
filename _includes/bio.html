@@ -1,9 +1,9 @@
 <div class="person">
   
-  {% if person.image contains "/" %}
-    {% capture headshot %}{{ person.image | prepend: site.baseurl }}{% endcapture %}
-  {% elsif person.image != nil %}
-    {% capture headshot %}{{ site.baseurl }}{{ path_to_images }}{{person.image}}{% endcapture %}
+  {% if person.image_path != nil %}
+    {% capture headshot %}{{ person.image_path | prepend: site.baseurl }}{% endcapture %}
+  {% elsif person.image_year != nil and person.image_file != nil %}
+    {% capture headshot %}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.image_file}}{% endcapture %}
   {% else %}
     {% assign headshot = nil %}
   {% endif %}
