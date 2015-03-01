@@ -37,6 +37,7 @@
 #   groups:
 #     - cast
 #     - crew
+#     - staff
 #   positions:
 #     - The Best Little Whorehouse in Texas --- Aggie / Ensemble
 #     - Grease --- Doody
@@ -44,7 +45,9 @@
 #     - Box Office Staff
 #     - Technician
 #   bio: >
-#   image:
+#     
+#   image_year: 2015
+#   image_file: derek-phelps.jpg
 
 
 - first_name: Amanda Wansa
