@@ -55,6 +55,25 @@
   image_year: 2015
   image_file:
 
+- first_name: Elvis
+  last_name: Presley
+  location: ""
+  groups:
+    - additional
+  positions:
+    - Music/Lyrics --- All Shook Up 
+  bio: |
+    Elvis Aaron Presley, in the humblest of circumstances, was born to Vernon and Gladys Presley in a two-room house in Tupelo, Mississippi on January 8, 1935. His twin brother, Jessie Garon, was stillborn, leaving Elvis to grow up as an only child. He and his parents moved to Memphis, Tennessee in 1948, and Elvis graduated from Humes High School there in 1953. 
+    
+    Elvis’ musical influences were the pop and country music of the time, the gospel music he heard in church and at the all-night gospel sings he frequently attended, and the black R&B he absorbed on historic Beale Street as a Memphis teenager. In 1954, he began his singing career with the legendary Sun Records label in Memphis. In late 1955, his recording contract was sold to RCA Victor. By 1956, he was an international sensation. With a sound and style that uniquely combined his diverse musical influences and blurred and challenged the social and racial barriers of the time, he ushered in a whole new era of American music and popular culture. 
+    
+    He starred in 33 successful films, made history with his television appearances and specials, and knew great acclaim through his many, often record-breaking, live concert performances on tour and in Las Vegas. Globally, he has sold over one billion records, more than any other artist. His American sales have earned him gold, platinum or multi-platinum awards for 150 different albums and singles, far more than any other artist. Among his many awards and accolades were 14 Grammy nominations (3 wins) from the National Academy of Recording Arts & Sciences, the Grammy Lifetime Achievement Award, which he received at age 36, and his being named One of the Ten Outstanding Young Men of the Nation for 1970 by the United States Jaycees. Without any of the special privileges his celebrity status might have afforded him, he honorably served his country in the U.S. Army. 
+    
+    His talent, good looks, sensuality, charisma, and good humor endeared him to millions, as did the humility and human kindness he demonstrated throughout his life. Known the world over by his first name, he is regarded as one of the most important figures of twentieth century popular culture. Elvis died at his Memphis home, Graceland, on August 16, 1977.
+  image_year: 2015
+  image_file:
+
+
 # - first_name: Derek
 #   last_name: Phelps
 #   location: "Chicago, IL"
