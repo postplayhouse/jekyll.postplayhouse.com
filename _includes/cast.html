@@ -21,6 +21,10 @@
     {% assign has_musicians = true %}
   {% endif %}
 
+  {% if person.groups contains "additional" %}
+    {% assign has_additional = true %}
+  {% endif %}
+
 {% endfor %}
 
 {% if site.casting_complete != true %}
@@ -72,6 +76,18 @@
 
     {% for person in people %}
       {% if person.groups contains "musicians" %}
+        {% include bio.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
+
+{% if has_additional %}
+  <div class="bio-group additional">
+    <h2 class="bio-group-label">Additional</h2>
+
+    {% for person in people %}
+      {% if person.groups contains "additional" %}
         {% include bio.html %}
       {% endif %}
     {% endfor %}
