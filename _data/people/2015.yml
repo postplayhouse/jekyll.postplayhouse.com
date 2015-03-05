@@ -31,6 +31,17 @@
 #
 #
 
+- first_name: Mike
+  last_name: Lucchetti
+  location: "Poconos, PA"
+  groups:
+    - musicians
+  positions:
+    - Percussion
+  bio: >
+    Mike Lucchetti also known as Mike Seahawk lives in the Poconos Pennsylvania and has been playing drums professionally for over 15 years. Recent credits include a national tour of *Sweet Charity* in 2014. In 2013 he played drums and percussion for *Spring Awakening* at Hunter College in New York City. Other credits include *Miss Saigon*, *Singing In The Rain*, *Chicago*, *Bonnie and Clyde*, *Annie*, *Call Me Madam*, *Bye Bye Birdie*, *Showtune*, *RENT*, *tick Tick BOOM*, and *Shrek The Musical* just to name a few. He has also toured the country with acts such as Katy Perry, Paramore and Yellowcard on the *Vans Warped Tour*. "I am very excited to spend my summer with Post Playhouse. Drumming is my #1 passion and I'm happy to get to share it with all of you. Thanks to my family, friends, and Pork Pie Percussion for all the support. Hope you enjoy the show." If you'd like to see more of Mike drumming go to [youtube.com/drumseahawk6](http://youtube.com/drumseahawk6).
+  image_year: 2015
+  image_file: mike-lucchetti.jpg
 # - first_name: Derek
 #   last_name: Phelps
 #   location: "Chicago, IL"
