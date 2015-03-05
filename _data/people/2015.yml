@@ -74,24 +74,23 @@
   image_file:
 
 
-# - first_name: Derek
-#   last_name: Phelps
-#   location: "Chicago, IL"
-#   groups:
-#     - cast
-#     - crew
-#     - staff
-#   positions:
-#     - The Best Little Whorehouse in Texas --- Aggie / Ensemble
-#     - Grease --- Doody
-#     - A Man of No Importance --- Carson / Sully
-#     - Box Office Staff
-#     - Technician
-#   bio: >
-#     
-#   image_year: 2015
-#   image_file: derek-phelps.jpg
-
+- first_name: Derek
+  last_name: Phelps
+  location: "Sidney, NE"
+  groups:
+    - cast
+    - crew
+    - staff
+  positions:
+    - The Best Little Whorehouse in Texas --- Aggie / Ensemble
+    - Grease --- Doody
+    - A Man of No Importance --- Carson / Sully
+    - Box Office Staff
+    - Technician
+  bio: >
+    Derek is currently enrolled at Chadron State College working for a BSE in 7-12 theatre education and a BFA in theatre performance and directing. Some of his roles at Chadron include: Huck Finn in *Big River*, Richard Hannay in *The 39 Steps*, Boy in *The Play about the Baby*, and Seymour in *Little Shop of Horrors*. Derek is thrilled to have the opportunity to be working for the Post Playhouse this summer!
+  image_year: 2015
+  image_file: derek-phelps.jpg
 
 - first_name: Amanda Wansa
   last_name: Morgan
