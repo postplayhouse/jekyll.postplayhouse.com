@@ -15,10 +15,22 @@
     display: block
     margin: auto
     margin-bottom: $spacing-unit / 3
+    +breakpoint($medium)
+      float: right
+      margin: 0 24px 12px
+
+  h1, h2, h3, h4
+    clear: none
+    +breakpoint($medium)
+      margin-top: 0
+
   h2
     font-size: 2em
     line-height: 1em
     text-align: center
+    +breakpoint($medium)
+      text-align: left
+
   .positions
     margin: ($spacing-unit / 2) auto
 
