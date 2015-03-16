@@ -31,6 +31,25 @@
 #
 #
 
+- first_name: Kayli
+  last_name: Jamison
+  location: "New York City, NY"
+  groups:
+    - cast
+    - staff
+    - crew
+  positions:
+    - The Best Little Whorehouse in Texas --- Shy
+    - Grease --- Patty
+    - All Shook Up --- Ensemble
+    - Follow Spot Operator
+    - Box Office Staff
+  bio: >
+    Kayli is excited to be making her Post Playhouse debut! Kayli is originally from Overland Park Kansas. She graduated from Nebraska Wesleyan in 2014 and now lives in New York City. Some of her favorite college roles include Audrey in *Little Shop of Horrors*, Peggy Sawyer in *42nd Street*, Marta in *Spring Awakening*, Cassit in *A Chorus Line*, Elle Woods in *Legally Blonde* and Titania in *A Midsummer Nights Dream*. Kayli would like to thank her Mom, Dad, Jillian, Josh and Jessie for their endless love and support.
+  image_year: 2015
+  image_file: kayli-jamison.jpg
+
+
 - first_name: Mike
   last_name: Lucchetti
   location: "Poconos, PA"
