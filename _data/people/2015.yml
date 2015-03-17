@@ -31,6 +31,22 @@
 #
 #
 
+- first_name: Jessica
+  last_name: Schepers
+  location: "Sturgis, SD"
+  groups:
+    - crew
+    - staff
+  positions:
+    - Box Office Staff
+    - Follow Spot Operator
+    - Technical Staff
+  bio: >
+    Jessica Schepers just completed her sophomore year of college at Chadron State College. She grew up in Sturgis South Dakota where she graduated from Sturgis Brown High School. This is Jessica's first year working at the Post and she is estatic about the opportunity and adventures to come. 
+  image_year: 2015
+  image_file:
+
+
 - first_name: Kayli
   last_name: Jamison
   location: "New York City, NY"
@@ -309,6 +325,7 @@
   positions:
     - Box Office Staff
     - Follow Spot Operator
+    - Technical Staff
   bio: >
     
   image: 
