@@ -19,6 +19,17 @@ layout: default
     <div class="donations">
       <a href="{{ site.baseurl }}/donate/"><img src="{{ site.baseurl }}/images/perennials/donations.jpg" alt="Your donations make all the difference!"></a>
     </div>
+
+    {% for post in site.posts limit:2 %}
+      <div class="recent">
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+        <p>{{ post.excerpt | strip_html}}</p>
+        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+      </div>
+    {% endfor %}
+  
   </div>
 
   <div class="featured-pictures">
