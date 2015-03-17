@@ -31,6 +31,23 @@
 #
 #
 
+- first_name: Ryan Neal
+  last_name: Green
+  location: "New York City, NY"
+  groups:
+    - cast
+  positions:
+    - "The Best Little Whorehouse in Texas --- CJ Scruggs, Govn, Chip, Aggie"
+    - Grease --- Johnny/Angel
+    - Cinderella --- Ensemble
+    - All Shook Up --- Jim
+    - A Man of No Importance --- Alfie
+  bio: >
+    Ryan is excited to spend his first summer at the Playhouse! Favorite credits include: *Mame* (with Andrea McArdle), *Chicago* (Fred Casely), *Grease* (Sonny), *The Boy Friend* (Tony), *The Who's Tommy* (Lover), and a stint as a jazz singer at Tokyo Disney Resort. Love to mom, dad, and Judi. BFA MT Shenandoah Conservatory. [www.ryannealgreen.com](http://www.ryannealgreen.com)
+  image_year: 2015
+  image_file: ryan-green.jpg
+
+
 - first_name: Tim
   last_name: Beeckman Davis
   location: "Los Angeles, CA"
