@@ -31,6 +31,23 @@
 #
 #
 
+- first_name: Jennifer
+  last_name: Maurer
+  location: "Carmel, IN via New York, NY"
+  groups:
+    - cast
+  positions:
+    - The Best Little Whorehouse in Texas --- Ruby Rae/Dogette
+    - Grease --- Sandy
+    - Cinderella --- Ensemble
+    - All Shook Up --- Lorraine
+    - A Man of No Importance --- Adele
+  bio: >
+    Jennifer is ecstatic to make her debut at Post Playhouse and work with her former professor, Tom!  Jennifer graduated from Florida State University last May with a B.F.A. in Music Theatre.  She spent last summer at Maine State Music Theatre where she performed the lead in *The Little Mermaid*, was a featured soloist in *Godspell: In Concert*, and performed in *Chamberlain*, *7 Brides for 7 Brothers*, and *Footloose*.  Other favorite credits include Rosemary (*How To Succeed...*), Liesl (*The Sound of Music*), and Laker Girl (*Spamalot*). Many thanks to family and friends for always traveling far to see her perform, God for His unwavering support, and Tom for this wonderful opportunity to play some dream roles! [www.jennifermaurer.com](http://www.jennifermaurer.com)
+  image_year: 2015
+  image_file: jennifer-maurer.jpg
+
+
 - first_name: Joseph
   last_name: Hitchcock
   location: "Georgia, via New York City, NY"
