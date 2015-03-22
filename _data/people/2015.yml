@@ -31,6 +31,23 @@
 #
 #
 
+- first_name: Joseph
+  last_name: Hitchcock
+  location: "Georgia, via New York City, NY"
+  groups:
+    - cast
+  positions:
+    - "The Best Little Whorehouse in Texas --- Edsel, Townsperson, Aggie"
+    - Grease --- Kenickie
+    - Cinderella --- Prince
+    - All Shook Up --- Ensemble
+    - A Man of No Importance --- Breton Beret
+  bio: >
+    Joseph Hitchcock is thrilled to be making his Post Playhouse debut! Joseph recently received his master's degree in musical theatre from New York University. Favorite NYU credits are Asterberg in *The Student Prince* and the man in *Starting Here, Starting Now*. Favorite non-NYU credits include Tony in *West Side Story*, Freddie in *Dirty Rotten Scoundrels*, and Emmett in *Legally Blonde*. Joseph works and teaches voice in NYC. Thanks to family, friends, and teachers for their love and support. Thanks to God.
+  image_year: 2015
+  image_file: joseph-hitchcock.jpg
+
+
 - first_name: Jarrad Biron
   last_name: Green
   location: "New York City, NY via Amherst, MA"
