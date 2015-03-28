@@ -31,6 +31,22 @@
 #
 #
 
+- first_name: Kimberly
+  last_name: Wilpon
+  location: ""
+  groups:
+    - cast
+  positions:
+    - The Best Little Whorehouse in Texas --- Ensemble
+    - Grease --- ChaCha
+    - Cinderella --- Stepmother
+    - All Shook Up --- Ensemble
+    - A Man of No Importance --- Miss Grace
+  bio: >
+    
+  image_year: 2015
+  image_file:
+
 - first_name: Lori
   last_name: Berg
   location: 
