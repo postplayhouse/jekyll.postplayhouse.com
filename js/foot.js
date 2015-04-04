@@ -14,8 +14,10 @@ $(document).ready(function(){
 
   $('.video').fitVids();
   
-  {% include_relative _js/sticky-titles.js %}
-  
+  if ($('.bios-page').length > 0) {
+    {% include_relative _js/sticky-titles.js %}
+    {% include_relative _js/bio-breakdown.js %}    
+  }
   if ($('.calendar').length > 0) {
     {% include_relative _js/calendar.js %}
   }

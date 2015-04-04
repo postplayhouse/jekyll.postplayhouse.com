@@ -26,3 +26,25 @@
 
 .center
   text-align: center
+
+.switcher
+  border: 1px solid $article-link
+  border-radius: 3px
+  display: inline-block
+  text-align: center
+  margin-bottom: $spacing-unit
+
+  a
+    display: inline-block
+    padding: 3px 10px
+    cursor: pointer
+    +breakpoint($large)
+      border-right: 1px solid $article-link
+  a:hover
+    color: $article-link
+    background-color: $subtle-bg
+  a:last-child
+    border-right: none
+  a.active
+    background-color: $article-link
+    color: $main-bg
