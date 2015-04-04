@@ -1,0 +1,24 @@
+---
+title: Who's Who in 2015
+group: main
+layout: page
+order: 5
+bio: "2015"
+---
+{% comment %}
+
+  If needs be, each group can reference a different year in transitional times
+
+{% endcomment %}
+
+<div class="bios-page">
+{% assign people = site.data.people.[page.bio] | sort: "last_name" %}
+{% include cast.html %}
+
+{% assign people = site.data.people.[page.bio] | sort: "last_name" %}
+{% include staff.html %}
+
+{% assign people = site.data.people.[page.bio] %}
+{% include board.html %}  
+</div>
+
