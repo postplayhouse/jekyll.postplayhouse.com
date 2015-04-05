@@ -1,5 +1,6 @@
 ---
 title: Ticket Information
+permalink: /ticket-info/
 layout: page
 ---
 __New for 2015:__ Tax, ticketing, credit card and bank fees are now included in the price of the ticket. No more added fees!

@@ -1,5 +1,6 @@
 ---
 title: Contact Post Playhouse
+permalink: /contact/
 nav_title: Contact
 group: main
 layout: page

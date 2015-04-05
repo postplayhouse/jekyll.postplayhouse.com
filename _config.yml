@@ -14,7 +14,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ['smart']
 
-permalink: pretty
+permalink: /news/:year/:month/:day/:title/
 
 exclude:
   - .bowerrc

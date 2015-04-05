@@ -1,5 +1,6 @@
 ---
 title: Industry Professionals
+permalink: /industry-professionals/
 layout: page
 nav_title: Work at Post
 group: main

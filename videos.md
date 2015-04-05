@@ -1,5 +1,6 @@
 ---
 title: Videos
+permalink: /videos/
 layout: page
 group: main
 order: 7

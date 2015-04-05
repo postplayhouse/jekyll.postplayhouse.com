@@ -1,5 +1,6 @@
 ---
 title: Gifts
+permalink: /gifts/
 layout: page
 group: main
 order: 4

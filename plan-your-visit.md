@@ -1,5 +1,6 @@
 ---
 title: Plan Your Visit
+permalink: /plan-your-visit/
 group: main
 layout: page
 order: 8
