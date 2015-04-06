@@ -4,7 +4,7 @@ title:  "The big winners!"
 date:   2015-03-17 9:00:00
 ---
 
-Congratulations are in order for the winners of our annual raffle! Thanks to all those who bought tickets and came out to support the playhouse and have a great time doing it!
+Congratulations are in order for the winners of our annual raffle! Thanks to all those who bought tickets and came out to support the playhouse---and had a great time doing it!
 
 ### $10,000 – Karen Johnson ticket sold by Ellen Feldges
 ### $1,000 – Dori Julius ticket sold by Diane Clark
