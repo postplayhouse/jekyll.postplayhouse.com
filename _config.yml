@@ -4,6 +4,8 @@ casting_complete: true
 # Site settings
 title: Post Playhouse
 email: don@happycollision.com
+twitter: postplayhouse
+facebook: post.playhouse
 description: >
   Post Playhouse is Northwestern Nebraska's premiere venue for live theatre.  Located on Historic Fort Robinson State Park, Post Playhouse produces several musicals running in a repertory schedule every summer by utilizing the talent of creative professionals from across the country and nearby.
 baseurl: ""
@@ -24,3 +26,11 @@ exclude:
 timezone:       US/Mountain
 locale:         en_us
 icon:           /images/post-playhouse-logo.png
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      share: true
