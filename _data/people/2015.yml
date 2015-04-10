@@ -447,14 +447,16 @@
 
 - first_name: David
   last_name: Salter
-  location: 
+  location: "New York City, NY"
   groups:
     - musicians
   positions:
     - Bass
+    - Guitars
   bio: >
-    
-  image: 
+    David Salter is a multi instrumentalist based in New York. While primarily a guitarist he also doubles on electric bass, mandolin and tenor banjo. David began working in professional theatre at The Mac Haydn Theatre (Chatham, NY) and spent the last year playing guitar for productions at The Palace Theatre (Manchester, NH). Originally a jazz and pop player, he was drawn to playing in pits by the extreme stylistic versatility it requires and the exhilaration of live theatre, and he is not looking back anytime soon. 
+  image_year: 2015
+  image_file: david-salter.jpg 
 
 - first_name: Nick
   last_name: Place
