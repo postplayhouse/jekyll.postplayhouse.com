@@ -31,6 +31,19 @@
 #
 #
 
+- first_name: Ann
+  last_name: Stephens
+  location: "Crawford, NE"
+  groups:
+    - staff
+  positions:
+    - Concessions
+  bio: >
+    Crawford native, Ann Stephens, returns for her second year as a volunteer with the Post Playhouse.  She can be found working as a popcorn popper extraordinaire in the Playhouse concessions stand before and during performances, as well as occasionally serving as an usher for Playhouse guests.  Retired from school administration, Ann enjoys baking, jewelry-making and spending time with grandchildren.  Her husband, Dale, transplanted here from Oregon and Idaho, enjoys grandchildren, golf, golf and more golf... ... ...and in his spare time he likes to golf. 
+  image_year: 2015
+  image_file: ann-stephens.jpg
+
+
 - first_name: Kimberly
   last_name: Wilpon
   location: "New York, NY via Freehold, NJ"
