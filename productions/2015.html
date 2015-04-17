@@ -1,13 +1,15 @@
 ---
 title: Summer 2015 Productions
 permalink: /productions/2015/
+season: "2015"
 layout: page
 nav_title: Our Shows
 group: main
 order: 2
 ---
 
-{% for production in site.data.productions.[site.season] %}
+{% assign productions = site.data.productions.[page.season] | sort: "opening" %}
+{% for production in productions %}
 
   {% if production.image contains "/" %}
     {% capture production_image %}{{ production.image | prepend: site.baseurl }}{% endcapture %}
