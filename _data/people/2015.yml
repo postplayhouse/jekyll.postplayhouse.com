@@ -30,6 +30,29 @@
 #
 #
 #
+- first_name: Keslyn
+  last_name: Vogel
+  location: "Crawford, NE"
+  groups:
+    - cast
+  positions:
+    - Cinderella --- Ensemble
+  bio: >
+    My name is Keslyn Vogel. I am 7 years old and will be entering in the 2nd grade at Crawford Elementary.  I love unicorns and sparkles. My favorite color is magic!! Last year I got to perform alongside my sister at The Post Playhouse in *The Sound of Music*. I was cast as Marta von Trapp. I like to collect rocks and dance. I am thankful for this opportunity and for my mommy and daddy.  Also, a very special thank you goes out to Tom and Mr. Gus!
+  image_year: 2015
+  image_file: keslyn-vogel.jpg
+
+- first_name: Kylah
+  last_name: Vogel
+  location: "Crawford, NE"
+  groups:
+    - cast
+  positions:
+    - Cinderella --- Ensemble
+  bio: >
+    My name is Kylah Jo Vogel. I am super thrilled to return to Post this summer alongside my sister Keslyn and my "adopted sister" Samantha. I am 10 years old and will be entering the 5th grade. I live here in beautiful Crawford. I am a previous little Miss Chadron title holder and last summer I played Brigitta in *The Sound of Music*, at the Post.  I love to play basketball, rollerblade, read history books, play piano, and sing.  I would like to thank my awesome parents whom are the best parents in the whole wide world! Also, thank you to Tom and Gus for allowing me this amazing opportunity. 
+  image_year: 2015
+  image_file: kylah-vogel.jpg
 
 - first_name: Ann
   last_name: Stephens
@@ -42,7 +65,6 @@
     Crawford native, Ann Stephens, returns for her second year as a volunteer with the Post Playhouse.  She can be found working as a popcorn popper extraordinaire in the Playhouse concessions stand before and during performances, as well as occasionally serving as an usher for Playhouse guests.  Retired from school administration, Ann enjoys baking, jewelry-making and spending time with grandchildren.  Her husband, Dale, transplanted here from Oregon and Idaho, enjoys grandchildren, golf, golf and more golf... ... ...and in his spare time he likes to golf. 
   image_year: 2015
   image_file: ann-stephens.jpg
-
 
 - first_name: Kimberly
   last_name: Wilpon
