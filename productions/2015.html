@@ -42,8 +42,10 @@ order: 2
     {{ production.description | markdownify }}
     
     {% if production.sponsor %}
-    
-      <img class="sponsor-image" src="{{ site.baseurl }}/images/sponsors/{{ production.sponsor.image }}">
+      <div class="sponsor">
+        <p>Sponsored By</p>
+        <img class="sponsor-image" src="{{ site.baseurl }}/images/sponsors/{{ production.sponsor.image }}">
+      </div>
 
     {% endif %}
   </div>
