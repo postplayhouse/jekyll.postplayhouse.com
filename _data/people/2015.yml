@@ -30,6 +30,30 @@
 #
 #
 #
+- first_name: Claire
+  last_name: Margetts
+  location: "Chadron, NE"
+  groups:
+    - cast
+  positions:
+    - Cinderella --- Ensemble
+  bio: >
+    Claire Margetts caught the acting bug several years ago when she was cast as young Cosette in Chadron High School’s production of *Les Miserables*. Last summer, she was excited to join the cast of *The Sound of Music* at the Post Playhouse, and loved getting to know her fellow actors and the whole production team. Claire really enjoys singing, and has appreciated the opportunity to perform the National Anthem at a number of local events. She keeps busy during the school year through activities like cross country, basketball, student government, and the scholastic team. She also plays the piano and the French horn, and is looking forward to entering high school this fall.
+  image_year: 2015
+  image_file: claire-margetts.jpg
+
+- first_name: Jameson
+  last_name: Margetts
+  location: "Chadron, NE"
+  groups:
+    - cast
+  positions:
+    - Cinderella --- Ensemble
+  bio: >
+    Jameson Margetts is from Chadron, Nebraska. He just completed the sixth grade at Chadron Middle School, where he was a member of the Student Council and the Quiz Bowl team. He made his acting debut last summer at the Post Playhouse, performing the role of Kurt in *The Sound of Music*. In addition to singing, Jameson also enjoys playing the saxophone in the CMS Band and takes piano lessons. In his spare time, he enjoys playing games and loves to go camping. He is very excited to return to the Post Playhouse this summer.
+  image_year: 2015
+  image_file: jameson-margetts.jpg
+
 - first_name: Keslyn
   last_name: Vogel
   location: "Crawford, NE"
