@@ -20,7 +20,23 @@ div.full
   font-size: 2em
   margin-bottom: $spacing-unit * 3
 
+a.a-wrap
+  &, &:link, &:hover, &:visited
+    color: $text-color
+    text-decoration: none
+
+  .post-link
+    color: $article-link
+  
+  &:hover
+    background-color: darken($subtle-bg,10)
+
+  .post-link:hover
+    text-decoration: underline
+
+
 %front-boxes
+  display: block
   background-color: $subtle-bg
   padding: 16px
   margin-bottom: gutter(6)
@@ -29,18 +45,27 @@ div.full
     margin-top: 0
   
 
-.new-tickets
+.mail, .stay-connected
   @extend %front-boxes
-  min-height: 159px
 
   +breakpoint($large)
-    +span(4 of 6)
+    height: 155px
+    +span(2 of 6)
+    float: left
+    clear: left
 
 .donations
   margin-bottom: gutter(6)
 
   +breakpoint($large)
-    +span(2 of 6 at 5)
+    +span(4 of 6 at 3)
+    float: right
+
+.new-tickets
+  @extend %front-boxes
+
+  +breakpoint($large)
+    +span(6 of 6)
 
 
 .recent
@@ -58,3 +83,43 @@ div.full
 
 .read-more
   font-size: 0.65em
+
+.stay-connected
+  a:hover
+    background-color: darken($subtle-bg,10)
+  img
+    max-width: 25%
+    margin-left: 12%
+    margin-right: 12%
+
+#mailer .modal
+  background: white
+  position: relative
+  max-width: 800px
+  max-height: 90%
+  overflow: auto
+  margin: 5% auto
+
+  .close
+    content: "close"
+    position: absolute
+    top: 12px
+    right: 12px
+    display: block
+    z-index: 1000
+
+    & ~ .close
+      top: auto
+      bottom: 12px
+
+#mailer
+  display: none
+  position: fixed
+  top: 0
+  left: 0
+  right: 0
+  bottom: 0
+  background-color: rgba(0,0,0,0.8)
+
+.mailer-open #mailer
+  display: block
