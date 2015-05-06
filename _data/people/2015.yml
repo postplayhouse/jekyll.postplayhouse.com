@@ -30,6 +30,20 @@
 #
 #
 #
+- first_name: Adam
+  last_name: Spencer
+  location: "Grand Island, NE via Ruston, LA"
+  groups:
+    - creative
+  positions:
+    - Charge Artist
+    - Properties Artist
+    - General Technician
+  bio: >
+    Adam is happy to rejoin the company at the Post Playhouse this season as the Charge Artist, Properties Artist and General Technician.  The last time that Adam was involved with the Post Playhouse it was after finishing his bachelors degree at Chadron Stage College in 2006.  Since that season Adam has been around the country training and working in Olney, Maryland; Lexington, Kentucky; Normal, Illinois; Birmingham, Alabama; and finally Ruston, Louisiana.  Adam received his MFA in design from Illinois State University and currently teaches at Louisiana Tech University.  His responsibilities include Technical Director, Designer (Scenic and Lighting), and Production Manager for the Department of Theatre.
+  image_year: 2015
+  image_file: adam-spencer.jpg
+
 - first_name: Claire
   last_name: Margetts
   location: "Chadron, NE"
