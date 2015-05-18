@@ -30,6 +30,18 @@
 #
 #
 #
+- first_name: Brandon
+  last_name: Rosenfeld
+  location: ""
+  groups:
+    - crew
+  positions:
+    - Technical Assistant
+  bio: >
+    Brandon Rosenfeld is very excited to be joining The Post Playhouse for the productions this season. Brandon is currently working towards his BFA in Stage Management at the University of Arizona. Previous credits include Oklahoma and Full Monty at Arizona Repertory Theatre and An Artists Proof with Artifact Dance Company. Brandon would like to thank Don Fox for this amazing summer opportunity and his parents for their support. 
+  image_year: 2015
+  image_file: brandon-rosenfeld.jpg
+
 - first_name: Adam
   last_name: Spencer
   location: "Grand Island, NE via Ruston, LA"
