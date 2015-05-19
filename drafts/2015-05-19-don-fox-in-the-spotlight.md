@@ -9,7 +9,7 @@ excerpt: "Returning from last year, Don Fox lights up our lives. And this year, 
   <div class="caption">Don Fox, lighting and set designer 2015</div>
 </div>
 
-<div class="preface">Don Fox is returning to the Post Playhouse for his second season in a row. Last year, Don created some amazing and moving lighting designs for our entire summer season. This year, he is taking on an even bigger set of responsibilities by designing *both* our lights and sets for the whole season. He has got a ton of work ahead of him, but still was able to take the time to answer some questions.</div>
+<div class="preface">Don Fox is returning to the Post Playhouse for his second season in a row. Last year, Don created some amazing and moving lighting designs for our entire summer season. This year, he is taking on an even bigger set of responsibilities by designing <em>both</em> our lights and sets for the whole season. He has got a ton of work ahead of him, but still was able to take the time to answer some questions.</div>
 
 ---
 
