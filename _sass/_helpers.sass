@@ -48,3 +48,34 @@
   a.active
     background-color: $article-link
     color: $main-bg
+
+.captioned-image
+  background-color: $subtle-bg
+  padding: 8px
+  margin: 20px
+
+  img
+    margin-bottom: 8px
+    width: 100%
+  .caption
+    text-align: center
+    +breakpoint($large)
+      font-size: 0.75em
+
+  +breakpoint($large)
+    &.six
+      width: 50%
+    &.four
+      width: 33%
+    &.three
+      width: 25%
+
+
+.right
+  float: right
+  margin-right: 0
+
+.left
+  float: left
+  margin-left: 0
+
