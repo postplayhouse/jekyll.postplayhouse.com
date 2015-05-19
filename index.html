@@ -46,6 +46,9 @@ layout: default
         <h3 class="post-link">
           {{ post.title }}
         </h3>
+        {% if post.image %}
+          <img class="preview" src="{{ post.image | prepend: site.baseurl }}">
+        {% endif %}
         <p>{{ post.excerpt | strip_html}}</p>
       </a>
     {% endfor %}
