@@ -14,6 +14,9 @@ $(document).ready(function(){
   if ($('.calendar').length > 0) {
     {% include_relative _js/calendar.js %}
   }
+  $('a[href="http://postplayhousetickets.com"]').on('click', function(){
+    ga('send', 'event', 'link', 'click', 'ticket-site');
+  });
 });
 
 //Google Analytics
