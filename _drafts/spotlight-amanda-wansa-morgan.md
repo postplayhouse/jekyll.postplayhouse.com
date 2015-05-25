@@ -1,3 +1,14 @@
+---
+layout: spotlight-series
+title:  "In The Spotlight: Amanda Wansa Morgan"
+excerpt: "A veteran music director, Amanda brings her new musical sensibilities to three of our shows this season."
+# image: /images/2015/don-fox-wiring.jpg
+---
+
+<div class="preface">Amanda is enjoying her first summer at Post Playhouse, getting to create amazing art "against a beautiful backdrop" as she puts it. A college professor during the year, she joins the ranks of folks like Scott Cavin, Tom Ossowski, and Don Fox to influence the world of theatre on the professional circuit as well as the academic scene.</div>
+
+---
+
 ### How long have you been working professionally in theatre?
 
 I've been working professionally since 2001, so 14 years! My first 5 years working professionally was primarily as an actor.  I made my way into music directing during graduate school.

@@ -1,3 +1,14 @@
+---
+layout: spotlight-series
+title:  "In The Spotlight: Britte Steele"
+excerpt: "Back for another year, Britte brings her usual, quirky attitude and powerful vocals to the sassiest roles we've got this summer."
+# image: /images/2015/don-fox-wiring.jpg
+---
+
+<div class="preface">Britte delighted audiences last year with her quirky portreyal of Roz in the hilarious <em>Nine to Five</em>. This year she plays tough girl Rizzo in Grease and sassy character Sylvia in <em>All Shook Up</em> among others.</div>
+
+---
+
 ### How Long Have You Been Working Professionally in Theatre?
 My first "professional" paying job was the summer after my sophomore year in college at the Adirondack Repertory Theatre— I graduated and began working more frequently as a professional in 2010! 
 

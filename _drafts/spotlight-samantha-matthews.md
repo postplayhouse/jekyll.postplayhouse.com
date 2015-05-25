@@ -1,3 +1,14 @@
+---
+layout: spotlight-series
+title:  "In The Spotlight: Samantha Matthews"
+excerpt: "Returning for a second year, Samantha is becoming our regular Rogers and Hammerstein go to. This year, she becomes a princess before our eyes."
+# image: /images/2015/don-fox-wiring.jpg
+---
+
+<div class="preface">Many of our patrons will recognize Samantha from last year's <em>The Sound of Music</em>. This year, she leads the cast of <em>Cinderella</em> into a magical tale of love and dreaming big dreams. </div>
+
+---
+
 ### How long have you been working professionally in theatre?
 
 I've been working professionally in theater since 2012, but was bit by the performance bug at the age of 8.
@@ -5,6 +16,7 @@ I've been working professionally in theater since 2012, but was bit by the perfo
 ### What is your favorite experience in theatre?
 
 That's a hard question. I have to say one of my favorite experiences was playing Maria in "The Sound of Music" at Post last summer. "The Sound of Music" has long since been my favorite show and getting to play Maria while surrounded by so many talented and vivacious children was certainly a dream come true. 
+
 Another favorite experience takes me back to sixth grade when a thunder storm interrupted our performance and made all the lights cut out. I had leaned against a set wall and immediately jumped away convinced I'd hit a light switch. I'd been so "in character" I'd completely forgotten I was onstage. It wasn't until later that I realized what had happened. It was the first time I "lost myself" onstage. I've been chasing that thrill ever since. 
 
 ### What keeps bringing you back to Post Playhouse?
