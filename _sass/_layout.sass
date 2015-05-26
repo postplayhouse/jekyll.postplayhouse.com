@@ -13,6 +13,9 @@ html
 h2
   margin-top: $spacing-unit * 2
 
+h2:first-child
+  margin-top: 0
+
 body
   padding: 0
 
@@ -200,3 +203,16 @@ img
 
   & > :last-child
     margin-bottom: 0
+
++breakpoint($large)
+  .featured-pictures
+    +pie-clearfix
+
+    .picture
+      +span(3 of 6)
+
+      &:nth-of-type(even)
+        +span(3 of 6 at 4)
+
+      &:nth-of-type(odd)
+        clear: both

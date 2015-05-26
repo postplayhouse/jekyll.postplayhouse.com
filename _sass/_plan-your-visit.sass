@@ -1,0 +1,101 @@
+.fort-rob-activities
+  +pie-clearfix
+  background-color: $subtle-bg
+  margin: -12px
+  padding: 12px
+
+.business
+  margin: 12px auto
+  background-color: $subtle-bg
+  padding: 12px
+  position: relative
+  
+  .name
+    font-size: 2em
+    display: block
+    line-height: 1
+  .site
+    font-size: 0.8em
+    line-height: 1
+
+  a.name-site
+    &:link, &:visited, &
+      text-decoration: none
+      .name
+        color: $text-color
+      .site
+        text-decoration: underline
+      &:hover .name
+        color: $article-link-hover
+
+  .business-nameplate
+    margin: 0.5em auto
+
+  .phone
+    margin: 0.5em auto
+
+  .address
+    .street
+      display: block
+    .city
+    .state
+    .zip
+    
+    .city:after
+      content: ","
+
+  .type
+    background-color: $subtle-bg-alt
+    margin: 12px -12px
+    padding: 6px 12px
+
+
+  .type li
+    display: inline
+    list-style: none
+    margin: none
+
+    &:after
+      content: "\2022"
+      margin-left: 0.3em
+      margin-right: 0.3em
+    &:last-child:after
+      content: ""
+
+  .about
+    margin-top: 1em
+
+  +breakpoint($medium)
+    padding-left: 20%
+
+    .type
+      width: 18%
+      position: absolute
+      top: 0
+      left: 0
+      bottom: 0
+      margin: 0
+      padding-top: 20px
+
+      li
+        display: block
+        margin-bottom: 0.7em
+        line-height: 1.2
+        &:after
+          content: ""
+
+.supporter:before
+  content: "Playhouse\aSupporter"
+  white-space: pre
+  +rotate(15deg)
+  float: right
+  position: relative
+  right: -1em
+  top: -0.5em
+  color: white
+  background-color: $garrish-green
+  +border-radius(8px)
+  padding: 6px
+  text-align: center
+  line-height: 1
+  font-weight: lighter

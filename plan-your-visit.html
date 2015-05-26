@@ -1,0 +1,90 @@
+---
+title: Plan Your Visit
+permalink: /plan-your-visit/
+group: main
+layout: page
+order: 8
+---
+
+<div class="fort-rob-activities">
+  <h2>Fort Robinson</h2>
+  <p>Post Playhouse is located on <a href="http://www.ngpc.state.ne.us/parks/guides/parksearch/showpark.asp?Area_No=77">Fort Robinson State Park in Nebraska</a>. The area is brimming with fun activities for all ages. Use the two documents below to help plan your visit and decide what you are going to do during the time you aren't at the theatre.</p>
+
+  <p>
+    <a href="{{ site.baseurl }}/documents/Fort-Rob-Accomodations.pdf">Fort Rob Accommodations</a> (PDF)    
+  </p>
+  <p>
+    <a href="{{ site.baseurl }}/documents/Fort-Rob-Activities.pdf">Fort Rob Activities</a> (PDF)    
+  </p>
+
+  <div class="featured-pictures">
+    <div class="picture">
+      <img src="{{ site.baseurl }}/images/area/long-ride.jpg" alt="Line of people on horseback heading up to the buttes.">
+      <div class="caption">A group takes the long ride to the top of the buttes.</div>
+    </div>
+
+    <div class="picture">
+      <img src="{{ site.baseurl }}/images/area/rainbow.jpg" alt="Early evening rainbow encircles the fort.">
+      <div class="caption">An early evening rainbow encircles the fort.</div>
+    </div>    
+  </div>
+</div>
+
+<h2>Local Activities, Attractions, and Food</h2>
+
+<p>Any businesses marked &ldquo;Playhouse Supporter&rdquo; have donated $500 or more in cash or in-kind donations to Post Playhouse within the last year.</p>
+
+<p>
+  If you&rsquo;d like to see your business listed here, please contact us at <a href="mailto:webmaster@postplayhouse.com">webmaster@postplayhouse.com</a>. If you'd like to donate to the playhouse, visit our <a href="{{ site.baseurl }}/donate/">donations page</a>.
+</p>
+
+<div class="business-cards">
+  {% for item in site.data.businesses %}
+    {% capture typeCss %}{% for type in item.type %} type-{{type | slugify}}{% endfor%}{% endcapture %}
+    
+    <div class="business{% if item.supporter %} supporter{% endif %}{{typeCss}}">
+
+      <div class="business-nameplate">
+        {% if item.site %}
+          <a class="name-site" href="{{ item.site }}">
+            <span class="name">{{ item.name }}</span>      
+            <span class="site">{{ item.site }}</span>
+          </a>
+        {% else %} 
+          <span class="name">{{ item.name }}</span> 
+        {% endif %}
+      </div>
+
+      <ul class="type">
+        {% for type in item.type %}<li>{{type}}</li>{% endfor %}
+      </ul>
+
+      {% if item.phone %}
+        <div class="phone">{{ item.phone }}</div>
+      {% endif %}
+            
+      {% if item.address %}
+        <div class="address">
+          {% if item.address.street %}
+            <span class="street">{{item.address.street}}</span>
+          {% endif %}
+          {% if item.address.city %}
+            <span class="city">{{item.address.city}}</span>
+          {% endif %}
+          {% if item.address.state %}
+            <span class="state">{{item.address.state}}</span>
+          {% endif %}
+          {% if item.address.zip %}
+            <span class="zip">{{item.address.zip}}</span>
+          {% endif %}
+        </div>
+      {% endif %}
+      
+      {% if item.about %}
+        <div class="about">{{ item.about | markdownify }}</div>
+      {% endif %}
+
+    </div>
+
+  {% endfor %}
+</div>

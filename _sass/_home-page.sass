@@ -1,19 +1,8 @@
 .home  
   & > div
     margin-bottom: $spacing-unit
-
-  +breakpoint($large)
-    .featured-pictures
-      margin-top: $spacing-unit * 3 
-      
-      .picture
-        +span(3 of 6)
-
-        &:nth-of-type(even)
-          +span(3 of 6 at 4)
-
-        &:nth-of-type(odd)
-          clear: both
+  .featured-pictures
+    margin-top: $spacing-unit * 3 
 
 div.full
   text-align: center
