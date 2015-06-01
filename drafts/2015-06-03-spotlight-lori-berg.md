@@ -5,7 +5,7 @@ excerpt: "Enjoying her first experience working at Post Playhouse, Lori tells us
 # image: /images/2015/lori-berg.jpg
 ---
 
-<div class="preface">Lori Berg is the director for our first production of the summer, <em>The Best Little Whorehouse in Texas</em>. She is thoroughly enjoying her first Post Playhouse experience and tells us a little bit about it and about herself as well.</div>
+<div class="preface">Lori Berg is the co-director for our first production of the summer, <em>The Best Little Whorehouse in Texas</em>. She is thoroughly enjoying her first Post Playhouse experience and tells us a little bit about it and about herself as well.</div>
 
 ---
 
