@@ -1,11 +1,11 @@
 ---
 layout: spotlight-series
 title:  "In The Spotlight: Lori Berg"
-excerpt: "Enjoying her first experience working at Post Playhouse, Lori tells us a little bit about creativity, story-telling, and what it means to be a director."
-# image: /images/2015/lori-berg.jpg
+excerpt: "Enjoying her first experience at Post, Lori tells us a bit about creativity, story-telling, and what it means to be a director."
+image: /images/2015/lori-giving-notes.jpg
 ---
 
-<div class="preface">Lori Berg is the co-director for our first production of the summer, <em>The Best Little Whorehouse in Texas</em>. She is thoroughly enjoying her first Post Playhouse experience and tells us a little bit about it and about herself as well.</div>
+<div class="preface">Lori Berg is the co-director for our first production of the summer, <em>The Best Little Whorehouse in Texas</em>. In honor of the opening of the show tomorrow, she is our featured company member for the Spotlight Series today. She is thoroughly enjoying her first Post Playhouse experience and tells us a little bit about it and about herself as well.</div>
 
 ---
 
@@ -16,7 +16,7 @@ excerpt: "Enjoying her first experience working at Post Playhouse, Lori tells us
 
 ### You are directing our first production this summer (more on that later). How would you describe your position as director to someone?
 
-Basically, the director sets the tone---or vision---for the piece. Things are addressed like: will the play be realistic or figurative? What will the time period be? Will there be a realistic set? In general the director creates the entire backdrop in which the story is told. after the initial vision is decided upon, the director meets with the other members of the creative team. Everyone is then "on the same page" and we find our actors. Once we all --- the whole team, actors and designers --- start rehearsing the story, I feel the director's job is to be teacher/encourager.
+Basically, the director sets the tone --- or vision --- for the piece. Things are addressed like: will the play be realistic or figurative? What will the time period be? Will there be a realistic set? In general the director creates the entire backdrop in which the story is told. after the initial vision is decided upon, the director meets with the other members of the creative team. Everyone is then "on the same page" and we find our actors. Once we all --- the whole team, actors and designers --- start rehearsing the story, I feel the director's job is to be teacher/encourager.
 
 ### How long have you been professionally working in theatre?
 
@@ -38,6 +38,11 @@ Over the years since graduate performance studies, I have returned to a theatre 
 ### Have you ever been to this part of the country?
 
 When I was in high school or early college, a favorite aunt, Dot Fletcher, lived in Scotts Bluff. Also, while I was in high school, my family took a vacation to neighboring parts of Wyoming and the Dakotas.
+
+<div class="captioned-image right">
+  <img src="{{ site.baseurl }}/images/2015/lori-giving-notes.jpg" alt="Lori Berg">
+  <div class="caption">Lori gives notes to the cast after a rehearsal for <em>The Best Little Whorehouse in Texas</em>.</div>
+</div>
 
 ### Aside from directing, what other jobs do you do in theatre?
 
