@@ -14,6 +14,10 @@ excerpt: "Enjoying her first experience working at Post Playhouse, Lori tells us
   <div class="caption">Lori Berg, co-director of our first production this summer.</div>
 </div>
 
+### You are directing our first production this summer (more on that later). How would you describe your position as director to someone?
+
+Basically, the director sets the tone---or vision---for the piece. Things are addressed like: will the play be realistic or figurative? What will the time period be? Will there be a realistic set? In general the director creates the entire backdrop in which the story is told. after the initial vision is decided upon, the director meets with the other members of the creative team. Everyone is then "on the same page" and we find our actors. Once we all --- the whole team, actors and designers --- start rehearsing the story, I feel the director's job is to be teacher/encourager.
+
 ### How long have you been professionally working in theatre?
 
 My mother's favorite story of me, probably as a three-year-old or so, was that at my first show, I squatted to tie my shoes on stage rather than complete the dance. So --- I guess I've been "doing my own thing" since I was a very, very young performer. Oh, by the way, I have learned to follow directions and stay focused a little better since then.
@@ -28,37 +32,18 @@ A dear friend, Jorie Janeway, who is appearing for her fourth season here at Pos
 
 ### Have you worked in as remote an area as this before?
 
-Over the years since graduate performance studies, I have returned to a theatre in rural Central Illinois to direct entire seasons and individual shows. The town in which the theatre is located is a burg of only 1000. Folks come from miles around due to its reputation. That experience reminds me so much of directing here at Post. However... And this is big... The professional calibre of technical and creative team, as well as the actors here at Post, is a marked difference from the experience to which I referred.
+Over the years since graduate performance studies, I have returned to a theatre in rural Central Illinois to direct entire seasons and individual shows. The town in which the theatre is located is a burg of only 1000. Folks come from miles around due to its reputation. That experience reminds me so much of directing here at Post. However... And this is big... The professional calibre of technical and creative team, as well as the actors here at Post, is a marked difference from the experience to which I referred. I've [also] "told the story" throughout the US, Central America, Asia, and most recently in Brazil.
+
 
 ### Have you ever been to this part of the country?
 
 When I was in high school or early college, a favorite aunt, Dot Fletcher, lived in Scotts Bluff. Also, while I was in high school, my family took a vacation to neighboring parts of Wyoming and the Dakotas.
-
-### Where else have you traveled to work in theatre?
-
-I've "told the story" throughout the US, Central America, Asia, and most recently in Brazil.
 
 ### Aside from directing, what other jobs do you do in theatre?
 
 Most theatre folk are well-rounded in several aspects of live production. Back in Los Angeles, I currently teach very young actors dance, singing, and musical theatre so that they experience "live theatre." Living in a city that makes the movies, children grow up assuming that it does the same thing as theatre. It is vastly different. In fact, kids need to learn that they cannot "turn off" live theatre in the same way they can turn off a video game or computer.
 
 Also, being part of a resident theatre company means I wear multiple hats. I quite often assist in prop design.
-
-### What are you passionate about?
-
-I am a passionate "storyteller". Whether directing, teaching, acting, or singing--- it's all about the story. The musical uses both the script and the songs to further the story. While directing my actors during *The Best Little Whorehouse in Texas* I challenged them to think about every word they sing or speak.
-
-My undergraduate degree is communication and after graduation I worked as a broadcaster. Currently, I'm also a seminary student as well. Yep... Telling the story is what it's all about.
-
-### What other hobbies or interests do you have outside of theatre specifically?
-
-I currently teach young students as I said, but I thoroughly enjoyed teaching commercial acting at the community college level. Los Angeles is a huge pool of actors who specialize in acting for the camera.
-
-I serve as executive director of an area nonprofit. I enjoy the visual arts, too, and fancy myself as somewhat of a designer of sorts. Oh, and thrift-shopping of course! I consider myself an expert in this subject... I can scout out a bargain!
-
-### You are directing our first production this summer. How would you describe your position as director to someone?
-
-Basically, the director sets the tone---or vision---for the piece. Things are addressed like: will the play be realistic or figurative? What will the time period be? Will there be a realistic set? In general the director creates the entire backdrop in which the story is told. after the initial vision is decided upon, the director meets with the other members of the creative team. Everyone is then "on the same page" and we find our actors. Once we all --- the whole team, actors and designers --- start rehearsing the story, I feel the director's job is to be teacher/encourager.
 
 ### There are many ways to be involved in theatre. What drew you to directing and teaching young students?
 
@@ -74,3 +59,15 @@ Team
 Supportive  
 
 I have experienced a lot of collaborations. Few have measured up to the teamwork that is the Post Playhouse. All the communities and the many, many audience members who will share the stories of this summer---well, y'all are in for a treat!
+
+### Our first show of the summer has an interesting setting. You currently work with two organizations that help women make the transition from prostitution to working "straight jobs" as they are called in our show. Can you talk a little bit about how working with the women you've met has helped shape our show?
+
+A little history... While working in Asia, I literally stumbled upon the brothel area of Bangkok, where I witnessed some pretty scary stuff. It made an impact on me. When I returned to LA, I discovered a faith-based nonprofit that assists women who are trying to break away from the sex industry. Many times these women are shunned and feel very isolated in their journey.
+
+I act as a mentor to many women over the years and help them begin to trust. It is slow work. Often, a woman re-enters the industry many times before she begins to feel normalized to life again. Our motto is that each woman we work with is loved, treasured, valued and purposed.
+
+In our show... our lovely Miss Mona personifies what these women are searching for. Mona provides a safe place where they feel a part of a community. Yes, we tell a story --- one not often mirrored in real life. Mona's place is sweet and has the feeling of fun and family. Our theatre patrons will sense the relationships that exist between the women. While we are not advocating brothels, we are demonstrating what these women long for --- connection, real connection. There won't be a dry eye in the house during their last group number which shows they've grown to love one another.
+
+The two organizations I work with:  
+[iamatreasure.com](http://iamatreasure.com)  
+[cherishedhighdesert.com](cherishedhighdesert.com)
