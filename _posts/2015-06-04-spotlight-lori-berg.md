@@ -1,7 +1,7 @@
 ---
 layout: spotlight-series
 title:  "In The Spotlight: Lori Berg"
-excerpt: "Enjoying her first experience at Post, Lori tells us a bit about creativity, story-telling, and what it means to be a director."
+excerpt: "Enjoying her first season at Post, Lori tells us a bit about creativity, story-telling, and what it means to be a director."
 image: /images/2015/lori-giving-notes.jpg
 ---
 
