@@ -75,4 +75,4 @@ In our show... our lovely Miss Mona personifies what these women are searching f
 
 The two organizations I work with:  
 [iamatreasure.com](http://iamatreasure.com)  
-[cherishedhighdesert.com](cherishedhighdesert.com)
+[cherishedhighdesert.com](http://cherishedhighdesert.com)
