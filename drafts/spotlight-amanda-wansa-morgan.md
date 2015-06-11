@@ -18,13 +18,13 @@ image: /images/2015/amanda-at-piano.jpg
 
 I've been working professionally since 2001, so 14 years! My first 5 years working professionally was primarily as an actor. I made my way into music directing during graduate school.
  
-### What is your favorite experience in theatre?
+### What was your favorite experience in theatre?
 
 I did a production of *Ragtime* as an actor that had a profound effect on me. That show brings so many people together and tells so many epic stories. When we worked on that show, we were keenly aware of the amazing relevance and impact of the show on our audience, so everyone was incredibly invested. The material, and therefore, the process, was almost sacred. Those who create that show really create a bond. I've had similar experiences like that with shows like *Evita*, *Cabaret*, and *Time Stands Still*.
  
-### What keeps bringing you back to Post Playhouse?
+### What brought you out to Post Playhouse?
 
-This is my first year at Post Playhouse. I was looking for a summer contract that is true summer stock --- a bunch of artists living and working together --- committing all of their time to making art for a block of time against a beautiful backdrop. And I found it!
+I was looking for a summer contract that is true summer stock --- a bunch of artists living and working together --- committing all of their time to making art for a block of time against a beautiful backdrop. And I found it!
  
 ### Was it a big culture shock coming out to Post?
  
@@ -64,15 +64,15 @@ The Music Director is involved in the production process from start to finish an
 
 Sometimes a music director accompanies rehearsals and performances by "piano/conducting" --- this means playing the piano and cuing actors and musicians when to sing or play with his/her head or a free hand. That *is* something we do here at Post Playhouse.
  
-### Is that the job you typically do?
+### When you are involved in a show, do you typically music direct?
 
 Yes! I music direct both professionally and at the University I teach at --- so, the aforementioned duties often change based on where I am. Sometimes, those duties are taken care of by someone else on the team.
  
-### What drew you to that particular position in theatre?
+### What drew you to music directing?
 
 After years of acting as well as playing piano and working in choirs and ensembles whilst studying music in college, I found that could communicate with actors from a dramatic perspective as well as musical. I became fascinated with how the voice worked and became a voice teacher first. Once my musicianship skills developed, I found that I felt completely fulfilled in having come in and molded the sound of a show to a professional standard and fell in love with that process.
  
-### What are the challenges (and/or benefits) of doing your job at Post Playhouse?
+### What are the challenges and benefits of music directing at Post Playhouse?
  
 A huge *challenge* will be to prepare and mount 5 shows in such a short time. I think my fingers and back will be tired, but my heart and mind happy!
 
