@@ -10,7 +10,7 @@ image: /images/2015/amanda-at-piano.jpg
 ---
 
 <div class="captioned-image right">
- <img src="{{ site.baseurl }}/images/people/2015/amanda-morgan.jpg" alt="Lori Berg">
+ <img src="{{ site.baseurl }}/images/people/2015/amanda-morgan.jpg" alt="Amanda Wansa-Morgan">
  <div class="caption">Amanda Wansa Morgan, Music Director for three of our five shows this summer.</div>
 </div>
 
@@ -54,7 +54,7 @@ I've worked in Florida, Charleston, Mississippi, Memphis TN, The Berkshires (Mas
 Outside of theatre, I love cooking, learning new instruments, and traveling. My husband and I love road trips! I also love animals and children --- specifically *my* animals and *my* nieces and nephews! I also have a strange affinity for organizing things.
  
 <div class="captioned-image six right">
- <img src="{{ site.baseurl }}/images/2015/amanda-at-piano.jpg" alt="Lori Berg">
+ <img src="{{ site.baseurl }}/images/2015/amanda-at-piano.jpg" alt="Amanda at the piano">
  <div class="caption">Amanda brings in the vocalists during rehearsal for <em>Grease</em>.</div>
 </div>
 
