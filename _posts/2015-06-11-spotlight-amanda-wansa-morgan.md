@@ -55,7 +55,7 @@ Outside of theatre, I love cooking, learning new instruments, and traveling. My 
  
 <div class="captioned-image six right">
  <img src="{{ site.baseurl }}/images/2015/amanda-at-piano.jpg" alt="Amanda at the piano">
- <div class="caption">Amanda brings in the vocalists during rehearsal for <em>Grease</em>.</div>
+ <div class="caption">Amanda brings in the band during rehearsal for <em>Grease</em>.</div>
 </div>
 
 ### What does someone in your position do?
