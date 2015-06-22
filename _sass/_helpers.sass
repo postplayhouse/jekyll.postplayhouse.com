@@ -62,16 +62,17 @@
     +breakpoint($large)
       font-size: 0.75em
 
-  +breakpoint($large)
-    &.six
-      width: 50%
-    &.four
-      width: 33%
-    &.three
-      width: 25%
++breakpoint($large)
+  .six
+    width: 50%
+  .four
+    width: 32%
+  .three
+    width: 25%
 
 .outlined
-  @extend .captioned-image
+  background-color: $subtle-bg
+  padding: 8px
   
 .right
   float: right
