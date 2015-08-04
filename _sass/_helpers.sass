@@ -82,3 +82,10 @@
   float: left
   margin-left: 0
 
+.captioned-image.six
+  &.left, &.right
+    +breakpoint(0 ($large - 1))
+      float: none
+      margin-left: auto
+      margin-right: auto
+
