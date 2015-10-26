@@ -782,17 +782,6 @@
   image_file: kathie-king.jpg
 
 
-- first_name: Berdine
-  last_name: Maginnis
-  location: "Crawford, NE"
-  groups: >
-    - board
-  positions:
-  bio: >
-  image_year: 2015
-  image_file: berdine-maginnis.jpg
-
-
 - first_name: Joni
   last_name: Merrigan
   location: "Alliance, NE"
