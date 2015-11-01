@@ -73,7 +73,7 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
   <table id="subscription-prices" class="tickets" border="0" width="100%" cellspacing="0" cellpadding="0">
     <tbody>
       <tr>
-        <th colspan="3" scope="col"><em>NEW!!!</em> 5 Show Subscriptions
+        <th colspan="3" scope="col">5 Show Subscriptions
           <div class="info">See 5 shows for less than the price of 4!</div>
         </th>
       </tr>
