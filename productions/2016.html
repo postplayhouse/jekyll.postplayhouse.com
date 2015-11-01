@@ -1,9 +1,16 @@
 ---
-title: Summer 2015 Productions
-permalink: /productions/2015/
-season: "2015"
+title: Summer 2016 Productions
+permalink: /productions/2016/
+season: "2016"
 layout: page
+nav_title: Our Shows
+group: main
+order: 2
 ---
+
+<p>We will be putting up the usual artwork and show descriptions soon. <a href="{% post_url 2015-10-31-the-2016-season-and-game-and-parks %}">Here's why they aren't ready now</a>.</p>
+
+{% comment %}
 
 {% assign productions = site.data.productions.[page.season] | sort: "opening" %}
 {% for production in productions %}
@@ -49,3 +56,5 @@ layout: page
 </article>
 
 {% endfor %}
+
+{% endcomment %}
