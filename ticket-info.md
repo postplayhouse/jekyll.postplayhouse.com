@@ -16,7 +16,7 @@ Call our box office at 308-665-1976
 <table id="ticket-prices" class="tickets" border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
-      <th colspan="1" scope="col"></th>
+      <td colspan="1" scope="col"></td>
       <th colspan="2" scope="col">June</th>
       <th colspan="2" scope="col">July &amp; August</th>
     </tr>
