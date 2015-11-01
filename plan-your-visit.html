@@ -49,8 +49,12 @@ image: /images/area/long-ride.jpg
       <div class="business-nameplate">
         {% if item.site %}
           <a class="name-site" href="{{ item.site }}">
-            <span class="name">{{ item.name }}</span>      
-            <span class="site">{{ item.site }}</span>
+            <span class="name">{{ item.name }}</span>
+            {% if item.prettyURL %}
+              <span class="site" style="max-width: 100%">{{ item.prettyURL }}</span>
+            {% else %}     
+              <span class="site" style="max-width: 100%">{{ item.site }}</span>
+            {% endif %}
           </a>
         {% else %} 
           <span class="name">{{ item.name }}</span> 
