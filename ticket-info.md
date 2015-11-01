@@ -114,16 +114,16 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
   Subscribers: After purchasing your subscription, you can reserve your seats to any 4 or 5 performances by emailing us at <a href="mailto:tickets@postplayhouse.com">tickets@postplayhouse.com</a> or calling our box office 308-665-1976. Seats are based on availability, so please make your reservations as soon as you can.
 </div>
 
-### Season Subscriptions 2015
+### Season Subscriptions 2016
 
 Please choose from the following shows to fill out your season subscription:
 
 1. Bald Mountain Rounders
-2. The Best Little Whorehouse in Texas
-3. Grease
-4. Cinderella
-5. All Shook Up
-6. A Man of No Importance
+1. Disney’s Beauty And The Beast
+1. The Addams Family
+1. Cabaret
+1. Legally Blonde
+1. Monthy Python’s Spamalot
 
 
 Please remember that seats can only be reserved based on availability, so call the box office to secure your seats.
