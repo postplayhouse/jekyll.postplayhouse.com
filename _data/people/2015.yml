@@ -713,6 +713,18 @@
   image_file: wally-seiler.jpg
 
 
+- first_name: Deb
+  last_name: Kennedy
+  location: "Crawford, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    Fort Robinson State Park 
+  image_year: 2015
+  image_file: deb-kennedy.jpg
+
+
 - first_name: Tim
   last_name: Gaswick
   location: "Chadron, NE"
@@ -802,6 +814,18 @@
   bio: >
   image_year: 2015
   image_file: joni-merrigan.jpg
+
+
+- first_name: Mike
+  last_name: Morava
+  location: "Crawford, NE"
+  groups: >
+    - board
+  positions:
+  bio: >
+    Director Fort Robinson State Park 
+  image_year: 2015
+  image_file: mike-morova.jpg
 
 
 - first_name: Gordon
