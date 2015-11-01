@@ -5,7 +5,7 @@ layout: page
 ---
 __New for 2016:__ We released a [statement about changes]({% post_url 2015-10-31-the-2016-season-and-game-and-parks %}) for this year.
 
-Ticket sales for our every summer season begin November 1st of the previous calendar year. [Buy yours now](http://postplayhousetickets.com)!
+Ticket sales for every summer season begin November 1st of the previous calendar year. [Buy yours now](http://postplayhousetickets.com)!
 
 Or email us at [tickets@postplayhouse.com](mailto:tickets@postplayhouse.com)  
 Call our box office at 308-665-1976
