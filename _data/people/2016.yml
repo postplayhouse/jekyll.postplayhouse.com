@@ -92,48 +92,48 @@
   image_file: paige-salter.jpg
 
 
-- first_name: Nathan
-  last_name: Sonnenschein
-  location: "Crawford, NE"
-  groups:
-    - crew
-    - staff
-  positions:
-    - Box Office Staff
-    - Technical Staff
-  bio: >
-    Nathan Sonnenschein is currently working toward his associate degree at Central Wyoming College. He spent his high school years in Crawford, Nebraska, and was a 2014 homeschool graduate. Nathan is excited to join the Post Playhouse for its 2015 season!
-  image_year: 2015
-  image_file: nathan-sonnenschein.jpg
+# - first_name: Nathan
+#   last_name: Sonnenschein
+#   location: "Crawford, NE"
+#   groups:
+#     - crew
+#     - staff
+#   positions:
+#     - Box Office Staff
+#     - Technical Staff
+#   bio: >
+#     Nathan Sonnenschein is currently working toward his associate degree at Central Wyoming College. He spent his high school years in Crawford, Nebraska, and was a 2014 homeschool graduate. Nathan is excited to join the Post Playhouse for its 2015 season!
+#   image_year: 2015
+#   image_file: nathan-sonnenschein.jpg
 
 
-- first_name: Jessica
-  last_name: Schepers
-  location: "Sturgis, SD"
-  groups:
-    - crew
-    - staff
-  positions:
-    - Box Office Staff
-    - Follow Spot Operator
-    - Technical Staff
-  bio: >
-    Jessica Schepers just completed her sophomore year of college at Chadron State College. She grew up in Sturgis South Dakota where she graduated from Sturgis Brown High School. This is Jessica's first year working at the Post and she is estatic about the opportunity and adventures to come. 
-  image_year: 2015
-  image_file: jessica-schepers.jpg
+# - first_name: Jessica
+#   last_name: Schepers
+#   location: "Sturgis, SD"
+#   groups:
+#     - crew
+#     - staff
+#   positions:
+#     - Box Office Staff
+#     - Follow Spot Operator
+#     - Technical Staff
+#   bio: >
+#     Jessica Schepers just completed her sophomore year of college at Chadron State College. She grew up in Sturgis South Dakota where she graduated from Sturgis Brown High School. This is Jessica's first year working at the Post and she is estatic about the opportunity and adventures to come. 
+#   image_year: 2015
+#   image_file: jessica-schepers.jpg
 
 
-- first_name: Ken
-  last_name: Phillips
-  location: "Los Angeles, CA"
-  groups:
-    - crew
-  positions:
-    - Season Production Stage Manager
-  bio: >
-    Ken is extremely happy to be coming back to a place that feels like a second home. Since his last summer at the Post Playhouse, Ken, an alumni of University of Arizona has been a Freelance Stage Manager in LA. *From Bronies: The Musical* by Oddwing Productions, *The Horroribly Hellarious Spooktacular Halloween Special* for Lost Moon Radio, multiple shows at the American Musical and Dramatic Academy Performing Arts College, and finally the *Live Laser Light Show for Big Hero Six* at Disney’s historic El Capitan Theatre, he enjoyed stage managing all of them in sunny Hollywood, California.  Before his debut at the Post he directed a variety of shows through educational programs at Live Theatre Workshop, Powerhouse Theater, The Hangar Theatre, and The Eugene O’Neill Center.  On top of his many other interest and works in the theatre world, he continues to train in theatrical and cinematic style Martial Arts and Sword Fighting Choreography.  A huge thank you to Tom Ossowski and the family of the Post Playhouse for inviting him back home to be a part of such a wonderful and fantastic theatre. [www.KGPhillips.com](http://www.KGPhillips.com)
-  image_year: 2015
-  image_file: ken-phillips.jpg
+# - first_name: Ken
+#   last_name: Phillips
+#   location: "Los Angeles, CA"
+#   groups:
+#     - crew
+#   positions:
+#     - Season Production Stage Manager
+#   bio: >
+#     Ken is extremely happy to be coming back to a place that feels like a second home. Since his last summer at the Post Playhouse, Ken, an alumni of University of Arizona has been a Freelance Stage Manager in LA. *From Bronies: The Musical* by Oddwing Productions, *The Horroribly Hellarious Spooktacular Halloween Special* for Lost Moon Radio, multiple shows at the American Musical and Dramatic Academy Performing Arts College, and finally the *Live Laser Light Show for Big Hero Six* at Disney’s historic El Capitan Theatre, he enjoyed stage managing all of them in sunny Hollywood, California.  Before his debut at the Post he directed a variety of shows through educational programs at Live Theatre Workshop, Powerhouse Theater, The Hangar Theatre, and The Eugene O’Neill Center.  On top of his many other interest and works in the theatre world, he continues to train in theatrical and cinematic style Martial Arts and Sword Fighting Choreography.  A huge thank you to Tom Ossowski and the family of the Post Playhouse for inviting him back home to be a part of such a wonderful and fantastic theatre. [www.KGPhillips.com](http://www.KGPhillips.com)
+#   image_year: 2015
+#   image_file: ken-phillips.jpg
 
 
 - first_name: Tom
