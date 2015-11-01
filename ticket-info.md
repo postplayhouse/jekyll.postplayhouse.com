@@ -3,7 +3,7 @@ title: Ticket Information
 permalink: /ticket-info/
 layout: page
 ---
-__New for 2015:__ Tax, ticketing, credit card and bank fees are now included in the price of the ticket. No more added fees!
+__New for 2016:__ We released a [statement about changes]({% post_url 2015-10-31-the-2016-season-and-game-and-parks %}) for this year.
 
 Ticket sales for our every summer season begin November 1st of the previous calendar year. [Buy yours now](http://postplayhousetickets.com)!
 
@@ -29,31 +29,31 @@ Call our box office at 308-665-1976
     </tr>
     <tr class="dotted_under">
       <td>Adult</td>
-      <td class="centered">$18</td>
-      <td class="centered">$20</td>
+      <td class="centered">$21</td>
       <td class="centered">$23</td>
-      <td class="centered">$25</td>
+      <td class="centered">$26</td>
+      <td class="centered">$28</td>
     </tr>
     <tr class="dotted_under">
       <td>Senior <span class="info"> (65+)</span></td>
-      <td class="centered">$16</td>
-      <td class="centered">$18</td>
+      <td class="centered">$19</td>
       <td class="centered">$21</td>
-      <td class="centered">$23</td>
+      <td class="centered">$24</td>
+      <td class="centered">$26</td>
     </tr>
     <tr class="dotted_under">
       <td>Youth <span class="info"> (12-)</span></td>
-      <td class="centered">$12</td>
-      <td class="centered">$14</td>
-      <td class="centered">$14</td>
       <td class="centered">$15</td>
+      <td class="centered">$17</td>
+      <td class="centered">$17</td>
+      <td class="centered">$18</td>
     </tr>
     <tr>
       <td>Group <span class="info"> (25 or more)</span></td>
-      <td class="centered">$14</td>
-      <td class="centered">$16</td>
-      <td class="centered">$20</td>
-      <td class="centered">$22</td>
+      <td class="centered">$17</td>
+      <td class="centered">$19</td>
+      <td class="centered">$23</td>
+      <td class="centered">$25</td>
     </tr>
   </tbody>
 </table>
@@ -83,9 +83,9 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
         <td width="33.333%" class="centered">Youth&nbsp;<span class="info">(12-)</span></td>
       </tr>
       <tr>
-        <td class="centered">$85</td>
-        <td class="centered">$80</td>
-        <td class="centered">$55</td>
+        <td class="centered">$100</td>
+        <td class="centered">$95</td>
+        <td class="centered">$70</td>
       </tr>
     </tbody>
   </table>
@@ -103,9 +103,9 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
         <td width="33.333%" class="centered">Youth <span class="info">(12-)</span></td>
       </tr>
       <tr>
-        <td class="centered">$65</td>
-        <td class="centered">$60</td>
-        <td class="centered">$45</td>
+        <td class="centered">$77</td>
+        <td class="centered">$72</td>
+        <td class="centered">$57</td>
       </tr>
     </tbody>
   </table>
