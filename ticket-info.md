@@ -123,7 +123,7 @@ Please choose from the following shows to fill out your season subscription:
 1. The Addams Family
 1. Cabaret
 1. Legally Blonde
-1. Monthy Python’s Spamalot
+1. Monty Python’s Spamalot
 
 
 Please remember that seats can only be reserved based on availability, so call the box office to secure your seats.
