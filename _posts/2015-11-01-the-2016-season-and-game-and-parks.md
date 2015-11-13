@@ -15,7 +15,7 @@ Season Subscriptions are now available for your holiday gift-giving needs. They 
 
 ### Day one ticket sales changes
 
-In the past, on the first day of ticket sales, we have a season calendar ready to go and allow season subscription purchases and individual ticket purchases. Right now, we can only offer season subscriptions which will allow you to choose your shows, dates, and seats at your convenince all the way through the summer as they always have. Individual tickets will still be available to you, but not until November 14.
+In the past, on the first day of ticket sales, we have a season calendar ready to go and allow season subscription purchases and individual ticket purchases. Right now, we can only offer season subscriptions which will allow you to choose your shows, dates, and seats at your convenince all the way through the summer as they always have. Individual tickets will still be available to you, but not until November 18.
 
 We apologize for that inconvenience which came about because of prolonged negotiations with the Nebraska Game and Parks Commission for the use of theatre-related facilities at Ft. Robinson State Park for 2016.
 
@@ -24,3 +24,6 @@ We apologize for that inconvenience which came about because of prolonged negoti
 We believe that the results of the aforementioned negotiations will effectively limit our future ability to have, at our disposal, funds necessary for our basic operations. We had a plan for how to keep from needing to raise prices for several years, but due to the negotiations, we are in the unfortunate position of raising prices two years in a row (or close our doors). We will work as hard as we can to keep this from happening again in the near future. Therefore, if you would be interested in helping us assure the long-term viability of the Post Playhouse, Inc., you may make a donation for that purpose by sending it to H & R Block, Tim Gaswick, PO Box 749, Chadron, NE 69337. Any financial assistance you could give us would be gratefully appreciated. 
 
 This may be shocking news to hear after we had the [most successfull year in our history]({% post_url 2015-08-05-thank-you-for-2015-season %}) last summer. We will release as much information about this situation as we can in the near future. Thank you, our faithful patrons, for all your continued --- and much needed --- support.
+
+__Update November 13, 2015:__  
+The original date mentioned for individual ticket availability was November 14th. Due to marketing materials being delayed in the mail, that date has been changed to November 18th. Bizarre but true, that some digital materials from the rights holders is actually still sent in the mail.
