@@ -204,7 +204,8 @@ define_method :create_html_calendar do
     <span class=\"day-name\">
       <span class=\"full\">#{Date::DAYNAMES[i]}</span>
       <span class=\"short\">#{Date::ABBR_DAYNAMES[i]}</span>
-    </span></td>"
+    </span>
+  </td>"
       end
     end
 
@@ -228,6 +229,7 @@ define_method :create_html_calendar do
       <span class=\"short\">#{Date::ABBR_DAYNAMES[cal_date.wday]}</span>
     </span>"
       calendar_html += "
+    <span class=\"month-name\">#{month.to_s.capitalize}</span>
     <span class=\"mday\">#{cal_date.mday}</span>"
       if events.empty?
         calendar_html += "
