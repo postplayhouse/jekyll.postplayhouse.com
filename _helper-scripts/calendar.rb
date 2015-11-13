@@ -193,7 +193,7 @@ define_method :create_html_calendar do
     pad_days = Date.new(year, month_num, dates.first[0]).wday
 
     calendar_html += "
-<h3 class=\"month-name\">#{month.to_s.capitalize}</h3><table><tbody>"
+<h3 class=\"month-name\">#{month.to_s.capitalize}</h3><table class=\"month\" cellpadding=\"0\" cellspacing=\"0\"><tbody>"
     
     if pad_days > 0
       calendar_html += "<tr class=\"week\">"
