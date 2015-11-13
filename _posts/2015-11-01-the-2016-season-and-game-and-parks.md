@@ -26,4 +26,4 @@ We believe that the results of the aforementioned negotiations will effectively 
 This may be shocking news to hear after we had the [most successfull year in our history]({% post_url 2015-08-05-thank-you-for-2015-season %}) last summer. We will release as much information about this situation as we can in the near future. Thank you, our faithful patrons, for all your continued --- and much needed --- support.
 
 __Update November 13, 2015:__  
-The original date mentioned for individual ticket availability was November 14th. Due to marketing materials being delayed in the mail, that date has been changed to November 18th. Bizarre but true, that some digital materials from the rights holders is actually still sent in the mail.
+The original date mentioned for individual ticket availability was November 14th. Due to marketing materials being delayed in the mail, that date has been changed to November 18th. Bizarre but true, that some digital materials from the rights holders are actually still sent in the mail.
