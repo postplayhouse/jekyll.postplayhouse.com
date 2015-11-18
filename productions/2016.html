@@ -8,10 +8,6 @@ group: main
 order: 2
 ---
 
-<p>We will be putting up the usual artwork and show descriptions soon. <a href="{% post_url 2015-11-01-the-2016-season-and-game-and-parks %}">Here's why they aren't ready now</a>.</p>
-
-{% comment %}
-
 {% assign productions = site.data.productions.[page.season] | sort: "opening" %}
 {% for production in productions %}
 
@@ -38,9 +34,11 @@ order: 2
     </div>
   {% endif %}
 
-  <div class="writers">
-    {{ production.writers }}
-  </div>
+  {% if production.writers %}
+    <div class="writers">
+      {{ production.writers | markdownify }}
+    </div>
+  {% endif %}
 
   <div class="description">
     {{ production.description | markdownify }}
@@ -56,5 +54,3 @@ order: 2
 </article>
 
 {% endfor %}
-
-{% endcomment %}

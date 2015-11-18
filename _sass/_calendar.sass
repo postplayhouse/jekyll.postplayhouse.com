@@ -1,14 +1,14 @@
-$show-2-color: #c11
-$show-3-color: purple
 $show-1-color: blue
-$show-4-color: darken(gold, 8)
-$show-5-color: green
+$show-4-color: #c11
+$show-3-color: darken(pink, 10)
+$show-5-color: purple
+$show-2-color: darken(gold, 5)
 
 $proxima: proxima-nova, sans-serif
 $azo: azo-sans-uber, sans
 
 $calendar-day-date-color: black
-$cal-bg-color: #a11
+$cal-bg-color: green
 $cal-border-width: 5px
 $cal-base-font-size: 16px
 $cal-vert-button-pad: 12px
@@ -66,6 +66,8 @@ $alt-bg-color: #d1dcc4
 
 .month-name
   font-size: $cal-base-font-size * 2
+  color: white
+  -webkit-font-smoothing: antialiased
   text-align: center
   margin-top: 40px
   margin-bottom: 0
@@ -232,6 +234,7 @@ h3.month-name
   +breakpoint($cal-medium)
     background-color: grey
     color: white
+    text-shadow: 1px 1px 2px black
     padding: $cal-vert-button-pad 2px
     margin-bottom: 0
     text-align: center
