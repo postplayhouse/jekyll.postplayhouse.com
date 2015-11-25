@@ -6,10 +6,9 @@ image: /images/2016/seasonslide2016.jpg
 ---
 
 <img src="{{ site.baseurl }}/images/2016/seasonslide2016.jpg" alt="">
-<h2 style="font-family:azo-sans-uber">All the Magic begins June 1st!</h2>
+<h2 style="font-family:azo-sans-uber">All the Magic begins June 3rd!</h2>
 <p>
   <form style="text-align:center" action="http://postplayhousetickets.com" method="link">
     <button class="online">Get Tickets Now!</button><br>
   </form>
 </p>
-
