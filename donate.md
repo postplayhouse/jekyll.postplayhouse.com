@@ -34,7 +34,7 @@ Please make all checks payable to Post Playhouse and include your name, mailing 
 
 # Contributor Levels
 
-### Sponsor --- $48
+### Sponsor --- $49
 
 - Your name listed in lobby display of contributors
 - Be the first to hear next year's season announcement
