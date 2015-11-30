@@ -54,7 +54,7 @@ layout: default
         {% if post.image %}
           <img class="preview" src="{{ post.image | prepend: site.baseurl }}">
         {% endif %}
-        <p>{{ post.excerpt | strip_html}}</p>
+        <p>{{ post.excerpt | strip_html | markdownify }}</p>
       </a>
     {% endfor %}
   
