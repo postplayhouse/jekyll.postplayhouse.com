@@ -10,7 +10,8 @@ order: 7
 
 ![The outside front entrance of Post Playhouse]({{ site.baseurl }}/images/playhouse-pic-large.jpg)
 
-## Auditions for the 2016 summer season
+## Actors
+### Auditions for the 2016 summer season
 
 We will be holding auditions for our upcoming season on March 10th, 2016 in NYC.
 
@@ -22,3 +23,11 @@ Auditions will be by appointment only, so please email [tom@postplayhouse.com](m
    (Please do not attach videos directly in the email. Use YouTube, Vimeo, etc.)
 
 We look forward to hearing from you!
+
+## Musicians
+
+We are still looking for a bass player and drummer for our summer 2016 season. Please email [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with your materials.
+
+## Technicians
+
+We are still seeking a paint charge artist for our 2016 summer season. Please email [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with your materials.
