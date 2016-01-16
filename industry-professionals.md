@@ -32,4 +32,4 @@ We are still looking for a bass player for our summer 2016 season. Please email 
 
 ## Technicians
 
-We are still seeking a charge artist for our 2016 summer season. Please email [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with your materials.
+We are still seeking a charge artist and a local stitcher for our 2016 summer season. Please email [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with your materials.
