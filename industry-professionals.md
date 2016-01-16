@@ -28,7 +28,7 @@ We look forward to hearing from you!
 
 ## Musicians
 
-We are still looking for a bass player and drummer for our summer 2016 season. Please email [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with your materials.
+We are still looking for a bass player for our summer 2016 season. Please email [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with your materials.
 
 ## Technicians
 
