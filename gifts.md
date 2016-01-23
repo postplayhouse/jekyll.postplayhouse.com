@@ -36,6 +36,6 @@ Click to download the PDF to print. Don't forget to fill out the record locator 
 
 ## Post Playhouse Season Subscription Presentation Card
 
-<a href="{{ site.baseurl }}/documents/subscription-presenter.pdf" download><img src="{{ site.baseurl }}/documents/subscription-presenter.png" alt="Image of Subscription Presentation Card"></a>
+<a href="{{ site.baseurl }}/documents/subscription-presenter.pdf" download><img src="{{ site.baseurl }}/documents/subscription-presenter.png" alt="Image of Subscription Presentation Card" style="border: 1px solid #eee"></a>
 
 Click to download the PDF. It contains the printing instructions.
