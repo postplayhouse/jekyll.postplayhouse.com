@@ -1,7 +1,7 @@
 ---
 title: Who's Who in 2016
 layout: page
-bio: "2016"
+bio_year: "2016"
 permalink: /who/2016/
 # image: /images/people/2015/full-cast-collage.jpg
 group: main
@@ -15,13 +15,13 @@ nav_title: Who's Who
 {% endcomment %}
 
 <div class="bios-page">
-{% assign people = site.data.people.[page.bio] | sort: "last_name" %}
+{% assign people = site.data.people.[page.bio_year] | sort: "last_name" %}
 {% include cast.html %}
 
-{% assign people = site.data.people.[page.bio] | sort: "last_name" %}
+{% assign people = site.data.people.[page.bio_year] | sort: "last_name" %}
 {% include staff.html %}
 
-{% assign people = site.data.people.[page.bio] %}
+{% assign people = site.data.people.[page.bio_year] %}
 {% include board.html %}  
 </div>
 
