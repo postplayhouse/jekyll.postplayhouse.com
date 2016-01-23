@@ -27,14 +27,12 @@
 
 {% endfor %}
 
-{% if site.casting_complete != true %}
+{% if site.casting_complete != true and site.season == page.bio_year %}
   <div class="bio-group cast">
     <h2 class="bio-group-label">Cast</h2>
     <p>Casting is not yet complete for the {{ site.season }} Summer season.</p>
   </div>
-{% endif %}
-
-{% if has_cast and site.casting_complete %}
+{% elsif has_cast %}
   <div class="bio-group cast">
     <h2 class="bio-group-label">Cast</h2>
 
