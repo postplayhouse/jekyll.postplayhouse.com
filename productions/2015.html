@@ -11,7 +11,7 @@ layout: page
   {% if production.image contains "/" %}
     {% capture production_image %}{{ production.image | prepend: site.baseurl }}{% endcapture %}
   {% elsif production.image != nil %}
-    {% capture production_image %}{{ site.baseurl }}/images/{{ site.season }}/{{production.image}}{% endcapture %}
+    {% capture production_image %}{{ site.baseurl }}/images/{{ page.season }}/{{production.image}}{% endcapture %}
   {% else %}
     {% assign production_image = nil %}
   {% endif %}
