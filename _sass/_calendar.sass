@@ -1,14 +1,17 @@
-$show-1-color: blue
-$show-4-color: #c11
-$show-3-color: darken(pink, 10)
-$show-5-color: purple
-$show-2-color: darken(gold, 5)
+=drop-shadow($color)
+  text-shadow: 1px 1px 0px $color, 1px 2px 0px $color
+
+$show-1-color: rgb(28,117,188) // blue
+$show-4-color: rgb(198,41,46) // red
+$show-3-color: rgb(243,136,167) // pink
+$show-5-color: rgb(146,39,143) // purple
+$show-2-color: rgb(254,189,64) // yellow/gold
 
 $proxima: proxima-nova, sans-serif
 $azo: azo-sans-uber, sans
 
 $calendar-day-date-color: black
-$cal-bg-color: green
+$cal-bg-color: rgb(0,110,43) // green
 $cal-border-width: 5px
 $cal-base-font-size: 16px
 $cal-vert-button-pad: 12px
@@ -36,14 +39,19 @@ $alt-bg-color: #d1dcc4
       
     &.show-1
       border-color: $show-1-color
+      +drop-shadow(darken($show-1-color, 20))
     &.show-2
       border-color: $show-2-color
+      +drop-shadow(darken($show-2-color, 20))
     &.show-3
       border-color: $show-3-color
+      +drop-shadow(darken($show-3-color, 20))
     &.show-4
       border-color: $show-4-color
+      +drop-shadow(darken($show-4-color, 20))
     &.show-5
       border-color: $show-5-color
+      +drop-shadow(darken($show-5-color, 20))
 
     &.show-1.selected
       background-color: $show-1-color
@@ -234,7 +242,7 @@ h3.month-name
   +breakpoint($cal-medium)
     background-color: grey
     color: white
-    text-shadow: 1px 1px 2px black
+    +drop-shadow(black) // default (for Bald Mountain Rounders)
     padding: $cal-vert-button-pad 2px
     margin-bottom: 0
     text-align: center
@@ -245,14 +253,19 @@ h3.month-name
 
     &.show-1
       background-color: $show-1-color
+      +drop-shadow(darken($show-1-color, 20))
     &.show-2
       background-color: $show-2-color
+      +drop-shadow(darken($show-2-color, 20))
     &.show-3
       background-color: $show-3-color
+      +drop-shadow(darken($show-3-color, 20))
     &.show-4
       background-color: $show-4-color
+      +drop-shadow(darken($show-4-color, 20))
     &.show-5
       background-color: $show-5-color
+      +drop-shadow(darken($show-5-color, 20))
 
   .show-title
 
