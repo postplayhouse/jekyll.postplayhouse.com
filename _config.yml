@@ -12,10 +12,6 @@ baseurl: ""
 url: "http://postplayhouse.com" # the base hostname & protocol for your site
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ['smart']
-
 permalink: /news/:year/:month/:day/:title/
 
 exclude:
