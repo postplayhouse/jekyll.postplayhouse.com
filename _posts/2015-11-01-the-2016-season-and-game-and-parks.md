@@ -16,7 +16,7 @@ Season Subscriptions are now available for your holiday gift-giving needs. They 
 
 ### Day one ticket sales changes
 
-In the past, on the first day of ticket sales, we have a season calendar ready to go and allow season subscription purchases and individual ticket purchases. Right now, we can only offer season subscriptions which will allow you to choose your shows, dates, and seats at your convenince all the way through the summer as they always have. Individual tickets will still be available to you, but not until November 18.
+In the past, on the first day of ticket sales, we have a season calendar ready to go and allow season subscription purchases and individual ticket purchases. Right now, we can only offer season subscriptions which will allow you to choose your shows, dates, and seats at your convenience all the way through the summer as they always have. Individual tickets will still be available to you, but not until November 18.
 
 We apologize for that inconvenience which came about because of prolonged negotiations with the Nebraska Game and Parks Commission for the use of theatre-related facilities at Ft. Robinson State Park for 2016.
 
