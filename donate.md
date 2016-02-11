@@ -10,10 +10,7 @@ order: 8
 ## Our Mission
 
 <div class="call-out">
-  <p>The Post Playhouse is dedicated to enhancing the arts of western Nebraska by continuing to bring professional live theatre to the region and presenting Broadway style musicals for the enjoyment of our community members. Our three areas of concentration include: </p>
-  <p>Quality – We strive to produce the highest quality performances in our summer stock season by hiring outstanding actors, designers, technicians locally and from across the nation. </p>
-  <p>Education – We continue to offer internships to our actors and technicians and the opportunity to work on stage with seasoned professionals. </p>
-  <p>Community – We strive to serve our community and offer productions and entertainment for our local supporters, as well as our friends visiting Fort Robinson State Park.</p>
+  {{ site.data.verbiage.mission | markdownify }}
 </div>
 
 ## You can help
