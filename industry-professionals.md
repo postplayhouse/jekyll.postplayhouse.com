@@ -26,10 +26,3 @@ __Email submissions which fail to include all three of the above will not be con
 
 We look forward to hearing from you!
 
-## Musicians
-
-We are still looking for a bass player for our summer 2016 season. Please email [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with your materials.
-
-## Technicians
-
-We are still seeking a charge artist and a local stitcher for our 2016 summer season. Please email [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with your materials.
