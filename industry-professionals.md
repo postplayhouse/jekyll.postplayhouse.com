@@ -10,19 +10,32 @@ order: 7
 
 ![The outside front entrance of Post Playhouse]({{ site.baseurl }}/images/playhouse-pic-large.jpg)
 
-## Actors
-### Auditions for the 2016 summer season
+## Adult and Child Actors
 
-We will be holding auditions for our upcoming season on March 10th, 2016 in NYC.
+### Local Auditions for the 2016 summer season
 
-Auditions will be by appointment only, so please __INCLUDE ALL OF THE FOLLOWING__ in an email to [tom@postplayhouse.com](mailto:tom@postplayhouse.com):
+The Post Playhouse House will be holding open auditions for local adult & children actors, **Saturday May 7th & Sunday May 8th both at 1:00 pm** at the Post Playhouse located at Fort Robinson State Park.  Auditions are for the following roles:
 
-1. Headshot
-2. Resum&eacute;
-3. Links to video clips. These may be actual performance videos featuring you singing solo, or simply 32 bars of your best song.  
-   (Please do not attach videos directly in the email. Use YouTube, Vimeo, etc.)
+{% capture notice %}
+#### Beauty & The Beast  
 
-__Email submissions which fail to include all three of the above will not be considered.__
+* __2 Adult Male actors, ages 21+__ for ensemble roles. Some acting, singing, and movement required.
+* __2-3 Adult Female actors, ages 21+__ for ensemble roles. Some acting, singing, and movement required.
+* __1 Young boy (or possibly girl) seeming 7-10 years old__ to play Chip (Mrs. Potts' son). Preferably under 5 feet tall. Singing required.
 
-We look forward to hearing from you!
+#### Addams Family
 
+* __1 Young boy actor (or possibly girl) seeming 10-14 years old__ to play Pugsley Addams. Preferably under 5 feet tall. Solo singing required.
+
+#### Legally Blonde
+
+* __2 Female Actresses, ages 20-30__ to play Enid and Chutney. Acting, singing, and movement required.
+{% endcapture %}
+
+<div class="audition-notice">{{ notice | markdownify }}</div>
+
+Please consult our online calendar for performance dates.  Rehearsals begin May 14th and our final performance is August 14.  We can be *somewhat* flexible with rehearsal conflicts but **we cannot be flexible with performance conflicts**.  Please [check our calendar](/calendar/) before auditioning.
+
+All roles are non-paying positions.
+
+Please take note of all the above information carefully, then email [tom@postplayhouse.com](mailto:tom@postplayhouse.com) to sign up for our auditions.
