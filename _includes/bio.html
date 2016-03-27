@@ -9,7 +9,7 @@
   {% endif %}
   
   {% if headshot != nil %}
-    <img src="{{ headshot }}" alt="Picture of {{ person.first_name }}">
+    <img src="{{ headshot | replace: '.jpg', '_300.jpg' }}" alt="Picture of {{ person.first_name }}">
   {% endif %}
 
   <h2 class="name">{{ person.first_name }} {{ person.last_name }}</h2>
