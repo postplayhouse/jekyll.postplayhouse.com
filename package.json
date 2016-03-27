@@ -1,0 +1,31 @@
+{
+  "name": "jekyll.postplayhouse.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "concurrent-transform": "^1.0.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-imageoptim": "^1.0.3",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-newer": "^1.1.0",
+    "gulp-responsive": "^2.2.0",
+    "run-sequence": "^1.1.5",
+    "sharp": "^0.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happycollision/jekyll.postplayhouse.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happycollision/jekyll.postplayhouse.com/issues"
+  },
+  "homepage": "https://github.com/happycollision/jekyll.postplayhouse.com#readme"
+}
