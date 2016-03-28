@@ -1,0 +1,25 @@
+---
+title: Bio Check
+layout: page
+bio_year: "2016"
+permalink: /bio-check/
+---
+{% comment %}
+
+  If needs be, each group can reference a different year in transitional times.
+  Unless such a need exists, nothing below needs to be altered year to year.
+
+{% endcomment %}
+
+Please email <a href="mailto:don@dondentonactor.com">don@dondentonactor.com</a> if you need to make changes. Changes can be made to the website bios at any time, however the actual program has a deadline (which is TBA as of right now).
+
+<div class="bios-page">
+{% assign people = site.data.people.[page.bio_year] | sort: "last_name" %}
+{% for person in people %}
+  {% unless person.groups contains "board" or person.groups contains "additional" %}
+    {% include bio.html %}
+  {% endunless %}
+{% endfor %}
+
+</div>
+
