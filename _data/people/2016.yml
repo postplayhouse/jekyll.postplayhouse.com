@@ -356,6 +356,23 @@
   image_file: marge-rotherham.jpg
 
 
+- first_name: Michael
+  last_name: O'Connor
+  location: ""
+  groups:
+    - cast
+  positions:
+    - Beauty and the Beast --- Maurice
+    - The Addams Family --- Gomez
+    - Legally Blonde --- Callahan
+    - Cabaret --- Herr Schultz
+    - Spamalot --- Arthur
+  bio: >
+    
+  image_year: 2016
+  image_file: michael-oconnor.jpg
+
+
 # - first_name: 
 #   last_name: 
 #   location: ""
