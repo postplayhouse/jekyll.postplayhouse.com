@@ -8,28 +8,17 @@ var del = require('del');
 gulp.task('newer-image-sizes-to-temp', function() {
   return gulp.src('_original-images/**/*')
     .pipe($.newer('images'))
+    .pipe($.remember('images'))
     .pipe($.responsive({
       'people/**/*': [{
         width: 300,
         rename: {
           suffix: '_300',
         }
-      // }, {
-      //   width: 100,
-      //   rename: {
-      //     suffix: '_100',
-      //   }
-      // }, {
-      //   width: 600,
-      //   rename: {
-      //     suffix: '_600',
-      //   }
-      // }, {
-      //   width: 900,
-      //   rename: {
-      //     suffix: '_900',
-      //   }
       }],
+      '2016/raffle/*': [{
+        width: 600,
+      }]
     }, {
       // Global configuration for all images
       // The output quality for JPEG, WebP and TIFF output formats
@@ -37,7 +26,7 @@ gulp.task('newer-image-sizes-to-temp', function() {
       quality: 100,
       errorOnEnlargement: false,
       errorOnUnusedConfig: false,
-      errorOnUnusedImage: false
+      errorOnUnusedImage: false,
     }))
     .pipe(gulp.dest('.tmp/images'));
 });
