@@ -7,12 +7,17 @@ layout: default
   <div class="group">
 
     <div class="full">
-    {% for post in site.posts limit: 1 %}
+    {% assign posts = site.posts | where:"featured","true" %}
+    {% for post in posts %}
       <h2 style="font-weight: bold; font-family: azo-sans-uber">
         {{ post.title }}
       </h2>
       <article class="post-content">
-        {{ post.content }}
+        {% if post.excerpt %}
+          {{ post.excerpt }}
+        {% else %}
+          {{ post.content }}
+        {% endif %}
       </article>
     {% endfor %}
     </div>
