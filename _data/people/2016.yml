@@ -402,6 +402,19 @@
   image_file: ann-stephens.jpg
 
 
+- first_name: Benson
+  last_name: Anderson
+  location: "Cleveland, OH"
+  groups:
+    - musicians
+  positions:
+    - Bass/Guitar
+  bio: >
+    Benson is honored and excited to make his Post Playhouse debut as a member of the orchestra. A rising junior studying music composition at Denison University located in central Ohio, Benson's recent pit jobs include *American Idiot* (Beck Center for the Arts) and *Hedwig and the Angry Inch* (Parallel 45). Benson also has appeared on stage as Roger in *Rent* (Denison University) and Link Larkin in *Hairspray* (Heights Youth Theatre). He thanks you all for supporting the arts and hopes you enjoy the shows and the music!
+  image_year: 2016
+  image_file: benson-anderson.jpg
+
+
 # - first_name: 
 #   last_name: 
 #   location: ""
