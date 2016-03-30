@@ -8,9 +8,11 @@
     "concurrent-transform": "^1.0.0",
     "del": "^2.2.0",
     "gulp": "^3.9.1",
+    "gulp-cached": "^1.1.0",
     "gulp-imageoptim": "^1.0.3",
     "gulp-load-plugins": "^1.2.0",
     "gulp-newer": "^1.1.0",
+    "gulp-remember": "^0.3.0",
     "gulp-responsive": "^2.2.0",
     "run-sequence": "^1.1.5",
     "sharp": "^0.13.1"
