@@ -1,0 +1,80 @@
+---
+title: Bio Check
+layout: page
+bio_year: "2016"
+permalink: /program-bios/
+norobots: true
+---
+{% comment %}
+
+  If needs be, each group can reference a different year in transitional times.
+  Unless such a need exists, nothing below needs to be altered year to year.
+
+{% endcomment %}
+
+<style>
+  .plain-bio {
+    margin-bottom: 5em;
+    font-size: 14px !important;
+    font-family: Helvetica !important;
+    line-height: 1.2;
+  }
+  .plain-bio .name *{
+    font-size: 20px !important;
+  }
+  .plain-bio p {
+    margin: 0 !important;
+  }
+  .plain-bio a:visited, .plain-bio a:link {
+    color: inherit !important;
+  }
+  br {
+    line-height: 1
+  }
+</style>
+
+<div class="not-bios-page-wink-wink">
+{% assign people = site.data.people.[page.bio_year] | sort: "last_name" %}
+{% for person in people %}
+  {% unless person.groups contains "board" or person.groups contains "additional" %}
+
+  <div class="plain-bio">
+    
+    {% if person.image_path != nil %}
+      {% capture headshot %}{{ person.image_path | prepend: site.baseurl }}{% endcapture %}
+    {% elsif person.image_year != nil and person.image_file != nil %}
+      {% capture headshot %}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.image_file}}{% endcapture %}
+    {% else %}
+      {% assign headshot = nil %}
+    {% endif %}
+    
+    {% assign headshot = nil %}<!-- in case images are needed, remove this line -->
+    
+    {% if headshot != nil %}
+      <img src="{{ headshot | replace: '.jpg', '_300.jpg' }}" alt="Picture of {{ person.first_name }}">
+    {% endif %}
+    
+    {% capture name %}{{ person.first_name }} {{ person.last_name }}{% endcapture %}
+    <span class="name">{{ name | markdownify }}</span><br>
+
+    {% if person.location %}
+      {{ person.location | markdownify }}<br>
+    {% endif %}
+    
+    {% if person.positions != nil %}
+      <span class="positions">
+        {% for position in person.positions %}
+          {{ position | markdownify }}
+        {% endfor %}<br>
+      </span>
+    {% endif %}
+
+    {{ person.bio | markdownify }}
+  </div>
+
+
+  {% endunless %}
+{% endfor %}
+
+</div>
+
