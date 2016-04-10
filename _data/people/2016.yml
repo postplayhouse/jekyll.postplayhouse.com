@@ -432,7 +432,7 @@
     - Cabaret --- Sally
     - Spamalot --- Laker Girl, Guard, Ensemble
   bio: >
-    Kiley is thrilled to be making her Post Playhouse debut! Past credits include: *HAIR* (Crissy), Mickey & Company (World Premiere, Tokyo), *London Rocks!* (USA Premiere, Sam Buntrock/Chase Brock), *I Love You, You're Perfect, Now Change* (Woman 2), *The Who's Tommy* (Mrs. Walker) and *Urinetown* (Hope Cladwell). As well numerous Off-Broadway and NYC workshops. Huge thanks to everyone at Post for this amazing opportunity and tons of love to my family. KileyLMcDonald.com
+    Kiley is thrilled to be making her Post Playhouse debut! Past credits include: *HAIR* (Crissy), Mickey & Company (World Premiere, Tokyo), *London Rocks!* (USA Premiere, Sam Buntrock/Chase Brock), *I Love You, You're Perfect, Now Change* (Woman 2), *The Who's Tommy* (Mrs. Walker) and *Urinetown* (Hope Cladwell). As well numerous Off-Broadway and NYC workshops. Huge thanks to everyone at Post for this amazing opportunity and tons of love to my family. [KileyLMcDonald.com](http://kileylmcdonald.com)
   image_year: 2016
   image_file: kiley-mcdonald.jpg
 
@@ -473,33 +473,41 @@
   last_name: Sterling
   location: "Rapid City, SD & Laramie, WY"
   groups:
-    - cast
+    - creative
   positions:
     - "Music Director --- Legally Blonde, Spamalot"
     - "Keyboard --- Cabaret, Addams Family, Beauty and the Beast"
   bio: >
     Brandon has always exemplified a deep passion for music. He has performed with the finest musicians in South Dakota, free-lanced in California, and has spent the last few years as a vital member of the music community in Wyoming. Holding a Bachelor’s Degree in Music with an emphasis in Jazz and Collaborative Piano, Brandon has provided piano lessons for children and students at the collegiate level. He has worked as a rehearsal accompanist for numerous productions, and also served as a music director for his local church. After the season, he plans to pursue educational and musical opportunities in Lincoln, Nebraska.  Brandon is thrilled to be a part of such an amazing cast and production team here at the Post Playhouse, where he is the music director for *Legally Blonde* and *Spamalot*. 
   image_year: 2016
-  #image_file: brandon-sterling.jpg
+  image_file: brandon-sterling.jpg
 
 
-# - first_name: 
-#   last_name: 
-#   location: ""
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- 
-#     - The Addams Family --- 
-#     - Legally Blonde --- 
-#     - Cabaret --- 
-#     - Spamalot --- 
-#   bio: >
-#     
-#   image_year: 2016
-#   image_file: 
-#
-#
+- first_name: Joseph J.
+  last_name: Reynolds
+  location: "Sarasota, FL and New York City, NY"
+  groups:
+    - creative
+    - crew
+  positions:
+    - Season Sound Design & Technician 
+  bio: >
+    Joseph is very excited to be a part of Post Playhouse's summer season. This is his first foray into Mid-west regional theater, but previous Sound Design credits include; Ziegfeld's *Midnight Frolic* (Old Liberty Theatre, NYC), *Aida* (Milton Bassin Performing Arts Center, C.U.N.Y. Queens NYC), and summer stock productions of *Chicago*, *Singin' in the Rain*, *Call Me Madam*, *Crazy for You*, and *Bonnie and Clyde* (Ocean Professional Theater Company, Barnegat, New Jersey). He loves to travel doing sound for theater, and hangs his hat in sunny Sarasota Florida where he does audio post for student films at local colleges. Joseph is a Alumni of Full Sail in Orlando, Florida.  He would like to thank the cast and crew of Post Playhouse for making him feel most welcome in a new place, and his lovely Fiancee, Cindy, for her continual love and support.
+  image_year: 2016
+  image_file: joseph-reynolds.jpg
+
+
+- first_name: Joanna
+  last_name: Li
+  location: "Cleveland, OH and Raleigh, NC"
+  groups:
+    - creative
+  positions:
+    - Music Director --- Beauty and the Beast, Addams Family, Cabaret
+    - Keyboard --- Spamalot, Legally Blonde
+  bio: >
+    Jo is excited to join Post this summer! She began her musical career as a classical organist (and still continues to play) but transitioned into musical theatre after a summer accompanying the MT program at Interlochen Arts Camp in Michigan. Some favorite recent music directing gigs include *Hedwig and the Angry Inch* at Parallel 45 Theatre in Traverse City, Michigan, and *The Wiz* at Cape Fear Regional Theatre in Fayetteville, North Carolina. 
+
 
 #
 #
