@@ -50,13 +50,13 @@
 
 - first_name: Pheobe H.
   last_name: Boynton
-  location: "Los Angeles, CA"
+  location: "Ithaca, NY, Los Angeles, CA, & MS Oceania Riviera"
   groups:
     - creative
   positions:
     - Season Costume Designer
   bio: >
-     
+    Pheobe Boynton is thrilled to be returning to The Post for her third season! She has been fortunate enough to make a career in costume design and construction for film and theater in Los Angeles for the past eight years, working with companies as diverse as the Los Angeles Opera, Relativity Media, Machinima, Kanye West, and Norwegian Creative Studios. This last year she was honored to design the costumes for the major motion picture *The Thinning* for Legendary Pictures. She has spent the rest of the year as the wardrobe supervisor for the Oceania Riviera visiting ports in the Caribbean, and Central America. 
   image_year: 2015
   image_file: pheobe-boynton.jpg
 
@@ -134,13 +134,13 @@
     - Lighting Designer --- Cabaret
   bio: >
     Ken is extremely thrilled to be coming back to a place that feels like a second home to him for his third summer with the Post! Ken is currently a graduate student in lighting design at the University of Arizona, where he not only assisted in the design of two main stage shows this year, but also worked as the Projection Designer for the University’s production of Shakespeare’s *The Tempest*. Prior to this, he was working as a Freelance Stage Manager in LA. Recent LA credits included shows at Oddwing Productions, Lost Moon Radio, AMDA Conservatory College, and Disney’s El Capitan Theatre in Hollywood. He also has past directing work that’s premiered through educational programs at Live Theatre Workshop, Powerhouse Theater, The Hangar Theatre, and The Eugene O’Neill Center. In his spare time, Ken continually trains as an Actor Combatant in staged combat for film and theatre. Thank you so much to Tom Ossowski and the rest of the community for the fantastic opportunity to put up these wonderful musicals here at the Post! [www.KGPhillips.com](http://www.kgphillips.com/)
-  image_year: 2015
+  image_year: 2016
   image_file: ken-phillips.jpg
 
 
 - first_name: Tom
   last_name: Ossowski
-  location: "Beatrice, NE via  Beijing, China & Tallahasse, FL"
+  location: "Beatrice, NE via Beijing, China & Tallahasse, FL"
   groups:
     - creative
     - staff
@@ -507,6 +507,47 @@
     - Keyboard --- Spamalot, Legally Blonde
   bio: >
     Jo is excited to join Post this summer! She began her musical career as a classical organist (and still continues to play) but transitioned into musical theatre after a summer accompanying the MT program at Interlochen Arts Camp in Michigan. Some favorite recent music directing gigs include *Hedwig and the Angry Inch* at Parallel 45 Theatre in Traverse City, Michigan, and *The Wiz* at Cape Fear Regional Theatre in Fayetteville, North Carolina. 
+
+
+- first_name: Leo
+  last_name: Haselhorst
+  location: "Randolph, NE"
+  groups:
+    - crew
+  positions:
+    - Technical Staff
+  bio: >
+    Leo is very excited for his first season working at the Post. He is currently pursuing a B.A. of fine arts at Chadron State college where he has worked carpentry for several shows. Leo would like to thank all of the workers at the Post for this amazing opportunity to pursue his interests in theater.
+  image_year: 2016
+  image_file: leo-haselhorst.jpg
+
+
+- first_name: Jacob
+  last_name: Voorhis
+  location: "Belle Fourche, South Dakota and Chadron, Nebraska"
+  groups:
+    - staff
+    - crew
+  positions:
+    - Box Office Staff
+    - Spotlight Operator
+  bio: >
+    Jacob is ecstatic to begin his first season at the Post Playhouse. He is a sophomore guitar music major and theatre minor at Chadron State College. He graduated from Belle Fourche High School in South Dakota and has been involved with several community and high school theatres in that area. He has also worked with the CSC theatre department for the last two years. He would like to thank Tom and the Post Playhouse for giving him the opportunity to break into the industry that he loves and all the people that have passed their experience to him over the years.
+  image_year: 2016
+  image_file: jacob-voorhis.jpg
+
+
+- first_name: Stephen W
+  last_name: Schultz
+  location: "Tallahassee, FL"
+  groups:
+    - musicians
+  positions:
+    - Drums/Percussion
+  bio: >
+    Stephen Schultz is a musician and aspiring actor located in Tallahassee, Florida.  He is currently pursing a degree in Marketing and Music from Florida State University.  While most of his performing experience has been conducted in jazz small group and contemporary worship band settings, he recently began playing drum set/percussion for live theatre shows in Tallahassee.  In addition to playing drums, Stephen made his stage debut as Ellard Simms in *The Foreigner* (Monticello Opera House) this spring.  He would like to give a special thanks to Tom O. for inviting him out to Post Playhouse, his family and friends for their constant love and support.  He loves meeting new people so don't feel shy to introduce yourself and strike up a conversation!
+  image_year: 2016
+  image_file: stephen-schultz.jpg
 
 
 #
