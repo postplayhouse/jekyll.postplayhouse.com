@@ -550,6 +550,19 @@
   image_file: stephen-schultz.jpg
 
 
+- first_name: Anna
+  last_name: Owen
+  location: "Chadron, NE"
+  groups:
+    - staff
+  positions:
+    - Stitcher 
+  bio: >
+    Anna is excited to be a part of the Post Play House this summer. She is working as a sticher, helping make the costumes. Anna has just graduated from Chadron State College with a degree in Theater. She would like to thank Tom and everyone at the Post for the great opportunity and experience.
+  image_year: 2016
+  image_file:
+  
+  
 #
 #
 #
