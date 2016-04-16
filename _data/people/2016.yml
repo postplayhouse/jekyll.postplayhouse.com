@@ -114,7 +114,6 @@
   location: "Sturgis, SD"
   groups:
     - crew
-    - staff
   positions:
     - "Assistant Stage Manager --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
     - Production Stage Manager --- Cabaret
@@ -129,6 +128,7 @@
   location: "Tucson, AZ"
   groups:
     - crew
+    - creative
   positions:
     - "Production Stage Manager --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
     - Lighting Designer --- Cabaret
@@ -560,7 +560,7 @@
   bio: >
     Anna is excited to be a part of the Post Play House this summer. She is working as a stitcher, helping build the costumes. Anna has just graduated from Chadron State College with a degree in Theater. She would like to thank Tom and everyone at the Post for the great opportunity and experience.
   image_year: 2016
-  image_file: 
+  image_file: anna-owen.jpg
   
   
 #
