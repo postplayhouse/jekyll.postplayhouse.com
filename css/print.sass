@@ -1,5 +1,7 @@
 ---
 ---
+@import "includes"
+
 header, footer
   display: none
 
@@ -22,3 +24,27 @@ h4
 
 a:link:after, a:visited:after
   content: " [" attr(href) "] "
+
+%text-reset
+  color: black
+  text-shadow: none
+
+.calendar
+  table.month
+    width: 100% !important
+    page-break-inside: avoid
+  h3.month-name
+    @extend %text-reset
+    margin: 1em 0
+    padding: 0
+    &:nth-of-type(3)
+      page-break-before: always
+  .showing
+    &, &.show-1, &.show-2, &.show-3, &.show-4, &.show-5
+      @extend %text-reset
+      padding: 0
+  .spacer
+    display: none !important
+
+.calendar-filters
+  display: none
