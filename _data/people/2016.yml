@@ -578,6 +578,19 @@
   image_file: jenett-blood.jpg
   
   
+- first_name: Gustav
+  last_name: Ossowski
+  location: "Tallahassee, FL & Beatrice, NE"
+  groups:
+    - cast
+  positions:
+    - Legally Blonde --- Rufus 
+  bio: >
+    Gus is 4 years old and was born in Colorado.  He spends his summers assistant directing shows at the Post Playhouse where he loves to "go on breaks" with the cast.  His favorite toys are yellow but he especially likes blue squirrels. This will be his second time playing the role of Rufus. He originated the role this past spring at Florida State University.
+  image_year: 2016
+  image_file: gustav.jpg
+  
+  
 #
 #
 #
