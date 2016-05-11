@@ -5,7 +5,7 @@ excerpt: "Back for another year, Britte brings her usual, quirky attitude and po
 # image: /images/2015/don-fox-wiring.jpg
 ---
 
-<div class="preface">Britte delighted audiences last year with her quirky portreyal of Roz in the hilarious <em>Nine to Five</em>. This year she plays tough girl Rizzo in Grease and sassy character Sylvia in <em>All Shook Up</em> among others.</div>
+<div class="preface">Britte delighted audiences last year with her quirky portrayal of Roz in the hilarious <em>Nine to Five</em>. This year she plays tough girl Rizzo in Grease and sassy character Sylvia in <em>All Shook Up</em> among others.</div>
 
 ---
 
