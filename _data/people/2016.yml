@@ -910,6 +910,18 @@
   image_file: raime-varvel.jpg
 
 
+- first_name: Jeanine
+  last_name: Mohr
+  location: "Chadron, Nebraska"
+  groups: >
+    - board
+  positions:
+  bio: >
+    
+  image_year: 2016
+  image_file: jeanine-mohr.jpg
+
+
 - first_name: Mike
   last_name: Morava
   location: "Crawford, NE"
