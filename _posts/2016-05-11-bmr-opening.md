@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Bald Mountain Rounders
-featured: true
+featured: false
 image: /images/2016/opening-bmr.jpg
 ---
 
