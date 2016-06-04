@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beauty and the Beast
-featured: true
+featured: false
 image: /images/2016/opening-beauty.jpg
 ---
 
