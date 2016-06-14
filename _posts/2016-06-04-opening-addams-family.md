@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Addams Family
-featured: true
+featured: false
 image: /images/2016/opening-addams.jpg
 ---
 
