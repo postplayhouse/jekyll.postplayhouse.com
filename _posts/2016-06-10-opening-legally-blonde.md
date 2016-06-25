@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Legally Blonde
-featured: true
+featured: false
 image: /images/2016/opening-blonde.jpg
 ---
 
