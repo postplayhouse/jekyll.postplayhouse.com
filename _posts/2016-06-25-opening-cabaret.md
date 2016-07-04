@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cabaret
-featured: true
+featured: false
 image: /images/2016/opening-cabaret.jpg
 ---
 
