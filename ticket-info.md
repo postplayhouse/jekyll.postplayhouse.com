@@ -126,7 +126,7 @@ Please choose from the following shows to fill out your season subscription:
 1. Monty Python’s Spamalot
 
 
-Please remember that seats can only be reserved based on availability, so call the box office to secure your seats.
+Please remember that seats can only be reserved based on availability, so call the box office to secure your seats. Also note, as stated above, subscriptions may only be used on 4 or 5 *different productions*. This means they cannot be used to see the same production multiple times.
 
 ## Payment, Cancellations, Exchanges, and Refunds
 
