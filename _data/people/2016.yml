@@ -937,13 +937,13 @@
   image_file: jeanine-mohr.jpg
 
 
-- first_name: Mike
-  last_name: Morava
-  location: "Crawford, NE"
-  groups: >
-    - board
-  positions:
-  bio: >
-    Director Fort Robinson State Park 
-  image_year: 2015
-  image_file: mike-morova.jpg
+# - first_name: Mike
+#   last_name: Morava
+#   location: "Crawford, NE"
+#   groups: >
+#     - board
+#   positions:
+#   bio: >
+#     Director Fort Robinson State Park 
+#   image_year: 2015
+#   image_file: mike-morova.jpg
