@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monty Python's Spamalot 
-featured: true
+featured: false
 image: /images/2016/opening-spamalot.jpg
 ---
 
