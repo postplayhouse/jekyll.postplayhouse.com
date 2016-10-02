@@ -45,13 +45,7 @@ layout: default
       <p></p>
     </div>
     
-    <a href="{{ site.baseurl }}/ticket-info" class="a-wrap new-tickets">
-      <h3 class="post-link">Announcing new season subscription options!</h3>
-      <p>Now you can have your choice of either 4 shows or all 5 shows in your season subscription.</p>
-    </a>
-
-
-    {% for post in site.posts limit:2 offset:1 %}
+    {% for post in site.posts limit:0 offset:1 %}
       <a class="a-wrap recent" href="{{ post.url | prepend: site.baseurl }}">
         <h3 class="post-link">
           {{ post.title }}
