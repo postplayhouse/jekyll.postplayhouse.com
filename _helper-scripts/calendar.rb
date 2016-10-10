@@ -296,9 +296,9 @@ open 'schedule.txt', 'w' do |f|
 
     calendar.each do |month, dates|
       date_str_arr = []
-      dates.each do |date, perf_type|
-        next if perf_type.empty?
-        date_str_arr << case perf_type.first[0]
+      dates.each do |date, perf_types|
+        next if perf_types.empty?
+        date_str_arr << case perf_types.first[0]
           when :evening
             "#{date}"
           when :morning
@@ -306,7 +306,7 @@ open 'schedule.txt', 'w' do |f|
           when :afternoon
             "#{date}*"
           else
-            f.puts "error: #{perf_type}"
+            f.puts "error: #{perf_types}"
         end
       end
       f.puts "#{month.to_s.capitalize} #{date_str_arr.join(", ")}"
