@@ -1,6 +1,13 @@
 # Sloppy script to (mostly) generate a calendar
-# run it from the terminal in its own directory (so the accomapnying file is created properly in _includes)
-# make a couple minor adjustments to the generated file
+# run it from the terminal in this directory (_helper_scritps)
+# so that it creates calendar.html in the correct dir.
+# Then make a couple minor adjustments to the generated file
+# if needed. For example, a month starting on a Monday, will
+# omit that day (or any day or more without a show.)
+
+# This script will also generate a file called schedule.txt in
+# its directory as well. That will contain a per-show list of
+# calendar dates.
 
 require 'date'
 require 'pp'
@@ -128,9 +135,9 @@ define_method :pad_inner_days do |month_name, month_hash|
   return month_hash.sort.to_h
 end
 
-define_method :create_calendar_hash do
+def create_calendar_hash(show_array)
   calendar = {}
-  [bmr,show1,show2,show3,show4,show5].each do |production|
+  show_array.each do |production|
     production.each do |property, value|
       unless [:name, :short_name, :code].include? property
         # Property is now a dates category
@@ -185,8 +192,9 @@ define_method :showing do |production, day_part|
 end
 
 define_method :create_html_calendar do
-  puts PP.pp create_calendar_hash()
-  calendar = create_calendar_hash()
+  show_array = [bmr,show1,show2,show3,show4,show5]
+  puts PP.pp create_calendar_hash(show_array)
+  calendar = create_calendar_hash(show_array)
   calendar_html = "<div class=\"calendar\">"
   calendar.each do |month, dates|
     month_num = {may: 5, june: 6, july: 7, august: 8}[month]
@@ -273,6 +281,35 @@ open '../_includes/calendar.html', 'w' do |f|
   f.puts "</div>\n\n"
 
   f.puts create_html_calendar()
+end
+
+open 'schedule.txt', 'w' do |f|
+  f.puts "Post Playhouse #{year}\n\n"
+
+  [show1,show2,show3,show4,show5].each do |s|
+    calendar = create_calendar_hash([s])
+    f.puts "#{s[:name]}\n"
+
+    calendar.each do |month, dates|
+      date_str_arr = []
+      dates.each do |date, perf_type|
+        next if perf_type.empty?
+        date_str_arr << case perf_type.first[0]
+          when :evening
+            "#{date}"
+          when :morning
+            "#{date}‡"
+          when :afternoon
+            "#{date}*"
+          else
+            f.puts "error: #{perf_type}"
+        end
+      end
+      f.puts "#{month.to_s.capitalize} #{date_str_arr.join(", ")}"
+      
+    end
+    f.puts "\n\n"
+  end
 end
 
 # <tr class="week">
