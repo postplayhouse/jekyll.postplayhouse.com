@@ -15,75 +15,75 @@ require 'date'
 require 'pp'
 require 'fileutils'
 
-year = 2016
+year = 2017
 morning_time_arr = ["10:00am", "10am"]
 matinee_time_arr = ["2:00pm", "2pm"]
 evening_time_arr = ["8:00pm", "8pm"]
 
 show1 = {
   code: "show-1",
-  name: "Disney's Beauty and the Beast",
-  short_name: "Beauty/Beast",
+  name: "Shrek The Musical",
+  short_name: "Shrek",
   morning_dates: {
     june: [],
-    july: [30],
-    august: [6]
+    july: [29],
+    august: [5]
     },
   matinee_dates: {
-    june: [5, 26],
-    july: [24, 27],
-    august: [3, 10, 14]
+    june: [4, 25],
+    july: [12, 14, 16, 19, 26],
+    august: [9, 11, 13]
     },
   evening_dates: {
-    june: [3,4,7,14,22],
-    july: [6,15,21],
-    august: [12]
+    june: [2, 3, 6, 13, 21],
+    july: [5, 22],
+    august: []
   }
 }
 show2 = {
   code: "show-2",
-  name: "The Addams Family",
-  short_name: "Addams",
+  name: "Mama Mia!",
+  short_name: "Mama Mia!",
   morning_dates: {
     june: [],
     july: [],
     august: []
     },
   matinee_dates: {
-    june: [12],
-    july: [15,17,30],
-    august: [6,13]
+    june: [11],
+    july: [8, 15, 29],
+    august: [6]
     },
   evening_dates: {
-    june: [10,11,15,21,24,29],
-    july: [5,22,28],
-    august: []
+    june: [9, 10, 14, 20, 23, 28],
+    july: [4, 13, 18, 20, 26],
+    august: [3, 8, 12]
   }
 }
 show3 = {
   code: "show-3",
-  name: "Legally Blonde",
-  short_name: "Blonde",
+  name: "Crazy For You",
+  short_name: "Crazy",
   morning_dates: {
     june: [],
     july: [],
     august: []
     },
   matinee_dates: {
-    june: [19],
-    july: [23,31],
-    august: [12]
+    june: [18],
+    july: [21, 23],
+    august: [5, 12]
     },
   evening_dates: {
-    june: [17,18,23,25,28],
-    july: [9,13,16,20],
-    august: [2,5]
+    june: [16, 17, 22, 24, 27],
+    july: [8, 12, 15, 27, 29],
+    august: [2, 9]
   }
 }
 show4 = {
   code: "show-4",
-  name: "Cabaret",
-  short_name: "Cabaret",
+  name: "Chicago",
+  short_name: "Chicago",
   morning_dates: {
     june: [],
     july: [],
@@ -91,19 +91,19 @@ show4 = {
     },
   matinee_dates: {
     june: [],
-    july: [3,9,13,16,20,22],
-    august: [7]
+    july: [22],
+    august: [2]
     },
   evening_dates: {
-    june: [],
-    july: [1,2,26,30],
-    august: [4,10,13]
+    june: [30],
+    july: [1, 2, 11, 19, 25, 28, 30],
+    august: [5, 11]
   }
 }
 show5 = {
   code: "show-5",
-  name: "Monty Python's Spamalot",
-  short_name: "Spamalot",
+  name: "Young Frankenstein",
+  short_name: "Frankenstein",
   morning_dates: {
     june: [],
     july: [],
@@ -111,20 +111,20 @@ show5 = {
     },
   matinee_dates: {
     june: [],
-    july: [10],
+    july: [9, 27],
     august: []
     },
   evening_dates: {
     june: [],
-    july: [8,12,14,19,23,27,29],
-    august: [3,6,9,11]
+    july: [7, 14, 21],
+    august: [1, 4, 10]
   }
 }
 bmr = {
   code: "",
   name: "Bald Mountain Rounders",
   short_name: "Bald Mountain Rounders",
-  evening_dates: {may: [28]}
+  evening_dates: {may: []}
 }
 
 define_method :pad_inner_days do |month_name, month_hash|
