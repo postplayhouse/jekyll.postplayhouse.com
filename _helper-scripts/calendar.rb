@@ -3,7 +3,9 @@
 # so that it creates calendar.html in the correct dir.
 # Then make a couple minor adjustments to the generated file
 # if needed. For example, a month starting on a Monday, will
-# omit that day (or any day or more without a show.)
+# omit that day (or any day or more without a show.) See
+# https://github.com/happycollision/jekyll.postplayhouse.com/commit/edffb8b4792f9959932cc315182fc24b7f4b3296
+# for more details.
 
 # This script will also generate a file called schedule.txt in
 # its directory as well. That will contain a per-show list of
