@@ -288,7 +288,13 @@ open '../_includes/calendar.html', 'w' do |f|
 end
 
 open 'schedule.txt', 'w' do |f|
-  f.puts "Post Playhouse #{year}\n\n"
+  f.puts "Post Playhouse #{year}\n\n\n"
+
+  f.puts "By Production:"
+  f.puts "==============\n\n"
+  f.puts "Showtimes are 8pm unless otherwise noted:"
+  f.puts "  * = #{matinee_time_arr[1]}  ‡ = #{morning_time_arr[1]}"
+  f.puts "\n"
 
   [show1,show2,show3,show4,show5].each do |s|
     calendar = create_calendar_hash([s])
@@ -313,6 +319,30 @@ open 'schedule.txt', 'w' do |f|
       
     end
     f.puts "\n\n"
+  end
+  
+  f.puts "By Dates:"
+  f.puts "=========\n\n"
+  
+  calendar = create_calendar_hash([show1,show2,show3,show4,show5])
+  calendar.each do |month, dates|
+    dates.each do |date, perf_types|
+      next if perf_types.empty?
+      f.puts "#{month.to_s.capitalize} #{date}"
+      perf_types.each do |day_part, show_obj|
+        f.puts case day_part
+          when :morning
+            "  #{morning_time_arr[1]}  #{show_obj[:name]}"
+          when :afternoon
+            "  #{matinee_time_arr[1]}   #{show_obj[:name]}"
+          when :evening
+            "  #{evening_time_arr[1]}   #{show_obj[:name]}"
+          else
+            "error: #{day_part.to_s}: #{show_obj}"
+        end
+      end
+      f.puts ""
+    end
   end
 end
 
