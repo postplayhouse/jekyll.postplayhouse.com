@@ -1,6 +1,6 @@
 # Sloppy script to (mostly) generate a calendar
-# run it from the terminal in its own directory (so the accomapnying file is created next to it)
-# copy paste into the actual calendar page and make a couple minor adjustments
+# run it from the terminal in its own directory (so the accomapnying file is created properly in _includes)
+# make a couple minor adjustments to the generated file
 
 require 'date'
 require 'pp'
@@ -260,10 +260,19 @@ define_method :create_html_calendar do
   return calendar_html
 end
 
-open 'calendar_html.html', 'w' do |f|
-  f.puts "<html><head><link rel=\"stylesheet\" href=\"../_site/css/main.css?v=1\"></head><body>"
+open '../_includes/calendar.html', 'w' do |f|
+  f.puts "<div class=\"calendar-filters\">\n"
+
+  [show1,show2,show3,show4,show5].each do |s|
+    f.puts "\
+  <div class=\"filter selected #{s[:code]}\">
+    #{s[:name]}
+  </div>"
+
+  end
+  f.puts "</div>\n\n"
+
   f.puts create_html_calendar()
-  f.puts "</body></html>"
 end
 
 # <tr class="week">
