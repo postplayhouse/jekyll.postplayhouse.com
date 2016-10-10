@@ -14,6 +14,10 @@ require 'pp'
 require 'fileutils'
 
 year = 2016
+morning_time_arr = ["10:00am", "10am"]
+matinee_time_arr = ["2:00pm", "2pm"]
+evening_time_arr = ["8:00pm", "8pm"]
+
 show1 = {
   code: "show-1",
   name: "Disney's Beauty and the Beast",
@@ -170,11 +174,11 @@ define_method :showing do |production, day_part|
   return "" if production == nil
   times = case day_part
     when "morning"
-      ["10:00am", "10am"]
+      morning_time_arr
     when "matinee"
-      ["2:00pm", "2pm"]
+      matinee_time_arr
     when "evening"
-      ["8:00pm", "8pm"]
+      evening_time_arr
   end
   html = "
       <div class=\"showing #{day_part} #{production[:code]}\">"
