@@ -42,8 +42,8 @@ show1 = {
 }
 show2 = {
   code: "show-2",
-  name: "Mama Mia!",
-  short_name: "Mama Mia!",
+  name: "Mamma Mia!",
+  short_name: "Mamma Mia!",
   morning_dates: {
     june: [],
     july: [],
