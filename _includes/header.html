@@ -9,9 +9,22 @@
     </a>
 
     <div class="get-tickets">
-      <form action="http://postplayhousetickets.com" method="link">
+      <form id="get-tickets-form-link" action="http://postplayhousetickets.com" method="link">
         <button class="online">Get Tickets Online</button>
       </form>
+      
+      <!-- Add event to the button's click handler -->
+      <script type="text/javascript">
+      $( '#get-tickets-form-link' ).on('submit.box_office', function(e) {
+        e.preventDefault();
+        fbq('track', 'LinkToBoxOffice');
+        setTimeout(function () {
+          document.location.href = "http://postplayhousetickets.com";
+        }, 500);
+      });
+      </script>
+
+      
       <a href="{{ site.baseurl }}/ticket-info/">Ticket Information</a>
       <br />
       <span class="phone-number">308-665-1976<span>
