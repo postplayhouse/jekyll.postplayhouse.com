@@ -91,12 +91,12 @@ show4 = {
     },
   matinee_dates: {
     june: [],
-    july: [22],
+    july: [2, 22, 30],
     august: [2]
     },
   evening_dates: {
     june: [30],
-    july: [1, 2, 11, 19, 25, 28, 30],
+    july: [1, 11, 19, 25, 28],
     august: [5, 11]
   }
 }
