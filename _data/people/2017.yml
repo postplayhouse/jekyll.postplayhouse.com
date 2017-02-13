@@ -925,6 +925,28 @@
   image_year: 2016
   image_file: jeanine-mohr.jpg
 
+- first_name: Jess
+  last_name: Espinoza
+  location: "Crawford, Nebraska"
+  groups: >
+    - board
+  positions:
+  bio: >
+    
+  image_year: 2017
+  image_file: jess-espinoza.jpg
+
+- first_name: Vicki
+  last_name: DeWald
+  location: "Crawford, Nebraska"
+  groups: >
+    - board
+  positions:
+  bio: >
+    
+  image_year: 2017
+  image_file: vicki-dewald.jpg
+
 
 # - first_name: Mike
 #   last_name: Morava
