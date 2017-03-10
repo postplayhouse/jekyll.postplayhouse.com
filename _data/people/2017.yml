@@ -902,18 +902,6 @@
   image_year: 2015
   image_file: ellen-feldges.jpg
 
-- first_name: Raime
-  last_name: Varvel
-  location: "Hay Springs, Nebraska"
-  groups: >
-    - board
-  positions:
-  bio: >
-    
-  image_year: 2015
-  image_file: raime-varvel.jpg
-
-
 - first_name: Jeanine
   last_name: Mohr
   location: "Chadron, Nebraska"
@@ -946,6 +934,18 @@
     
   image_year: 2017
   image_file: vicki-dewald.jpg
+
+
+- first_name: Danielle
+  last_name: Lecher
+  location: "Chadron, Nebraska"
+  groups: >
+    - board
+  positions:
+  bio: >
+    
+  image_year: 2017
+  image_file: danielle-lecher.jpg
 
 
 # - first_name: Mike
