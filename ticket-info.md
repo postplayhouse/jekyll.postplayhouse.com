@@ -3,7 +3,6 @@ title: Ticket Information
 permalink: /ticket-info/
 layout: page
 ---
-__New for 2016:__ We released a [statement about changes]({% post_url 2015-11-01-the-2016-season-and-game-and-parks %}) for this year.
 
 Ticket sales for every summer season begin November 1st of the previous calendar year. [Buy yours now](http://postplayhousetickets.com)!
 
