@@ -117,12 +117,11 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
 
 Please choose from the following shows to fill out your season subscription:
 
-1. Bald Mountain Rounders
-1. Disney’s Beauty And The Beast
-1. The Addams Family
-1. Cabaret
-1. Legally Blonde
-1. Monty Python’s Spamalot
+1. Shrek: The Musical
+1. Mamma Mia!
+1. Crazy for You
+1. Chicago
+1. Young Frankenstein
 
 
 Please remember that seats can only be reserved based on availability, so call the box office to secure your seats. Also note, as stated above, subscriptions may only be used on 4 or 5 *different productions*. This means they cannot be used to see the same production multiple times.
