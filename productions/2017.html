@@ -55,6 +55,9 @@ order: 2
 
     {% endif %}
   </div>
+  {% if production.rating %}
+    <div class="production-rating"><a href="{{ site.baseurl }}\ratings">Unofficial Rating</a>: {{ production.rating }}</div>
+  {% endif %}
 </article>
 
 {% endfor %}
