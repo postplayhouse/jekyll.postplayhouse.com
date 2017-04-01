@@ -15,6 +15,7 @@
     "del": "^2.2.0",
     "gulp": "^3.9.1",
     "gulp-cached": "^1.1.0",
+    "gulp-image": "^2.7.5",
     "gulp-imageoptim": "^1.0.3",
     "gulp-load-plugins": "^1.2.0",
     "gulp-newer": "^1.1.0",
