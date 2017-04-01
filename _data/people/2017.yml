@@ -244,19 +244,19 @@
 #   image_file: kiley-mcdonald.jpg
 # 
 # 
-# - first_name: Leo
-#   last_name: Haselhorst
-#   location: "Randolph, NE"
-#   groups:
-#     - crew
-#   positions:
-#     - Technical Staff
-#   bio: >
-#     Leo is very excited for his first season working at the Post. He is currently pursuing a B.A. of fine arts at Chadron State college where he has worked carpentry for several shows. Leo would like to thank all of the workers at the Post for this amazing opportunity to pursue his interests in theater.
-#   image_year: 2016
-#   image_file: leo-haselhorst.jpg
-# 
-# 
+- first_name: Leo
+  last_name: Haselhorst
+  location: "Randolph, NE"
+  groups:
+    - staff
+  positions:
+    - Season Technical Director
+  bio: >
+    
+  image_year: 2016
+  image_file: leo-haselhorst.jpg
+
+
 # - first_name: Jacob
 #   last_name: Voorhis
 #   location: "Belle Fourche, South Dakota and Chadron, Nebraska"
