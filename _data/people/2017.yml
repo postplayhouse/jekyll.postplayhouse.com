@@ -4,17 +4,17 @@
 #   groups:
 #     - 
 #   positions:
-#     - Beauty and the Beast --- 
-#     - The Addams Family --- 
-#     - Legally Blonde --- 
-#     - Cabaret --- 
-#     - Monty Python's Spamalot --- 
+#     - Shrek --- 
+#     - Mamma Mia! --- 
+#     - Crazy For You --- 
+#     - Chicago --- 
+#     - Young Frankenstein --- 
 #   bio: >
 #     
 #   image_year: 2016
 #   image_file:
-#   
-#   
+#
+#
 # Use the template above for quick entry
 # If you specify an 'image_path', the year and file are ignored and
 # the full path to the image (prepended by the baseurl) is used.
@@ -31,23 +31,6 @@
 #
 #
 
-# - first_name: Don
-#   last_name: Denton
-#   location: "Bettendorf, IA"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Lumiere
-#     - The Addams Family --- Mal Beineke
-#     - Legally Blonde --- Emmett
-#     - Cabaret --- Ensemble
-#     - Monty Python's Spamalot --- Sir Robin
-#   bio: >
-#     Don is happy to be returning to his favorite professional summer theatre company! Favorite roles at Post Playhouse include Sky Masterson in *Guys &amp; Dolls*, Chad in *All Shook Up*, and Hank in *Hank Williams: Lost Highway*. Other professional credits include Jean Valjean in *Les Mis&eacute;rables* (Circa &rsquo;21 Dinner Playhouse, Rock Island, IL), Sir Bliant in *Camelot* (Drury Lane Theatre, Chicago), Bernard in *Boeing Boeing* (Wayside Theatre, Middletown, VA) and George Bailey in *A Wonderful Life* (Circa &rsquo;21). Thanks to Tom and all the staff at Post. Love and thanks to Paige, Mom, Dad, Dan, Amber, and little Oliver. Thanks to Kim, WP, Peter, and Carol. Thanks to God. For more, visit [DonDentonActor.com](http://dondentonactor.com).
-#   image_year: 2015
-#   image_file: don-denton.jpg
-# 
-# 
 # - first_name: Pheobe H.
 #   last_name: Boynton
 #   location: "Ithaca, NY, Los Angeles, CA, & MS Oceania Riviera"
@@ -76,23 +59,6 @@
   image_file: don-fox.jpg
 
 
-# - first_name: Paige
-#   last_name: Salter
-#   location: "Chattanooga, TN"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Mrs. Potts
-#     - The Addams Family --- Alice Beineke
-#     - Legally Blonde --- Paulette
-#     - Cabaret --- Fräulein Kost/Chanteuse
-#     - Monty Python's Spamalot --- Lady of the Lake
-#   bio: >
-#     Paige is thrilled to be returning to Post Playhouse, her home away from home. Favorite roles on this stage include Sandra in *All Shook Up*, Sarah in *Guys and Dolls*, Doralee in *9 to 5*, Mrs. Tottendale in *Drowsy Chaperone*, Rona in *The 25th Annual Putnam County Spelling Bee*, Mayzie in *Seussical*, and Sister Robert Anne in *Nunsense*. Favorite roles outside of Post Playhouse include Belladova in *Phantom* (Circa '21 Dinner Playhouse), Mother in *Ragtime* (Ensemble Theatre of Chattanooga), Miklow in *Stone Soup* (Great Plains Theatre), Suki in *Route 66* (Circa '21), and Kay in *Sesame Street Live, Elmo's Healthy Heroes* (East Coast/ Puerto Rico Tour). Paige has worked as a vocalist on the Norwegian Majesty cruise ship and has recorded a number of songs for the children's musicals *A Whale of a Tale* and *Esther! Elevated* (Michael Huseman Music). Paige is a Belmont University grad. Many thanks to Tom Ossowski! Thanks to her loved ones on earth and in heaven!
-#   image_year: 2015
-#   image_file: paige-salter.jpg
-# 
-# 
 # - first_name: Nathan
 #   last_name: Sonnenschein
 #   location: "Lander, WY"
@@ -154,20 +120,6 @@
   image_file: tom-ossowski.jpg
 
 
-- first_name: Scott
-  last_name: Cavin
-  location: "Chadron, NE via Lemoore, CA"
-  groups:
-    - creative
-    - staff
-  positions:
-    - Season Technical Director 
-  bio: >
-    Scott graduated with a MFA from Illinois State College and a BFA from Stephens College in Columbia MO.  After graduation Scott worked and designed for theaters in Los Angles, Chicago, Albany GA, Boise ID before landing in Chadron.  Scott is currently employed at Chadron State College as an Associate Professor of Theatre. His responsibilities include Designer (Scenic, Lighting, Sound, Projection), Technical Director and Production Manager for theatre, college, community, Galaxy (touring), and Fine Arts events. Recent designs credits (Set and Light) include: *Money Shot*, *Rosencrantz & Guilderstein are Dead*, *Big River*, *Extremities*, *The Underpants*, *Little Shop of Horrors*, *Bus Stop*, *Almost Maine*, *Godspell*, *Cat on a Hot Tin Roof* and *Junglebook*. Always looking for a new challenge Scott has added Directing to his list of accomplishments.    Some of his most recent directing Credits include:  *Extremities*, *Money Shot*, *The Vampire Cowboy Trilogy*, *The Play About the Baby*, *Beautiful Child*, *The Shape of Things* and *Boy Gets Girl*.  You can see more of Scott’s work at his outdated website. [www.scottcavin.com](http://www.scottcavin.com)
-  image_year: 2015
-  image_file: scott-cavin.jpg
-
-
 # - first_name: Emily
 #   last_name: Schexnaydre
 #   location: "Gonzales, LA - Lyndhurst, NJ"
@@ -183,121 +135,6 @@
 #     Emily Schexnaydre is a Louisiana native living in New Jersey pursuing her love for the arts. She graduated from CCM with a BFA in Musical Theatre. Recent credits include Rona Lisa Peretti in *The 25th Annual Putnam County Spelling Bee* (The Princeton Festival), Madame Thenardier in *Les Mis&eacute;rables* (CCM), and Vivienne in *Legally Blonde* (CSPAA). She is beyond excited to be performing with Post Playhouse this summer and would like to thank Tom and the creative team at Post for this amazing opportunity. She would also like to thank her parents, friends, family, and Brian for their unending love and support! OMIGOD!
 #   image_year: 2016
 #   image_file: emily-schexnaydre.jpg
-# 
-# 
-# - first_name: Graham
-#   last_name: Mortier
-#   location: "Indianapolis, IN"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Ensemble/Monsieur D'Arque
-#     - The Addams Family --- Ancestor
-#     - Legally Blonde --- Warner
-#     - Cabaret --- The Emcee
-#     - Spamalot --- Dennis/Galahad
-#   bio: >
-#     Graham is so elated to be working his 1st year at Post Playhouse! He just graduated from Florida State University with his BFA in Music Theatre and is excited to start acting professionally. His FSU credits include *A Chorus Line*, *Legally Blonde*, *Ragtime*, *Cabaret*, and *Spamalot!* He would like to thank Tom for offering his first acting job and allowing him to wilkommen everyone to his Kit Kat Klub! Also, he would like to thank his friends and family for all the love and support and allowing him to reach for the stars.
-#   image_year: 2016
-#   image_file: graham-mortier.jpg
-# 
-# 
-# - first_name: Jackie
-#   last_name: Ostick
-#   location: "New York City, NY"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Bouche
-#     - The Addams Family --- Morticia
-#     - Legally Blonde --- Serena
-#     - Cabaret --- Frau Schneider
-#     - Spamalot --- Ensemble
-#   bio: >
-#     Jackie is absolutely thrilled to be joining the Post Playhouse family this summer!  She is a Philly girl who moved to New York City 8 years ago and has had the honor of playing in theatres around the country.  Her credits include touring in *Laura Ingalls Wilder*, *Anne of Green Gables* and *Otherwise Known as Sheila the Great* with ArtsPower National Touring Theatre and *Oliver* (Widow Corney) and *The Music Man* (Mrs. Paroo) at the Roxy Regional Theatre.  Jackie would like to thank Tom for this incredible opportunity, all here at Post for being so welcoming and her family for their support and for always coming to see the show!  This one is for Grandpa!
-#   image_year: 2016
-#   image_file: jackie-ostick.jpg
-# 
-# 
-# - first_name: Jennifer
-#   last_name: Poarch
-#   location: "Lenoir, NC"
-#   groups:
-#     - creative
-#   positions:
-#     - Director/Choreographer --- Beauty and the Beast
-#   bio: >
-#     You never know where you will see Jennifer next.  Jennifer grew up in Lenoir, North Carolina and graduated from Lees-McRae College with a Bachelor of Science in Musical Theater and Dance.  She spends most of her time as a gypsy traveling from theater to theater pursuing her career as a performer/director/choreographer.  This is her second season with Post Playhouse, and she is thrilled to return.  You may remember her as Natalie/Ed in *All Shook Up* or simply running around this theater from the back office to the box office or scanning your entry tickets. Some favorite directing/choreography credits include:  *Thoroughly Modern Millie*, *9 to 5*, *Chicago*, *Fiddler on the Roof*, *Cinderella*, *Once Upon a Mattress*, *I Love You, You're Perfect...Now Change*, *Annie*, *State Fair*, *Little Shop of Horrors*.  Jennifer gives thanks to her family, friends and God for all their love and support.
-#   image_year: 2015
-#   image_file: jennifer-poarch.jpg
-# 
-# 
-# - first_name: Nick
-#   last_name: Waaland
-#   location: "Irvine, CA"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Beast
-#     - The Addams Family --- Lurch
-#     - Legally Blonde --- Sundeep/Ensemble
-#     - Cabaret --- Ernst
-#     - Spamalot --- Bedevere
-#   bio: >
-#     Nick is beyond grateful for this opportunity! He was last seen at Post Playhouse as Frank Butler in *Annie Get Your Gun*, among others. Some recent credits include *Beauty and the Beast* (3D Theatricals), Yukon Cornelious in *Rudolph the Red-Nosed Reindeer* (McCoy Rigby) Bert in *Mary Poppins* (Sadddleback), and Rocky in *Damn Yankees* (3DT). Thank you to Mom, Dad, Bobby. And to the Post Playhouse family!
-#   image_year: 2016
-#   image_file: nick-waaland.jpg
-# 
-# 
-# - first_name: Samantha A.
-#   last_name: Matthews
-#   location: "Connecticut, NYC, South Carolina"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Belle
-#     - The Addams Family --- Ancestor
-#     - Legally Blonde --- Vivienne
-#     - Cabaret --- Kit Kat Girl
-#     - Spamalot --- Laker Girl/Ensemble
-#   bio: >
-#     Samantha is elated to be back at Post for her third season! Previous Post credits include, Cinderella in *Rodgers and Hammerstein's Cinderella*, Marty in *Grease*, and Maria in *The Sound of Music*.  After living and working in NYC for several years, Samantha left in 2014 and has been lucky enough to spend the past year and a half traveling all over the country doing what she loves. She comes to Nebraska directly from South Carolina where she spent the beginning of 2016 near her family performing in the Myrtle Beach area. Other credits include *Les Mis&eacute;rables* (Circa21 Dinner Playhouse), *A Year with Frog and Toad* (Playhouse on Park) as well as multiple Off-Broadway productions in NYC. Samantha would like to thank everyone who ceaselessly works to make the Post Playhouse feel like home every year, Tom for giving her the opportunity to return to her favorite corner of the world, and her family for coming to visit all of the places she calls home across the country. [www.SamanthaAMatthews.com](http://www.samanthaamatthews.com/)
-#   image_year: 2015
-#   image_file: samantha-matthews.jpg
-# 
-# 
-# - first_name: Timothy
-#   last_name: Houston
-#   location: "New York City, NY"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Gaston
-#     - The Addams Family --- Ancestor
-#     - Legally Blonde --- Kyle/Carlos/Lowel
-#     - Cabaret --- Cliff
-#     - Spamalot --- Lancelot
-#   bio: >
-#     Timothy is an NYC based actor excited to be making his Post Playhouse debut! NYC credits: *La Boheme*, *Andrea Chenier*, *Les contes d'hoffmann*, *Prince Igor*, and *Aida* (The Metropolitan Opera). National Tours: *A Christmas Carol* (Nebraska Theatre Caravan). Select Regional: *Hairspray* (Link Larkin) *The Rocky Horror Show* (Brad Majors) *Murder Ballad* (Tom) and most recently finished *Footloose* (Chuck Cranston) at the Eldorado Resort Casino! For upcoming shows, videos and photos check him out at [timothymichaelhouston.com](http://timothymichaelhouston.com/). Enjoy the show!!!!!
-#   image_year: 2016
-#   image_file: timothy-houston.jpg
-# 
-# 
-# - first_name: Tommy
-#   last_name: Wallace
-#   location: "New York City, NY"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Lefou
-#     - The Addams Family --- Uncle Fester
-#     - Legally Blonde --- Aaron
-#     - Cabaret --- Ensemble
-#     - Spamalot --- Patsy
-#   bio: >
-#     Tommy is thrilled to be returning to the Post Playhouse for a fourth summer! A few favorite past performance credits include George in *The Drowsy Chaperone* at the Arts Center of Coastal Carolina, Smee in *Peter Pan* at the Fireside Theatre, Spats in *Sugar* at the Broadway Palm Dinner Theatre, Gangster #1 in *The Drowsy Chaperone* at the Dutch Apple Dinner Theatre, and Dennis in *All Shook Up* right here at the Post Playhouse. Tommy would like to thank Tom and the board at the Post for all of the amazing opportunities they have provided, and all of his friends and family for their constant support.
-#   image_year: 2016
-#   image_file: tommy-wallace.jpg
 # 
 # 
 # - first_name: Derek
@@ -329,23 +166,6 @@
 #     Wally is returning to the Post Playhouse for a fifth season and can't think of a better way to spend a summer.  Previously, he has appeared on the playhouse stage as Andrew Carnes (in *Oklahoma!*), Pawnee Bill (in *Annie Get Your Gun*), Baron Elberfeld (in *The Sound of Music*), Arvide Abernathy (in *Guys and Dolls*), Russell Tinsworthy (in *Nine to Five*), ensemble (in *Hollywood: a Cabaret*), Baldy (in *A Man of No Importance*), the King (in *Cinderella*), and Mayor Rufus Poindexter and Senator Wingwoah (in *The Best Little Whorehouse in Texas*).  Wally is grateful to have the opportunity to be a part of the magic that is created on the stage of the Post Playhouse.
 #   image_year: 2015
 #   image_file: wally-seiler.jpg
-# 
-# 
-# - first_name: Kayli
-#   last_name: Jamison
-#   location: "New York City, NY"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Babette/Old Beggar Woman
-#     - The Addams Family --- Grandma
-#     - Legally Blonde --- Margot
-#     - Cabaret --- Kit Kat Girl
-#     - Spamalot --- Ensemble
-#   bio: >
-#     Kayli is thrilled to be returning to the Post Playhouse for this amazing season! Last summer she appeared as Shy in *The Best Little Whorehouse in Texas* and Patty Simcox in *Grease*. She spent the holiday season playing Cocoa, the tap dancing reindeer in *There's No Place Like Home for the Holidays* at the Allenberry Playhouse. Other credits include Audrey in *Little Shop of Horrors*, Erma in *Anything Goes*, and Peggy Sawyer in *42nd Street* at Nebraska Wesleyan University. Kayli gives thanks to her family and boyfriend Jesse for all their love and support. 
-#   image_year: 2016
-#   image_file: kayli-jamison.jpg
 # 
 # 
 # - first_name: Marge
@@ -407,19 +227,6 @@
 #   image_file: ann-stephens.jpg
 # 
 # 
-# - first_name: Benson
-#   last_name: Anderson
-#   location: "Cleveland, OH"
-#   groups:
-#     - musicians
-#   positions:
-#     - Bass/Guitar
-#   bio: >
-#     Benson is honored and excited to make his Post Playhouse debut as a member of the orchestra. A rising junior studying music composition at Denison University located in central Ohio, Benson's recent pit jobs include *American Idiot* (Beck Center for the Arts) and *Hedwig and the Angry Inch* (Parallel 45). Benson also has appeared on stage as Roger in *Rent* (Denison University) and Link Larkin in *Hairspray* (Heights Youth Theatre). He thanks you all for supporting the arts and hopes you enjoy the shows and the music!
-#   image_year: 2016
-#   image_file: benson-anderson.jpg
-# 
-# 
 # - first_name: Kiley L.
 #   last_name: McDonald
 #   location: "New York City, NY"
@@ -435,80 +242,6 @@
 #     Kiley is thrilled to be making her Post Playhouse debut! Past credits include: *HAIR* (Crissy), Mickey & Company (World Premiere, Tokyo), *London Rocks!* (USA Premiere, Sam Buntrock/Chase Brock), *I Love You, You're Perfect, Now Change* (Woman 2), *The Who's Tommy* (Mrs. Walker) and *Urinetown* (Hope Cladwell). As well numerous Off-Broadway and NYC workshops. Huge thanks to everyone at Post for this amazing opportunity and tons of love to my family. [KileyLMcDonald.com](http://kileylmcdonald.com)
 #   image_year: 2016
 #   image_file: kiley-mcdonald.jpg
-# 
-# 
-# - first_name: Erin Skelley
-#   last_name: Holderman
-#   location: "Chattanooga, Tennessee"
-#   groups:
-#     - creative
-#   positions:
-#     - Charge Artist
-#     - Properties Artist
-#     - General Technician
-#   bio: >
-#     Erin is so excited to be making her professional painting debut at the Post Playhouse! A recent graduate of the University of Tennessee at Chattanooga, Erin has been volunteering at her local Chattanooga Theatre Center as a scenic artist and props designer, working on shows such as *Sister Act*, *A Christmas Story: The Musical*, and *Harvey*, waiting for her chance to step into the professional world. She is so thankful to Tom and the Post Playhouse family for giving her this amazing opportunity.
-#   image_year: 2016
-#   image_file: erin-holderman.jpg
-# 
-# 
-# - first_name: Kayleigh Marie
-#   last_name: Brennan
-#   location: "New York City, NY"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Ensemble
-#     - The Addams Family --- Wednesday
-#     - Legally Blonde --- Brooke
-#     - Cabaret --- Ensemble
-#     - Spamalot --- Ensemble
-#   bio: >
-#     Kayleigh Marie Brennan is THRILLED to be making her debut with Post Playhouse this summer! She is a graduate of The Catholic University of America’s Musical Theatre program. Her past roles include Wendla in *Spring Awakening*, Ivy in *Bare*, Lucille Frank in *Parade*, and Marta in *Company*. When not on the stage performing, Kayleigh can be seen serving burgers and fries while belting her face off at Ellen’s Stardust Diner in NYC! Website: [Kayleighbrennan.com](http://kayleighbrennan.com)
-#   image_year: 2016
-#   image_file: kayleigh-brennan.jpg
-# 
-# 
-# - first_name: Brandon
-#   last_name: Sterling
-#   location: "Rapid City, SD & Laramie, WY"
-#   groups:
-#     - creative
-#     - musicians
-#   positions:
-#     - "Music Director --- Legally Blonde, Spamalot"
-#     - "Keyboard --- Cabaret, Addams Family, Beauty and the Beast"
-#   bio: >
-#     Brandon has always exemplified a deep passion for music. He has performed with the finest musicians in South Dakota, free-lanced in California, and has spent the last few years as a vital member of the music community in Wyoming. Holding a Bachelor’s Degree in Music with an emphasis in Jazz and Collaborative Piano, Brandon has provided piano lessons for children and students at the collegiate level. He has worked as a rehearsal accompanist for numerous productions, and also served as a music director for his local church. After the season, he plans to pursue educational and musical opportunities in Lincoln, Nebraska.  Brandon is thrilled to be a part of such an amazing cast and production team here at the Post Playhouse, where he is the music director for *Legally Blonde* and *Spamalot*. 
-#   image_year: 2016
-#   image_file: brandon-sterling.jpg
-# 
-# 
-# - first_name: Joseph J.
-#   last_name: Reynolds
-#   location: "Sarasota, FL and New York City, NY"
-#   groups:
-#     - creative
-#     - crew
-#   positions:
-#     - Season Sound Design & Technician 
-#   bio: >
-#     Joseph is very excited to be a part of Post Playhouse's summer season. This is his first foray into Mid-west regional theater, but previous Sound Design credits include; Ziegfeld's *Midnight Frolic* (Old Liberty Theatre, NYC), *Aida* (Milton Bassin Performing Arts Center, C.U.N.Y. Queens NYC), and summer stock productions of *Chicago*, *Singin' in the Rain*, *Call Me Madam*, *Crazy for You*, and *Bonnie and Clyde* (Ocean Professional Theater Company, Barnegat, New Jersey). He loves to travel doing sound for theater, and hangs his hat in sunny Sarasota Florida where he does audio post for student films at local colleges. Joseph is a Alumni of Full Sail in Orlando, Florida.  He would like to thank the cast and crew of Post Playhouse for making him feel most welcome in a new place, and his lovely Fiancee, Cindy, for her continual love and support.
-#   image_year: 2016
-#   image_file: joseph-reynolds.jpg
-# 
-# 
-# - first_name: Joanna
-#   last_name: Li
-#   location: "Cleveland, OH and Raleigh, NC"
-#   groups:
-#     - creative
-#     - musicians
-#   positions:
-#     - Music Director --- Beauty and the Beast, Addams Family, Cabaret
-#     - Keyboard --- Spamalot, Legally Blonde
-#   bio: >
-#     Jo is excited to join Post this summer! She began her musical career as a classical organist (and still continues to play) but transitioned into musical theatre after a summer accompanying the MT program at Interlochen Arts Camp in Michigan. Some favorite recent music directing gigs include *Hedwig and the Angry Inch* at Parallel 45 Theatre in Traverse City, Michigan, and *The Wiz* at Cape Fear Regional Theatre in Fayetteville, North Carolina. 
 # 
 # 
 # - first_name: Leo
@@ -540,19 +273,6 @@
 #   image_file: jacob-voorhis.jpg
 # 
 # 
-# - first_name: Stephen W
-#   last_name: Schultz
-#   location: "Tallahassee, FL"
-#   groups:
-#     - musicians
-#   positions:
-#     - Drums/Percussion
-#   bio: >
-#     Stephen Schultz is a musician and aspiring actor located in Tallahassee, Florida.  He is currently pursing a degree in Marketing and Music from Florida State University.  While most of his performing experience has been conducted in jazz small group and contemporary worship band settings, he recently began playing drum set/percussion for live theatre shows in Tallahassee.  In addition to playing drums, Stephen made his stage debut as Ellard Simms in *The Foreigner* (Monticello Opera House) this spring.  He would like to give a special thanks to Tom O. for inviting him out to Post Playhouse, his family and friends for their constant love and support.  He loves meeting new people so don't feel shy to introduce yourself and strike up a conversation!
-#   image_year: 2016
-#   image_file: stephen-schultz.jpg
-# 
-# 
 # - first_name: Anna
 #   last_name: Owen
 #   location: "Chadron, NE"
@@ -579,99 +299,8 @@
 #   image_file: jenett-blood.jpg
 #   
 #   
-# - first_name: Gustav
-#   last_name: Ossowski
-#   location: "Tallahassee, FL & Beatrice, NE"
-#   groups:
-#     - cast
-#   positions:
-#     - Legally Blonde --- Rufus 
-#   bio: >
-#     Gus is 4 years old and was born in Colorado.  He spends his summers assistant directing shows at the Post Playhouse where he loves to "go on breaks" with the cast.  His favorite toys are yellow but he especially likes blue squirrels. This will be his second time playing the role of Rufus. He originated the role this past spring at Florida State University.
-#   image_year: 2016
-#   image_file: gustav.jpg
-#   
-#   
-# - first_name: Samuel T.
-#   last_name: Martin
-#   location: "Hot Springs, SD"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Townsperson
-#     - The Addams Family --- Pugsley
-#   bio: >
-#     Samuel is ecstatic for his first season at the Post Playhouse! Originally from Hot Springs, SD, this Theatre Major at Chadron State College is absolutely thrilled to be joining the team. Roles at CSC include William Barfee in *The 25th Annual Putnam County Spelling Bee* and Uncle Silas/Ensemble in *Big River*. Samuel would like say thank you to all his friends and family for their continual support, and to all of the amazing people at the Post Playhouse for allowing him this incredible opportunity.
-#   image_year: 2016
-#   image_file: samuel-martin.jpg
-#   
-#   
-# - first_name: Kamden N.
-#   last_name: Victory
-#   location: "Crawford, NE"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Chip/Ensemble
-#   bio: >
-#     Kamden Victory is a Crawford native where she is currently in 5th grade.  She attends Crawford Elementary School and enjoys all things music, performing, loves reading, and playing chess with her Dad.  Kamden is beyond excited about this wonderful opportunity in the performance arts.  She would like to thank the Post Playhouse and Tom for allowing her to have this amazing experience!  She would also like to thank her family for supporting and loving her.
-#   image_year: 2016
-#   image_file: kamden-victory.jpg
-#   
-#   
-# - first_name: Phaedra R.
-#   last_name: Victory
-#   location: "Crawford, NE"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Townsperson
-#     - Legally Blonde --- Chutney
-#   bio: >
-#     A native of Crawford, Phaedra Victory has had a life-long passion for music.  As a mother of two, Phaedra feels blessed to share this experience with her daughter Kamden!  She would like to thank Tom and the Post Playhouse for welcoming her and Kamden into their family and for giving her a once in a life time memory to cherish with her daughter!  She would also like to thank her family for always supporting her and for loving her unconditionally!
-#   image_year: 2016
-#   image_file: phaedra-victory.jpg
-#   
-#   
-# - first_name: Kylah Jo
-#   last_name: Vogel
-#   location: "Crawford, NE"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Chip/Ensemble
-#   bio: >
-#     Kylah Jo is ecstatic to be back at Post Playhouse for her 3rd season. Kylah's previous roles at Post include being a mouse and carriage driver in *Rodgers and Hammerstein's Cinderella*. Kylah also performed as Brigitta in *The Sound of Music*. Kylah will be entering the 6th grade at Crawford Elementary in the fall of 2016. Kylah has many different interests and hobbies. Some hobbies include reading, learning about science and history, playing basketball and running, and also playing different instruments like the flute and saxophone.  She also enjoys playing the piano and singing. "I want to thank Tom and Jenn for allowing me this amazing opportunity. Everyone at the Post are like extra brothers and sisters to me and it is so awesome to have the best little theater in the state of Nebraska!! Also, thanks to mom and dad for all the support and being the best parents."
-#   image_year: 2015
-#   image_file: kylah-vogel.jpg
-#   
-#   
-# - first_name: Amanda
-#   last_name: Vogel
-#   location: "Crawford, NE"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Townsperson
-#   bio: >
-#     Amanda is thrilled to be making her Post Playhouse debut! Amanda’s interests are reading, and following and watching her girls' every activity. Her greatest joy is being a wife and a mom to three girls and a new baby boy. Amanda is looking forward to working alongside her daughter, Kylah Jo this year at Post. Amanda wants to thank Tom for this very cool opportunity.  What a great little theater our little town and state park has to offer. 
-#   image_year: 2016
-#   image_file: amanda-vogel.jpg
-#   
-#   
-# - first_name: Tinker Belle
-#   last_name: Victory
-#   location: "Crawford, NE"
-#   groups:
-#     - cast
-#   positions:
-#     - Legally Blonde --- Bruiser Woods
-#   bio: >
-#     Tink is 4 months old and lives in Crawford, Ne and was adopted by her forever family in March. Her favorite toys are her squeaky purple dog bone and her duck rope and her favorite place to be is underneath her fleece blanket sleeping or cheering on the Denver Broncos or Oklahoma Sooners with her mommy and daddy. She gets in trouble quit often by strewing toilet paper all over the house and sometimes imagines she is a cat and tries to climb or jump on anything bigger than her. Tink hasn't met anyone she doesn't love and can't wait to make her "Show Biz" debut at the Post Playhouse.
-#   image_year: 2016
-#   image_file: tink-victory.jpg
-  
-  
+
+
 #
 #
 #
@@ -701,7 +330,7 @@
   positions:
     - "Assistant Marketing Manager"
   bio: >
-    Don Denton has been performing with Post Playhouse off and on since 2008. Since that time, he has been working with Tom to rethink all their marketing efforts. For the past few years, all the mailings and the website have been designed by Don. He is very proud to continue to help the Playhouse reach for new heights both on stage and off.
+    Don Denton has been performing with Post Playhouse off and on since 2008. Since that time, he has been working with Tom to rethink all their marketing efforts. For the past few years, all the mailings and the website have been designed by Don. He is very proud to continue to help the Playhouse reach for new heights even from afar.
   image_year: 2015
   image_file: don-denton.jpg
 
@@ -713,7 +342,7 @@
   positions:
     - Accountant
   bio: >
-    Tim is the franchise owner of the Chadron H&R Block office, and has been the accountant for the playhouse since 2007.  He and his wife Kari have four children, Kaylee, Aaron, Braxton, and Seth.  Tim not only serves as the accountant, but also as the treasurer on the playhouse board.  He enjoys working with the great talent and staff every summer, and looks forward to many years with the playhouse.
+    Tim is the franchise owner of the Chadron H&R Block office, and has been the accountant for the playhouse since 2007.  He and his wife Kari have four children, Kaylee, Aaron, Braxton, and Seth. Tim not only serves as the accountant, but also as the treasurer on the playhouse board. He enjoys working with the great talent and staff every summer, and looks forward to many years with the playhouse.
   image_year: 2015
   image_file: tim-gaswick.jpg
 
@@ -946,15 +575,3 @@
     
   image_year: 2017
   image_file: danielle-lecher.jpg
-
-
-# - first_name: Mike
-#   last_name: Morava
-#   location: "Crawford, NE"
-#   groups: >
-#     - board
-#   positions:
-#   bio: >
-#     Director Fort Robinson State Park 
-#   image_year: 2015
-#   image_file: mike-morova.jpg
