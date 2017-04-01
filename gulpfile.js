@@ -39,7 +39,7 @@ gulp.task('copy-newer-images-to-temp', function(){
 
 gulp.task('optimize-temp-images', function(){
   return gulp.src('.tmp/images/**/*')
-    .pipe($.imageoptim.optimize({jpegmini: true}))
+    .pipe($.image())
     .pipe(gulp.dest('images'))
 });
 
