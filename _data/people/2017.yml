@@ -200,6 +200,23 @@
   image_file: kathleen-carter.jpg
 
 
+- first_name: Chuckie
+  last_name: Dixon
+  location: "New York City, NY"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    Chuckie is a proud ECU alum and lives in NYC. Some favorite credits: Clifford...tour (Clifford), _Spamalot_ (French Taunter), _Peter Pan_ (Slightly Soiled), _Cats_ (Mungojerrie), _A Christmas Story_ (Scut Farkus), and _Fiddler On the Roof_ (Mendel). Thanks and love to the Post team, my incredible mom, and the miraculous Mal!
+  image_year: 2017
+  image_file: chuckie-dixon.jpg
+
+
 # - first_name: Pheobe H.
 #   last_name: Boynton
 #   location: "Ithaca, NY, Los Angeles, CA, & MS Oceania Riviera"
@@ -376,19 +393,19 @@
 #   image_file: jacob-voorhis.jpg
 # 
 # 
-# - first_name: Anna
-#   last_name: Owen
-#   location: "Chadron, NE"
-#   groups:
-#     - staff
-#   positions:
-#     - Stitcher 
-#   bio: >
-#     Anna is excited to be a part of the Post Playhouse this summer. She is working as a stitcher, helping build the costumes. Anna has just graduated from Chadron State College with a degree in Theater. She would like to thank Tom and everyone at the Post for the great opportunity and experience.
-#   image_year: 2016
-#   image_file: anna-owen.jpg
-#   
-#   
+- first_name: Anna
+  last_name: Owen
+  location: "Chadron, NE"
+  groups:
+    - staff
+  positions:
+    - Stitcher 
+  bio: >
+    Anna is very excited to be coming back to the Post! This is her second summer here and she couldn’t be happier. Anna graduated from Chadron State College with her BA in Theater May 2016 and is Currently Working in Tampa, FL at Norwegian Creative Studios. Anna took the summer off to come back to the Post and be closer to her family.  Thank you so much to everyone at The Post Play House for this wonderful opportunity and the chance to be part of this amazing community.
+  image_year: 2017
+  image_file: anna-owen.jpg
+  
+  
 # - first_name: Jenett
 #   last_name: Blood
 #   location: "Crawford, NE"
