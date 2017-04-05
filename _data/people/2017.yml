@@ -13,8 +13,8 @@
 #     
 #   image_year: 2016
 #   image_file:
-#
-#
+# 
+# 
 # Use the template above for quick entry
 # If you specify an 'image_path', the year and file are ignored and
 # the full path to the image (prepended by the baseurl) is used.
@@ -30,6 +30,175 @@
 #
 #
 #
+- first_name: Aili
+  last_name: Venho
+  location: "New York City, NY"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    Aili is thrilled to be at Post Playhouse this summer! A few favorite past credits include: the Off Broadway hit _50 Shades! The Musical Parody_ (Pam), _A Chorus Line_ (Diana Morales), and _Finian's Rainbow_ (Sharon). Thanks to Dewayne, the cast, techs and creative, and thanks to Mom, Dad, Rob and Cait. Love is love is love!
+  image_year: 2017
+  image_file: aili-venho.jpg
+
+
+- first_name: Renée Elizabeth
+  last_name: Turner
+  location: "Miami, FL"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    Renèe Elizabeth Turner, a South Florida native, is a classically trained actress and vocalist who graduated Summa Cum Laude from FAU. Some of her favorite roles include: "Missy" (_The Winter Wonderettes_), "Sister Margaretta" (_The Sound of Music_), "Minnie/Angela" (_Parade_), and "Nettie Fowler" (_Carousel_) as well as having performed with Broadway composer Marc Shaiman. She thanks GOD, her Amazing husband Andrew/"Muffin", her beautiful parents Clarence and Elizabeth, family, friends, and the Incredible Thomas Dewayne Barrett for this Phenomenal Blessing in being a part of the Post Playhouse 50th Anniversary Season. ♥
+  image_year: 2017
+  image_file: renee-turner.jpg
+
+
+- first_name: Matt
+  last_name: Dornemann
+  location: "Concord, MA"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    Matt, a Massachusetts native, is thrilled to be performing at Post Playhouse! Regional: _Forever Plaid_ (Thunder Bay Theatre), _Mary Poppins_, _Memphis_ (Weathervane Theatre) _All Shook Up_ (Yorktown Stage) _Chicago_, _Shrek_ (Arundel Barn Playhouse) TV/Film: _Six Degrees of Murder_ (ID). Special thanks to Dewayne, and as always his Mom and Dad!
+  image_year: 2017
+  image_file: matt-dornemann.jpg
+
+
+- first_name: Dominique Allen
+  last_name: Lawson
+  location: "Jacksonville, FL"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    Originally from Jacksonville, FL, Dominique Allen Lawson is thrilled to be spending his summer at Post Playhouse! Previous credits include Barry in _Welcome to America_ (Braata Productions) Ernst in _Spring Awakening_ (Hangar Theatre) All Good Gifts in _Godspell_ (Theatre Downtown), and as a production vocalist onboard Cunard’s Queen Victoria cruise line.
+  image_year: 2017
+  image_file: dominique-lawson.jpg
+
+
+- first_name: Lauren
+  last_name: Alagna
+  location: "Tampa, FL"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    A Florida native, Lauren is thrilled to be a part of this Post Playhouse Season. Performance experience includes _Tarzan_ (Ensemble/Aerialist), Regent Seven Seas Cruises (Singer/Dancer), and a dancer for the opening number of _Gypsy of the Year_ (Dir. Al Blackstone). Lauren thanks her family and friends for their support.
+  image_year: 2017
+  image_file: lauren-alagna.jpg
+
+
+- first_name: Sarah
+  last_name: Pool
+  location: "Arlington, TX"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    Sarah Pool is excited to be joining the team at Post Playhouse for the first time as the Music Director for _Shrek_, _Chicago_, and _Crazy for You_. She holds a B.M. in Piano Performance from Dallas Baptist University, and has spent the last two years as Music Directing Intern at PCPA in Santa Maria, CA. During her time at PCPA, she was the Assistant Music Director for _Lend Me a Tenor_, _Beauty and the Beast_, _In the Heights_, _Shrek the Musical_, _Pirates of Penzance_, _Cinderella_, _Man of La Mancha_, and _My Fair Lady_. She was the Music Director for conservatory project productions of _Urinetown_ and _RENT_. Sarah wishes to thank Dewayne Barrett for giving her this opportunity, Matt for recommending me to Post, and to her family and Andrew for the love and support! 
+  image_year: 2017
+  image_file: sarah-pool.jpg
+
+
+- first_name: Tim
+  last_name: Fitzsimons
+  location: "Torrance, CA"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    NYC: Adolfo Pirelli, _Sweeney Todd_ (Piper Theatre Productions), _Song of Solomon_ (World Premiere). Nat’l Tour: Pop, _Miss Nelson is Missing_ (Two Beans Productions). LA: Hawker, _TOMMY_ (Moonlight Amphitheatre); Joseph, _Joseph...Dreamcoat_ (Saddleback CLO). Special thanks: Cast, crew, and creative; MT F13RCE; my sister, mom and dad. BFA 2013, CSUF. [www.timfitzsimons.com](http://www.timfitzsimons.com)
+  image_year: 2017
+  image_file: tim-fitzsimons.jpg
+
+
+- first_name: Brittney
+  last_name: Peters
+  location: "Rapid City, SD"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    Brittney Peters is a freshman at Chadron State College, pursuing a Bachelors of Fine Arts degree in Technical Theatre. She is originally from Rapid City South Dakota. Brittney has been working for the Theatre department at CSC for the last year and is excited to be working her first season at The Post Playhouse.
+  image_year: 2017
+  image_file: brittney-peters.jpg
+
+
+- first_name: Taylor
+  last_name: Lewis
+  location: "Fort Worth, TX"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    Taylor Lewis is thrilled to be spending her first summer at Post Playhouse! She is a graduate of Texas Christian University with a BFA in Acting, and now resides in New York City. She would like to thank Dewayne for this amazing opportunity, and her parents for their constant love and support while she travels the country following her dreams. [www.taylorlynnlewis.com](http://www.taylorlynnlewis.com)
+  image_year: 2017
+  image_file: taylor-lewis.jpg
+
+
+- first_name: Kathleen
+  last_name: Carter
+  location: "New York City, NY"
+  groups:
+    - cast
+  positions:
+    - Shrek --- 
+    - Mamma Mia! --- 
+    - Crazy For You --- 
+    - Chicago --- 
+    - Young Frankenstein --- 
+  bio: >
+    Kathleen Carter, originally from South Carolina, is now based in New York City. Favorite regional credits include _A Christmas Story_ (Miss Shields), _A Chorus Line_ (Cassie), _On Golden Pond_ (Chelsea), _Vanya and Sonia and Masha and Spike_ (Masha), and _Steel Magnolias_ (Shelby). She has appeared in national commercials for names like Tanqueray and Amway. She has also choreographed and danced in small production music videos. She is thrilled to spending her summer at The Post Playhouse!
+  image_year: 2017
+  image_file: kathleen-carter.jpg
+
 
 # - first_name: Pheobe H.
 #   last_name: Boynton
@@ -59,22 +228,6 @@
   image_file: don-fox.jpg
 
 
-# - first_name: Nathan
-#   last_name: Sonnenschein
-#   location: "Lander, WY"
-#   groups:
-#     - crew
-#     - staff
-#   positions:
-#     - Box Office Staff
-#     - Technical Staff
-#     - Follow Spot Operator
-#   bio: >
-#     This is Nate's second year working at the Post Playhouse. A former Crawford resident, he is currently living in Lander, Wyoming while completing his Associate degree at Central Wyoming College. Nate is excited to see the Playhouse's many loyal patrons again during his time at the box office this summer!
-#   image_year: 2016
-#   image_file: nathan-sonnenschein.jpg
-# 
-# 
 # - first_name: Jessica
 #   last_name: Schepers
 #   location: "Sturgis, SD"
@@ -120,40 +273,6 @@
   image_file: tom-ossowski.jpg
 
 
-# - first_name: Emily
-#   last_name: Schexnaydre
-#   location: "Gonzales, LA - Lyndhurst, NJ"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Ensemble
-#     - The Addams Family --- Ancestor
-#     - Legally Blonde --- Elle Woods
-#     - Cabaret --- Kit Kat Girl
-#     - Spamalot --- Laker Girl/Ensemble
-#   bio: >
-#     Emily Schexnaydre is a Louisiana native living in New Jersey pursuing her love for the arts. She graduated from CCM with a BFA in Musical Theatre. Recent credits include Rona Lisa Peretti in *The 25th Annual Putnam County Spelling Bee* (The Princeton Festival), Madame Thenardier in *Les Mis&eacute;rables* (CCM), and Vivienne in *Legally Blonde* (CSPAA). She is beyond excited to be performing with Post Playhouse this summer and would like to thank Tom and the creative team at Post for this amazing opportunity. She would also like to thank her parents, friends, family, and Brian for their unending love and support! OMIGOD!
-#   image_year: 2016
-#   image_file: emily-schexnaydre.jpg
-# 
-# 
-# - first_name: Derek
-#   last_name: Phelps
-#   location: "Sidney, NE"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Cogsworth
-#     - The Addams Family --- Lucas Beineke
-#     - Legally Blonde --- Nikos/Pfortzheimer
-#     - Cabaret --- Ensemble
-#     - Spamalot --- Herbert
-#   bio: >
-#     Derek is thrilled to be returning to the Post Playhouse stage this summer! Last summer Derek played Doody in Grease, Mr. Carson in *A Man of No Importance* and an Aggie in *The Best Little Whorehouse in Texas*. Derek, a recent graduate of Chadron State Collage has a BFA in Theatre performance and directing with a minor in music. CSC credits include Huck Finn in *Big River*, Leaf Conneybear in *The 25th Annual Putnam County Spelling Bee* and Seymour in *Little Shop of Horrors*. Derek was also the director of *Rosencrantz and Guildenstern are Dead* at CSC last spring. Thanks to my friends and family for their continual support and to everyone at the Post Playhouse for this wonderful opportunity. For more about Derek visit [www.derek-phelps.wix.com/actor](www.derek-phelps.wix.com/actor).
-#   image_year: 2016
-#   image_file: derek-phelps.jpg
-# 
-# 
 # - first_name: Wally
 #   last_name: Seiler
 #   location: "Alliance, NE"
@@ -181,23 +300,6 @@
 #   image_file: marge-rotherham.jpg
 # 
 # 
-# - first_name: Michael
-#   last_name: O'Connor
-#   location: "Long Island, NY"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Maurice
-#     - The Addams Family --- Gomez
-#     - Legally Blonde --- Callahan
-#     - Cabaret --- Herr Schultz
-#     - Spamalot --- Arthur
-#   bio: >
-#     Michael O'Connor is thrilled for a Nebraska Summer with Post Playhouse! Based of out Long Island, and proud alumni of SUNY New Paltz, Michael will be making his debut at the Playhouse the summer! He was most recently seen on the national tour of, *The Producers* (Mr Marx; U/S Max Bialystock). A couple of his other credits include, *Seussical the Musical* (Horton), Neil Simon's, *Fools* (Leon Tolchinsky), and *Pinkalicious the Musical* (Peter). I would like to thank my family and loved ones for their endless support.  Mom and Evan, sit back and enjoy the show!
-#   image_year: 2016
-#   image_file: michael-oconnor.jpg
-# 
-# 
 - first_name: Dewayne
   last_name: Barrett
   location: "New York City via Atlanta, GA"
@@ -213,20 +315,20 @@
   image_file: dewayne-barrett.jpg
 
 
-# - first_name: Ann
-#   last_name: Stephens
-#   location: "Crawford, NE"
-#   groups:
-#     - staff
-#   positions:
-#     - Box Office/Concessions
-#     - Front of House
-#   bio: >
-#     A Crawford native, Ann Stephens, is happy to be returning to the Post Playhouse for the 2016 season. At the Playhouse, she can often be found popping corn or making reservations. Ann enjoys the opportunity to visit with returning customers as well as greeting those new to the Post Playhouse experience. In addition to her work here, Ann enjoys baking and spending time with grandkids and the rest of her family. Her husband, Dale, is an avid golfer and can be found nearly every day of the spring, summer and autumn on the Legend Buttes Golf course in Crawford. 
-#   image_year: 2015
-#   image_file: ann-stephens.jpg
-# 
-# 
+- first_name: Ann
+  last_name: Stephens
+  location: "Crawford, NE"
+  groups:
+    - staff
+  positions:
+    - Box Office/Concessions
+    - Front of House
+  bio: >
+    Crawford native, Ann Stephens, is happy to be returning to the Post Playhouse for the 2017 season.  At the Playhouse, she can often be found cleaning, popping corn, watering plants, or making reservations. Ann enjoys the opportunity to visit with returning customers as well as greeting those new to the Playhouse experience. In addition to her work here, Ann enjoys baking and spending time with grandkids and the rest of her family. Her husband, Dale, is an avid golfer and can be found nearly every day of the spring, summer and autumn on the Legend Buttes Golf course in Crawford.
+  image_year: 2017
+  image_file: ann-stephens.jpg
+
+
 # - first_name: Kiley L.
 #   last_name: McDonald
 #   location: "New York City, NY"
