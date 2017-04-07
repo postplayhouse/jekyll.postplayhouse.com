@@ -286,20 +286,21 @@
   image_file: tom-ossowski.jpg
 
 
-# - first_name: Wally
-#   last_name: Seiler
-#   location: "Alliance, NE"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Townspeople/Book Shop Keep/Servants
-#     - Spamalot --- Sir-Not-Appearing-In-This-Show
-#   bio: >
-#     Wally is returning to the Post Playhouse for a fifth season and can't think of a better way to spend a summer.  Previously, he has appeared on the playhouse stage as Andrew Carnes (in *Oklahoma!*), Pawnee Bill (in *Annie Get Your Gun*), Baron Elberfeld (in *The Sound of Music*), Arvide Abernathy (in *Guys and Dolls*), Russell Tinsworthy (in *Nine to Five*), ensemble (in *Hollywood: a Cabaret*), Baldy (in *A Man of No Importance*), the King (in *Cinderella*), and Mayor Rufus Poindexter and Senator Wingwoah (in *The Best Little Whorehouse in Texas*).  Wally is grateful to have the opportunity to be a part of the magic that is created on the stage of the Post Playhouse.
-#   image_year: 2015
-#   image_file: wally-seiler.jpg
-# 
-# 
+- first_name: Wally
+  last_name: Seiler
+  location: "Alliance, NE"
+  groups:
+    - cast
+  positions:
+    - Mamma Mia! --- Father Alex
+    - Crazy For You --- Everrett Baker
+    - Young Frankenstein --- Ziggy/Ensemble
+  bio: >
+  #  Wally is returning to the Post Playhouse for a fifth season and can't think of a better way to spend a summer.  Previously, he has appeared on the playhouse stage as Andrew Carnes (in *Oklahoma!*), Pawnee Bill (in *Annie Get Your Gun*), Baron Elberfeld (in *The Sound of Music*), Arvide Abernathy (in *Guys and Dolls*), Russell Tinsworthy (in *Nine to Five*), ensemble (in *Hollywood: a Cabaret*), Baldy (in *A Man of No Importance*), the King (in *Cinderella*), and Mayor Rufus Poindexter and Senator Wingwoah (in *The Best Little Whorehouse in Texas*).  Wally is grateful to have the opportunity to be a part of the magic that is created on the stage of the Post Playhouse.
+  image_year: 2015
+  image_file: wally-seiler.jpg
+
+
 # - first_name: Marge
 #   last_name: Rotherham
 #   location: "Crawford, NE"
