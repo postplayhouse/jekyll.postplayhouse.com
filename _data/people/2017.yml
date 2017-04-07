@@ -337,19 +337,20 @@
   image_file: wally-seiler.jpg
 
 
-# - first_name: Marge
-#   last_name: Rotherham
-#   location: "Crawford, NE"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Townsperson
-#   bio: >
-#     Marge is pleased to be returning to the Post Playhouse for her 9th season.  Previously, in the 1990's, she appeared as Quiser Bourdreaux (*Steel Magnolias*) and in the Olios for the melodramas.  After a several  year hiatus, her most recent roles include, Mama Lily (*Hank Williams:Lost Highway*), Aunt Eller (*Oklahoma*), Miss Lynch (*Grease*),  Mrs. Potter-Porter and Ensemble (*Annie Get Your Gun*), Ensemble (*Hollywood: A Cabaret*), Agatha And Mission Band (*Guys and Dolls*), Baroness Elberfeld (*The Sound of Music*), and The Queen (*Cinderella*) and Miss Lynch (*Grease*). Marge would like to thank Tom Ossowski and the Post Playhouse staff for bringing such great, quality entertainment to this area. But most importantly, thanks for all the long-lasting friendships and the memories that have resulted from 49 years of wonderful.
-#   image_year: 2015
-#   image_file: marge-rotherham.jpg
-# 
-# 
+- first_name: Marge
+  last_name: Rotherham
+  location: "Crawford, NE"
+  groups:
+    - cast
+  positions:
+    - Crazy For You --- Lottie Child
+    - Young Frankenstein --- Ensemble
+  bio: >
+#    Marge is pleased to be returning to the Post Playhouse for her 9th season.  Previously, in the 1990's, she appeared as Quiser Bourdreaux (*Steel Magnolias*) and in the Olios for the melodramas.  After a several  year hiatus, her most recent roles include, Mama Lily (*Hank Williams:Lost Highway*), Aunt Eller (*Oklahoma*), Miss Lynch (*Grease*),  Mrs. Potter-Porter and Ensemble (*Annie Get Your Gun*), Ensemble (*Hollywood: A Cabaret*), Agatha And Mission Band (*Guys and Dolls*), Baroness Elberfeld (*The Sound of Music*), and The Queen (*Cinderella*) and Miss Lynch (*Grease*). Marge would like to thank Tom Ossowski and the Post Playhouse staff for bringing such great, quality entertainment to this area. But most importantly, thanks for all the long-lasting friendships and the memories that have resulted from 49 years of wonderful.
+  image_year: 2015
+  image_file: marge-rotherham.jpg
+
+
 - first_name: Dewayne
   last_name: Barrett
   location: "New York City via Atlanta, GA"
@@ -410,22 +411,20 @@
   image_file: leo-haselhorst.jpg
 
 
-# - first_name: Jacob
-#   last_name: Voorhis
-#   location: "Belle Fourche, South Dakota and Chadron, Nebraska"
-#   groups:
-#     - staff
-#     - crew
-#   positions:
-#     - Box Office Staff
-#     - Technical Staff
-#     - Spotlight Operator
-#   bio: >
-#     Jacob is ecstatic to begin his first season at the Post Playhouse. He is a sophomore guitar music major and theatre minor at Chadron State College. He graduated from Belle Fourche High School in South Dakota and has been involved with several community and high school theatres in that area. He has also worked with the CSC theatre department for the last two years. He would like to thank Tom and the Post Playhouse for giving him the opportunity to break into the industry that he loves and all the people that have passed their experience to him over the years.
-#   image_year: 2016
-#   image_file: jacob-voorhis.jpg
-# 
-# 
+- first_name: Jacob
+  last_name: Voorhis
+  location: "Belle Fourche, South Dakota and Chadron, Nebraska"
+  groups:
+    - musicians
+  positions:
+    - Bass
+    - Guitar
+  bio: >
+#    Jacob is ecstatic to begin his first season at the Post Playhouse. He is a sophomore guitar music major and theatre minor at Chadron State College. He graduated from Belle Fourche High School in South Dakota and has been involved with several community and high school theatres in that area. He has also worked with the CSC theatre department for the last two years. He would like to thank Tom and the Post Playhouse for giving him the opportunity to break into the industry that he loves and all the people that have passed their experience to him over the years.
+  image_year: 2016
+  image_file: jacob-voorhis.jpg
+
+
 - first_name: Anna
   last_name: Owen
   location: "Chadron, NE"
