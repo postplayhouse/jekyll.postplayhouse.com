@@ -240,7 +240,7 @@
   positions:
     - Shrek --- Storybook/Ensemble
     - Crazy For You --- Moose
-    - Young Frankenstein --- Igor
+    - Young Frankenstein --- Ensemble
     - Spotlight Operator
     - Box Office
   bio: >
@@ -249,6 +249,131 @@
   image_file: samuel-martin.jpg
   
   
+- first_name: Brian
+  last_name: Graziani
+  location: ""
+  groups:
+    - cast
+  positions:
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Ensemble
+    - Crazy For You --- Sam
+    - Chicago --- Mary Sunshine
+    - Young Frankenstein --- Monster
+  bio: >
+    
+  # image_year: 2017
+  # image_file: .jpg
+
+
+- first_name: Taylor
+  last_name: Thies
+  location: ""
+  groups:
+    - cast
+    - staff
+    - crew
+  positions:
+    - Mamma Mia! --- Ensemble
+    - Spotlight Operator
+    - Box Office Staff
+  bio: >
+    
+  # image_year: 2017
+  # image_file: .jpg
+
+
+- first_name: Lilianna
+  last_name: Solum
+  location: ""
+  groups:
+    - cast
+  positions:
+    - Shrek --- Fiona
+    - Mamma Mia! --- Ensemble
+    - Crazy For You --- Louise
+    - Chicago --- Hunyak
+    - Young Frankenstein --- Ensemble
+  bio: >
+    
+  # image_year: 2017
+  # image_file: .jpg
+
+
+- first_name: Alix
+  last_name: Isom
+  location: ""
+  groups:
+    - cast
+  positions:
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Ensemble
+    - Crazy For You --- Vera
+    - Chicago --- Roxie Hart
+    - Young Frankenstein --- Ensemble
+  bio: >
+    
+  # image_year: 2017
+  # image_file: .jpg
+
+
+- first_name: Caitlin
+  last_name: Pagano
+  location: ""
+  groups:
+    - cast
+  positions:
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Ensemble
+    - Crazy For You --- Shelia
+    - Chicago --- Go to Hell Kitty
+    - Young Frankenstein --- Inga
+  bio: >
+    
+  # image_year: 2017
+  # image_file: .jpg
+
+
+- first_name: Chelsea
+  last_name: de Lacy
+  location: ""
+  groups:
+    - cast
+  positions:
+    - Mamma Mia! --- Ali
+    - Crazy For You --- Irene
+  bio: >
+    
+  # image_year: 2017
+  # image_file: .jpg
+
+
+- first_name: Eric
+  last_name: Egsten
+  location: ""
+  groups:
+    - creative
+  positions:
+    - Season Sound Design
+  bio: >
+    
+  # image_year: 2017
+  # image_file: .jpg
+
+
+- first_name: Josh
+  last_name: Fitch
+  location: ""
+  groups:
+    - crew
+  positions:
+    - Assistant Technical Director
+  bio: >
+    
+  # image_year: 2017
+  # image_file: .jpg
+
+
 - first_name: Pheobe H.
   last_name: Boynton
   location: "Ithaca, NY, Los Angeles, CA, & MS Oceania Riviera"
@@ -380,23 +505,6 @@
   image_file: ann-stephens.jpg
 
 
-# - first_name: Kiley L.
-#   last_name: McDonald
-#   location: "New York City, NY"
-#   groups:
-#     - cast
-#   positions:
-#     - Beauty and the Beast --- Ensemble
-#     - The Addams Family --- Ancestor
-#     - Legally Blonde --- Pilar
-#     - Cabaret --- Sally
-#     - Spamalot --- Laker Girl, Guard, Ensemble
-#   bio: >
-#     Kiley is thrilled to be making her Post Playhouse debut! Past credits include: *HAIR* (Crissy), Mickey & Company (World Premiere, Tokyo), *London Rocks!* (USA Premiere, Sam Buntrock/Chase Brock), *I Love You, You're Perfect, Now Change* (Woman 2), *The Who's Tommy* (Mrs. Walker) and *Urinetown* (Hope Cladwell). As well numerous Off-Broadway and NYC workshops. Huge thanks to everyone at Post for this amazing opportunity and tons of love to my family. [KileyLMcDonald.com](http://kileylmcdonald.com)
-#   image_year: 2016
-#   image_file: kiley-mcdonald.jpg
-# 
-# 
 - first_name: Leo
   last_name: Haselhorst
   location: "Randolph, NE"
