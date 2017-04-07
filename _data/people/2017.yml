@@ -213,19 +213,19 @@
   image_file: chuckie-dixon.jpg
 
 
-# - first_name: Pheobe H.
-#   last_name: Boynton
-#   location: "Ithaca, NY, Los Angeles, CA, & MS Oceania Riviera"
-#   groups:
-#     - creative
-#   positions:
-#     - Season Costume Designer
-#   bio: >
+- first_name: Pheobe H.
+  last_name: Boynton
+  location: "Ithaca, NY, Los Angeles, CA, & MS Oceania Riviera"
+  groups:
+    - creative
+  positions:
+    - Season Costume Designer
+  bio: >
 #     Pheobe Boynton is thrilled to be returning to The Post for her third season! She has been fortunate enough to make a career in costume design and construction for film and theater in Los Angeles for the past eight years, working with companies as diverse as the Los Angeles Opera, Relativity Media, Machinima, Kanye West, and Norwegian Creative Studios. This last year she was honored to design the costumes for the major motion picture *The Thinning* for Legendary Pictures. She has spent the rest of the year as the wardrobe supervisor for the Oceania Riviera visiting ports in the Caribbean, and Central America. 
-#   image_year: 2015
-#   image_file: pheobe-boynton.jpg
-# 
-# 
+  image_year: 2015
+  image_file: pheobe-boynton.jpg
+
+
 - first_name: Donald James
   last_name: Fox
   location: 
@@ -241,20 +241,20 @@
   image_file: don-fox.jpg
 
 
-# - first_name: Jessica
-#   last_name: Schepers
-#   location: "Sturgis, SD"
-#   groups:
-#     - crew
-#   positions:
-#     - "Assistant Stage Manager --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
-#     - Production Stage Manager --- Cabaret
-#   bio: >
-#     Jessica Schepers is ecstatic to be returning to the Post Playhouse for her second season. Jessica is pursuing a B.A. in Fine Arts at Chadron State College and is expecting to graduate in 2017. Jessica has stage managed several shows at CSC including *The 39 Steps* and *Rosencrantz and Guildenstern Are Dead*. Jessica is incredibly grateful for this opportunity to ASM at the Post Playhouse and owes her success to her friends both at the Post and at CSC as well as her family. 
-#   image_year: 2015
-#   image_file: jessica-schepers.jpg
-# 
-# 
+- first_name: Jessica
+  last_name: Schepers
+  location: "Sturgis, SD"
+  groups:
+    - crew
+  positions:
+    - "Assistant Stage Manager" # --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
+    # - Production Stage Manager --- Cabaret
+  bio: >
+#    Jessica Schepers is ecstatic to be returning to the Post Playhouse for her second season. Jessica is pursuing a B.A. in Fine Arts at Chadron State College and is expecting to graduate in 2017. Jessica has stage managed several shows at CSC including *The 39 Steps* and *Rosencrantz and Guildenstern Are Dead*. Jessica is incredibly grateful for this opportunity to ASM at the Post Playhouse and owes her success to her friends both at the Post and at CSC as well as her family. 
+  image_year: 2015
+  image_file: jessica-schepers.jpg
+
+
 - first_name: Ken
   last_name: Phillips
   location: "Tucson, AZ"
