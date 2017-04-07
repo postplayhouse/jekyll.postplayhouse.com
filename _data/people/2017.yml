@@ -36,11 +36,11 @@
   groups:
     - cast
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Tanya
+    - Crazy For You --- Patsy
+    - Chicago --- Velma Kelly
+    - Young Frankenstein --- Frau Bulcher
   bio: >
     Aili is thrilled to be at Post Playhouse this summer! A few favorite past credits include: the Off Broadway hit _50 Shades! The Musical Parody_ (Pam), _A Chorus Line_ (Diana Morales), and _Finian's Rainbow_ (Sharon). Thanks to Dewayne, the cast, techs and creative, and thanks to Mom, Dad, Rob and Cait. Love is love is love!
   image_year: 2017
@@ -53,11 +53,11 @@
   groups:
     - cast
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Shrek --- Dragon
+    - Mamma Mia! --- Rosie
+    - Crazy For You --- Fodor
+    - Chicago --- Mama Morton
+    - Young Frankenstein --- Ensemble
   bio: >
     Renèe Elizabeth Turner, a South Florida native, is a classically trained actress and vocalist who graduated Summa Cum Laude from FAU. Some of her favorite roles include: "Missy" (_The Winter Wonderettes_), "Sister Margaretta" (_The Sound of Music_), "Minnie/Angela" (_Parade_), and "Nettie Fowler" (_Carousel_) as well as having performed with Broadway composer Marc Shaiman. She thanks GOD, her Amazing husband Andrew/"Muffin", her beautiful parents Clarence and Elizabeth, family, friends, and the Incredible Thomas Dewayne Barrett for this Phenomenal Blessing in being a part of the Post Playhouse 50th Anniversary Season. ♥
   image_year: 2017
@@ -70,11 +70,11 @@
   groups:
     - cast
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Shrek --- Pinocchio/Ensemble
+    - Mamma Mia! --- Eddie
+    - Crazy For You --- Fodor
+    - Chicago --- Harrison
+    - Young Frankenstein --- Victor
   bio: >
     Matt, a Massachusetts native, is thrilled to be performing at Post Playhouse! Regional: _Forever Plaid_ (Thunder Bay Theatre), _Mary Poppins_, _Memphis_ (Weathervane Theatre) _All Shook Up_ (Yorktown Stage) _Chicago_, _Shrek_ (Arundel Barn Playhouse) TV/Film: _Six Degrees of Murder_ (ID). Special thanks to Dewayne, and as always his Mom and Dad!
   image_year: 2017
@@ -87,11 +87,11 @@
   groups:
     - cast
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Shrek --- Donkey
+    - Mamma Mia! --- Pepper
+    - Crazy For You --- Ensemble
+    - Chicago --- Ensemble
+    - Young Frankenstein --- Ensemble
   bio: >
     Originally from Jacksonville, FL, Dominique Allen Lawson is thrilled to be spending his summer at Post Playhouse! Previous credits include Barry in _Welcome to America_ (Braata Productions) Ernst in _Spring Awakening_ (Hangar Theatre) All Good Gifts in _Godspell_ (Theatre Downtown), and as a production vocalist onboard Cunard’s Queen Victoria cruise line.
   image_year: 2017
@@ -104,11 +104,11 @@
   groups:
     - cast
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Lisa
+    - Crazy For You --- Polly Baker
+    - Chicago --- Liz
+    - Young Frankenstein --- Ensemble
   bio: >
     A Florida native, Lauren is thrilled to be a part of this Post Playhouse Season. Performance experience includes _Tarzan_ (Ensemble/Aerialist), Regent Seven Seas Cruises (Singer/Dancer), and a dancer for the opening number of _Gypsy of the Year_ (Dir. Al Blackstone). Lauren thanks her family and friends for their support.
   image_year: 2017
@@ -121,11 +121,8 @@
   groups:
     - cast
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Music Director --- Shrek, Crazy For You, Chicago
+    - Second Keyboard --- Mamma Mia!, Young Frankenstein
   bio: >
     Sarah Pool is excited to be joining the team at Post Playhouse for the first time as the Music Director for _Shrek_, _Chicago_, and _Crazy for You_. She holds a B.M. in Piano Performance from Dallas Baptist University, and has spent the last two years as Music Directing Intern at PCPA in Santa Maria, CA. During her time at PCPA, she was the Assistant Music Director for _Lend Me a Tenor_, _Beauty and the Beast_, _In the Heights_, _Shrek the Musical_, _Pirates of Penzance_, _Cinderella_, _Man of La Mancha_, and _My Fair Lady_. She was the Music Director for conservatory project productions of _Urinetown_ and _RENT_. Sarah wishes to thank Dewayne Barrett for giving her this opportunity, Matt for recommending me to Post, and to her family and Andrew for the love and support! 
   image_year: 2017
@@ -138,11 +135,11 @@
   groups:
     - cast
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Shrek --- Shrek
+    - Mamma Mia! --- Harry Bright
+    - Crazy For You --- Ensemble
+    - Chicago --- Amos
+    - Young Frankenstein --- Fredrick
   bio: >
     NYC: Adolfo Pirelli, _Sweeney Todd_ (Piper Theatre Productions), _Song of Solomon_ (World Premiere). Nat’l Tour: Pop, _Miss Nelson is Missing_ (Two Beans Productions). LA: Hawker, _TOMMY_ (Moonlight Amphitheatre); Joseph, _Joseph...Dreamcoat_ (Saddleback CLO). Special thanks: Cast, crew, and creative; MT F13RCE; my sister, mom and dad. BFA 2013, CSUF. [www.timfitzsimons.com](http://www.timfitzsimons.com)
   image_year: 2017
@@ -153,30 +150,29 @@
   last_name: Peters
   location: "Rapid City, SD"
   groups:
-    - cast
+    - crew
+    - staff
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Box Office
+    - Spotlight Operator
+    - Tech Crew
   bio: >
     Brittney Peters is a freshman at Chadron State College, pursuing a Bachelors of Fine Arts degree in Technical Theatre. She is originally from Rapid City South Dakota. Brittney has been working for the Theatre department at CSC for the last year and is excited to be working her first season at The Post Playhouse.
   image_year: 2017
   image_file: brittney-peters.jpg
 
 
-- first_name: Taylor
+- first_name: Taylor Lynn
   last_name: Lewis
   location: "Fort Worth, TX"
   groups:
     - cast
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Sophie
+    - Crazy For You --- Ensemble
+    - Chicago --- Ensemble
+    - Young Frankenstein --- Ensemble
   bio: >
     Taylor Lewis is thrilled to be spending her first summer at Post Playhouse! She is a graduate of Texas Christian University with a BFA in Acting, and now resides in New York City. She would like to thank Dewayne for this amazing opportunity, and her parents for their constant love and support while she travels the country following her dreams. [www.taylorlynnlewis.com](http://www.taylorlynnlewis.com)
   image_year: 2017
@@ -189,11 +185,11 @@
   groups:
     - cast
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Donna
+    - Crazy For You --- Tess
+    - Chicago --- Annie/Ensemble
+    - Young Frankenstein --- Elizabeth
   bio: >
     Kathleen Carter, originally from South Carolina, is now based in New York City. Favorite regional credits include _A Christmas Story_ (Miss Shields), _A Chorus Line_ (Cassie), _On Golden Pond_ (Chelsea), _Vanya and Sonia and Masha and Spike_ (Masha), and _Steel Magnolias_ (Shelby). She has appeared in national commercials for names like Tanqueray and Amway. She has also choreographed and danced in small production music videos. She is thrilled to spending her summer at The Post Playhouse!
   image_year: 2017
@@ -206,11 +202,11 @@
   groups:
     - cast
   positions:
-    - Shrek --- 
-    - Mamma Mia! --- 
-    - Crazy For You --- 
-    - Chicago --- 
-    - Young Frankenstein --- 
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Ensemble
+    - Crazy For You --- Perkins/Lank
+    - Chicago --- Ensemble
+    - Young Frankenstein --- Igor
   bio: >
     Chuckie is a proud ECU alum and lives in NYC. Some favorite credits: Clifford...tour (Clifford), _Spamalot_ (French Taunter), _Peter Pan_ (Slightly Soiled), _Cats_ (Mungojerrie), _A Christmas Story_ (Scut Farkus), and _Fiddler On the Roof_ (Mendel). Thanks and love to the Post team, my incredible mom, and the miraculous Mal!
   image_year: 2017
@@ -236,7 +232,7 @@
   groups:
     - creative
   positions:
-    - "Lighting Designer" # --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
+    - "Season Lighting Designer" # --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
     - Season Scenic Designer
     # - Director --- Cabaret
   bio: >
