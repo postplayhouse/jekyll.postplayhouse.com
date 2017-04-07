@@ -213,6 +213,23 @@
   image_file: chuckie-dixon.jpg
 
 
+- first_name: Korey
+  last_name: Harlow
+  location: "Fredericksburg, Virginia"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Sky
+    - Crazy For You --- Custus
+    - Chicago --- Harry
+    - Young Frankenstein --- Ensemble
+  bio: >
+    Korey (with a "K") is very excited to join Post Playhouse this summer for a fantastic season! A Virginia native, he studied Music, Theatre, and Dance at Wright State University and Bowling Green State University before moving to New York. Regional credits Include: _Aladdin Jr_ (Aladdin), _25th Annual Putnam County Spelling Bee_ (Leaf Coneybear), and _Mary Poppins_ (Featured Ensemble/Understudy Bert). 
+  image_year: 2017
+  image_file: korey-harlow.jpg
+
+
 - first_name: Samuel T.
   last_name: Martin
   location: "Hot Springs, SD"
