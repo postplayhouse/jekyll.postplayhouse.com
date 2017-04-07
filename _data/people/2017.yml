@@ -317,7 +317,7 @@
   # image_file: .jpg
 
 
-- first_name: Caitlin
+- first_name: Caitlyn
   last_name: Pagano
   location: ""
   groups:
@@ -349,7 +349,7 @@
 
 
 - first_name: Eric
-  last_name: Egsten
+  last_name: Agsten
   location: ""
   groups:
     - creative
