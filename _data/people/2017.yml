@@ -40,7 +40,7 @@
     - Mamma Mia! --- Tanya
     - Crazy For You --- Patsy
     - Chicago --- Velma Kelly
-    - Young Frankenstein --- Frau Bulcher
+    - Young Frankenstein --- Frau Blucher
   bio: >
     Aili is thrilled to be at Post Playhouse this summer! A few favorite past credits include: the Off Broadway hit _50 Shades! The Musical Parody_ (Pam), _A Chorus Line_ (Diana Morales), and _Finian's Rainbow_ (Sharon). Thanks to Dewayne, the cast, techs and creative, and thanks to Mom, Dad, Rob and Cait. Love is love is love!
   image_year: 2017
@@ -74,7 +74,7 @@
     - Mamma Mia! --- Eddie
     - Crazy For You --- Fodor
     - Chicago --- Harrison
-    - Young Frankenstein --- Victor
+    - Young Frankenstein --- Victor/Ensemble
   bio: >
     Matt, a Massachusetts native, is thrilled to be performing at Post Playhouse! Regional: _Forever Plaid_ (Thunder Bay Theatre), _Mary Poppins_, _Memphis_ (Weathervane Theatre) _All Shook Up_ (Yorktown Stage) _Chicago_, _Shrek_ (Arundel Barn Playhouse) TV/Film: _Six Degrees of Murder_ (ID). Special thanks to Dewayne, and as always his Mom and Dad!
   image_year: 2017
@@ -89,7 +89,7 @@
   positions:
     - Shrek --- Donkey
     - Mamma Mia! --- Pepper
-    - Crazy For You --- Ensemble
+    - Crazy For You --- Jimmy/Ensemble
     - Chicago --- Ensemble
     - Young Frankenstein --- Ensemble
   bio: >
@@ -107,7 +107,7 @@
     - Shrek --- Storybook/Ensemble
     - Mamma Mia! --- Lisa
     - Crazy For You --- Polly Baker
-    - Chicago --- Liz
+    - Chicago --- Liz/Ensemble
     - Young Frankenstein --- Ensemble
   bio: >
     A Florida native, Lauren is thrilled to be a part of this Post Playhouse Season. Performance experience includes _Tarzan_ (Ensemble/Aerialist), Regent Seven Seas Cruises (Singer/Dancer), and a dancer for the opening number of _Gypsy of the Year_ (Dir. Al Blackstone). Lauren thanks her family and friends for their support.
@@ -137,9 +137,9 @@
   positions:
     - Shrek --- Shrek
     - Mamma Mia! --- Harry Bright
-    - Crazy For You --- Ensemble
+    - Crazy For You --- Mingo/Ensemble
     - Chicago --- Amos
-    - Young Frankenstein --- Fredrick
+    - Young Frankenstein --- Frederick
   bio: >
     NYC: Adolfo Pirelli, _Sweeney Todd_ (Piper Theatre Productions), _Song of Solomon_ (World Premiere). Nat’l Tour: Pop, _Miss Nelson is Missing_ (Two Beans Productions). LA: Hawker, _TOMMY_ (Moonlight Amphitheatre); Joseph, _Joseph...Dreamcoat_ (Saddleback CLO). Special thanks: Cast, crew, and creative; MT F13RCE; my sister, mom and dad. BFA 2013, CSUF. [www.timfitzsimons.com](http://www.timfitzsimons.com)
   image_year: 2017
@@ -170,8 +170,8 @@
   positions:
     - Shrek --- Storybook/Ensemble
     - Mamma Mia! --- Sophie
-    - Crazy For You --- Ensemble
-    - Chicago --- Ensemble
+    - Crazy For You --- Mitzi/Ensemble
+    - Chicago --- Mona/Ensemble
     - Young Frankenstein --- Ensemble
   bio: >
     Taylor Lewis is thrilled to be spending her first summer at Post Playhouse! She is a graduate of Texas Christian University with a BFA in Acting, and now resides in New York City. She would like to thank Dewayne for this amazing opportunity, and her parents for their constant love and support while she travels the country following her dreams. [www.taylorlynnlewis.com](http://www.taylorlynnlewis.com)
@@ -187,7 +187,7 @@
   positions:
     - Shrek --- Storybook/Ensemble
     - Mamma Mia! --- Donna
-    - Crazy For You --- Tess
+    - Crazy For You --- Tess/Ensemble
     - Chicago --- Annie/Ensemble
     - Young Frankenstein --- Elizabeth
   bio: >
@@ -221,8 +221,8 @@
   positions:
     - Shrek --- Storybook/Ensemble
     - Mamma Mia! --- Sky
-    - Crazy For You --- Custus
-    - Chicago --- Harry
+    - Crazy For You --- Custus/Ensemble
+    - Chicago --- Harry/Ensemble
     - Young Frankenstein --- Ensemble
   bio: >
     Korey (with a "K") is very excited to join Post Playhouse this summer for a fantastic season! A Virginia native, he studied Music, Theatre, and Dance at Wright State University and Bowling Green State University before moving to New York. Regional credits Include: _Aladdin Jr_ (Aladdin), _25th Annual Putnam County Spelling Bee_ (Leaf Coneybear), and _Mary Poppins_ (Featured Ensemble/Understudy Bert). 
@@ -249,7 +249,7 @@
   image_file: samuel-martin.jpg
   
   
-- first_name: Brian
+- first_name: Brian Keith
   last_name: Graziani
   location: ""
   groups:
@@ -257,13 +257,13 @@
   positions:
     - Shrek --- Storybook/Ensemble
     - Mamma Mia! --- Ensemble
-    - Crazy For You --- Sam
+    - Crazy For You --- Sam/Ensemble
     - Chicago --- Mary Sunshine
     - Young Frankenstein --- Monster
   bio: >
-    
-  # image_year: 2017
-  # image_file: .jpg
+    Brian is thrilled to be spending his summer here at Post! Off Broadway: _Queen of The Night_. National Tour: _Tony and Tina's Wedding_, _Fly Guys And Other Stories_, _Alice in Wonderland_. Favorite Regional Credits: _The Full Monty_ (Malcolm), _[Title Of Show]_ (Hunter), _You're...Charlie Brown_ (Charlie), and _The 25th Annual...Bee_ (Leaf). Much love and thanks to his dog Charlie, his fiancé Peter, Dewayne for the opportunity, Pizza, and Beyonce. [BrianGraziani.com](http://briangraziani.com/)
+  image_year: 2017
+  image_file: brian-graziani.jpg
 
 
 - first_name: Taylor
@@ -292,7 +292,7 @@
     - Shrek --- Fiona
     - Mamma Mia! --- Ensemble
     - Crazy For You --- Louise
-    - Chicago --- Hunyak
+    - Chicago --- Hunyak/Ensemble
     - Young Frankenstein --- Ensemble
   bio: >
     
@@ -308,7 +308,7 @@
   positions:
     - Shrek --- Storybook/Ensemble
     - Mamma Mia! --- Ensemble
-    - Crazy For You --- Vera
+    - Crazy For You --- Vera/Ensemble
     - Chicago --- Roxie Hart
     - Young Frankenstein --- Ensemble
   bio: >
@@ -317,21 +317,21 @@
   # image_file: .jpg
 
 
-- first_name: Caitlyn
+- first_name: Cat
   last_name: Pagano
-  location: ""
+  location: "Coral Springs, FL"
   groups:
     - cast
   positions:
     - Shrek --- Storybook/Ensemble
     - Mamma Mia! --- Ensemble
     - Crazy For You --- Shelia
-    - Chicago --- Go to Hell Kitty
+    - Chicago --- Go to Hell Kitty/Ensemble
     - Young Frankenstein --- Inga
   bio: >
-    
-  # image_year: 2017
-  # image_file: .jpg
+    Cat Pagano is excited to begin her professional career with Post Playhouse in their 50th season!  Cat is excited to reprise her role of Inga in _Young Frankenstein_ this season and to be part of her dream show, _Chicago_! Proud graduate of FSU 2017!! Thank you to her family for all the love and support the world can offer.
+  image_year: 2017
+  image_file: cat-pagano.jpg
 
 
 - first_name: Chelsea
@@ -340,8 +340,10 @@
   groups:
     - cast
   positions:
-    - Mamma Mia! --- Ali
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Ali/Ensemble
     - Crazy For You --- Irene
+    - Young Frank --- Ensemble
   bio: >
     
   # image_year: 2017
@@ -411,8 +413,8 @@
     - "Assistant Stage Manager" # --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
     # - Production Stage Manager --- Cabaret
   bio: >
-#    Jessica Schepers is ecstatic to be returning to the Post Playhouse for her second season. Jessica is pursuing a B.A. in Fine Arts at Chadron State College and is expecting to graduate in 2017. Jessica has stage managed several shows at CSC including *The 39 Steps* and *Rosencrantz and Guildenstern Are Dead*. Jessica is incredibly grateful for this opportunity to ASM at the Post Playhouse and owes her success to her friends both at the Post and at CSC as well as her family. 
-  image_year: 2015
+    Jessica Steffen-Schepers, originally from Sturgis, South Dakota, is a recent graduate of Chadron State College (CSC) with a Bachelors Degree in Comprehensive Theatre- Emphasis Tech. While at CSC, Jessica had the opportunity to stage manage several different shows. Mostly recently _Rosencrantz & Guildenstern Are Dead_, _Peter and the Starcatcher_, and _Too Much Light Makes the Baby Go Blind_. Jessica is returning for her third season with the Post Playhouse and is very excited to celebrate 50 years of theatre entertainment in the Nebraska Panhandle. As a recent graduate she has nothing planned and is very excited for the future.
+  image_year: 2017
   image_file: jessica-schepers.jpg
 
 
