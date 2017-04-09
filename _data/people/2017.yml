@@ -25,77 +25,24 @@
 #
 #
 #
-#        CAST CREW MUSICIANS CREATIVE ADDITIONAL
+#        CAST CREW MUSICIANS CREATIVE ADDITIONAL STAFF
 #
 #
 #
 #
-- last_name: Venho
-  first_name: Aili
-  location: "New York City, NY"
+
+
+- last_name: Agsten
+  first_name: Eric
+  location: ""
   groups:
-    - cast
+    - creative
   positions:
-    - Shrek --- Storybook/Ensemble
-    - Mamma Mia! --- Tanya
-    - Crazy For You --- Patsy
-    - Chicago --- Velma Kelly
-    - Young Frankenstein --- Frau Blucher
+    - Season Sound Design
   bio: >
-    Aili is thrilled to be at Post Playhouse this summer! A few favorite past credits include: the Off Broadway hit _50 Shades! The Musical Parody_ (Pam), _A Chorus Line_ (Diana Morales), and _Finian's Rainbow_ (Sharon). Thanks to Dewayne, the cast, techs and creative, and thanks to Mom, Dad, Rob and Cait. Love is love is love!
-  image_year: 2017
-  image_file: aili-venho.jpg
-
-
-- first_name: Renée Elizabeth
-  last_name: Turner
-  location: "Miami, FL"
-  groups:
-    - cast
-  positions:
-    - Shrek --- Dragon
-    - Mamma Mia! --- Rosie
-    - Crazy For You --- Fodor
-    - Chicago --- Mama Morton
-    - Young Frankenstein --- Ensemble
-  bio: >
-    Renèe Elizabeth Turner, a South Florida native, is a classically trained actress and vocalist who graduated Summa Cum Laude from FAU. Some of her favorite roles include: "Missy" (_The Winter Wonderettes_), "Sister Margaretta" (_The Sound of Music_), "Minnie/Angela" (_Parade_), and "Nettie Fowler" (_Carousel_) as well as having performed with Broadway composer Marc Shaiman. She thanks GOD, her Amazing husband Andrew/"Muffin", her beautiful parents Clarence and Elizabeth, family, friends, and the Incredible Thomas Dewayne Barrett for this Phenomenal Blessing in being a part of the Post Playhouse 50th Anniversary Season. ♥
-  image_year: 2017
-  image_file: renee-turner.jpg
-
-
-- last_name: Dornemann
-  first_name: Matt
-  location: "Concord, MA"
-  groups:
-    - cast
-  positions:
-    - Shrek --- Pinocchio/Ensemble
-    - Mamma Mia! --- Eddie
-    - Crazy For You --- Fodor
-    - Chicago --- Harrison
-    - Young Frankenstein --- Victor/Ensemble
-  bio: >
-    Matt, a Massachusetts native, is thrilled to be performing at Post Playhouse! Regional: _Forever Plaid_ (Thunder Bay Theatre), _Mary Poppins_, _Memphis_ (Weathervane Theatre) _All Shook Up_ (Yorktown Stage) _Chicago_, _Shrek_ (Arundel Barn Playhouse) TV/Film: _Six Degrees of Murder_ (ID). Special thanks to Dewayne, and as always his Mom and Dad!
-  image_year: 2017
-  image_file: matt-dornemann.jpg
-
-
-- last_name: Lawson
-  first_name: Dominique Allen
-  location: "Jacksonville, FL"
-  groups:
-    - cast
-  positions:
-    - Shrek --- Donkey
-    - Mamma Mia! --- Pepper
-    - Crazy For You --- Jimmy/Ensemble
-    - Chicago --- Ensemble
-    - Young Frankenstein --- Ensemble
-  bio: >
-    Originally from Jacksonville, FL, Dominique Allen Lawson is thrilled to be spending his summer at Post Playhouse! Previous credits include Barry in _Welcome to America_ (Braata Productions) Ernst in _Spring Awakening_ (Hangar Theatre) All Good Gifts in _Godspell_ (Theatre Downtown), and as a production vocalist onboard Cunard’s Queen Victoria cruise line.
-  image_year: 2017
-  image_file: dominique-lawson.jpg
+    
+  # image_year: 2017
+  # image_file: .jpg
 
 
 - last_name: Alagna
@@ -115,68 +62,33 @@
   image_file: lauren-alagna.jpg
 
 
-- last_name: Pool
-  first_name: Sarah
-  location: "Arlington, TX"
+- last_name: Barrett
+  first_name: Dewayne
+  location: "New York City via Atlanta, GA"
   groups:
-    - cast
+    - creative
   positions:
-    - Music Director --- Shrek, Crazy For You, Chicago
-    - Second Keyboard --- Mamma Mia!, Young Frankenstein
-  bio: >
-    Sarah Pool is excited to be joining the team at Post Playhouse for the first time as the Music Director for _Shrek_, _Chicago_, and _Crazy for You_. She holds a B.M. in Piano Performance from Dallas Baptist University, and has spent the last two years as Music Directing Intern at PCPA in Santa Maria, CA. During her time at PCPA, she was the Assistant Music Director for _Lend Me a Tenor_, _Beauty and the Beast_, _In the Heights_, _Shrek the Musical_, _Pirates of Penzance_, _Cinderella_, _Man of La Mancha_, and _My Fair Lady_. She was the Music Director for conservatory project productions of _Urinetown_ and _RENT_. Sarah wishes to thank Dewayne Barrett for giving her this opportunity, Matt for recommending me to Post, and to her family and Andrew for the love and support! 
-  image_year: 2017
-  image_file: sarah-pool.jpg
+    - Post Playhouse Artistic Director
+    - Director --- Shrek, Chicago, Young Frankenstein
+    - Season Choreographer
+  bio: |
+    Dewayne is very excited to be returning to the post playhouse this season as Artistic director as well as Directing and choreographing this season. Originally from Atlanta, Georgia, he moved to New York City and began his career/training in the Big Apple. He has performed leading roles around the country such as Rum Tum Tugger in _Cats_, Bobby Child in _Crazy For You_, Riff in _West Side Story_, Bobby in _A Chorus Line_ to name a few. He has directed and choreographed for national tours, regional theatres, dinner theaters, community theatres, cruise ships, movies, high schools, music videos, parades and dance companies. He know resides in Florida.
+    
+    In Venice, Florida he recently directed the area premiere of _Billy Elliot the Musical_ as well as _EDM Antigone the Rock Opera_ with Don Fox in Wenatchee, Washington. Don and Dewayne are planning several US tours of _EDM Antigone_. He is currently in the works with Phillip Michael Thomas from Miami Vice with a new musical with eyes set for Broadway.
+  image_year: 2016
+  image_file: dewayne-barrett.jpg
 
 
-- last_name: Fitzsimons
-  first_name: Tim
-  location: "Torrance, CA"
+- last_name: Boynton
+  first_name: Pheobe H.
+  location: "Ithaca, NY, Los Angeles, CA, & MS Oceania Riviera"
   groups:
-    - cast
+    - creative
   positions:
-    - Shrek --- Shrek
-    - Mamma Mia! --- Harry Bright
-    - Crazy For You --- Mingo/Ensemble
-    - Chicago --- Amos
-    - Young Frankenstein --- Frederick
+    - Season Costume Designer
   bio: >
-    NYC: Adolfo Pirelli, _Sweeney Todd_ (Piper Theatre Productions), _Song of Solomon_ (World Premiere). Nat’l Tour: Pop, _Miss Nelson is Missing_ (Two Beans Productions). LA: Hawker, _TOMMY_ (Moonlight Amphitheatre); Joseph, _Joseph...Dreamcoat_ (Saddleback CLO). Special thanks: Cast, crew, and creative; MT F13RCE; my sister, mom and dad. BFA 2013, CSUF. [www.timfitzsimons.com](http://www.timfitzsimons.com)
-  image_year: 2017
-  image_file: tim-fitzsimons.jpg
-
-
-- last_name: Peters
-  first_name: Brittney
-  location: "Rapid City, SD"
-  groups:
-    - crew
-    - staff
-  positions:
-    - Box Office
-    - Spotlight Operator
-    - Tech Crew
-  bio: >
-    Brittney Peters is a freshman at Chadron State College, pursuing a Bachelors of Fine Arts degree in Technical Theatre. She is originally from Rapid City South Dakota. Brittney has been working for the Theatre department at CSC for the last year and is excited to be working her first season at The Post Playhouse.
-  image_year: 2017
-  image_file: brittney-peters.jpg
-
-
-- last_name: Lewis
-  first_name: Taylor Lynn
-  location: "Fort Worth, TX"
-  groups:
-    - cast
-  positions:
-    - Shrek --- Storybook/Ensemble
-    - Mamma Mia! --- Sophie
-    - Crazy For You --- Mitzi/Ensemble
-    - Chicago --- Mona/Ensemble
-    - Young Frankenstein --- Ensemble
-  bio: >
-    Taylor Lewis is thrilled to be spending her first summer at Post Playhouse! She is a graduate of Texas Christian University with a BFA in Acting, and now resides in New York City. She would like to thank Dewayne for this amazing opportunity, and her parents for their constant love and support while she travels the country following her dreams. [www.taylorlynnlewis.com](http://www.taylorlynnlewis.com)
-  image_year: 2017
-  image_file: taylor-lewis.jpg
+  image_year: 2015
+  image_file: pheobe-boynton.jpg
 
 
 - last_name: Carter
@@ -196,6 +108,35 @@
   image_file: kathleen-carter.jpg
 
 
+- last_name: de Lacy
+  first_name: Chelsea
+  location: "New York City via New Hampshire"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Ali/Ensemble
+    - Crazy For You --- Irene
+    - Chicago --- Ensemble
+    - Young Frank --- Ensemble
+  bio: >
+    Chelsea is thrilled to be making her Post Playhouse debut!  She moved to NYC shortly after graduating from the Boston Conservatory in 2014 for musical theater.  Past favorites include: Mary Magdalene in _Jesus Christ Superstar_ at BoCo, Benvolio in _Romeo and Juliet_ with Off The Grid Theater Company, Claudia in _Adam Lives_ at Goodspeed’s Festival of New Musicals and _The Full Monty_ with The Barnstormers Theatre.  Thank you to my family for their constant love and support! For more, visit [www.chelseadelacy.com](http://www.chelseadelacy.com)!
+  image_year: 2017
+  image_file: chelsea-delacy.jpg
+
+
+- last_name: Denton
+  first_name: Don
+  groups: >
+    - staff
+  positions:
+    - "Assistant Marketing Manager"
+  bio: >
+    Don Denton has been performing with Post Playhouse off and on since 2008. Since that time, he has been working with Tom to rethink all their marketing efforts. For the past few years, all the mailings and the website have been designed by Don. He is very proud to continue to help the Playhouse reach for new heights even from afar.
+  image_year: 2015
+  image_file: don-denton.jpg
+
+
 - last_name: Dixon
   first_name: Chuckie
   location: "New York City, NY"
@@ -211,6 +152,97 @@
     Chuckie is a proud ECU alum and lives in NYC. Some favorite credits: Clifford...tour (Clifford), _Spamalot_ (French Taunter), _Peter Pan_ (Slightly Soiled), _Cats_ (Mungojerrie), _A Christmas Story_ (Scut Farkus), and _Fiddler On the Roof_ (Mendel). Thanks and love to the Post team, my incredible mom, and the miraculous Mal!
   image_year: 2017
   image_file: chuckie-dixon.jpg
+
+
+- last_name: Dornemann
+  first_name: Matt
+  location: "Concord, MA"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Pinocchio/Ensemble
+    - Mamma Mia! --- Eddie
+    - Crazy For You --- Fodor
+    - Chicago --- Harrison
+    - Young Frankenstein --- Victor/Ensemble
+  bio: >
+    Matt, a Massachusetts native, is thrilled to be performing at Post Playhouse! Regional: _Forever Plaid_ (Thunder Bay Theatre), _Mary Poppins_, _Memphis_ (Weathervane Theatre) _All Shook Up_ (Yorktown Stage) _Chicago_, _Shrek_ (Arundel Barn Playhouse) TV/Film: _Six Degrees of Murder_ (ID). Special thanks to Dewayne, and as always his Mom and Dad!
+  image_year: 2017
+  image_file: matt-dornemann.jpg
+
+
+- last_name: Fitch
+  first_name: Josh
+  location: ""
+  groups:
+    - crew
+  positions:
+    - Assistant Technical Director
+  bio: >
+    
+  # image_year: 2017
+  # image_file: .jpg
+
+
+- last_name: Fitzsimons
+  first_name: Tim
+  location: "Torrance, CA"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Shrek
+    - Mamma Mia! --- Harry Bright
+    - Crazy For You --- Mingo/Ensemble
+    - Chicago --- Amos
+    - Young Frankenstein --- Frederick
+  bio: >
+    NYC: Adolfo Pirelli, _Sweeney Todd_ (Piper Theatre Productions), _Song of Solomon_ (World Premiere). Nat’l Tour: Pop, _Miss Nelson is Missing_ (Two Beans Productions). LA: Hawker, _TOMMY_ (Moonlight Amphitheatre); Joseph, _Joseph...Dreamcoat_ (Saddleback CLO). Special thanks: Cast, crew, and creative; MT F13RCE; my sister, mom and dad. BFA 2013, CSUF. [www.timfitzsimons.com](http://www.timfitzsimons.com)
+  image_year: 2017
+  image_file: tim-fitzsimons.jpg
+
+
+- last_name: Fox
+  first_name: Don
+  location: 
+  groups:
+    - creative
+  positions:
+    - "Season Lighting Designer" # --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
+    - Season Scenic Designer
+    # - Director --- Cabaret
+  bio: >
+    Don is happy to be returning for his 4th season at the Post Playhouse.  A native of Colorado Springs, CO, he is based in Wenatchee, WA.  Recent and favorite credits include lighting design for the Atlantis Resort, Paradise Island, (_Great American Variety Show_), The Borgata Casino, Atlantic City, NJ (_The Burlesque Show_), Florida State University, Tallahassee, FL (_All Shook Up, Legally Blonde_), The Moscow Ballet North American Tours 2014, 2015 (_The Great Russian Nutcracker_), Numerica Performing Arts Center of Wenatchee, WA (_Young Frankenstein_, _August Osage County_), and he recently created and produced the world premiere of _EDM Antigone_ which is available as an educational production to tour nationally in 2017-2018 ([www.edmAntigone.com](http://www.edmantigone.com/)). His extensive portfolio can be viewed at [www.DonFoxDesigns.com](http://www.donfoxdesigns.com/).
+  image_year: 2015
+  image_file: don-fox.jpg
+
+
+- last_name: Gaswick
+  first_name: Tim
+  groups: >
+    - staff
+  positions:
+    - Accountant
+  bio: >
+#    Tim is the franchise owner of the Chadron H&R Block office, and has been the accountant for the playhouse since 2007.  He and his wife Kari have four children, Kaylee, Aaron, Braxton, and Seth. Tim not only serves as the accountant, but also as the treasurer on the playhouse board. He enjoys working with the great talent and staff every summer, and looks forward to many years with the playhouse.
+  image_year: 2015
+  image_file: tim-gaswick.jpg
+
+
+- last_name: Graziani
+  first_name: Brian Keith
+  location: ""
+  groups:
+    - cast
+  positions:
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Ensemble
+    - Crazy For You --- Sam/Ensemble
+    - Chicago --- Mary Sunshine
+    - Young Frankenstein --- Monster
+  bio: >
+    Brian is thrilled to be spending his summer here at Post! Off Broadway: _Queen of The Night_. National Tour: _Tony and Tina's Wedding_, _Fly Guys And Other Stories_, _Alice in Wonderland_. Favorite Regional Credits: _The Full Monty_ (Malcolm), _[Title Of Show]_ (Hunter), _You're...Charlie Brown_ (Charlie), and _The 25th Annual...Bee_ (Leaf). Much love and thanks to his dog Charlie, his fiancé Peter, Dewayne for the opportunity, Pizza, and Beyonce. [BrianGraziani.com](http://briangraziani.com/)
+  image_year: 2017
+  image_file: brian-graziani.jpg
 
 
 - last_name: Harlow
@@ -230,74 +262,18 @@
   image_file: korey-harlow.jpg
 
 
-- last_name: Martin
-  first_name: Samuel T.
-  location: "Hot Springs, SD"
+- last_name: Haselhorst
+  first_name: Leo
+  location: "Randolph, NE"
   groups:
-    - cast
-    - crew
     - staff
+    - creative
   positions:
-    - Shrek --- Storybook/Ensemble
-    - Crazy For You --- Moose
-    - Young Frankenstein --- Ensemble
-    - Spotlight Operator
-    - Box Office
+    - Season Technical Director
   bio: >
-#    Samuel is ecstatic for his first season at the Post Playhouse! Originally from Hot Springs, SD, this Theatre Major at Chadron State College is absolutely thrilled to be joining the team. Roles at CSC include William Barfee in *The 25th Annual Putnam County Spelling Bee* and Uncle Silas/Ensemble in *Big River*. Samuel would like say thank you to all his friends and family for their continual support, and to all of the amazing people at the Post Playhouse for allowing him this incredible opportunity.
+    
   image_year: 2016
-  image_file: samuel-martin.jpg
-  
-  
-- last_name: Graziani
-  first_name: Brian Keith
-  location: ""
-  groups:
-    - cast
-  positions:
-    - Shrek --- Storybook/Ensemble
-    - Mamma Mia! --- Ensemble
-    - Crazy For You --- Sam/Ensemble
-    - Chicago --- Mary Sunshine
-    - Young Frankenstein --- Monster
-  bio: >
-    Brian is thrilled to be spending his summer here at Post! Off Broadway: _Queen of The Night_. National Tour: _Tony and Tina's Wedding_, _Fly Guys And Other Stories_, _Alice in Wonderland_. Favorite Regional Credits: _The Full Monty_ (Malcolm), _[Title Of Show]_ (Hunter), _You're...Charlie Brown_ (Charlie), and _The 25th Annual...Bee_ (Leaf). Much love and thanks to his dog Charlie, his fiancé Peter, Dewayne for the opportunity, Pizza, and Beyonce. [BrianGraziani.com](http://briangraziani.com/)
-  image_year: 2017
-  image_file: brian-graziani.jpg
-
-
-- last_name: Thies
-  first_name: Taylor
-  location: ""
-  groups:
-    - cast
-    - staff
-    - crew
-  positions:
-    - Mamma Mia! --- Ensemble
-    - Spotlight Operator
-    - Box Office Staff
-  bio: >
-    
-  # image_year: 2017
-  # image_file: .jpg
-
-
-- last_name: Solum
-  first_name: Lilianna
-  location: ""
-  groups:
-    - cast
-  positions:
-    - Shrek --- Fiona
-    - Mamma Mia! --- Ensemble
-    - Crazy For You --- Louise
-    - Chicago --- Hunyak/Ensemble
-    - Young Frankenstein --- Ensemble
-  bio: >
-    
-  # image_year: 2017
-  # image_file: .jpg
+  image_file: leo-haselhorst.jpg
 
 
 - last_name: Isom
@@ -317,120 +293,68 @@
   # image_file: .jpg
 
 
-- last_name: Pagano
-  first_name: Cat
-  location: "Coral Springs, FL"
+- last_name: Johns
+  first_name: Shellie
+  groups: >
+    - staff
+  positions:
+    - Winter Box Office
+  bio: >
+    Conferencing --- Chadron State University
+  image_year: 2015
+  image_file: shellie-johns.jpg
+
+
+- last_name: Lawson
+  first_name: Dominique Allen
+  location: "Jacksonville, FL"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Donkey
+    - Mamma Mia! --- Pepper
+    - Crazy For You --- Jimmy/Ensemble
+    - Chicago --- Ensemble
+    - Young Frankenstein --- Ensemble
+  bio: >
+    Originally from Jacksonville, FL, Dominique Allen Lawson is thrilled to be spending his summer at Post Playhouse! Previous credits include Barry in _Welcome to America_ (Braata Productions) Ernst in _Spring Awakening_ (Hangar Theatre) All Good Gifts in _Godspell_ (Theatre Downtown), and as a production vocalist onboard Cunard’s Queen Victoria cruise line.
+  image_year: 2017
+  image_file: dominique-lawson.jpg
+
+
+- last_name: Lewis
+  first_name: Taylor Lynn
+  location: "Fort Worth, TX"
   groups:
     - cast
   positions:
     - Shrek --- Storybook/Ensemble
-    - Mamma Mia! --- Ensemble
-    - Crazy For You --- Shelia
-    - Chicago --- Go to Hell Kitty/Ensemble
-    - Young Frankenstein --- Inga
+    - Mamma Mia! --- Sophie
+    - Crazy For You --- Mitzi/Ensemble
+    - Chicago --- Mona/Ensemble
+    - Young Frankenstein --- Ensemble
   bio: >
-    Cat Pagano is excited to begin her professional career with Post Playhouse in their 50th season!  Cat is excited to reprise her role of Inga in _Young Frankenstein_ this season and to be part of her dream show, _Chicago_! Proud graduate of FSU 2017!! Thank you to her family for all the love and support the world can offer.
+    Taylor Lewis is thrilled to be spending her first summer at Post Playhouse! She is a graduate of Texas Christian University with a BFA in Acting, and now resides in New York City. She would like to thank Dewayne for this amazing opportunity, and her parents for their constant love and support while she travels the country following her dreams. [www.taylorlynnlewis.com](http://www.taylorlynnlewis.com)
   image_year: 2017
-  image_file: cat-pagano.jpg
+  image_file: taylor-lewis.jpg
 
 
-- last_name: de Lacy
-  first_name: Chelsea
-  location: "New York City via New Hampshire"
+- last_name: Martin
+  first_name: Samuel T.
+  location: "Hot Springs, SD"
   groups:
     - cast
+    - crew
+    - staff
   positions:
     - Shrek --- Storybook/Ensemble
-    - Mamma Mia! --- Ali/Ensemble
-    - Crazy For You --- Irene
-    - Young Frank --- Ensemble
+    - Crazy For You --- Moose
+    - Young Frankenstein --- Ensemble
+    - Spotlight Operator
+    - Box Office
   bio: >
-    Chelsea is thrilled to be making her Post Playhouse debut!  She moved to NYC shortly after graduating from the Boston Conservatory in 2014 for musical theater.  Past favorites include: Mary Magdalene in _Jesus Christ Superstar_ at BoCo, Benvolio in _Romeo and Juliet_ with Off The Grid Theater Company, Claudia in _Adam Lives_ at Goodspeed’s Festival of New Musicals and _The Full Monty_ with The Barnstormers Theatre.  Thank you to my family for their constant love and support! For more, visit [www.chelseadelacy.com](http://www.chelseadelacy.com)!
-  image_year: 2017
-  image_file: chelsea-delacy.jpg
-
-
-- last_name: Agsten
-  first_name: Eric
-  location: ""
-  groups:
-    - creative
-  positions:
-    - Season Sound Design
-  bio: >
-    
-  # image_year: 2017
-  # image_file: .jpg
-
-
-- last_name: Fitch
-  first_name: Josh
-  location: ""
-  groups:
-    - crew
-  positions:
-    - Assistant Technical Director
-  bio: >
-    
-  # image_year: 2017
-  # image_file: .jpg
-
-
-- last_name: Boynton
-  first_name: Pheobe H.
-  location: "Ithaca, NY, Los Angeles, CA, & MS Oceania Riviera"
-  groups:
-    - creative
-  positions:
-    - Season Costume Designer
-  bio: >
-#     Pheobe Boynton is thrilled to be returning to The Post for her third season! She has been fortunate enough to make a career in costume design and construction for film and theater in Los Angeles for the past eight years, working with companies as diverse as the Los Angeles Opera, Relativity Media, Machinima, Kanye West, and Norwegian Creative Studios. This last year she was honored to design the costumes for the major motion picture *The Thinning* for Legendary Pictures. She has spent the rest of the year as the wardrobe supervisor for the Oceania Riviera visiting ports in the Caribbean, and Central America. 
-  image_year: 2015
-  image_file: pheobe-boynton.jpg
-
-
-- last_name: Fox
-  first_name: Don
-  location: 
-  groups:
-    - creative
-  positions:
-    - "Season Lighting Designer" # --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
-    - Season Scenic Designer
-    # - Director --- Cabaret
-  bio: >
-    Don is happy to be returning for his 4th season at the Post Playhouse.  A native of Colorado Springs, CO, he is based in Wenatchee, WA.  Recent and favorite credits include lighting design for the Atlantis Resort, Paradise Island, (_Great American Variety Show_), The Borgata Casino, Atlantic City, NJ (_The Burlesque Show_), Florida State University, Tallahassee, FL (_All Shook Up, Legally Blonde_), The Moscow Ballet North American Tours 2014, 2015 (_The Great Russian Nutcracker_), Numerica Performing Arts Center of Wenatchee, WA (_Young Frankenstein_, _August Osage County_), and he recently created and produced the world premiere of _EDM Antigone_ which is available as an educational production to tour nationally in 2017-2018 ([www.edmAntigone.com](http://www.edmantigone.com/)). His extensive portfolio can be viewed at [www.DonFoxDesigns.com](http://www.donfoxdesigns.com/).
-  image_year: 2015
-  image_file: don-fox.jpg
-
-
-- last_name: Schepers
-  first_name: Jessica
-  location: "Sturgis, SD"
-  groups:
-    - crew
-  positions:
-    - "Assistant Stage Manager" # --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
-    # - Production Stage Manager --- Cabaret
-  bio: >
-    Jessica Steffen-Schepers, originally from Sturgis, South Dakota, is a recent graduate of Chadron State College (CSC) with a Bachelors Degree in Comprehensive Theatre- Emphasis Tech. While at CSC, Jessica had the opportunity to stage manage several different shows. Mostly recently _Rosencrantz & Guildenstern Are Dead_, _Peter and the Starcatcher_, and _Too Much Light Makes the Baby Go Blind_. Jessica is returning for her third season with the Post Playhouse and is very excited to celebrate 50 years of theatre entertainment in the Nebraska Panhandle. As a recent graduate she has nothing planned and is very excited for the future.
-  image_year: 2017
-  image_file: jessica-schepers.jpg
-
-
-- last_name: Phillips
-  first_name: Ken
-  location: "Tucson, AZ"
-  groups:
-    - crew
-    - creative
-  positions:
-    - "Production Stage Manager" # --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
-    # - Lighting Designer --- Cabaret
-  bio: >
-#    Ken is extremely thrilled to be coming back to a place that feels like a second home to him for his third summer with the Post! Ken is currently a graduate student in lighting design at the University of Arizona, where he not only assisted in the design of two main stage shows this year, but also worked as the Projection Designer for the University’s production of Shakespeare’s *The Tempest*. Prior to this, he was working as a Freelance Stage Manager in LA. Recent LA credits included shows at Oddwing Productions, Lost Moon Radio, AMDA Conservatory College, and Disney’s El Capitan Theatre in Hollywood. He also has past directing work that’s premiered through educational programs at Live Theatre Workshop, Powerhouse Theater, The Hangar Theatre, and The Eugene O’Neill Center. In his spare time, Ken continually trains as an Actor Combatant in stage combat for film and theatre. Thank you so much to Tom Ossowski and the rest of the community for the fantastic opportunity to put up these wonderful musicals here at the Post! [www.KGPhillips.com](http://www.kgphillips.com/)
   image_year: 2016
-  image_file: ken-phillips.jpg
+  image_file: samuel-martin.jpg
 
 
 - last_name: Ossowski
@@ -449,6 +373,107 @@
   image_file: tom-ossowski.jpg
 
 
+- last_name: Owen
+  first_name: Anna
+  location: "Chadron, NE"
+  groups:
+    - staff
+  positions:
+    - Stitcher 
+  bio: >
+    Anna is very excited to be coming back to the Post! This is her second summer here and she couldn’t be happier. Anna graduated from Chadron State College with her BA in Theater May 2016 and is Currently Working in Tampa, FL at Norwegian Creative Studios. Anna took the summer off to come back to the Post and be closer to her family.  Thank you so much to everyone at The Post Play House for this wonderful opportunity and the chance to be part of this amazing community.
+  image_year: 2017
+  image_file: anna-owen.jpg
+
+
+- last_name: Pagano
+  first_name: Cat
+  location: "Coral Springs, FL"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Ensemble
+    - Crazy For You --- Shelia
+    - Chicago --- Go to Hell Kitty/Ensemble
+    - Young Frankenstein --- Inga
+  bio: >
+    Cat Pagano is excited to begin her professional career with Post Playhouse in their 50th season!  Cat is excited to reprise her role of Inga in _Young Frankenstein_ this season and to be part of her dream show, _Chicago_! Proud graduate of FSU 2017!! Thank you to her family for all the love and support the world can offer.
+  image_year: 2017
+  image_file: cat-pagano.jpg
+
+
+- last_name: Peters
+  first_name: Brittney
+  location: "Rapid City, SD"
+  groups:
+    - crew
+    - staff
+  positions:
+    - Box Office
+    - Spotlight Operator
+    - Tech Crew
+  bio: >
+    Brittney Peters is a freshman at Chadron State College, pursuing a Bachelors of Fine Arts degree in Technical Theatre. She is originally from Rapid City South Dakota. Brittney has been working for the Theatre department at CSC for the last year and is excited to be working her first season at The Post Playhouse.
+  image_year: 2017
+  image_file: brittney-peters.jpg
+
+
+- last_name: Phillips
+  first_name: Ken
+  location: "Tucson, AZ"
+  groups:
+    - crew
+    - creative
+  positions:
+    - "Production Stage Manager" # --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
+    # - Lighting Designer --- Cabaret
+  bio: >
+  image_year: 2016
+  image_file: ken-phillips.jpg
+
+
+- last_name: Pool
+  first_name: Sarah
+  location: "Arlington, TX"
+  groups:
+    - cast
+  positions:
+    - Music Director --- Shrek, Crazy For You, Chicago
+    - Second Keyboard --- Mamma Mia!, Young Frankenstein
+  bio: >
+    Sarah Pool is excited to be joining the team at Post Playhouse for the first time as the Music Director for _Shrek_, _Chicago_, and _Crazy for You_. She holds a B.M. in Piano Performance from Dallas Baptist University, and has spent the last two years as Music Directing Intern at PCPA in Santa Maria, CA. During her time at PCPA, she was the Assistant Music Director for _Lend Me a Tenor_, _Beauty and the Beast_, _In the Heights_, _Shrek the Musical_, _Pirates of Penzance_, _Cinderella_, _Man of La Mancha_, and _My Fair Lady_. She was the Music Director for conservatory project productions of _Urinetown_ and _RENT_. Sarah wishes to thank Dewayne Barrett for giving her this opportunity, Matt for recommending me to Post, and to her family and Andrew for the love and support! 
+  image_year: 2017
+  image_file: sarah-pool.jpg
+
+
+- last_name: Rotherham
+  first_name: Marge
+  location: "Crawford, NE"
+  groups:
+    - cast
+  positions:
+    - Crazy For You --- Lottie Child
+    - Young Frankenstein --- Ensemble
+  bio: >
+  image_year: 2015
+  image_file: marge-rotherham.jpg
+
+
+- last_name: Schepers
+  first_name: Jessica
+  location: "Sturgis, SD"
+  groups:
+    - crew
+  positions:
+    - "Assistant Stage Manager" # --- Beauty and the Beast, The Addams Family, Legally Blonde, Spamalot"
+    # - Production Stage Manager --- Cabaret
+  bio: >
+    Jessica Steffen-Schepers, originally from Sturgis, South Dakota, is a recent graduate of Chadron State College (CSC) with a Bachelors Degree in Comprehensive Theatre- Emphasis Tech. While at CSC, Jessica had the opportunity to stage manage several different shows. Mostly recently _Rosencrantz & Guildenstern Are Dead_, _Peter and the Starcatcher_, and _Too Much Light Makes the Baby Go Blind_. Jessica is returning for her third season with the Post Playhouse and is very excited to celebrate 50 years of theatre entertainment in the Nebraska Panhandle. As a recent graduate she has nothing planned and is very excited for the future.
+  image_year: 2017
+  image_file: jessica-schepers.jpg
+
+
 - last_name: Seiler
   first_name: Wally
   location: "Alliance, NE"
@@ -464,35 +489,21 @@
   image_file: wally-seiler.jpg
 
 
-- last_name: Rotherham
-  first_name: Marge
-  location: "Crawford, NE"
+- last_name: Solum
+  first_name: Lilianna
+  location: ""
   groups:
     - cast
   positions:
-    - Crazy For You --- Lottie Child
+    - Shrek --- Fiona
+    - Mamma Mia! --- Ensemble
+    - Crazy For You --- Louise
+    - Chicago --- Hunyak/Ensemble
     - Young Frankenstein --- Ensemble
   bio: >
-#    Marge is pleased to be returning to the Post Playhouse for her 9th season.  Previously, in the 1990's, she appeared as Quiser Bourdreaux (*Steel Magnolias*) and in the Olios for the melodramas.  After a several  year hiatus, her most recent roles include, Mama Lily (*Hank Williams:Lost Highway*), Aunt Eller (*Oklahoma*), Miss Lynch (*Grease*),  Mrs. Potter-Porter and Ensemble (*Annie Get Your Gun*), Ensemble (*Hollywood: A Cabaret*), Agatha And Mission Band (*Guys and Dolls*), Baroness Elberfeld (*The Sound of Music*), and The Queen (*Cinderella*) and Miss Lynch (*Grease*). Marge would like to thank Tom Ossowski and the Post Playhouse staff for bringing such great, quality entertainment to this area. But most importantly, thanks for all the long-lasting friendships and the memories that have resulted from 49 years of wonderful.
-  image_year: 2015
-  image_file: marge-rotherham.jpg
-
-
-- last_name: Barrett
-  first_name: Dewayne
-  location: "New York City via Atlanta, GA"
-  groups:
-    - creative
-  positions:
-    - Post Playhouse Artistic Director
-    - Director --- Shrek, Chicago, Young Frankenstein
-    - Season Choreographer
-  bio: |
-    Dewayne is very excited to be returning to the post playhouse this season as Artistic director as well as Directing and choreographing this season. Originally from Atlanta, Georgia, he moved to New York City and began his career/training in the Big Apple. He has performed leading roles around the country such as Rum Tum Tugger in _Cats_, Bobby Child in _Crazy For You_, Riff in _West Side Story_, Bobby in _A Chorus Line_ to name a few. He has directed and choreographed for national tours, regional theatres, dinner theaters, community theatres, cruise ships, movies, high schools, music videos, parades and dance companies. He know resides in Florida.
     
-    In Venice, Florida he recently directed the area premiere of _Billy Elliot the Musical_ as well as _EDM Antigone the Rock Opera_ with Don Fox in Wenatchee, Washington. Don and Dewayne are planning several US tours of _EDM Antigone_. He is currently in the works with Phillip Michael Thomas from Miami Vice with a new musical with eyes set for Broadway.
-  image_year: 2016
-  image_file: dewayne-barrett.jpg
+  # image_year: 2017
+  # image_file: .jpg
 
 
 - last_name: Stephens
@@ -509,18 +520,55 @@
   image_file: ann-stephens.jpg
 
 
-- last_name: Haselhorst
-  first_name: Leo
-  location: "Randolph, NE"
+- last_name: Thies
+  first_name: Taylor
+  location: ""
   groups:
+    - cast
     - staff
-    - creative
+    - crew
   positions:
-    - Season Technical Director
+    - Mamma Mia! --- Ensemble
+    - Spotlight Operator
+    - Box Office Staff
   bio: >
     
-  image_year: 2016
-  image_file: leo-haselhorst.jpg
+  # image_year: 2017
+  # image_file: .jpg
+
+
+- last_name: Turner
+  first_name: Renée Elizabeth
+  location: "Miami, FL"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Dragon
+    - Mamma Mia! --- Rosie
+    - Crazy For You --- Fodor
+    - Chicago --- Mama Morton
+    - Young Frankenstein --- Ensemble
+  bio: >
+    Renèe Elizabeth Turner, a South Florida native, is a classically trained actress and vocalist who graduated Summa Cum Laude from FAU. Some of her favorite roles include: "Missy" (_The Winter Wonderettes_), "Sister Margaretta" (_The Sound of Music_), "Minnie/Angela" (_Parade_), and "Nettie Fowler" (_Carousel_) as well as having performed with Broadway composer Marc Shaiman. She thanks GOD, her Amazing husband Andrew/"Muffin", her beautiful parents Clarence and Elizabeth, family, friends, and the Incredible Thomas Dewayne Barrett for this Phenomenal Blessing in being a part of the Post Playhouse 50th Anniversary Season. ♥
+  image_year: 2017
+  image_file: renee-turner.jpg
+
+
+- last_name: Venho
+  first_name: Aili
+  location: "New York City, NY"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Storybook/Ensemble
+    - Mamma Mia! --- Tanya
+    - Crazy For You --- Patsy
+    - Chicago --- Velma Kelly
+    - Young Frankenstein --- Frau Blucher
+  bio: >
+    Aili is thrilled to be at Post Playhouse this summer! A few favorite past credits include: the Off Broadway hit _50 Shades! The Musical Parody_ (Pam), _A Chorus Line_ (Diana Morales), and _Finian's Rainbow_ (Sharon). Thanks to Dewayne, the cast, techs and creative, and thanks to Mom, Dad, Rob and Cait. Love is love is love!
+  image_year: 2017
+  image_file: aili-venho.jpg
 
 
 - last_name: Voorhis
@@ -532,24 +580,8 @@
     - Bass
     - Guitar
   bio: >
-#    Jacob is ecstatic to begin his first season at the Post Playhouse. He is a sophomore guitar music major and theatre minor at Chadron State College. He graduated from Belle Fourche High School in South Dakota and has been involved with several community and high school theatres in that area. He has also worked with the CSC theatre department for the last two years. He would like to thank Tom and the Post Playhouse for giving him the opportunity to break into the industry that he loves and all the people that have passed their experience to him over the years.
   image_year: 2016
   image_file: jacob-voorhis.jpg
-
-
-- last_name: Owen
-  first_name: Anna
-  location: "Chadron, NE"
-  groups:
-    - staff
-  positions:
-    - Stitcher 
-  bio: >
-    Anna is very excited to be coming back to the Post! This is her second summer here and she couldn’t be happier. Anna graduated from Chadron State College with her BA in Theater May 2016 and is Currently Working in Tampa, FL at Norwegian Creative Studios. Anna took the summer off to come back to the Post and be closer to her family.  Thank you so much to everyone at The Post Play House for this wonderful opportunity and the chance to be part of this amazing community.
-  image_year: 2017
-  image_file: anna-owen.jpg
-  
-  
 
 
 #
@@ -562,41 +594,6 @@
 #
 #
 
-- last_name: Johns
-  first_name: Shellie
-  groups: >
-    - staff
-  positions:
-    - Winter Box Office
-  bio: >
-    Conferencing --- Chadron State University
-  image_year: 2015
-  image_file: shellie-johns.jpg
-
-
-- last_name: Denton
-  first_name: Don
-  groups: >
-    - staff
-  positions:
-    - "Assistant Marketing Manager"
-  bio: >
-    Don Denton has been performing with Post Playhouse off and on since 2008. Since that time, he has been working with Tom to rethink all their marketing efforts. For the past few years, all the mailings and the website have been designed by Don. He is very proud to continue to help the Playhouse reach for new heights even from afar.
-  image_year: 2015
-  image_file: don-denton.jpg
-
-
-- last_name: Gaswick
-  first_name: Tim
-  groups: >
-    - staff
-  positions:
-    - Accountant
-  bio: >
-#    Tim is the franchise owner of the Chadron H&R Block office, and has been the accountant for the playhouse since 2007.  He and his wife Kari have four children, Kaylee, Aaron, Braxton, and Seth. Tim not only serves as the accountant, but also as the treasurer on the playhouse board. He enjoys working with the great talent and staff every summer, and looks forward to many years with the playhouse.
-  image_year: 2015
-  image_file: tim-gaswick.jpg
-
 #
 #
 #
@@ -606,6 +603,7 @@
 #
 #
 #
+
 
 - last_name: Seiler
   first_name: Wally
