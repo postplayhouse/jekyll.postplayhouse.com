@@ -34,7 +34,7 @@ norobots: true
 </style>
 
 <div class="not-bios-page-wink-wink">
-{% assign people = site.data.people.[page.bio_year] | sort: "last_name" %}
+{% assign people = site.data.people.[page.bio_year] %}
 {% for person in people %}
   {% unless person.groups contains "board" or person.groups contains "additional" %}
 
