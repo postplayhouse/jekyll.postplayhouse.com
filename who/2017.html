@@ -16,13 +16,13 @@ nav_title: Who's Who
 {% endcomment %}
 
 <div class="bios-page">
-{% assign people = site.data.people.[page.bio_year] | sort: "last_name" %}
+{% assign people = site.data.people.[page.bio_year] %}
 {% include cast.html %}
 
-{% assign people = site.data.people.[page.bio_year] | sort: "last_name" %}
+{% assign people = site.data.people.[page.bio_year] %}
 {% include staff.html %}
 
 {% assign people = site.data.people.[page.bio_year] %}
-{% include board.html %}  
+{% include board.html %}
 </div>
 

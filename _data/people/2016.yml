@@ -31,8 +31,8 @@
 #
 #
 
-- first_name: Don
-  last_name: Denton
+- last_name: Denton
+  first_name: Don
   location: "Bettendorf, IA"
   groups:
     - cast
@@ -48,8 +48,8 @@
   image_file: don-denton.jpg
 
 
-- first_name: Pheobe H.
-  last_name: Boynton
+- last_name: Boynton
+  first_name: Pheobe H.
   location: "Ithaca, NY, Los Angeles, CA, & MS Oceania Riviera"
   groups:
     - creative
@@ -61,8 +61,8 @@
   image_file: pheobe-boynton.jpg
 
 
-- first_name: Donald James
-  last_name: Fox
+- last_name: Fox
+  first_name: Donald James
   location: 
   groups:
     - creative
@@ -76,8 +76,8 @@
   image_file: don-fox.jpg
 
 
-- first_name: Paige
-  last_name: Salter
+- last_name: Salter
+  first_name: Paige
   location: "Chattanooga, TN"
   groups:
     - cast
@@ -93,8 +93,8 @@
   image_file: paige-salter.jpg
 
 
-- first_name: Nathan
-  last_name: Sonnenschein
+- last_name: Sonnenschein
+  first_name: Nathan
   location: "Lander, WY"
   groups:
     - crew
@@ -109,8 +109,8 @@
   image_file: nathan-sonnenschein.jpg
 
 
-- first_name: Jessica
-  last_name: Schepers
+- last_name: Schepers
+  first_name: Jessica
   location: "Sturgis, SD"
   groups:
     - crew
@@ -123,8 +123,8 @@
   image_file: jessica-schepers.jpg
 
 
-- first_name: Ken
-  last_name: Phillips
+- last_name: Phillips
+  first_name: Ken
   location: "Tucson, AZ"
   groups:
     - crew
@@ -138,8 +138,8 @@
   image_file: ken-phillips.jpg
 
 
-- first_name: Tom
-  last_name: Ossowski
+- last_name: Ossowski
+  first_name: Tom
   location: "Beatrice, NE via Beijing, China & Tallahasse, FL"
   groups:
     - creative
@@ -154,8 +154,8 @@
   image_file: tom-ossowski.jpg
 
 
-- first_name: Scott
-  last_name: Cavin
+- last_name: Cavin
+  first_name: Scott
   location: "Chadron, NE via Lemoore, CA"
   groups:
     - creative
@@ -168,8 +168,8 @@
   image_file: scott-cavin.jpg
 
 
-- first_name: Emily
-  last_name: Schexnaydre
+- last_name: Schexnaydre
+  first_name: Emily
   location: "Gonzales, LA - Lyndhurst, NJ"
   groups:
     - cast
@@ -185,8 +185,8 @@
   image_file: emily-schexnaydre.jpg
 
 
-- first_name: Graham
-  last_name: Mortier
+- last_name: Mortier
+  first_name: Graham
   location: "Indianapolis, IN"
   groups:
     - cast
@@ -202,8 +202,8 @@
   image_file: graham-mortier.jpg
 
 
-- first_name: Jackie
-  last_name: Ostick
+- last_name: Ostick
+  first_name: Jackie
   location: "New York City, NY"
   groups:
     - cast
@@ -219,8 +219,8 @@
   image_file: jackie-ostick.jpg
 
 
-- first_name: Jennifer
-  last_name: Poarch
+- last_name: Poarch
+  first_name: Jennifer
   location: "Lenoir, NC"
   groups:
     - creative
@@ -232,8 +232,8 @@
   image_file: jennifer-poarch.jpg
 
 
-- first_name: Nick
-  last_name: Waaland
+- last_name: Waaland
+  first_name: Nick
   location: "Irvine, CA"
   groups:
     - cast
@@ -249,8 +249,8 @@
   image_file: nick-waaland.jpg
 
 
-- first_name: Samantha A.
-  last_name: Matthews
+- last_name: Matthews
+  first_name: Samantha A.
   location: "Connecticut, NYC, South Carolina"
   groups:
     - cast
@@ -266,8 +266,8 @@
   image_file: samantha-matthews.jpg
 
 
-- first_name: Timothy
-  last_name: Houston
+- last_name: Houston
+  first_name: Timothy
   location: "New York City, NY"
   groups:
     - cast
@@ -283,8 +283,8 @@
   image_file: timothy-houston.jpg
 
 
-- first_name: Tommy
-  last_name: Wallace
+- last_name: Wallace
+  first_name: Tommy
   location: "New York City, NY"
   groups:
     - cast
@@ -300,8 +300,8 @@
   image_file: tommy-wallace.jpg
 
 
-- first_name: Derek
-  last_name: Phelps
+- last_name: Phelps
+  first_name: Derek
   location: "Sidney, NE"
   groups:
     - cast
@@ -317,8 +317,8 @@
   image_file: derek-phelps.jpg
 
 
-- first_name: Wally
-  last_name: Seiler
+- last_name: Seiler
+  first_name: Wally
   location: "Alliance, NE"
   groups:
     - cast
@@ -331,8 +331,8 @@
   image_file: wally-seiler.jpg
 
 
-- first_name: Kayli
-  last_name: Jamison
+- last_name: Jamison
+  first_name: Kayli
   location: "New York City, NY"
   groups:
     - cast
@@ -348,8 +348,8 @@
   image_file: kayli-jamison.jpg
 
 
-- first_name: Marge
-  last_name: Rotherham
+- last_name: Rotherham
+  first_name: Marge
   location: "Crawford, NE"
   groups:
     - cast
@@ -378,8 +378,8 @@
   image_file: michael-oconnor.jpg
 
 
-- first_name: Dewayne
-  last_name: Barrett
+- last_name: Barrett
+  first_name: Dewayne
   location: "New York City via Atlanta, GA"
   groups:
     - creative
@@ -392,8 +392,8 @@
   image_file: dewayne-barrett.jpg
 
 
-- first_name: Ann
-  last_name: Stephens
+- last_name: Stephens
+  first_name: Ann
   location: "Crawford, NE"
   groups:
     - staff
@@ -406,8 +406,8 @@
   image_file: ann-stephens.jpg
 
 
-- first_name: Benson
-  last_name: Anderson
+- last_name: Anderson
+  first_name: Benson
   location: "Cleveland, OH"
   groups:
     - musicians
@@ -419,8 +419,8 @@
   image_file: benson-anderson.jpg
 
 
-- first_name: Kiley L.
-  last_name: McDonald
+- last_name: McDonald
+  first_name: Kiley L.
   location: "New York City, NY"
   groups:
     - cast
@@ -436,8 +436,8 @@
   image_file: kiley-mcdonald.jpg
 
 
-- first_name: Erin Skelley
-  last_name: Holderman
+- last_name: Holderman
+  first_name: Erin Skelley
   location: "Chattanooga, Tennessee"
   groups:
     - creative
@@ -451,8 +451,8 @@
   image_file: erin-holderman.jpg
 
 
-- first_name: Kayleigh Marie
-  last_name: Brennan
+- last_name: Brennan
+  first_name: Kayleigh Marie
   location: "New York City, NY"
   groups:
     - cast
@@ -468,8 +468,8 @@
   image_file: kayleigh-brennan.jpg
 
 
-- first_name: Brandon
-  last_name: Sterling
+- last_name: Sterling
+  first_name: Brandon
   location: "Rapid City, SD & Laramie, WY"
   groups:
     - creative
@@ -483,8 +483,8 @@
   image_file: brandon-sterling.jpg
 
 
-- first_name: Joseph J.
-  last_name: Reynolds
+- last_name: Reynolds
+  first_name: Joseph J.
   location: "Sarasota, FL and New York City, NY"
   groups:
     - creative
@@ -497,8 +497,8 @@
   image_file: joseph-reynolds.jpg
 
 
-- first_name: Joanna
-  last_name: Li
+- last_name: Li
+  first_name: Joanna
   location: "Cleveland, OH and Raleigh, NC"
   groups:
     - creative
@@ -510,8 +510,8 @@
     Jo is excited to join Post this summer! She began her musical career as a classical organist (and still continues to play) but transitioned into musical theatre after a summer accompanying the MT program at Interlochen Arts Camp in Michigan. Some favorite recent music directing gigs include *Hedwig and the Angry Inch* at Parallel 45 Theatre in Traverse City, Michigan, and *The Wiz* at Cape Fear Regional Theatre in Fayetteville, North Carolina. 
 
 
-- first_name: Leo
-  last_name: Haselhorst
+- last_name: Haselhorst
+  first_name: Leo
   location: "Randolph, NE"
   groups:
     - crew
@@ -523,8 +523,8 @@
   image_file: leo-haselhorst.jpg
 
 
-- first_name: Jacob
-  last_name: Voorhis
+- last_name: Voorhis
+  first_name: Jacob
   location: "Belle Fourche, South Dakota and Chadron, Nebraska"
   groups:
     - staff
@@ -539,8 +539,8 @@
   image_file: jacob-voorhis.jpg
 
 
-- first_name: Stephen W
-  last_name: Schultz
+- last_name: Schultz
+  first_name: Stephen W
   location: "Tallahassee, FL"
   groups:
     - musicians
@@ -552,8 +552,8 @@
   image_file: stephen-schultz.jpg
 
 
-- first_name: Anna
-  last_name: Owen
+- last_name: Owen
+  first_name: Anna
   location: "Chadron, NE"
   groups:
     - staff
@@ -565,8 +565,8 @@
   image_file: anna-owen.jpg
   
   
-- first_name: Jenett
-  last_name: Blood
+- last_name: Blood
+  first_name: Jenett
   location: "Crawford, NE"
   groups:
     - staff
@@ -578,8 +578,8 @@
   image_file: jenett-blood.jpg
   
   
-- first_name: Gustav
-  last_name: Ossowski
+- last_name: Ossowski
+  first_name: Gustav
   location: "Tallahassee, FL & Beatrice, NE"
   groups:
     - cast
@@ -591,8 +591,8 @@
   image_file: gustav.jpg
   
   
-- first_name: Samuel T.
-  last_name: Martin
+- last_name: Martin
+  first_name: Samuel T.
   location: "Hot Springs, SD"
   groups:
     - cast
@@ -605,8 +605,8 @@
   image_file: samuel-martin.jpg
   
   
-- first_name: Kamden N.
-  last_name: Victory
+- last_name: Victory
+  first_name: Kamden N.
   location: "Crawford, NE"
   groups:
     - cast
@@ -618,8 +618,8 @@
   image_file: kamden-victory.jpg
   
   
-- first_name: Phaedra R.
-  last_name: Victory
+- last_name: Victory
+  first_name: Phaedra R.
   location: "Crawford, NE"
   groups:
     - cast
@@ -632,8 +632,8 @@
   image_file: phaedra-victory.jpg
   
   
-- first_name: Kylah Jo
-  last_name: Vogel
+- last_name: Vogel
+  first_name: Kylah Jo
   location: "Crawford, NE"
   groups:
     - cast
@@ -645,8 +645,8 @@
   image_file: kylah-vogel.jpg
   
   
-- first_name: Amanda
-  last_name: Vogel
+- last_name: Vogel
+  first_name: Amanda
   location: "Crawford, NE"
   groups:
     - cast
@@ -658,8 +658,8 @@
   image_file: amanda-vogel.jpg
   
   
-- first_name: Tinker Belle
-  last_name: Victory
+- last_name: Victory
+  first_name: Tinker Belle
   location: "Crawford, NE"
   groups:
     - cast
@@ -681,8 +681,8 @@
 #
 #
 
-- first_name: Connie
-  last_name: Frandson
+- last_name: Frandson
+  first_name: Connie
   groups: >
     - staff
   positions:
@@ -693,8 +693,8 @@
   image_file: connie-frandson.jpg
 
 
-- first_name: Shellie
-  last_name: Johns
+- last_name: Johns
+  first_name: Shellie
   groups: >
     - staff
   positions:
@@ -705,8 +705,8 @@
   image_file: shellie-johns.jpg
 
 
-- first_name: Don
-  last_name: Denton
+- last_name: Denton
+  first_name: Don
   groups: >
     - staff
   positions:
@@ -717,8 +717,8 @@
   image_file: don-denton.jpg
 
 
-- first_name: Tim
-  last_name: Gaswick
+- last_name: Gaswick
+  first_name: Tim
   groups: >
     - staff
   positions:
@@ -738,8 +738,8 @@
 #
 #
 
-- first_name: Wally
-  last_name: Seiler
+- last_name: Seiler
+  first_name: Wally
   location: "Alliance, NE"
   groups: >
     - board
@@ -750,8 +750,8 @@
   image_file: wally-seiler.jpg
 
 
-- first_name: Tim
-  last_name: Gaswick
+- last_name: Gaswick
+  first_name: Tim
   location: "Chadron, NE"
   groups: >
     - board
@@ -762,8 +762,8 @@
   image_file: tim-gaswick.jpg
 
 
-- first_name: Jo
-  last_name: Buchheit
+- last_name: Buchheit
+  first_name: Jo
   location: "Hemingford, NE"
   groups: >
     - board
@@ -773,8 +773,8 @@
   image_file: jo-buchheit.jpg
 
 
-- first_name: Amy
-  last_name: Hindman
+- last_name: Hindman
+  first_name: Amy
   location: "Hay Springs, NE"
   groups: >
     - board
@@ -784,8 +784,8 @@
   image_file: amy-hindman.jpg
 
 
-- first_name: Randy
-  last_name: Rhine
+- last_name: Rhine
+  first_name: Randy
   location: "Chadron, NE"
   groups: >
     - board
@@ -796,8 +796,8 @@
   image_file: randy-rhine.jpg
 
 
-- first_name: Lacy
-  last_name: Willey
+- last_name: Willey
+  first_name: Lacy
   location: "Harrison, NE"
   groups: >
     - board
@@ -808,8 +808,8 @@
   image_file: lacy-willey.jpg
 
 
-- first_name: Kathie
-  last_name: King
+- last_name: King
+  first_name: Kathie
   location: "Gordon, NE"
   groups: >
     - board
@@ -819,8 +819,8 @@
   image_file: kathie-king.jpg
 
 
-- first_name: Joni
-  last_name: Merrigan
+- last_name: Merrigan
+  first_name: Joni
   location: "Alliance, NE"
   groups: >
     - board
@@ -830,8 +830,8 @@
   image_file: joni-merrigan.jpg
 
 
-- first_name: Gordon
-  last_name: Hoff
+- last_name: Hoff
+  first_name: Gordon
   location: "Alliance, NE"
   groups: >
     - board
@@ -843,8 +843,8 @@
   image_file: gordon-hoff.jpg
 
 
-- first_name: Bev
-  last_name: Hanks
+- last_name: Hanks
+  first_name: Bev
   location: "Hemingford, NE"
   groups: >
     - board
@@ -854,8 +854,8 @@
   image_file: bev-hanks.jpg
 
 
-- first_name: Lyle
-  last_name: Fodnes
+- last_name: Fodnes
+  first_name: Lyle
   location: "Hemingford, NE"
   groups: >
     - board
@@ -866,8 +866,8 @@
   image_file: lyle-fodnes.jpg
 
 
-- first_name: Karleen
-  last_name: Gramberg
+- last_name: Gramberg
+  first_name: Karleen
   location: "Chadron, NE"
   groups: >
     - board
@@ -878,8 +878,8 @@
   image_file: karleen-gramberg.jpg
 
 
-- first_name: Diane
-  last_name: Clark
+- last_name: Clark
+  first_name: Diane
   location: "Crawford, NE"
   groups: >
     - board
@@ -890,8 +890,8 @@
   image_file: diane-clark.jpg
 
 
-- first_name: Marge
-  last_name: Rotherham
+- last_name: Rotherham
+  first_name: Marge
   location: "Crawford, NE"
   groups: >
     - board
@@ -902,8 +902,8 @@
   image_file: marge-rotherham.jpg
 
 
-- first_name: Ellen
-  last_name: Feldges
+- last_name: Feldges
+  first_name: Ellen
   location: "Alliance, Nebraska"
   groups: >
     - board
@@ -913,8 +913,8 @@
   image_year: 2015
   image_file: ellen-feldges.jpg
 
-- first_name: Raime
-  last_name: Varvel
+- last_name: Varvel
+  first_name: Raime
   location: "Hay Springs, Nebraska"
   groups: >
     - board
@@ -925,8 +925,8 @@
   image_file: raime-varvel.jpg
 
 
-- first_name: Jeanine
-  last_name: Mohr
+- last_name: Mohr
+  first_name: Jeanine
   location: "Chadron, Nebraska"
   groups: >
     - board
