@@ -277,6 +277,23 @@
   image_file: leo-haselhorst.jpg
 
 
+- last_name: Hendricks
+  first_name: Brian
+  location: "Arizona"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Lord Farquaad
+    - Mamma Mia! --- Bill Austin
+    - Crazy For You --- Bella Zangler
+    - Chicago --- Billy Flynn
+    - Young Frankenstein --- Hermit/Ensemble
+  bio: >
+    Brian is originally from Arizona, where he received his BFA in performance from The University of Arizona. He now lives in Brooklyn and performs regularly at The People's Improv Theater. Recent credits include Algernon in _The Importance of Being Earnest_ at Savannah Repertory and Louis in _Angels in America_ at The Rogue Theatre.
+  image_year: 2017
+  image_file: brian-hendricks.jpg
+
+
 - last_name: Isom
   first_name: Alix
   location: ""
