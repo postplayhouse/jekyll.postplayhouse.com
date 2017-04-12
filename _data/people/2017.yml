@@ -492,7 +492,7 @@
 
 - last_name: Solum
   first_name: Lilianna
-  location: ""
+  location: "Sarasota, FL"
   groups:
     - cast
   positions:
@@ -502,9 +502,9 @@
     - Chicago --- Hunyak/Ensemble
     - Young Frankenstein --- Ensemble
   bio: >
-    
-  # image_year: 2017
-  # image_file: .jpg
+    Lilianna Solum just completed her freshman year as a BFA Music Theatre Major at Florida State University. She is from Sarasota, FL, where she last worked with Dewayne as Pepper in Annie in the sixth grade! Previous credits include _Ah, Wilderness!_ (Muriel) at the Asolo Rep, Pippin (Catherine), and _Hairspray_ (Amber).
+  image_year: 2017
+  image_file: liliana-solum.jpg
 
 
 - last_name: Stephens
