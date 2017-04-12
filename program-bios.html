@@ -1,5 +1,5 @@
 ---
-title: Bio Check
+title: Program Bios
 layout: page
 bio_year: "2017"
 permalink: /program-bios/
@@ -12,6 +12,7 @@ norobots: true
 
 {% endcomment %}
 
+<div id="TheTop"></div>
 <style>
   .plain-bio {
     margin-bottom: 5em;
@@ -28,49 +29,72 @@ norobots: true
   .plain-bio a:visited, .plain-bio a:link {
     color: inherit !important;
   }
+  .plain-bio-headshot {
+    margin: auto;
+    display: block;
+    max-width: 900px;
+  }
+  .plain-bio-text {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 10px;
+  }
   br {
-    line-height: 1
+    line-height: 1;
   }
 </style>
-
-<div class="not-bios-page-wink-wink">
 {% assign people = site.data.people.[page.bio_year] %}
+
 {% for person in people %}
   {% unless person.groups contains "board" or person.groups contains "additional" %}
 
-  <div class="plain-bio">
+  {% capture nameId %}{{ person.first_name }}-{{ person.last_name }}{% endcapture %}
+  <a href="#{{ nameId | slugify }}">{{ person.first_name }} {{ person.last_name }}</a><br/>
+  {% endunless %}
+{% endfor %}
 
+<a href="#TheBoard">Board Headshots and Names</a><br/>
+
+<div class="not-bios-page-wink-wink">
+{% for person in people %}
+  {% unless person.groups contains "board" or person.groups contains "additional" %}
+
+  {% capture nameId %}{{ person.first_name }}-{{ person.last_name }}{% endcapture %}
+  <div class="plain-bio" id="{{ nameId | slugify }}">
+
+    {% assign missing_text = "" %}
     {% if person.image_path != nil %}
       {% capture headshot %}{{ person.image_path | prepend: site.baseurl }}{% endcapture %}
     {% elsif person.image_year != nil and person.image_file != nil %}
       {% capture headshot %}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.image_file}}{% endcapture %}
     {% else %}
       {% assign headshot = nil %}
+      {% assign missing_text = "missing " %}
     {% endif %}
 
-    {% assign headshot = nil %}<!-- in case images are needed, remove this line -->
+    <img class="plain-bio-headshot" src="{{ headshot }}" alt="{{ missing_text }}picture of {{ person.first_name }}">
 
-    {% if headshot != nil %}
-      <img src="{{ headshot | replace: '.jpg', '_300.jpg' }}" alt="Picture of {{ person.first_name }}">
-    {% endif %}
+    <div class="plain-bio-text">
+      {% capture name %}{{ person.first_name }} {{ person.last_name }}{% endcapture %}
+      <span class="name">{{ name | markdownify }}</span><br>
 
-    {% capture name %}{{ person.first_name }} {{ person.last_name }}{% endcapture %}
-    <span class="name">{{ name | markdownify }}</span><br>
-
-    {% if person.location %}
+      {% if person.location %}
       {{ person.location | markdownify }}<br>
-    {% endif %}
+      {% endif %}
 
-    {% if person.positions != nil %}
+      {% if person.positions != nil %}
       <span class="positions">
         {% for position in person.positions %}
-          {{ position | markdownify }}
+        {{ position | markdownify }}
         {% endfor %}<br>
       </span>
-    {% endif %}
+      {% endif %}
 
-    {{ person.bio | markdownify }}
+      {{ person.bio | markdownify }}
+    </div>
   </div>
+
+  <a href="#TheTop">Back to Top</a>
 
 
   {% endunless %}
@@ -78,3 +102,32 @@ norobots: true
 
 </div>
 
+<h1 id="TheBoard" style="font-size:3em;">Board Headshots and Names</h1>
+
+{% for person in people %}
+  {% if person.groups contains "board"%}
+
+  <div class="plain-bio">
+
+    {% assign missing_text = "" %}
+    {% if person.image_path != nil %}
+      {% capture headshot %}{{ person.image_path | prepend: site.baseurl }}{% endcapture %}
+    {% elsif person.image_year != nil and person.image_file != nil %}
+      {% capture headshot %}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.image_file}}{% endcapture %}
+    {% else %}
+      {% assign headshot = nil %}
+      {% assign missing_text = "missing " %}
+    {% endif %}
+
+    <img class="plain-bio-headshot" src="{{ headshot }}" alt="{{ missing_text }}picture of {{ person.first_name }}">
+
+    <div class="plain-bio-text">
+
+      {% capture name %}{{ person.first_name }} {{ person.last_name }}{% endcapture %}
+      <span class="name">{{ name | markdownify }}</span><br>
+    </div>
+  </div>
+
+
+  {% endif %}
+{% endfor %}
