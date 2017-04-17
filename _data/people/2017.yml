@@ -474,7 +474,8 @@
   first_name: Sarah
   location: "Arlington, TX"
   groups:
-    - cast
+    - creative
+    - musicians
   positions:
     - Music Director --- Shrek, Crazy For You, Chicago
     - Second Keyboard --- Mamma Mia!, Young Frankenstein
@@ -482,6 +483,21 @@
     Sarah Pool is excited to be joining the team at Post Playhouse for the first time as the Music Director for _Shrek_, _Chicago_, and _Crazy for You_. She holds a B.M. in Piano Performance from Dallas Baptist University, and has spent the last two years as Music Directing Intern at PCPA in Santa Maria, CA. During her time at PCPA, she was the Assistant Music Director for _Lend Me a Tenor_, _Beauty and the Beast_, _In the Heights_, _Shrek the Musical_, _Pirates of Penzance_, _Cinderella_, _Man of La Mancha_, and _My Fair Lady_. She was the Music Director for conservatory project productions of _Urinetown_ and _RENT_. Sarah wishes to thank Dewayne Barrett for giving her this opportunity, Matt for recommending me to Post, and to her family and Andrew for the love and support! 
   image_year: 2017
   image_file: sarah-pool.jpg
+
+
+- last_name: Bennett-Parker
+  first_name: Max
+  location: "Santa Cruz, CA"
+  groups:
+    - creative
+    - musicians
+  positions:
+    - Music Director --- Mamma Mia!, Young Frankenstein
+    - Second Keyboard --- Shrek, Crazy For You, Chicago
+  bio: >
+    Max has music directed for a variety of west coast companies, shows such as _Tommy_, _Altar Boyz_, _Into the Woods_, _The Wiz_ and many more. He is the arranger/orchestrator for the new musical, _Escaping Queens_, with readings in New York and on the west coast. Performance credits include _Anything Goes_, _Urinetown_, _Bash_ and the Tom Lehrer-curated _Shakespeare Deconstructed_. He's composed original music for the plays _Touch_, and _The Nether_, and the documentary _The Last Captain_. 
+  image_year: 2017
+  image_file: max-parker.jpg
 
 
 - last_name: Rotherham
