@@ -46,7 +46,7 @@ norobots: true
 {% assign people = site.data.people.[page.bio_year] %}
 
 {% for person in people %}
-  {% unless person.groups contains "board" or person.groups contains "additional" %}
+  {% unless person.groups contains "board" %}
 
   {% capture nameId %}{{ person.first_name }}-{{ person.last_name }}{% endcapture %}
   <a href="#{{ nameId | slugify }}">{{ person.first_name }} {{ person.last_name }}</a><br/>
