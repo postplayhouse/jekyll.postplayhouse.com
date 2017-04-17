@@ -57,7 +57,7 @@ norobots: true
 
 <div class="not-bios-page-wink-wink">
 {% for person in people %}
-  {% unless person.groups contains "board" or person.groups contains "additional" %}
+  {% unless person.groups contains "board" %}
 
   {% capture nameId %}{{ person.first_name }}-{{ person.last_name }}{% endcapture %}
   <div class="plain-bio" id="{{ nameId | slugify }}">

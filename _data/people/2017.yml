@@ -635,6 +635,63 @@
   bio: >
   image_year: 2016
   image_file: jacob-voorhis.jpg
+  
+  
+
+
+#
+#
+#
+#
+#
+#
+#  Additional Bios
+#
+#
+#
+#
+#
+
+- last_name: Lindsay-Abaire
+  first_name: David
+  location: ""
+  groups:
+    - additional
+  positions:
+    - "Shrek --- Author: Book and Lyrics"
+  bio: >
+    David Lindsay-Abaire is a Pulitzer Prize winning playwright, screenwriter, lyricist and librettist. His most recent play, _Ripcord_, opens this fall at Manhattan Theatre Club. His previous play _Good People_ premiered on Broadway, was awarded the New York Drama Critics Circle Award for Best Play, The Horton Foote Prize, The Edgerton Foundation New American Play Award, and two Tony nominations. His play _Rabbit Hole_ received the Pulitzer Prize for Drama, five Tony nominations, and the Spirit of America Award. David also wrote the book and lyrics for _Shrek the Musical_, which was nominated for eight Tonys, four Oliviers, a Grammy, and earned David the Ed Kleban Award as America's most promising musical theatre lyricist. David's other plays include _Fuddy Meers_, _Kimberly Akimbo_, _Wonder of the World_ and _A Devil Inside_, among others. In addition to his work in theatre, David's screen credits include his film adaptation of _Rabbit Hole_, Dreamworks' _Rise of the Guardians_, and the upcoming _Family Fang_, starring Nicole Kidman, Christopher Walken and Jason Bateman.
+  image_year: 2017
+  image_file: david-abaire.jpg
+  
+  
+- last_name: Moore
+  first_name: Jason
+  location: ""
+  groups:
+    - additional
+  positions:
+    - Shrek --- Original Broadway Production Director
+  bio: >
+    Broadway: _Avenue Q_, _Steel Magnolias_. Carnegie Hall: _Jerry Springer: The Opera_. Off-Broadway: _Speech and Debate_ (Roundabout), _Avenue Q_ (the Vineyard), _Guardians_ (the Culture Project), _The Crumple Zone_. Associate directing: _Les Misérables_ (Broadway, national tour), _Ragtime_ (Vancouver). Writer: _The Floatplane Notebooks_ (Charlotte Repertory Theatre). TV directing: episodes of _Dawson's Creek_, _Everwood_, _One Tree Hill_ and _Brothers and Sisters_. Jason has a BS in performance studies from Northwestern University.
+  image_year: 2017
+  image_file: jason-moore.jpg
+  
+  
+- last_name: Tesori
+  first_name: Jeanine
+  location: ""
+  groups:
+    - additional
+  positions:
+    - "Shrek --- Composer"
+  bio: >
+    Jeanine Tesori won the Tony Award for Best Original Score with Lisa Kron for the musical _Fun Home_, which is currently playing on Broadway. She has also written Tony-nominated scores for _Twelfth Night_ at Lincoln Center; _Thoroughly Modern Millie_ (lyrics, Dick Scanlan); _Caroline, or Change_ (lyrics, Tony Kushner); and _Shrek The Musical_ (lyrics, David Lindsay-Abaire). The production of _Caroline, or Change_ at the National Theatre in London received the Olivier Award for Best New Musical. Her 1997 Off-Broadway musical _Violet_ (lyrics, Brian Crawley) opened on Broadway in 2014 and garnered four Tony nominations, including Best Musical Revival. Opera: _A Blizzard on Marblehead Neck_ (libretto, Tony Kushner; Glimmerglass) and _The Lion, The Unicorn, and Me_ (libretto, J. D. McClatchy, Kennedy Center). Music for plays: _Mother Courage_ (dir. George C. Wolfe, with Meryl Streep and Kevin Kline), _John Guare's A Free Man of Color_ (Lincoln Center Theater, dir. George C. Wolfe), and Romeo and Juliet (Delacorte Gala). Film scores: _Nights in Rodanthe_, _Every Day_, and _You're Not You_. Ms. Tesori is a member of the Dramatists Guild and was cited by the ASCAP as the first female composer to have two new musicals running concurrently on Broadway. She is the founding artistic director of _Encores! Off-Center_ at New York City Center, and is a lecturer in music at Yale University. Most of all, she is the proud parent of Siena Rafter, a senior at LaGuardia High School for the Arts.
+  image_year: 2017
+  image_file: jeanine-tesori.jpg
+  
+  
+
 
 
 #
