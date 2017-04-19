@@ -12,7 +12,7 @@
       <form id="get-tickets-form-link" action="http://postplayhousetickets.com" method="link">
         <button class="online">Get Tickets Online</button>
       </form>
-      
+
       <!-- Add event to the button's click handler -->
       <script type="text/javascript">
       $( '#get-tickets-form-link' ).on('submit.box_office', function(e) {
@@ -24,18 +24,25 @@
       });
       </script>
 
-      
+
       <a href="{{ site.baseurl }}/ticket-info/">Ticket Information</a>
       <br />
       <span class="phone-number">308-665-1976<span>
     </div>
 
   </div>
-    
+
   <nav class="site-nav js-hide">
     <input type="checkbox" id="menu" style="display:none">
     <label for="menu">Navigation</label>
     {% include nav.html %}
   </nav>
+
+  <div style="text-align:center; padding:6px; margin-top:-20px;" class="ne150">
+    Proud to be a part of Nebraska's 150 year celebration
+    <a href="https://ne150.org/calendar/post-playhouse-50th-season/">
+      <img src="{{ site.baseurl }}/images/ne150.png" alt="Nebraska 150 Celebration Logo">
+    </a>
+  </div>
 
 </header>
