@@ -1,20 +1,20 @@
-# - first_name: 
-#   last_name: 
+# - first_name:
+#   last_name:
 #   location: ""
 #   groups:
-#     - 
+#     -
 #   positions:
-#     - Shrek --- 
-#     - Mamma Mia! --- 
-#     - Crazy For You --- 
-#     - Chicago --- 
-#     - Young Frankenstein --- 
+#     - Shrek ---
+#     - Mamma Mia! ---
+#     - Crazy For You ---
+#     - Chicago ---
+#     - Young Frankenstein ---
 #   bio: >
-#     
+#
 #   image_year: 2016
 #   image_file:
-# 
-# 
+#
+#
 # Use the template above for quick entry
 # If you specify an 'image_path', the year and file are ignored and
 # the full path to the image (prepended by the baseurl) is used.
@@ -40,7 +40,7 @@
   positions:
     - Season Sound Design
   bio: >
-    
+
   # image_year: 2017
   # image_file: .jpg
 
@@ -73,7 +73,7 @@
     - Season Choreographer
   bio: |
     Dewayne is very excited to be returning to the post playhouse this season as Artistic director as well as Directing and choreographing this season. Originally from Atlanta, Georgia, he moved to New York City and began his career/training in the Big Apple. He has performed leading roles around the country such as Rum Tum Tugger in _Cats_, Bobby Child in _Crazy For You_, Riff in _West Side Story_, Bobby in _A Chorus Line_ to name a few. He has directed and choreographed for national tours, regional theatres, dinner theaters, community theatres, cruise ships, movies, high schools, music videos, parades and dance companies. He know resides in Florida.
-    
+
     In Venice, Florida he recently directed the area premiere of _Billy Elliot the Musical_ as well as _EDM Antigone the Rock Opera_ with Don Fox in Wenatchee, Washington. Don and Dewayne are planning several US tours of _EDM Antigone_. He is currently in the works with Phillip Michael Thomas from Miami Vice with a new musical with eyes set for Broadway.
   image_year: 2016
   image_file: dewayne-barrett.jpg
@@ -221,7 +221,7 @@
 
 - last_name: Fox
   first_name: Don
-  location: 
+  location:
   groups:
     - creative
   positions:
@@ -275,7 +275,7 @@
     - Chicago --- Harry/Ensemble
     - Young Frankenstein --- Ensemble
   bio: >
-    Korey (with a "K") is very excited to join Post Playhouse this summer for a fantastic season! A Virginia native, he studied Music, Theatre, and Dance at Wright State University and Bowling Green State University before moving to New York. Regional credits Include: _Aladdin Jr_ (Aladdin), _25th Annual Putnam County Spelling Bee_ (Leaf Coneybear), and _Mary Poppins_ (Featured Ensemble/Understudy Bert). 
+    Korey (with a "K") is very excited to join Post Playhouse this summer for a fantastic season! A Virginia native, he studied Music, Theatre, and Dance at Wright State University and Bowling Green State University before moving to New York. Regional credits Include: _Aladdin Jr_ (Aladdin), _25th Annual Putnam County Spelling Bee_ (Leaf Coneybear), and _Mary Poppins_ (Featured Ensemble/Understudy Bert).
   image_year: 2017
   image_file: korey-harlow.jpg
 
@@ -289,7 +289,7 @@
   positions:
     - Season Technical Director
   bio: >
-    
+
   image_year: 2016
   image_file: leo-haselhorst.jpg
 
@@ -403,7 +403,7 @@
     - Post Playhouse Managing Director
     - Director --- Mamma Mia!, Crazy For You
   bio: >
-    Tom Ossowski is an Associate Professor for the BFA Music Theatre Program at FSU, the Producing Artistic Director for the Post Playhouse at Fort Robinson State Park in Nebraska, and a Professor for the Central Academy of Drama in Beijing, China. At the Post Playhouse, Tom has directed _Legally Blonde_, _Monty Python’s Spamalot_, _A Man of No Importance_, _All Shook Up_, _Guys and Dolls_, _9 to 5_, _My Way_, _The Drowsy Chaperone_, _Grease_, _The Wizard of Oz_, _Nunsense!_, _Always...Patsy Cline_, _Hello, Dolly!_, and _Oklahoma!_. FSU directing credits include _Beauty & the Beast_, _All Shook Up_, _Legally Blonde_, _Cabaret_, _The Drowsy Chaperone_, _How To Succeed..._, _On The Town_, _Hair_, _The Rocky Horror Show_, and _Sweeney Todd: The Demon Barber of Fleet Street_. Music directing credits include _A Chorus Line_, _Ragtime_, _Spring Awakening_, _Jesus Christ Superstar_, _The 25th Annual...Spelling Bee_, _RENT_, _Into The Woods_, and _Urinetown_. Tom directed and music directed _Into The Woods_ and _The Family_ for The Central Academy of Drama in Beijing. _The Family_ toured China and will be released as a major motion picture across China in 2017. Tom has also directed for theatres such as the Centennial Theatre Festival in Connecticut, Seaside Music Theatre in Daytona Beach, FL, and the Bigfork Summer Playhouse in Montana. His work has taken him to Zug, Switzerland and to St. Croix in the U.S. Virgin Islands. He is a member of the Stage Directors and Choreographers Society. 
+    Tom Ossowski is an Associate Professor for the BFA Music Theatre Program at FSU, the Producing Artistic Director for the Post Playhouse at Fort Robinson State Park in Nebraska, and a Professor for the Central Academy of Drama in Beijing, China. At the Post Playhouse, Tom has directed _Legally Blonde_, _Monty Python’s Spamalot_, _A Man of No Importance_, _All Shook Up_, _Guys and Dolls_, _9 to 5_, _My Way_, _The Drowsy Chaperone_, _Grease_, _The Wizard of Oz_, _Nunsense!_, _Always...Patsy Cline_, _Hello, Dolly!_, and _Oklahoma!_. FSU directing credits include _Beauty & the Beast_, _All Shook Up_, _Legally Blonde_, _Cabaret_, _The Drowsy Chaperone_, _How To Succeed..._, _On The Town_, _Hair_, _The Rocky Horror Show_, and _Sweeney Todd: The Demon Barber of Fleet Street_. Music directing credits include _A Chorus Line_, _Ragtime_, _Spring Awakening_, _Jesus Christ Superstar_, _The 25th Annual...Spelling Bee_, _RENT_, _Into The Woods_, and _Urinetown_. Tom directed and music directed _Into The Woods_ and _The Family_ for The Central Academy of Drama in Beijing. _The Family_ toured China and will be released as a major motion picture across China in 2017. Tom has also directed for theatres such as the Centennial Theatre Festival in Connecticut, Seaside Music Theatre in Daytona Beach, FL, and the Bigfork Summer Playhouse in Montana. His work has taken him to Zug, Switzerland and to St. Croix in the U.S. Virgin Islands. He is a member of the Stage Directors and Choreographers Society.
 
   image_year: 2015
   image_file: tom-ossowski.jpg
@@ -415,7 +415,7 @@
   groups:
     - staff
   positions:
-    - Stitcher 
+    - Stitcher
   bio: >
     Anna is very excited to be coming back to the Post! This is her second summer here and she couldn’t be happier. Anna graduated from Chadron State College with her BA in Theater May 2016 and is Currently Working in Tampa, FL at Norwegian Creative Studios. Anna took the summer off to come back to the Post and be closer to her family.  Thank you so much to everyone at The Post Play House for this wonderful opportunity and the chance to be part of this amazing community.
   image_year: 2017
@@ -480,7 +480,7 @@
     - Music Director --- Shrek, Crazy For You, Chicago
     - Second Keyboard --- Mamma Mia!, Young Frankenstein
   bio: >
-    Sarah Pool is excited to be joining the team at Post Playhouse for the first time as the Music Director for _Shrek_, _Chicago_, and _Crazy for You_. She holds a B.M. in Piano Performance from Dallas Baptist University, and has spent the last two years as Music Directing Intern at PCPA in Santa Maria, CA. During her time at PCPA, she was the Assistant Music Director for _Lend Me a Tenor_, _Beauty and the Beast_, _In the Heights_, _Shrek the Musical_, _Pirates of Penzance_, _Cinderella_, _Man of La Mancha_, and _My Fair Lady_. She was the Music Director for conservatory project productions of _Urinetown_ and _RENT_. Sarah wishes to thank Dewayne Barrett for giving her this opportunity, Matt for recommending me to Post, and to her family and Andrew for the love and support! 
+    Sarah Pool is excited to be joining the team at Post Playhouse for the first time as the Music Director for _Shrek_, _Chicago_, and _Crazy for You_. She holds a B.M. in Piano Performance from Dallas Baptist University, and has spent the last two years as Music Directing Intern at PCPA in Santa Maria, CA. During her time at PCPA, she was the Assistant Music Director for _Lend Me a Tenor_, _Beauty and the Beast_, _In the Heights_, _Shrek the Musical_, _Pirates of Penzance_, _Cinderella_, _Man of La Mancha_, and _My Fair Lady_. She was the Music Director for conservatory project productions of _Urinetown_ and _RENT_. Sarah wishes to thank Dewayne Barrett for giving her this opportunity, Matt for recommending me to Post, and to her family and Andrew for the love and support!
   image_year: 2017
   image_file: sarah-pool.jpg
 
@@ -495,7 +495,7 @@
     - Music Director --- Mamma Mia!, Young Frankenstein
     - Second Keyboard --- Shrek, Crazy For You, Chicago
   bio: >
-    Max has music directed for a variety of west coast companies, shows such as _Tommy_, _Altar Boyz_, _Into the Woods_, _The Wiz_ and many more. He is the arranger/orchestrator for the new musical, _Escaping Queens_, with readings in New York and on the west coast. Performance credits include _Anything Goes_, _Urinetown_, _Bash_ and the Tom Lehrer-curated _Shakespeare Deconstructed_. He's composed original music for the plays _Touch_, and _The Nether_, and the documentary _The Last Captain_. 
+    Max has music directed for a variety of west coast companies, shows such as _Tommy_, _Altar Boyz_, _Into the Woods_, _The Wiz_ and many more. He is the arranger/orchestrator for the new musical, _Escaping Queens_, with readings in New York and on the west coast. Performance credits include _Anything Goes_, _Urinetown_, _Bash_ and the Tom Lehrer-curated _Shakespeare Deconstructed_. He's composed original music for the plays _Touch_, and _The Nether_, and the documentary _The Last Captain_.
   image_year: 2017
   image_file: max-parker.jpg
 
@@ -508,7 +508,10 @@
   positions:
     - Crazy For You --- Lottie Child
     - Young Frankenstein --- Ensemble
-  bio: >
+  bio: |
+    Marge is pleased to be returning to the Post Playhouse for her 10th season. Previously, in the 1990s, she appeared as Quiser Bourdreaux, (_Steal Magnolias_) and in the Olio's for the Melodrama. After a several year hiatus, her most recent roles include Mama Lily (_Hank Williams: Lost Highway_) Aunt Eller, (_Oklahoma_), Miss Lynch, (_Grease_), Mrs. Potter-Porter and Ensemble, (_Annie Get Your Gun_), Ensemble, (_Hollywood: A Cabaret_), Agatha and Mission Band Member, (_Guys and Dolls_) Baroness Elberfeld, (_The Sound of Music_) The Queen, (_Cinderella_) Townsperson, (_Beauty and the Beast_).
+
+    Marge would like to thank all of the directors and all of the support staff in the past 50 years that have brought such great, quality entertainment to this area. Also, to all of the actors who have become a part of the 50-year history of the Post Playhouse. But, most importantly, thanks for all of the long-lasting friendships and the memories that have resulted from 50 years of wonderful. Vince sends his love to you all from Heaven.
   image_year: 2015
   image_file: marge-rotherham.jpg
 
@@ -585,7 +588,7 @@
     - Spotlight Operator
     - Box Office Staff
   bio: >
-    
+
   # image_year: 2017
   # image_file: .jpg
 
@@ -635,8 +638,8 @@
   bio: >
   image_year: 2016
   image_file: jacob-voorhis.jpg
-  
-  
+
+
 
 
 #
@@ -663,8 +666,8 @@
     David Lindsay-Abaire is a Pulitzer Prize winning playwright, screenwriter, lyricist and librettist. His most recent play, _Ripcord_, opens this fall at Manhattan Theatre Club. His previous play _Good People_ premiered on Broadway, was awarded the New York Drama Critics Circle Award for Best Play, The Horton Foote Prize, The Edgerton Foundation New American Play Award, and two Tony nominations. His play _Rabbit Hole_ received the Pulitzer Prize for Drama, five Tony nominations, and the Spirit of America Award. David also wrote the book and lyrics for _Shrek the Musical_, which was nominated for eight Tonys, four Oliviers, a Grammy, and earned David the Ed Kleban Award as America's most promising musical theatre lyricist. David's other plays include _Fuddy Meers_, _Kimberly Akimbo_, _Wonder of the World_ and _A Devil Inside_, among others. In addition to his work in theatre, David's screen credits include his film adaptation of _Rabbit Hole_, Dreamworks' _Rise of the Guardians_, and the upcoming _Family Fang_, starring Nicole Kidman, Christopher Walken and Jason Bateman.
   image_year: 2017
   image_file: david-abaire.jpg
-  
-  
+
+
 - last_name: Moore
   first_name: Jason
   location: ""
@@ -676,8 +679,8 @@
     Broadway: _Avenue Q_, _Steel Magnolias_. Carnegie Hall: _Jerry Springer: The Opera_. Off-Broadway: _Speech and Debate_ (Roundabout), _Avenue Q_ (the Vineyard), _Guardians_ (the Culture Project), _The Crumple Zone_. Associate directing: _Les Misérables_ (Broadway, national tour), _Ragtime_ (Vancouver). Writer: _The Floatplane Notebooks_ (Charlotte Repertory Theatre). TV directing: episodes of _Dawson's Creek_, _Everwood_, _One Tree Hill_ and _Brothers and Sisters_. Jason has a BS in performance studies from Northwestern University.
   image_year: 2017
   image_file: jason-moore.jpg
-  
-  
+
+
 - last_name: Tesori
   first_name: Jeanine
   location: ""
@@ -689,8 +692,8 @@
     Jeanine Tesori won the Tony Award for Best Original Score with Lisa Kron for the musical _Fun Home_, which is currently playing on Broadway. She has also written Tony-nominated scores for _Twelfth Night_ at Lincoln Center; _Thoroughly Modern Millie_ (lyrics, Dick Scanlan); _Caroline, or Change_ (lyrics, Tony Kushner); and _Shrek The Musical_ (lyrics, David Lindsay-Abaire). The production of _Caroline, or Change_ at the National Theatre in London received the Olivier Award for Best New Musical. Her 1997 Off-Broadway musical _Violet_ (lyrics, Brian Crawley) opened on Broadway in 2014 and garnered four Tony nominations, including Best Musical Revival. Opera: _A Blizzard on Marblehead Neck_ (libretto, Tony Kushner; Glimmerglass) and _The Lion, The Unicorn, and Me_ (libretto, J. D. McClatchy, Kennedy Center). Music for plays: _Mother Courage_ (dir. George C. Wolfe, with Meryl Streep and Kevin Kline), _John Guare's A Free Man of Color_ (Lincoln Center Theater, dir. George C. Wolfe), and Romeo and Juliet (Delacorte Gala). Film scores: _Nights in Rodanthe_, _Every Day_, and _You're Not You_. Ms. Tesori is a member of the Dramatists Guild and was cited by the ASCAP as the first female composer to have two new musicals running concurrently on Broadway. She is the founding artistic director of _Encores! Off-Center_ at New York City Center, and is a lecturer in music at Yale University. Most of all, she is the proud parent of Siena Rafter, a senior at LaGuardia High School for the Arts.
   image_year: 2017
   image_file: jeanine-tesori.jpg
-  
-  
+
+
 
 
 
@@ -734,7 +737,7 @@
     - board
   positions:
   bio: >
-    H & R Block 
+    H & R Block
   image_year: 2015
   image_file: tim-gaswick.jpg
 
@@ -768,7 +771,7 @@
     - board
   positions:
   bio: >
-    Chadron State College 
+    Chadron State College
   image_year: 2015
   image_file: randy-rhine.jpg
 
@@ -780,7 +783,7 @@
     - board
   positions:
   bio: >
-    Security First Bank 
+    Security First Bank
   image_year: 2015
   image_file: lacy-willey.jpg
 
@@ -815,7 +818,7 @@
   positions:
   bio: >
     Alliance Floral Company <br>
-    Hoffhaus Gardens 
+    Hoffhaus Gardens
   image_year: 2015
   image_file: gordon-hoff.jpg
 
@@ -838,7 +841,7 @@
     - board
   positions:
   bio: >
-    Hemingford Ledger 
+    Hemingford Ledger
   image_year: 2015
   image_file: lyle-fodnes.jpg
 
@@ -862,7 +865,7 @@
     - board
   positions:
   bio: >
-    Crawford Clipper 
+    Crawford Clipper
   image_year: 2015
   image_file: diane-clark.jpg
 
@@ -874,7 +877,7 @@
     - board
   positions:
   bio: >
-    Post Playhouse Alum 
+    Post Playhouse Alum
   image_year: 2015
   image_file: marge-rotherham.jpg
 
@@ -886,7 +889,7 @@
     - board
   positions:
   bio: >
-    New York Life Insurance Company 
+    New York Life Insurance Company
   image_year: 2015
   image_file: ellen-feldges.jpg
 
@@ -897,7 +900,7 @@
     - board
   positions:
   bio: >
-    
+
   image_year: 2016
   image_file: jeanine-mohr.jpg
 
@@ -908,7 +911,7 @@
     - board
   positions:
   bio: >
-    
+
   image_year: 2017
   image_file: jess-espinoza.jpg
 
@@ -919,7 +922,7 @@
     - board
   positions:
   bio: >
-    
+
   image_year: 2017
   image_file: vicki-dewald.jpg
 
@@ -931,6 +934,6 @@
     - board
   positions:
   bio: >
-    
+
   image_year: 2017
   image_file: danielle-lecher.jpg
