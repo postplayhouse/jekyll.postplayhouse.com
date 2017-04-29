@@ -19,7 +19,15 @@ exclude:
   - .bowerrc
   - .gitignore
   - bower.json
-  
+  - yarn.lock
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
 timezone:       US/Mountain
 locale:         en_us
 icon:           /images/post-playhouse-logo.png
