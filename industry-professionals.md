@@ -10,19 +10,6 @@ order: 7
 
 ## Actor Auditions
 
-### __NYC --- Saturday March 11, 2017__
-
-New York auditions will be by appointment only, so please __INCLUDE ALL OF THE FOLLOWING__ in an email to [thomasdewayne@postplayhouse.com](mailto:thomasdewayne@postplayhouse.com):
-
-1. Headshot
-2. Resum&eacute;
-3. Links to video clips. These may be actual performance videos featuring you singing solo, or simply 32 bars of your best song.  
-   (Please do not attach videos directly in the email. Use YouTube, Vimeo, etc.)
-
-__Email submissions which fail to include all three of the above will not be considered.__
-
-We look forward to hearing from you!
-
 ### __Crawford, NE --- Saturday May 6, 2017__
 
 Auditions will be held at Post Playhouse at the following times:
