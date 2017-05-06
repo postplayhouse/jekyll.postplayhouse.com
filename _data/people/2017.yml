@@ -530,6 +530,19 @@
   image_file: jessica-schepers.jpg
 
 
+- last_name: Schut
+  first_name: Tanner
+  location: "Corvallis, OR"
+  groups:
+    - musicians
+  positions:
+    - Percussion
+  bio: >
+    Tanner Schut is excited to be a part of the Post Playhouse company for its 50th season. Originally from Corvallis, Oregon, he is currently studying music, broadcasting and digital media at the University of Idaho, in Moscow. Tanner would like to extent his thanks to Dewayne for the opportunity, and his family for their constant live and support.
+  image_year: 2017
+  image_file: tanner-schut.jpg
+
+
 - last_name: Seiler
   first_name: Wally
   location: "Alliance, NE"
