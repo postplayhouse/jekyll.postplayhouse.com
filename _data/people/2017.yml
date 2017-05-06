@@ -34,15 +34,15 @@
 
 - last_name: Agsten
   first_name: Eric
-  location: ""
+  location: "Indiana, PA"
   groups:
     - creative
   positions:
     - Season Sound Design
   bio: >
-
-  # image_year: 2017
-  # image_file: .jpg
+    Weeks before starting the season at the Post Playhouse, Eric Agsten graduated from Indiana University of Pennsylvania (IUP) with a B.S. in Communications Media, and a minor in Theater. He spent the last three semesters of his undergrad as Sound Designer/Engineer for four of the IUP Theater Department’s shows, including a musical (_The 25th Annual Putnam County Spelling Bee_), a play (_We Are Proud To Present..._), an operetta (_Die Fledermaus_), and a devised piece (_The Electriad_).
+  image_year: 2017
+  image_file: eric-agsten.jpg
 
 
 - last_name: Alagna
