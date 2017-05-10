@@ -374,6 +374,19 @@
   image_file: taylor-lewis.jpg
 
 
+- last_name: Marie
+  first_name: Dana
+  location: ""
+  groups:
+    - staff
+  positions:
+    - Managing Director
+  bio: >
+    Dana is pleased to serve for PP's 50th anniversary season and to be reunited with Dewayne after 12 years! No stranger to the stage, she’s been performing since 6 years old. Formerly working in a consulting firm and by way of bike courier, she has conduire back to the theater.
+  image_year: 2017
+  image_file: dana-marie.jpg
+
+
 - last_name: Martin
   first_name: Samuel T.
   location: "Hot Springs, SD"
