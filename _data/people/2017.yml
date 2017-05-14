@@ -79,6 +79,21 @@
   image_file: dewayne-barrett.jpg
 
 
+- last_name: Bennett-Parker
+  first_name: Max
+  location: "Santa Cruz, CA"
+  groups:
+    - creative
+    - musicians
+  positions:
+    - Music Director --- Mamma Mia!, Young Frankenstein
+    - Second Keyboard --- Shrek, Crazy For You, Chicago
+  bio: >
+    Max has music directed for a variety of west coast companies, shows such as _Tommy_, _Altar Boyz_, _Into the Woods_, _The Wiz_ and many more. He is the arranger/orchestrator for the new musical, _Escaping Queens_, with readings in New York and on the west coast. Performance credits include _Anything Goes_, _Urinetown_, _Bash_ and the Tom Lehrer-curated _Shakespeare Deconstructed_. He's composed original music for the plays _Touch_, and _The Nether_, and the documentary _The Last Captain_.
+  image_year: 2017
+  image_file: max-parker.jpg
+
+
 - last_name: Boynton
   first_name: Pheobe H.
   location: "Ithaca, NY / Los Angeles, CA / MS Oceania Riviera"
@@ -511,19 +526,10 @@
   image_file: sarah-pool.jpg
 
 
-- last_name: Bennett-Parker
-  first_name: Max
-  location: "Santa Cruz, CA"
   groups:
-    - creative
-    - musicians
   positions:
-    - Music Director --- Mamma Mia!, Young Frankenstein
-    - Second Keyboard --- Shrek, Crazy For You, Chicago
   bio: >
-    Max has music directed for a variety of west coast companies, shows such as _Tommy_, _Altar Boyz_, _Into the Woods_, _The Wiz_ and many more. He is the arranger/orchestrator for the new musical, _Escaping Queens_, with readings in New York and on the west coast. Performance credits include _Anything Goes_, _Urinetown_, _Bash_ and the Tom Lehrer-curated _Shakespeare Deconstructed_. He's composed original music for the plays _Touch_, and _The Nether_, and the documentary _The Last Captain_.
   image_year: 2017
-  image_file: max-parker.jpg
 
 
 - last_name: Rice
