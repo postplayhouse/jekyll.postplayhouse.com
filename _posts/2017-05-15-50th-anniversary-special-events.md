@@ -49,6 +49,8 @@ In addition, the purchase of your ticket provides you the opportunity win an ori
 
 ### 8 p.m. | Evening Performance: Shrek
 
+(Tickets for Shrek are sold separately from the dinner, as normal.)
+
 ## Sunday July 23
 
 ### 2 p.m. | Matinee Performance: Crazy for You
