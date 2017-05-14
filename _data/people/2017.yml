@@ -94,6 +94,19 @@
   image_file: max-parker.jpg
 
 
+- last_name: Blundell
+  first_name: Shelby
+  location: ""
+  groups:
+    - cast
+  positions:
+    - Shrek --- Teen Fiona
+  bio: >
+    
+  image_year: 2017
+  image_file: shelby-blundell.jpg
+
+
 - last_name: Boynton
   first_name: Pheobe H.
   location: "Ithaca, NY / Los Angeles, CA / MS Oceania Riviera"
@@ -463,6 +476,19 @@
   image_file: anna-owen.jpg
 
 
+- last_name: Owens
+  first_name: Hunter
+  location: "Chadron, NE"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Young Shrek/Little Pig
+  bio: >
+    
+  image_year: 2017
+  image_file: hunter-owens.jpg
+
+
 - last_name: Pagano
   first_name: Cat
   location: "Coral Springs, FL"
@@ -526,10 +552,17 @@
   image_file: sarah-pool.jpg
 
 
+- last_name: Prado
+  first_name: Bristol
+  location: ""
   groups:
+    - cast
   positions:
+    - Shrek --- Young Fiona
   bio: >
+    
   image_year: 2017
+  image_file: bristol-prado.jpg
 
 
 - last_name: Rice
@@ -686,6 +719,32 @@
   image_file: aili-venho.jpg
 
 
+- last_name: Victory
+  first_name: Kamden N.
+  location: "Crawford, NE"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Baby Bear
+  bio: >
+    
+  image_year: 2017
+  image_file: kamden-victory.jpg
+  
+  
+- last_name: Victory
+  first_name: Kendall
+  location: "Crawford, NE"
+  groups:
+    - cast
+  positions:
+    - Shrek --- Young Fiona
+  bio: >
+    
+  image_year: 2017
+  image_file: kendall-victory.jpg
+  
+  
 - last_name: Voorhis
   first_name: Jacob
   location: "Belle Fourche, South Dakota and Chadron, Nebraska"
