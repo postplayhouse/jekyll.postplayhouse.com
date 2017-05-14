@@ -4,7 +4,7 @@ title: 50th Anniversary Special Events
 featured: true
 css_class: anniversary-weekend-events
 excerpt: Join the Post Playhouse in celebrating our 50 year Anniversary July 21st, 22nd and 23rd, 2017. In addition to an incredible line up of shows that weekend, much is planned to commemorate this important event in the history of the Post.
-image: /images/50th-logo.png
+image: /images/50th-logo.png?v=1
 ---
 
 <link rel="stylesheet" href="{{ "/css/anniversary-weekend-events.css" | prepend: site.baseurl }}?v={{ site.css_version }}">
