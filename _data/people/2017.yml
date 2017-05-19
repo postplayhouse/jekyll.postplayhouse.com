@@ -79,6 +79,34 @@
   image_file: dewayne-barrett.jpg
 
 
+- last_name: Bennett-Parker
+  first_name: Max
+  location: "Santa Cruz, CA"
+  groups:
+    - creative
+    - musicians
+  positions:
+    - Music Director --- Mamma Mia!, Young Frankenstein
+    - Second Keyboard --- Shrek, Crazy For You, Chicago
+  bio: >
+    Max has music directed for a variety of west coast companies, shows such as _Tommy_, _Altar Boyz_, _Into the Woods_, _The Wiz_ and many more. He is the arranger/orchestrator for the new musical, _Escaping Queens_, with readings in New York and on the west coast. Performance credits include _Anything Goes_, _Urinetown_, _Bash_ and the Tom Lehrer-curated _Shakespeare Deconstructed_. He's composed original music for the plays _Touch_, and _The Nether_, and the documentary _The Last Captain_.
+  image_year: 2017
+  image_file: max-parker.jpg
+
+
+# - last_name: Blundell
+#   first_name: Shelby
+#   location: ""
+#   groups:
+#     - cast
+#   positions:
+#     - Shrek --- Teen Fiona
+#   bio: >
+#
+#   image_year: 2017
+#   image_file: shelby-blundell.jpg
+#
+#
 - last_name: Boynton
   first_name: Pheobe H.
   location: "Ithaca, NY / Los Angeles, CA / MS Oceania Riviera"
@@ -135,8 +163,8 @@
     - Shrek --- Storybook/Ensemble
     - Mamma Mia! --- Ali/Ensemble
     - Crazy For You --- Irene
-    - Chicago --- Ensemble
-    - Young Frank --- Ensemble
+    - Chicago --- June/Ensemble
+    - Young Frankenstein --- Ensemble
   bio: >
     Chelsea is thrilled to be making her Post Playhouse debut!  She moved to NYC shortly after graduating from the Boston Conservatory in 2014 for musical theater.  Past favorites include: Mary Magdalene in _Jesus Christ Superstar_ at BoCo, Benvolio in _Romeo and Juliet_ with Off The Grid Theater Company, Claudia in _Adam Lives_ at Goodspeed’s Festival of New Musicals and _The Full Monty_ with The Barnstormers Theatre.  Thank you to my family for their constant love and support! For more, visit [www.chelseadelacy.com](http://www.chelseadelacy.com)!
   image_year: 2017
@@ -387,19 +415,6 @@
   image_file: taylor-lewis.jpg
 
 
-- last_name: Marie
-  first_name: Dana
-  location: ""
-  groups:
-    - staff
-  positions:
-    - Managing Director
-  bio: >
-    Dana Marie is pleased to serve as the managing director to the Post Playhouse's 50th anniversary summer stock season and to be reunited with Dewayne after 12 years! No stranger to the stage, Dana has been performing since 6 years old, but with the advent of computers she took the logistical realm by storm as well. Dana was formerly an operational assistant for a global consulting firm in lower manhattan and by way of bike courier she has conduire back to the theater, with a few pit stops in Paris, where she will be moving after this job!
-  image_year: 2017
-  image_file: dana-marie.jpg
-
-
 - last_name: Martin
   first_name: Samuel T.
   location: "Hot Springs, SD"
@@ -417,6 +432,19 @@
     Samuel T. Martin is delighted to return for a second season at the Post Playhouse. Originally from Hot Springs, South Dakota, Samuel is a Junior at Chadron State College, pursuing a Comprehensive Theatre degree with a focus in performance. Samuel has previously appeared at the Post Playhouse as Pugsley in _The Addams Family_, and as an ensemble member of _Beauty and the Beast_. Notable roles at Chadron State College include Smee in _Peter and the Starcatcher_ and William Barfee in _The 25th Annual Putnam County Spelling Bee_. Samuel would like to say thank you to his friends and family for their continual support, as well as the wonderful people at the Post Playhouse for having him on for another great season.
   image_year: 2016
   image_file: samuel-martin.jpg
+
+
+- last_name: Mays
+  first_name: Tori
+  location: "Tucson, AZ"
+  groups:
+    - staff
+  positions:
+    - Master Electrician
+  bio: >
+    Tori Mays is a first year MFA Lighting Design Candidate at the University of Arizona and she is super excited to work at the Post for a few weeks this summer!  Recent design credits include: _Dialogue of the Carmelites_ (UA), _Born Yesterday_ (ART), and _The Birds_ (Huron Playhouse).  She has also assisted designers at Arizona Theatre Company.  Love to her mom, sisters, friends, and family.  <torimayslighting.com>
+  image_year: 2017
+  image_file: tori-mays.jpg
 
 
 - last_name: Ossowski
@@ -448,6 +476,19 @@
   image_file: anna-owen.jpg
 
 
+# - last_name: Owens
+#   first_name: Hunter
+#   location: "Chadron, NE"
+#   groups:
+#     - cast
+#   positions:
+#     - Shrek --- Young Shrek/Little Pig
+#   bio: >
+#
+#   image_year: 2017
+#   image_file: hunter-owens.jpg
+#
+#
 - last_name: Pagano
   first_name: Cat
   location: "Coral Springs, FL"
@@ -482,6 +523,19 @@
 
 
 - last_name: Phillips
+  first_name: Heather
+  location: "Texas"
+  groups:
+    - staff
+  positions:
+    - Managing Director
+  bio: >
+    Heather is an Arizona native newly relocated to Texas. She graduated from the University of Arizona with a BFA in Technical Theatre, Lighting design and technology emphasis. She has worked often with Artifact Dance Company in Tucson doing both lighting and stage management and was most recently the Stage Manager on Surrounding Dillinger. A teacher, she has also been the head of the drama program at Camp Robin Hood in New Hampshire for the last several summers. This is her first season at the Post Playhouse and is ecstatic to be joining the team.
+  image_year: 2017
+  image_file: heather-phillips.jpg
+
+
+- last_name: Phillips
   first_name: Ken
   location: "Tucson, AZ"
   groups:
@@ -511,19 +565,17 @@
   image_file: sarah-pool.jpg
 
 
-- last_name: Bennett-Parker
-  first_name: Max
-  location: "Santa Cruz, CA"
+- last_name: Prado
+  first_name: Bristol
+  location: ""
   groups:
-    - creative
-    - musicians
+    - cast
   positions:
-    - Music Director --- Mamma Mia!, Young Frankenstein
-    - Second Keyboard --- Shrek, Crazy For You, Chicago
+    - Shrek --- Young Fiona
   bio: >
-    Max has music directed for a variety of west coast companies, shows such as _Tommy_, _Altar Boyz_, _Into the Woods_, _The Wiz_ and many more. He is the arranger/orchestrator for the new musical, _Escaping Queens_, with readings in New York and on the west coast. Performance credits include _Anything Goes_, _Urinetown_, _Bash_ and the Tom Lehrer-curated _Shakespeare Deconstructed_. He's composed original music for the plays _Touch_, and _The Nether_, and the documentary _The Last Captain_.
+    Bristol is excited to be back for her second stint at the Post Playhouse. She previously appeared as Gretl in _The Sound of Music_. She is 8 years old and attends Hay Springs Public Schools. In her free time, she enjoys dance and gymnastics classes, going to music lessons, singing at local open mic nights, and binge watching Netflix. Thanks to everyone for supporting the local arts.
   image_year: 2017
-  image_file: max-parker.jpg
+  image_file: bristol-prado.jpg
 
 
 - last_name: Rice
@@ -680,6 +732,32 @@
   image_file: aili-venho.jpg
 
 
+# - last_name: Victory
+#   first_name: Kamden N.
+#   location: "Crawford, NE"
+#   groups:
+#     - cast
+#   positions:
+#     - Shrek --- Baby Bear
+#   bio: >
+#
+#   image_year: 2017
+#   image_file: kamden-victory.jpg
+#
+#
+# - last_name: Victory
+#   first_name: Kendall
+#   location: "Crawford, NE"
+#   groups:
+#     - cast
+#   positions:
+#     - Shrek --- Young Fiona
+#   bio: >
+#
+#   image_year: 2017
+#   image_file: kendall-victory.jpg
+#
+#
 - last_name: Voorhis
   first_name: Jacob
   location: "Belle Fourche, South Dakota and Chadron, Nebraska"
