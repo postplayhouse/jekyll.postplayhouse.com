@@ -523,6 +523,19 @@
 
 
 - last_name: Phillips
+  first_name: Heather
+  location: "Texas"
+  groups:
+    - staff
+  positions:
+    - Managing Director
+  bio: >
+    Heather is an Arizona native newly relocated to Texas. She graduated from the University of Arizona with a BFA in Technical Theatre, Lighting design and technology emphasis. She has worked often with Artifact Dance Company in Tucson doing both lighting and stage management and was most recently the Stage Manager on Surrounding Dillinger. A teacher, she has also been the head of the drama program at Camp Robin Hood in New Hampshire for the last several summers. This is her first season at the Post Playhouse and is ecstatic to be joining the team.
+  image_year: 2017
+  image_file: heather-phillips.jpg
+
+
+- last_name: Phillips
   first_name: Ken
   location: "Tucson, AZ"
   groups:
