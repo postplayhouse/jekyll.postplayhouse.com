@@ -434,6 +434,19 @@
   image_file: samuel-martin.jpg
 
 
+- last_name: Mays
+  first_name: Tori
+  location: "Tucson, AZ"
+  groups:
+    - staff
+  positions:
+    - Master Electrician
+  bio: >
+    Tori Mays is a first year MFA Lighting Design Candidate at the University of Arizona and she is super excited to work at the Post for a few weeks this summer!  Recent design credits include: _Dialogue of the Carmelites_ (UA), _Born Yesterday_ (ART), and _The Birds_ (Huron Playhouse).  She has also assisted designers at Arizona Theatre Company.  Love to her mom, sisters, friends, and family.  <torimayslighting.com>
+  image_year: 2017
+  image_file: tori-mays.jpg
+
+
 - last_name: Ossowski
   first_name: Tom
   location: "Beatrice, NE via Beijing, China & Tallahasse, FL"
