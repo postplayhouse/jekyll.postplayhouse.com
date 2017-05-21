@@ -1,6 +1,5 @@
 {
-  "name": "compass-breakpoint",
-  "version": "2.5.0",
+  "name": "breakpoint-sass",
   "main": "stylesheets/_breakpoint.scss",
   "ignore": [
     "**/.*",
@@ -17,13 +16,15 @@
     "sassy-maps": "<1.0.0"
   },
   "homepage": "https://github.com/Team-Sass/breakpoint",
-  "_release": "2.5.0",
+  "version": "2.7.1",
+  "_release": "2.7.1",
   "_resolution": {
     "type": "version",
-    "tag": "v2.5.0",
-    "commit": "9fa26b61bfa729004645da297e614eef21ee0cbc"
+    "tag": "v2.7.1",
+    "commit": "15f3125da9b68d0c73a10f53baa8a5f21d92aab6"
   },
-  "_source": "git://github.com/Team-Sass/breakpoint.git",
-  "_target": "~2.5.0",
-  "_originalSource": "breakpoint-sass"
+  "_source": "https://github.com/Team-Sass/breakpoint.git",
+  "_target": "^2.7.1",
+  "_originalSource": "breakpoint-sass",
+  "_direct": true
 }
