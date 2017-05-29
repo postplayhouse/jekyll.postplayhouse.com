@@ -7,6 +7,29 @@ layout: default
   <div class="group">
 
     <div class="full">
+    {% assign posts = site.posts | where:"sticky","true" %}
+    {% for post in posts %}
+      {% if post.excerpt != post.content %}
+        <h2 style="font-weight: bold; font-family: azo-sans-uber">
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      {% else %}
+        <h2 style="font-weight: bold; font-family: azo-sans-uber">
+          {{ post.title }}
+        </h2>
+      {% endif %}
+      <article class="post-content">
+        {% if post.excerpt != post.content %}
+          {{ post.excerpt }}
+          <p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
+        {% else %}
+          {{ post.content }}
+        {% endif %}
+      </article>
+    {% endfor %}
+    </div>
+
+    <div class="full">
     {% assign posts = site.posts | where:"featured","true" %}
     {% for post in posts %}
       {% if post.excerpt != post.content %}
