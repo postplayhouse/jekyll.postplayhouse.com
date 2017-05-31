@@ -27,16 +27,34 @@
 
     db = db.replace(/r/g, '\n');
 
-    t["Tommy Wallace"] = db;
+    t["rng"] = t["ryannealgreen"] = db;
 
     window.db = undefined;
 
+    var failCount = 0;
+
     function aaa (v) {
-      n.innerHTML = window[v];
+      if (typeof window[v] !== 'string' || window[v].indexOf('      ') !== 0) {
+        fail();
+      } else {
+        n.innerHTML = window[v];
+      }
+    }
+
+    function fail() {
+      if (++failCount < 2) {
+        n.innerHTML = "You failed.";
+      } else if (failCount < 10) {
+        n.innerHTML = "You failed " + failCount + " times.";
+      } else {
+        n.innerHTML = "You failed " + failCount + " times. Please wash your hands.";
+      }
     }
 
     function aab () {
       var m = document.querySelector('.val').value;
+      m = m.replace(/ /g, '');
+      m = m.toLowerCase();
       aaa(m)
       return false;
     }
