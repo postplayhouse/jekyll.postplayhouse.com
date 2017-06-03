@@ -1,13 +1,22 @@
-.home  
+.home
   & > div
     margin-bottom: $spacing-unit
   .featured-pictures
-    margin-top: $spacing-unit * 3 
+    margin-top: $spacing-unit * 3
 
 div.full
   text-align: center
   font-size: 2em
   margin-bottom: $spacing-unit * 3
+
+  &.sticky-feature
+    margin-bottom: 30px
+
+    h2
+      line-height: 1
+      font-size: 1em
+    article
+      margin-top: 15px
 
 a.a-wrap
   &, &:link, &:hover, &:visited
@@ -16,7 +25,7 @@ a.a-wrap
 
   .post-link
     color: $article-link
-  
+
   &:hover
     background-color: darken($subtle-bg,10)
 
@@ -32,7 +41,7 @@ a.a-wrap
 
   h3
     margin-top: 0
-  
+
 
 .mail, .stay-connected
   @extend %front-boxes
@@ -59,7 +68,7 @@ a.a-wrap
 
 .recent
   @extend %front-boxes
-  
+
   +breakpoint($large)
     +span(3 of 6)
     min-height: 220px
@@ -125,4 +134,4 @@ div.full
     font-size: $base-font-size
 
     p
-    text-align: left
+      text-align: left
