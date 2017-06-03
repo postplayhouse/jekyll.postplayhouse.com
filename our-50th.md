@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Our 50th
+title: 50th Anniversary Special Events
+nav_title: Our 50th
 css_class: anniversary-weekend-events
 link_class: fifty
 image: /images/50th-logo.png?v=1
