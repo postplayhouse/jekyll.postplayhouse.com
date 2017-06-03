@@ -2,10 +2,10 @@
 title: Industry Professionals
 permalink: /industry-professionals/
 layout: page
-nav_title: Work at Post
-group: main
-image: /images/2016/seasonslide2016.jpg
-order: 7
+#nav_title: Work at Post
+#group: main
+#image: /images/2016/seasonslide2016.jpg
+#order: 7
 ---
 
 ## Actor Auditions
@@ -24,4 +24,3 @@ Please wear closed-toe shoes (sneakers are best; no sandals, please), and clothi
 Bring a headshot (or current picture of just you) and resum&eacute; if you have them. If you do not have them, you will still be considered, so do not worry.
 
 ![The outside front entrance of Post Playhouse]({{ site.baseurl }}/images/playhouse-pic-large.jpg)
-
