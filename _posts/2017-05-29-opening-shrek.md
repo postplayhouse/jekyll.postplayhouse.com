@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shrek opens June 2nd!
+title: Shrek is now showing!
 single_featured: true
 image: /images/2017/shrek-fb.png
 ---
