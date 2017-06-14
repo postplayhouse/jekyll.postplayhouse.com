@@ -1,7 +1,7 @@
 ---
 layout: post
 title: June 9th Special Event
-sticky: true
+sticky: false
 excerpt: The Frontier Strings ensemble will be performing outside the playhouse before the opening night performance of Mamma Mia!
 ---
 
