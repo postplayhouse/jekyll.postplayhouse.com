@@ -118,33 +118,6 @@
   about: |
     The Museum of the Fur Trade is dedicated to preserving the rich history of the North American fur trade. Located three miles east of Chadron, the museum stands on the site of James Bordeaux’s trading post which was established for the American Fur Company in 1837.
 
-- name: "Perennial Haus Floral Espresso"
-  site: http://crawfordflowers.net
-  type:
-    - coffee
-  supporter: false
-  address:
-    street: 120 Mc Pherson St
-    city: Crawford
-    state: NE
-    zip: 69339
-  phone: 308-665-5150
-  about: |
-    You can't miss this green building as you head through Crawford on your way to Post Playhouse. A nice stop for coffee or pie.
-
-- name: Ranch House
-  type:
-    - restaurant
-  supporter: true
-  phone: 308-665-1231
-  address:
-    street: 445 2nd St
-    city: Crawford
-    state: NE
-    zip: 69339
-  about: |
-    Country style cooking with a some delicious, home made favorites. MJ has been a supporter of the theatre for many years and the Ranch House was home to our Dinner Theatre series in 2012 and 2013.
-
 - name: "Staab's Drive Inn"
   type:
     - restaurant
