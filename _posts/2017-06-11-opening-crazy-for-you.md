@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crazy For You opens June 16th!
+title: The hilarious Crazy For You is now showing!
 single_featured: true
 image: /images/2017/crazy-for-you-fb.png
 ---
