@@ -16,13 +16,28 @@ div.full
       margin-right: auto
 
   &.sticky-feature
+    display: flex
+    justify-content: center
+    align-items: flex-start
+
+    padding: 8px
+    background-color: $subtle-bg
+    clear: both
     margin-bottom: 30px
 
     h2
+      font-family: $proxima
       line-height: 1
-      font-size: 1em
+      text-align: left
+      font-size: 2em
+      margin-top: 0
+      clear: none
+
     article
-      margin-top: 15px
+      margin: 0
+
+    .sticky-feature-image
+      margin-right: 12px
 
 a.a-wrap
   &, &:link, &:hover, &:visited
