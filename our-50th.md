@@ -5,6 +5,7 @@ nav_title: Our 50th
 css_class: anniversary-weekend-events
 link_class: fifty
 image: /images/50th-logo.png?v=1
+excerpt: Post Playhouse turns fifty this summer! Come and join us for our amazing season of live theatre entertainment and for some special events to celebrate 50 years of magic!
 
 permalink: /fifty/
 group: main
