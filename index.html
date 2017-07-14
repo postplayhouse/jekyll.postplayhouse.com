@@ -6,79 +6,84 @@ layout: default
 
   <div class="group">
 
-    <div class="full sticky-feature">
     {% assign stickies = site.posts | where:"sticky","true" %}
-    {% for sticky_post in stickies %}
-      {% if sticky_post.excerpt_image %}
-        <div class="sticky-feature-image"><img src="{{sticky_post.excerpt_image}}" /></div>
-      {% endif %}
-      <article class="post-content">
-        <h2>
+    {% if stickies.size != 0 %}
+      <div class="full sticky-feature">
+      {% for sticky_post in stickies %}
+        {% if sticky_post.excerpt_image %}
+          <div class="sticky-feature-image"><img src="{{sticky_post.excerpt_image}}" /></div>
+        {% endif %}
+        <article class="post-content">
+          <h2>
+            {% if sticky_post.excerpt != sticky_post.content %}
+              <a href="{{ sticky_post.url | prepend: site.baseurl }}">
+                {{ sticky_post.title }}
+              </a>
+            {% else %}
+                {{ sticky_post.title }}
+            {% endif %}
+          </h2>
           {% if sticky_post.excerpt != sticky_post.content %}
-            <a href="{{ sticky_post.url | prepend: site.baseurl }}">
-              {{ sticky_post.title }}
-            </a>
+            <p>{{ sticky_post.excerpt }}</p>
+            <p class="sticky-read-more">
+              <a href="{{ sticky_post.url | prepend: site.baseurl }}">Read more...</a>
+            </p>
           {% else %}
-              {{ sticky_post.title }}
+            {{ sticky_post.content }}
           {% endif %}
-        </h2>
-        {% if sticky_post.excerpt != sticky_post.content %}
-          <p>{{ sticky_post.excerpt }}</p>
-          <p class="sticky-read-more">
-            <a href="{{ sticky_post.url | prepend: site.baseurl }}">Read more...</a>
-          </p>
-        {% else %}
-          {{ sticky_post.content }}
-        {% endif %}
-      </article>
-    {% endfor %}
-    </div>
-
-    <div class="full single-feature">
-    {% assign posts = site.posts | where:"single_featured","true" %}
-    {% assign post = posts[0] %}{% if post != nil %}
-      {% if post.excerpt != post.content %}
-        <h2 style="font-weight: bold; font-family: azo-sans-uber">
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      {% else %}
-        <h2 style="font-weight: bold; font-family: azo-sans-uber">
-          {{ post.title }}
-        </h2>
-      {% endif %}
-      <article class="post-content">
-        {% if post.excerpt != post.content %}
-          {{ post.excerpt }}
-          <p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
-        {% else %}
-          {{ post.content }}
-        {% endif %}
-      </article>
+        </article>
+      {% endfor %}
+      </div>
     {% endif %}
-    </div>
 
-    <div class="full regular-feature">
-    {% assign posts = site.posts | where:"featured","true" %}
-    {% for post in posts %}
-      {% if post.excerpt != post.content %}
-        <h2 style="font-weight: bold; font-family: azo-sans-uber">
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      {% else %}
-        <h2 style="font-weight: bold; font-family: azo-sans-uber">
-          {{ post.title }}
-        </h2>
-      {% endif %}
-      <article class="post-content">
+    {% assign posts = site.posts | where:"single_featured","true" %}
+    {% assign post = posts[0] %}
+    {% if post != nil %}
+      <div class="full single-feature">
         {% if post.excerpt != post.content %}
-          {{ post.excerpt }}
-          <p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
+          <h2 style="font-weight: bold; font-family: azo-sans-uber">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
         {% else %}
-          {{ post.content }}
+          <h2 style="font-weight: bold; font-family: azo-sans-uber">
+            {{ post.title }}
+          </h2>
         {% endif %}
-      </article>
-    {% endfor %}
-    </div>
+        <article class="post-content">
+          {% if post.excerpt != post.content %}
+            {{ post.excerpt }}
+            <p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
+          {% else %}
+            {{ post.content }}
+          {% endif %}
+        </article>
+      </div>
+    {% endif %}
+
+    {% assign posts = site.posts | where:"featured","true" %}
+    {% if posts.size != 0 %}
+      <div class="full regular-feature">
+      {% for post in posts %}
+        {% if post.excerpt != post.content %}
+          <h2 style="font-weight: bold; font-family: azo-sans-uber">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        {% else %}
+          <h2 style="font-weight: bold; font-family: azo-sans-uber">
+            {{ post.title }}
+          </h2>
+        {% endif %}
+        <article class="post-content">
+          {% if post.excerpt != post.content %}
+            {{ post.excerpt }}
+            <p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
+          {% else %}
+            {{ post.content }}
+          {% endif %}
+        </article>
+      {% endfor %}
+      </div>
+    {% endif %}
 
     <div class="donations">
       <a href="{{ site.baseurl }}/donate/"><img src="{{ site.baseurl }}/images/perennials/donations.jpg" alt="Your donations make all the difference!"></a>
