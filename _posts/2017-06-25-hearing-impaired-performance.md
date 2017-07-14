@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sign Language Performance of Shrek
-sticky: true
+sticky: false
 # image: /images/2017/shrek.png
 excerpt: "Post Playhouse will be partnering with The Regional Program for the Deaf and Hard-of-Hearing to present a signed performance of <em>Shrek: The Musical</em> on Wednesday July 12 at 2:00pm. Join us or donate to the event!"
 excerpt_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deafness_and_hard_of_hearing_symbol.png/300px-Deafness_and_hard_of_hearing_symbol.png
@@ -30,6 +30,7 @@ These performances are always such a joy for us, and for those who attend. We'd 
 
 * Alliance, NE:
   * Wally Seiler
+  * Evert and Judy Smith DBA Sweet Bre's
 * Chadron, NE:
   * Chadron Federal Credit Union
   * First National Bank
@@ -43,3 +44,4 @@ These performances are always such a joy for us, and for those who attend. We'd 
   * Deb Kraenow
   * Patricia McMahon
   * Barbara Straub
+  * Ed Kriz
