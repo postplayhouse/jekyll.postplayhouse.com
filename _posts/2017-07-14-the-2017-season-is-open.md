@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All our shows are now open!
-featured: true
+featured: false
 image: /images/2017/chadrad-ad.png
 ---
 
