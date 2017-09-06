@@ -1,8 +1,11 @@
 ---
-title: Summer 2017 Productions
-permalink: /productions/2017/
-season: "2017"
+title: Summer 2018 Productions
+permalink: /productions/2018/
+season: "2018"
 layout: page
+nav_title: Our Shows
+group: main
+order: 2
 ---
 
 {% assign productions = site.data.productions.[page.season] | sort: "opening" %}
@@ -15,7 +18,7 @@ layout: page
   {% else %}
     {% assign production_image = nil %}
   {% endif %}
-
+  
 
 <article class="production">
   <header class="entry-header">
@@ -39,7 +42,7 @@ layout: page
 
   <div class="description">
     {{ production.description | markdownify }}
-
+    
     {% if production.sponsor %}
       <div class="sponsor">
         <p>Sponsored By</p>
