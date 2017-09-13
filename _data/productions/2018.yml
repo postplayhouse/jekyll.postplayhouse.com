@@ -9,7 +9,7 @@
     Book and lyrics by  
     David Lindsay-Abaire
   sponsor:
-    image: security-first-bank.png
+    # image: security-first-bank.png
 
   description: |
     Based on the Oscar-winning DreamWorks Animation film, *Shrek The Musical* is a Tony Award-winning fairy tale adventure, featuring all new songs from Jeanine Tesori (*Thoroughly Modern Millie*; *Caroline, or Change*) and a sidesplitting book by David Lindsay-Abaire. *Shrek* brings all the beloved characters you know from the film to life on stage and proves there's more to the story than meets the ears.
@@ -30,7 +30,7 @@
   description: |
     *Crazy For You* is the story of Bobby Child, a well-to-do 1930s playboy whose dream in life is to dance. And despite the serious efforts of his mother and soon-to-be ex-fiancée, Bobby achieves his dream! Memorable Gershwin tunes include I Can’t Be Bothered Now, Bidin’ My Time, I Got Rhythm, Naughty Baby, They Can’t Take That Away from Me, But Not for Me, Nice Work if You Can Get It, Embraceable You and Someone to Watch Over Me. It’s a high energy comedy which includes mistaken identity, plot twists, fabulous dance numbers and classic Gershwin music.
   sponsor:
-    image: csc.jpg
+    # image: csc.jpg
 
 - title: Chitty Chitty Bang Bang
   rating: PG
@@ -51,7 +51,7 @@
     The story-telling magic of ABBA's timeless songs propels this enchanting tale of love, laughter and friendship, creating an unforgettable show. A large cast, non-stop laughs and explosive dance numbers combine to make *Mamma Mia!* a guaranteed smash hit for any theatre.
         
   sponsor:
-    image: hr-block.jpg
+    # image: hr-block.jpg
 
 - title: Urinetown
   rating: PG
@@ -66,7 +66,7 @@
   description: |
     In roaring twenties in Chicago, chorine Roxie Hart murders a faithless lover and convinces her hapless husband Amos to take the rap...until he finds out he's been duped and turns on Roxie. Convicted and sent to death row, Roxie and another "Merry Murderess" Velma Kelly, vie for the spotlight and the headlines, ultimately joining forces in search of the "American Dream": fame, fortune and acquittal. This sharp edged satire features a dazzling score that sparked immortal staging by Bob Fosse.
   sponsor:
-    image: kcsr-kbpy.jpg
+    # image: kcsr-kbpy.jpg
 
 - title: 42nd Street
   rating: PG
@@ -79,11 +79,11 @@
 
     Music and lyrics by  
     Mel Brooks
-  sponsor:
-    text: "Tim Hindman &amp; Family" 
   description: |
     From the creators of the record-breaking Broadway sensation, *The Producers*, comes this monster new musical comedy. The comedy genius, Mel Brooks, adapts his legendarily funny film into a brilliant stage creation – *Young Frankenstein*!
 
     Grandson of the infamous Victor Frankenstein, Frederick Frankenstein (pronounced "Fronk-en-steen") inherits his family's estate in Transylvania. With the help of a hunchbacked sidekick, Igor (pronounced "Eye-gore"), and a leggy lab assistant, Inga (pronounced normally), Frederick finds himself in the mad scientist shoes of his ancestors. "It's alive!" he exclaims as he brings to life a creature to rival his grandfather's. Eventually, of course, the monster escapes and hilarity continuously abounds.
 
     Every bit as relevant to audience members who will remember the original as it will be to newcomers, Young Frankenstein has all the of panache of the screen sensation with a little extra theatrical flair added. It will surely be the perfect opportunity for a production company to showcase an array of talents. With such memorable tunes as "The Transylvania Mania," "He Vas My Boyfriend" and "Puttin' on the Ritz," *Young Frankenstein* is scientifically proven, monstrously good entertainment.
+  sponsor:
+    # text: "Tim Hindman &amp; Family" 
