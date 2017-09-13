@@ -289,6 +289,25 @@ open '../_includes/calendar.html', 'w' do |f|
   f.puts create_html_calendar()
 end
 
+def convert_day_part_to_comparison_value(dp)
+  case dp
+  when :morning
+    1
+  when :afternoon
+    2
+  when :evening
+    3
+  else
+    raise
+  end
+end
+
+def compare_day_parts(a, b)
+  a_value = convert_day_part_to_comparison_value(a)
+  b_value = convert_day_part_to_comparison_value(b)
+  a_value <=> b_value
+end
+
 open 'schedule.txt', 'w' do |f|
   f.puts "Post Playhouse #{year}\n\n\n"
 
@@ -331,7 +350,15 @@ open 'schedule.txt', 'w' do |f|
     dates.each do |date, perf_types|
       next if perf_types.empty?
       f.puts "#{month.to_s.capitalize} #{date}"
+
+      perfs_to_order = []
       perf_types.each do |day_part, show_obj|
+        perfs_to_order.push([day_part, show_obj])
+      end
+
+      perfs_in_order = perfs_to_order.sort{|a,b| compare_day_parts(a[0], b[0])}
+
+      perfs_in_order.each do |day_part, show_obj|
         f.puts case day_part
           when :morning
             "  #{morning_time_arr[1]}  #{show_obj[:name]}"
