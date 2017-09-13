@@ -9,11 +9,23 @@ $purple: rgb(146,39,143)
 $yellow: rgb(254,189,64)
 $brown: #56402c
 
+$blue-shadow: darken($blue, 20)
+$purple-shadow: darken($purple, 20)
+$red-shadow: darken($red, 20)
+$yellow-shadow: darken($yellow, 35)
+$green-shadow: darken($green, 10)
+
 $show-1-color: $blue
 $show-2-color: $purple
 $show-3-color: $red
 $show-4-color: $yellow
 $show-5-color: $green
+
+$show-1-color-drop-shadow: $blue-shadow
+$show-2-color-drop-shadow: $purple-shadow
+$show-3-color-drop-shadow: $red-shadow
+$show-4-color-drop-shadow: $yellow-shadow
+$show-5-color-drop-shadow: $green-shadow
 
 $proxima: proxima-nova, sans-serif
 $azo: azo-sans-uber, sans
@@ -48,19 +60,19 @@ $alt-bg-color: #d1dcc4
 
     &.show-1
       border-color: $show-1-color
-      +drop-shadow(darken($show-1-color, 20))
+      +drop-shadow($show-1-color-drop-shadow)
     &.show-2
       border-color: $show-2-color
-      +drop-shadow(darken($show-2-color, 20))
+      +drop-shadow($show-2-color-drop-shadow)
     &.show-3
       border-color: $show-3-color
-      +drop-shadow(darken($show-3-color, 20))
+      +drop-shadow($show-3-color-drop-shadow)
     &.show-4
       border-color: $show-4-color
-      +drop-shadow(darken($show-4-color, 20))
+      +drop-shadow($show-4-color-drop-shadow)
     &.show-5
       border-color: $show-5-color
-      +drop-shadow(darken($show-5-color, 20))
+      +drop-shadow($show-5-color-drop-shadow)
 
     &.show-1.selected
       background-color: $show-1-color
@@ -265,19 +277,19 @@ h3.month-name
 
     &.show-1
       background-color: $show-1-color
-      +drop-shadow(darken($show-1-color, 20))
+      +drop-shadow($show-1-color-drop-shadow)
     &.show-2
       background-color: $show-2-color
-      +drop-shadow(darken($show-2-color, 20))
+      +drop-shadow($show-2-color-drop-shadow)
     &.show-3
       background-color: $show-3-color
-      +drop-shadow(darken($show-3-color, 20))
+      +drop-shadow($show-3-color-drop-shadow)
     &.show-4
       background-color: $show-4-color
-      +drop-shadow(darken($show-4-color, 20))
+      +drop-shadow($show-4-color-drop-shadow)
     &.show-5
       background-color: $show-5-color
-      +drop-shadow(darken($show-5-color, 20))
+      +drop-shadow($show-5-color-drop-shadow)
 
   .show-title
 
