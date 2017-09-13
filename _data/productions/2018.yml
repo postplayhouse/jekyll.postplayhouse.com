@@ -33,7 +33,7 @@
     # image: csc.jpg
 
 - title: Chitty Chitty Bang Bang
-  rating: PG
+  rating: G
   image: chitty.png
   opening: 2018-06-15
   writers: |
@@ -69,7 +69,7 @@
     # image: kcsr-kbpy.jpg
 
 - title: 42nd Street
-  rating: PG
+  rating: G
   image: 42nd.jpg
   opening: 2018-07-06
   writers: |
