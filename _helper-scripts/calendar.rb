@@ -15,75 +15,75 @@ require 'date'
 require 'pp'
 require 'fileutils'
 
-year = 2017
+year = 2018
 morning_time_arr = ["10:00am", "10am"]
 matinee_time_arr = ["2:00pm", "2pm"]
 evening_time_arr = ["8:00pm", "8pm"]
 
 show1 = {
   code: "show-1",
-  name: "Shrek The Musical",
-  short_name: "Shrek",
+  name: "Disney's The Little Mermaid",
+  short_name: "Mermaid",
   morning_dates: {
     june: [],
-    july: [29],
-    august: [5]
+    july: [21],
+    august: [4, 11]
     },
   matinee_dates: {
-    june: [4, 25],
-    july: [12, 14, 16, 19, 26],
-    august: [9, 11, 13]
+    june: [3, 24],
+    july: [4, 22, 25, 28],
+    august: [8, 12, 18]
     },
   evening_dates: {
-    june: [2, 3, 6, 13, 21],
-    july: [5, 22],
-    august: []
+    june: [1, 2, 5, 12, 20, 22],
+    july: [14, 18, 31],
+    august: [16]
   }
 }
 show2 = {
   code: "show-2",
-  name: "Mamma Mia!",
-  short_name: "Mamma Mia!",
+  name: "Footloose",
+  short_name: "Footloose",
   morning_dates: {
     june: [],
     july: [],
     august: []
     },
   matinee_dates: {
-    june: [11],
-    july: [8, 15, 29],
-    august: [6]
+    june: [10],
+    july: [7, 29],
+    august: [15]
     },
   evening_dates: {
-    june: [9, 10, 14, 20, 23, 28],
-    july: [4, 13, 18, 20, 26],
-    august: [3, 8, 12]
+    june: [8, 9, 13, 19, 23, 27],
+    july: [12, 17, 20, 26],
+    august: [2, 4, 10]
   }
 }
 show3 = {
   code: "show-3",
-  name: "Crazy For You",
-  short_name: "Crazy",
+  name: "Chitty Chitty Bang Bang",
+  short_name: "Chitty",
   morning_dates: {
     june: [],
-    july: [],
+    july: [28],
     august: []
     },
   matinee_dates: {
-    june: [18],
-    july: [21, 23],
-    august: [5, 12]
+    june: [17],
+    july: [11, 13, 15, 21],
+    august: [4, 19]
     },
   evening_dates: {
-    june: [16, 17, 22, 24, 27],
-    july: [8, 12, 15, 27, 29],
-    august: [2, 9]
+    june: [15, 16, 21, 26],
+    july: [3, 24],
+    august: [1, 7, 9, 11, 17]
   }
 }
 show4 = {
   code: "show-4",
-  name: "Chicago",
-  short_name: "Chicago",
+  name: "Urinetown",
+  short_name: "Urinetown",
   morning_dates: {
     june: [],
     july: [],
@@ -91,19 +91,19 @@ show4 = {
     },
   matinee_dates: {
     june: [],
-    july: [2, 22, 30],
-    august: [2]
+    july: [1],
+    august: [11]
     },
   evening_dates: {
-    june: [30],
-    july: [1, 11, 19, 25, 28],
-    august: [5, 11]
+    june: [29, 30],
+    july: [11, 13, 19, 27],
+    august: [3, 8, 14, 18]
   }
 }
 show5 = {
   code: "show-5",
-  name: "Young Frankenstein",
-  short_name: "Frankenstein",
+  name: "42nd Street",
+  short_name: "42nd Street",
   morning_dates: {
     june: [],
     july: [],
@@ -111,13 +111,13 @@ show5 = {
     },
   matinee_dates: {
     june: [],
-    july: [9, 27],
-    august: []
+    july: [8, 14, 18],
+    august: [1, 5]
     },
   evening_dates: {
     june: [],
-    july: [7, 14, 21],
-    august: [1, 4, 10]
+    july: [6, 7, 10, 21, 25, 28],
+    august: [15]
   }
 }
 bmr = {
@@ -169,7 +169,7 @@ def create_calendar_hash(show_array)
   end
 
   #since may, june, july, august *happen* to be reverse alphabetical
-  return calendar.sort.reverse.to_h 
+  return calendar.sort.reverse.to_h
 end
 
 define_method :showing do |production, day_part|
@@ -208,7 +208,7 @@ define_method :create_html_calendar do
 
     calendar_html += "
 <h3 class=\"month-name\">#{month.to_s.capitalize}</h3><table class=\"month\" cellpadding=\"0\" cellspacing=\"0\"><tbody>"
-    
+
     if pad_days > 0
       calendar_html += "<tr class=\"week\">"
       pad_days.times do |i|
@@ -225,7 +225,7 @@ define_method :create_html_calendar do
 
     dates.each do |date, events|
       cal_date = Date.new(year, month_num, date)
-      
+
       calendar_html += "
 <tr class=\"week\">" if cal_date.sunday?
 
@@ -236,7 +236,7 @@ define_method :create_html_calendar do
         calendar_html += "
   <td class=\"day\" valign=\"top\">"
       end
-    
+
       calendar_html += "
     <span class=\"day-name\">
       <span class=\"full\">#{Date::DAYNAMES[cal_date.wday]}</span>
@@ -337,14 +337,14 @@ open 'schedule.txt', 'w' do |f|
         end
       end
       f.puts "#{month.to_s.capitalize} #{date_str_arr.join(", ")}"
-      
+
     end
     f.puts "\n\n"
   end
-  
+
   f.puts "By Dates:"
   f.puts "=========\n\n"
-  
+
   calendar = create_calendar_hash([show1,show2,show3,show4,show5])
   calendar.each do |month, dates|
     dates.each do |date, perf_types|
