@@ -1,7 +1,7 @@
 - title: Disney's The Little Mermaid
   rating: G
   image: mermaid.jpg
-  opening: 2018-06-02
+  opening: 2018-06-01
   writers: |
     Music by  
     Jeanine Tesori
@@ -18,10 +18,24 @@
 
     *Shrek* presents a treasure trove of creative opportunities, including costumes, sets, puppets (there is a fire-breathing dragon after all) and more! Irreverently fun for the whole family, *Shrek* proves that beauty is truly in the eye of the ogre.
 
+- title: Footloose
+  rating: G
+  image: footloose.png
+  opening: 2018-06-08
+  writers: |
+    Music and Lyrics by George Gershwin and Ira Gershwin  
+    Book by Ken Ludwig  
+    Co Conception by Ken Ludwig and Mike Ockrent  
+    Inspired by Material by Guy Bolton and John McGowan
+  description: |
+    *Crazy For You* is the story of Bobby Child, a well-to-do 1930s playboy whose dream in life is to dance. And despite the serious efforts of his mother and soon-to-be ex-fiancée, Bobby achieves his dream! Memorable Gershwin tunes include I Can’t Be Bothered Now, Bidin’ My Time, I Got Rhythm, Naughty Baby, They Can’t Take That Away from Me, But Not for Me, Nice Work if You Can Get It, Embraceable You and Someone to Watch Over Me. It’s a high energy comedy which includes mistaken identity, plot twists, fabulous dance numbers and classic Gershwin music.
+  sponsor:
+    image: csc.jpg
+
 - title: Chitty Chitty Bang Bang
   rating: PG
   image: chitty.png
-  opening: 2018-06-09
+  opening: 2018-06-15
   writers: |
     Music and lyrics by  
     Björn Ulvaeus  
@@ -39,24 +53,10 @@
   sponsor:
     image: hr-block.jpg
 
-- title: Footloose
-  rating: G
-  image: footloose.png
-  opening: 2018-06-16
-  writers: |
-    Music and Lyrics by George Gershwin and Ira Gershwin  
-    Book by Ken Ludwig  
-    Co Conception by Ken Ludwig and Mike Ockrent  
-    Inspired by Material by Guy Bolton and John McGowan
-  description: |
-    *Crazy For You* is the story of Bobby Child, a well-to-do 1930s playboy whose dream in life is to dance. And despite the serious efforts of his mother and soon-to-be ex-fiancée, Bobby achieves his dream! Memorable Gershwin tunes include I Can’t Be Bothered Now, Bidin’ My Time, I Got Rhythm, Naughty Baby, They Can’t Take That Away from Me, But Not for Me, Nice Work if You Can Get It, Embraceable You and Someone to Watch Over Me. It’s a high energy comedy which includes mistaken identity, plot twists, fabulous dance numbers and classic Gershwin music.
-  sponsor:
-    image: csc.jpg
-
-- title: Chicago
+- title: Urinetown
   rating: PG
-  image: chicago.png
-  opening: 2018-06-30
+  image: urinetown.png
+  opening: 2018-06-29
   writers: |
     Book by Fred Ebb and Bob Fosse  
     Music by John Kander  
@@ -68,10 +68,10 @@
   sponsor:
     image: kcsr-kbpy.jpg
 
-- title: Young Frankenstein
+- title: 42nd Street
   rating: PG
-  image: young-frankenstein.jpg
-  opening: 2018-07-07
+  image: 42nd.jpg
+  opening: 2018-07-06
   writers: |
     Book by  
     Mel Brooks  
