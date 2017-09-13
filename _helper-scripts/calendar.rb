@@ -313,8 +313,8 @@ open 'schedule.txt', 'w' do |f|
 
   f.puts "By Production:"
   f.puts "==============\n\n"
-  f.puts "Showtimes are 8pm unless otherwise noted:"
-  f.puts "  * = #{matinee_time_arr[1]}  ‡ = #{morning_time_arr[1]}"
+  f.puts "Showtimes are #{evening_time_arr[0]} unless otherwise noted:"
+  f.puts "  * = #{matinee_time_arr[0]}  ‡ = #{morning_time_arr[0]}"
   f.puts "\n"
 
   [show1,show2,show3,show4,show5].each do |s|
