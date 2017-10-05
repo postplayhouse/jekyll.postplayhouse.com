@@ -26,7 +26,7 @@
 
 
 - title: Footloose
-  rating: PG
+  rating: H
   rating_explanation: No language, no sexual situations, great entertainment. Young children may not understand the messages.
   image: footloose.png
   opening: 2018-06-08
@@ -66,7 +66,7 @@
     # image: hr-block.jpg
 
 - title: Urinetown
-  rating: PG
+  rating: H
   rating_explanation: Despite the name, this is not a "dirty" show. It's a fun political comedy that children will enjoy, but may not get all of the jokes. There is no language and no sexual situations, just a fun show with a shocking title!
   image: urinetown.jpg
   opening: 2018-06-29
