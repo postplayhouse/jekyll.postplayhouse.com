@@ -16,5 +16,8 @@ If you are ever curious about the content of a production, you can call our box 
 
 {% assign productions = site.data.productions.[site.season] | sort: "opening" %}
 {% for production in productions %}
-  {{ production.title }} - {{ production.rating }}<br />
+  * {{ production.title }} - {{ production.rating }}
+
+    {{ production.rating_explanation }}
+
 {% endfor %}
