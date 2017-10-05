@@ -3,32 +3,43 @@
   image: mermaid.jpg
   opening: 2018-06-01
   writers: |
-    Music by  
-    Jeanine Tesori
+    Music:  
+    Alan Menken
 
-    Book and lyrics by  
-    David Lindsay-Abaire
+    Lyrics:  
+    Howard Ashman  
+    Glenn Slater
+
+    Book:  
+    Doug Wright
+
   sponsor:
     # image: security-first-bank.png
 
   description: |
-    Based on the Oscar-winning DreamWorks Animation film, *Shrek The Musical* is a Tony Award-winning fairy tale adventure, featuring all new songs from Jeanine Tesori (*Thoroughly Modern Millie*; *Caroline, or Change*) and a sidesplitting book by David Lindsay-Abaire. *Shrek* brings all the beloved characters you know from the film to life on stage and proves there's more to the story than meets the ears.
+    In a magical kingdom beneath the sea, the beautiful young mermaid, Ariel, longs to leave her ocean home to live in the world above.
 
-    "Once upon a time, there was a little ogre named Shrek..." And thus begins the tale of an unlikely hero who finds himself on a life-changing journey alongside a wisecracking Donkey and a feisty princess who resists her rescue. Throw in a short-tempered bad guy, a cookie with an attitude and over a dozen other fairy tale misfits, and you've got the kind of mess that calls for a real hero. Luckily, there's one on hand... and his name is Shrek.
+    Based on one of Hans Christian Andersen's most beloved stories and the classic animated film, _Disney's The Little Mermaid_ is a hauntingly beautiful love story for the ages. With music by eight-time Academy Award winner, Alan Menken, lyrics by Howard Ashman and Glenn Slater and a compelling book by Doug Wright, this fishy fable will capture your heart with its irresistible songs, including "Under the Sea," "Kiss the Girl" and "Part of Your World."
 
-    *Shrek* presents a treasure trove of creative opportunities, including costumes, sets, puppets (there is a fire-breathing dragon after all) and more! Irreverently fun for the whole family, *Shrek* proves that beauty is truly in the eye of the ogre.
+    Ariel, King Triton's youngest daughter, wishes to pursue the human Prince Eric in the world above, bargaining with the evil sea witch, Ursula, to trade her tail for legs. But the bargain is not what it seems, and Ariel needs the help of her colorful friends, Flounder the fish, Scuttle the seagull and Sebastian the crab to restore order under the sea.
+
+
 
 - title: Footloose
-  rating: G
+  rating: PG
   image: footloose.png
   opening: 2018-06-08
   writers: |
-    Music and Lyrics by George Gershwin and Ira Gershwin  
-    Book by Ken Ludwig  
-    Co Conception by Ken Ludwig and Mike Ockrent  
-    Inspired by Material by Guy Bolton and John McGowan
+    Music by Tom Snow  
+    Lyrics by Dean Pitchford  
+    Stage Adaptation by Dean Pitchford and Walter Bobbie  
+    Based on the original screenplay by Dean Pitchford  
+    Additional Music by Eric Carmen, Sammy Hagar, Kenny Loggins and Jim Steinman
   description: |
-    *Crazy For You* is the story of Bobby Child, a well-to-do 1930s playboy whose dream in life is to dance. And despite the serious efforts of his mother and soon-to-be ex-fiancée, Bobby achieves his dream! Memorable Gershwin tunes include I Can’t Be Bothered Now, Bidin’ My Time, I Got Rhythm, Naughty Baby, They Can’t Take That Away from Me, But Not for Me, Nice Work if You Can Get It, Embraceable You and Someone to Watch Over Me. It’s a high energy comedy which includes mistaken identity, plot twists, fabulous dance numbers and classic Gershwin music.
+    One of the most explosive movie musicals in recent memory bursts onto the live stage with exhilarating results. When Ren and his mother move from Chicago to a small farming town, Ren is prepared for the inevitable adjustment period at his new high school. What he isn't prepared for are the rigorous local edicts, including a ban on dancing instituted by the local preacher, determined to exercise the control over the town's youth that he cannot command in his own home. When the reverend's rebellious daughter sets her sights on Ren, her roughneck boyfriend tries to sabotage Ren's reputation, with many of the locals eager to believe the worst about the new kid.
+
+    The heartfelt story that emerges is of a father longing for the son he lost and of a young man aching for the father who walked out on him. To the rockin' rhythm of its Oscar and Tony-nominated top 40 score (the soundtrack album reached number one on the Billboard charts and has sold over 15 million copies!) and augmented with dynamic new songs for the stage musical, _Footloose_ celebrates the wisdom of listening to young people, guiding them with a warm heart and an open mind.
+
   sponsor:
     # image: csc.jpg
 
@@ -37,19 +48,19 @@
   image: chitty.png
   opening: 2018-06-15
   writers: |
-    Music and lyrics by  
-    Björn Ulvaeus  
-    Benny Andersson  
-    
-    Book By  
-    Catherine Johnson
+    Music and Lyrics:  
+    Richard M. Sherman  
+    Robert B. Sherman
+
+    Adapted for the stage by:  
+    Jeremy Sams
   description: |
-    Over 54 million people all around the world have fallen in in love with the characters, the story and the music that make *Mamma Mia!* the ultimate feel-good show! A mother. A daughter. Three possible dads. And a trip down the aisle you'll never forget!
+    Everyone's favorite flying car comes to life in the musical adaptation of the beloved family film.
 
-    Writer, Catherine Johnson's, sunny and funny tale unfolds on a Greek island paradise. On the eve of her wedding, a daughter's quest to discover the identity of her father brings three men from her mother's past back to the island they last visited 20 years ago.
+    Take a fantastic musical adventure with an out-of-this-world car that flies through the air and sails the seas. Based on the beloved 1968 film version of Ian Fleming's children's book, and featuring an unforgettable score by the Sherman Brothers (Mary Poppins), _Chitty Chitty Bang Bang_ is one family-friendly blockbuster that audiences will find "Truly Scrumptious."
 
-    The story-telling magic of ABBA's timeless songs propels this enchanting tale of love, laughter and friendship, creating an unforgettable show. A large cast, non-stop laughs and explosive dance numbers combine to make *Mamma Mia!* a guaranteed smash hit for any theatre.
-        
+    An eccentric inventor, Caractacus Potts sets about restoring an old race car from a scrap heap with the help of his children, Jeremy and Jemima. They soon discover the car has magical properties, including the ability to float and take flight. Trouble occurs when the evil Baron Bomburst desires the magic car for himself. The family joins forces with Truly Scrumptious and batty Grandpa Potts to outwit the dastardly Baron and Baroness and their villainous henchman, the Child Catcher.
+
   sponsor:
     # image: hr-block.jpg
 
@@ -58,13 +69,25 @@
   image: urinetown.png
   opening: 2018-06-29
   writers: |
-    Book by Fred Ebb and Bob Fosse  
-    Music by John Kander  
-    Lyrics by Fred Ebb   
-    Based on the play by Maurine Dallas Watkins  
-    Script adaptation by David Thompson  
+    Music:  
+    Mark Hollmann
+
+    Lyrics:  
+    Mark Hollmann  
+    Greg Kotis
+
+    Book:  
+    Greg Kotis
+
   description: |
-    In roaring twenties in Chicago, chorine Roxie Hart murders a faithless lover and convinces her hapless husband Amos to take the rap...until he finds out he's been duped and turns on Roxie. Convicted and sent to death row, Roxie and another "Merry Murderess" Velma Kelly, vie for the spotlight and the headlines, ultimately joining forces in search of the "American Dream": fame, fortune and acquittal. This sharp edged satire features a dazzling score that sparked immortal staging by Bob Fosse.
+    A sidesplitting sendup of greed, love, revolution (and musicals!), in a time when water is worth its weight in gold.
+
+    Winner of three Tony Awards, three Outer Critics Circle Awards, two Lucille Lortel Awards and two Obie Awards, _Urinetown_ is a hilarious musical satire of the legal system, capitalism, social irresponsibility, populism, bureaucracy, corporate mismanagement, municipal politics and musical theatre itself! Hilariously funny and touchingly honest, _Urinetown_ provides a fresh perspective on one of America's greatest art forms.
+
+    In a Gotham-like city, a terrible water shortage, caused by a 20-year drought, has led to a government-enforced ban on private toilets. The citizens must use public amenities, regulated by a single malevolent company that profits by charging admission for one of humanity's most basic needs. Amid the people, a hero decides that he's had enough and plans a revolution to lead them all to freedom!
+
+    Inspired by the works of Bertolt Brecht and Kurt Weill, _Urinetown_ is an irreverently humorous satire in which no one is safe from scrutiny. Praised for reinvigorating the very notion of what a musical could be, _Urinetown_ catapults the "comedic romp" into the new millennium with its outrageous perspective, wickedly modern wit and sustained ability to produce gales of unbridled laughter.
+
   sponsor:
     # image: kcsr-kbpy.jpg
 
@@ -73,17 +96,15 @@
   image: 42nd.jpg
   opening: 2018-07-06
   writers: |
-    Book by  
-    Mel Brooks  
-    Thomas Meehan  
+    Music by Harry Warren  
+    Lyrics by Al Dubin  
+    Book by Michael Stewart & Mark Bramble  
+    Based on the Novel by Bradford Ropes
 
-    Music and lyrics by  
-    Mel Brooks
   description: |
-    From the creators of the record-breaking Broadway sensation, *The Producers*, comes this monster new musical comedy. The comedy genius, Mel Brooks, adapts his legendarily funny film into a brilliant stage creation – *Young Frankenstein*!
+    The ultimate show-biz musical, _42nd Street_ is a celebration of Broadway, Times Square, and the people who make the magic of musical theatre. Aspiring chorus girl Peggy Sawyer comes to the big city from Allentown PA, and soon lands her first big job in the ensemble of a glitzy new Broadway show. But just before opening night, the leading lady breaks her ankle. Will Peggy be able to step in and become a star?
 
-    Grandson of the infamous Victor Frankenstein, Frederick Frankenstein (pronounced "Fronk-en-steen") inherits his family's estate in Transylvania. With the help of a hunchbacked sidekick, Igor (pronounced "Eye-gore"), and a leggy lab assistant, Inga (pronounced normally), Frederick finds himself in the mad scientist shoes of his ancestors. "It's alive!" he exclaims as he brings to life a creature to rival his grandfather's. Eventually, of course, the monster escapes and hilarity continuously abounds.
+    The score is chock-full of Broadway standards, including "You're Getting To Be A Habit With Me," "Dames," "We're In the Money," "Lullaby of Broadway," "Shuffle Off to Buffalo" and "Forty-Second Street."
 
-    Every bit as relevant to audience members who will remember the original as it will be to newcomers, Young Frankenstein has all the of panache of the screen sensation with a little extra theatrical flair added. It will surely be the perfect opportunity for a production company to showcase an array of talents. With such memorable tunes as "The Transylvania Mania," "He Vas My Boyfriend" and "Puttin' on the Ritz," *Young Frankenstein* is scientifically proven, monstrously good entertainment.
   sponsor:
     # text: "Tim Hindman &amp; Family" 
