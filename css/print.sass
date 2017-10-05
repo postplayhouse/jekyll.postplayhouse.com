@@ -35,16 +35,10 @@ a:link:after, a:visited:after
     page-break-inside: avoid
   h3.month-name
     @extend %text-reset
+    background: none
     margin: 1em 0
     padding: 0
     &:nth-of-type(3)
       page-break-before: always
-  .showing
-    &, &.show-1, &.show-2, &.show-3, &.show-4, &.show-5
-      @extend %text-reset
-      padding: 0
   .spacer
     display: none !important
-
-.calendar-filters
-  display: none

@@ -1,0 +1,71 @@
+---
+title: Summer 2018 Productions
+permalink: /productions/2018/
+season: "2018"
+layout: page
+nav_title: Our Shows
+group: main
+order: 2
+---
+
+{% assign productions = site.data.productions.[page.season] | sort: "opening" %}
+{% for production in productions %}
+
+  {% if production.image contains "/" %}
+    {% capture production_image %}{{ production.image | prepend: site.baseurl }}{% endcapture %}
+  {% elsif production.image != nil %}
+    {% capture production_image %}{{ site.baseurl }}/images/{{ page.season }}/{{production.image}}{% endcapture %}
+  {% else %}
+    {% assign production_image = nil %}
+  {% endif %}
+
+
+<article class="production">
+  <header class="entry-header">
+    <h1 class="production-title">
+        {{ production.title }}
+    </h1>
+      <img class="production-image" src="{{ production_image }}" alt="Show Logo for {{ production.title }}">
+  </header>
+
+  {% if production.opening %}
+    <div class="dates-message">
+      Opens {{ production.opening | date: "%B %-d, %Y"}}
+    </div>
+  {% endif %}
+
+  {% if production.rating %}
+    <div class="production-rating">
+      <a href="{{ site.baseurl }}\ratings">Rating: {{ production.rating }}</a>
+      {% if production.rating_explanation %}
+        <div class="production-rating-explanation">
+          {{ production.rating_explanation | markdownify }}
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  {% if production.writers %}
+    <div class="writers">
+      {{ production.writers | markdownify }}
+    </div>
+  {% endif %}
+
+  <div class="description">
+    {{ production.description | markdownify }}
+
+    {% if production.sponsor %}
+      <div class="sponsor">
+        <p>Sponsored By</p>
+        {% if production.sponsor.image %}
+            <img class="sponsor-image" src="{{ site.baseurl }}/images/sponsors/{{ production.sponsor.image }}">
+        {% elsif production.sponsor.text %}
+            {{ production.sponsor.text }}
+        {% endif %}
+      </div>
+
+    {% endif %}
+  </div>
+</article>
+
+{% endfor %}
