@@ -15,7 +15,7 @@ norobots: true
 Please email <a href="mailto:denton.don@gmail.com">denton.don@gmail.com</a> if you need to make changes. Changes can be made to the website bios at any time, however the actual printed program has a deadline (which I do not yet know for this year).
 
 <div class="bios-page">
-{% assign people = site.data.people.[page.bio_year] %}
+{% assign people = site.data.people[page.bio_year] %}
 {% for person in people %}
   {% unless person.groups contains "board" or person.groups contains "additional" %}
     {% include bio.html %}

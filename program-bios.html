@@ -43,7 +43,7 @@ norobots: true
     line-height: 1;
   }
 </style>
-{% assign people = site.data.people.[page.bio_year] %}
+{% assign people = site.data.people[page.bio_year] %}
 
 {% for person in people %}
   {% unless person.groups contains "board" %}

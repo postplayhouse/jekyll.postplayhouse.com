@@ -5,7 +5,7 @@ season: "2015"
 layout: page
 ---
 
-{% assign productions = site.data.productions.[page.season] | sort: "opening" %}
+{% assign productions = site.data.productions[page.season] | sort: "opening" %}
 {% for production in productions %}
 
   {% if production.image contains "/" %}

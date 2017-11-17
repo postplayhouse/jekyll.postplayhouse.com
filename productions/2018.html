@@ -8,7 +8,7 @@ group: main
 order: 2
 ---
 
-{% assign productions = site.data.productions.[page.season] | sort: "opening" %}
+{% assign productions = site.data.productions[page.season] | sort: "opening" %}
 {% for production in productions %}
 
   {% if production.image contains "/" %}

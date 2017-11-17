@@ -13,12 +13,12 @@ permalink: /who/2017/
 {% endcomment %}
 
 <div class="bios-page">
-{% assign people = site.data.people.[page.bio_year] %}
+{% assign people = site.data.people[page.bio_year] %}
 {% include cast.html %}
 
-{% assign people = site.data.people.[page.bio_year] %}
+{% assign people = site.data.people[page.bio_year] %}
 {% include staff.html %}
 
-{% assign people = site.data.people.[page.bio_year] %}
+{% assign people = site.data.people[page.bio_year] %}
 {% include board.html %}
 </div>

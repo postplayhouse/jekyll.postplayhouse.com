@@ -117,7 +117,7 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
 
 Please choose from the following shows to fill out your season subscription:
 
-{% assign productions = site.data.productions.[site.season] | sort: "opening" %}
+{% assign productions = site.data.productions[site.season] | sort: "opening" %}
 {%- for production in productions -%}
 1. {{ production.title }}
 {% endfor %}
