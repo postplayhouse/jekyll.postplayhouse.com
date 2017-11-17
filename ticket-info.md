@@ -59,7 +59,7 @@ Call our box office at 308-665-1976
 
 ### Group Rates
 
-Groups of 25 or more may purchase tickets at the rate noted above. Tickets may be added to a group sale (if seats are available) up to show date but are never reduced or refunded. The Post Playhouse cannot be responsible for unused group tickets. 
+Groups of 25 or more may purchase tickets at the rate noted above. Tickets may be added to a group sale (if seats are available) up to show date but are never reduced or refunded. The Post Playhouse cannot be responsible for unused group tickets.
 
 Group rate tickets can not be purchased online. Please email us for group rate ticket needs at <a href="mailto:tickets@postplayhouse.com">tickets@postplayhouse.com</a> or call our box office 308-665-1976.
 
@@ -113,15 +113,14 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
   Subscribers: After purchasing your subscription, you can reserve your seats to any 4 or 5 performances by emailing us at <a href="mailto:tickets@postplayhouse.com">tickets@postplayhouse.com</a> or calling our box office 308-665-1976. Seats are based on availability, so please make your reservations as soon as you can.
 </div>
 
-### Season Subscriptions 2016
+### Season Subscriptions {{ site.season }}
 
 Please choose from the following shows to fill out your season subscription:
 
-1. Shrek: The Musical
-1. Mamma Mia!
-1. Crazy for You
-1. Chicago
-1. Young Frankenstein
+{% assign productions = site.data.productions.[site.season] | sort: "opening" %}
+{%- for production in productions -%}
+1. {{ production.title }}
+{% endfor %}
 
 
 Please remember that seats can only be reserved based on availability, so call the box office to secure your seats. Also note, as stated above, subscriptions may only be used on 4 or 5 *different productions*. This means they cannot be used to see the same production multiple times.
@@ -135,4 +134,3 @@ Online ticket orders may be paid with Visa or Master Card. Box office sales may 
 ### The Post Playhouse Cannot Cancel Or Refund Tickets
 
 The Post Playhouse will make every effort to accommodate everyone with seats of their choice. However, if it is not possible, the best available seats will be substituted.
-
