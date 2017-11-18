@@ -268,18 +268,6 @@
   image_file: randy-rhine.jpg
 
 
-- last_name: Willey
-  first_name: Lacy
-  location: "Harrison, NE"
-  groups: >
-    - board
-  positions:
-  bio: >
-    Security First Bank
-  image_year: 2015
-  image_file: lacy-willey.jpg
-
-
 - last_name: King
   first_name: Kathie
   location: "Gordon, NE"
@@ -300,30 +288,6 @@
   bio: >
   image_year: 2015
   image_file: joni-merrigan.jpg
-
-
-- last_name: Hoff
-  first_name: Gordon
-  location: "Alliance, NE"
-  groups: >
-    - board
-  positions:
-  bio: >
-    Alliance Floral Company <br>
-    Hoffhaus Gardens
-  image_year: 2015
-  image_file: gordon-hoff.jpg
-
-
-- last_name: Hanks
-  first_name: Bev
-  location: "Hemingford, NE"
-  groups: >
-    - board
-  positions:
-  bio: >
-  image_year: 2015
-  image_file: bev-hanks.jpg
 
 
 - last_name: Fodnes
@@ -348,18 +312,6 @@
     Vice President of the Board
   image_year: 2015
   image_file: karleen-gramberg.jpg
-
-
-- last_name: Clark
-  first_name: Diane
-  location: "Crawford, NE"
-  groups: >
-    - board
-  positions:
-  bio: >
-    Crawford Clipper
-  image_year: 2015
-  image_file: diane-clark.jpg
 
 
 - last_name: Rotherham
