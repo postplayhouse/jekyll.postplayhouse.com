@@ -14,7 +14,7 @@
     Doug Wright
 
   sponsor:
-    # image: security-first-bank.png
+    image: security-first-bank.png
 
   description: |
     In a magical kingdom beneath the sea, the beautiful young mermaid, Ariel, longs to leave her ocean home to live in the world above.
@@ -42,7 +42,7 @@
     The heartfelt story that emerges is of a father longing for the son he lost and of a young man aching for the father who walked out on him. To the rockin' rhythm of its Oscar and Tony-nominated top 40 score (the soundtrack album reached number one on the Billboard charts and has sold over 15 million copies!) and augmented with dynamic new songs for the stage musical, _Footloose_ celebrates the wisdom of listening to young people, guiding them with a warm heart and an open mind.
 
   sponsor:
-    # image: csc.jpg
+    image: hr-block.jpg
 
 - title: Chitty Chitty Bang Bang
   rating: G
@@ -63,7 +63,7 @@
     An eccentric inventor, Caractacus Potts sets about restoring an old race car from a scrap heap with the help of his children, Jeremy and Jemima. They soon discover the car has magical properties, including the ability to float and take flight. Trouble occurs when the evil Baron Bomburst desires the magic car for himself. The family joins forces with Truly Scrumptious and batty Grandpa Potts to outwit the dastardly Baron and Baroness and their villainous henchman, the Child Catcher.
 
   sponsor:
-    # image: hr-block.jpg
+    image: csc.jpg
 
 - title: Urinetown
   rating: H
@@ -91,7 +91,7 @@
     Inspired by the works of Bertolt Brecht and Kurt Weill, _Urinetown_ is an irreverently humorous satire in which no one is safe from scrutiny. Praised for reinvigorating the very notion of what a musical could be, _Urinetown_ catapults the "comedic romp" into the new millennium with its outrageous perspective, wickedly modern wit and sustained ability to produce gales of unbridled laughter.
 
   sponsor:
-    # image: kcsr-kbpy.jpg
+    text: "Tim Hindman &amp; Family"
 
 - title: 42nd Street
   rating: G
@@ -109,4 +109,3 @@
     The score is chock-full of Broadway standards, including "You're Getting To Be A Habit With Me," "Dames," "We're In the Money," "Lullaby of Broadway," "Shuffle Off to Buffalo" and "Forty-Second Street."
 
   sponsor:
-    # text: "Tim Hindman &amp; Family" 
