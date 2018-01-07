@@ -13,6 +13,9 @@ Ticketing Email Questions
 Box Office  
 308-665-1976
 
+Audition Submissions  
+[auditions@postplayhouse.com](mailto:auditions@postplayhouse.com)
+
 Tom Ossowski  
 Artistic Director  
 [tom@postplayhouse.com](mailto:tom@postplayhouse.com)
