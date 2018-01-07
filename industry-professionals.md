@@ -8,7 +8,7 @@ group: main
 order: 7
 ---
 
-## Crew/Staff Positions
+## Available Crew/Staff Positions
 
 Assistant Stage Manager --- email [tom@postplayhouse.com](mailto:tom@postplayhouse.com)
 
