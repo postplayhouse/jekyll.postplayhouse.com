@@ -1,0 +1,31 @@
+@mixin button() {
+  background: $button; /* Old browsers */
+  background: -webkit-linear-gradient(top, $button 0%, $button-tint 100%); /* Chrome 10+, Safari 5.1+ */
+  background:   linear-gradient(to bottom, $button 0%, $button-tint 100%); /* W3C */
+  border: none;
+  border-bottom: 3px solid $button-edge;
+  border-radius: 2px;
+  color: $button-text;
+  display: inline-block;
+  padding: 11px 24px 10px;
+  text-decoration: none;
+  font-size: 100%;
+
+  &:hover,
+  &:focus {
+    background: $button-hover; /* Old browsers */
+    background: -webkit-linear-gradient(top, $button-hover 0%, $button-hover-tint 100%); /* Chrome 10+, Safari 5.1+ */
+    background:   linear-gradient(to bottom, $button-hover 0%, $button-hover-tint 100%); /* W3C */
+    outline: none;
+  }
+
+  &:active {
+    background: $button-tint; /* Old browsers */
+    background: -webkit-linear-gradient(top, $button-tint 0%, $button 100%); /* Chrome 10+, Safari 5.1+ */
+    background:   linear-gradient(to bottom, $button-tint 0%, $button 100%); /* W3C */
+    border: none;
+    border-top: 3px solid $button-edge;
+    padding: 10px 24px 11px;
+  }
+
+}
