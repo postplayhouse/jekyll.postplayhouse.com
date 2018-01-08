@@ -1,4 +1,4 @@
-@mixin button() {
+@mixin button_base() {
   background: $button; /* Old browsers */
   background: -webkit-linear-gradient(top, $button 0%, $button-tint 100%); /* Chrome 10+, Safari 5.1+ */
   background:   linear-gradient(to bottom, $button 0%, $button-tint 100%); /* W3C */
@@ -10,6 +10,10 @@
   padding: 11px 24px 10px;
   text-decoration: none;
   font-size: 100%;
+}
+
+@mixin button() {
+  @include button_base();
 
   &:hover,
   &:focus {
@@ -26,6 +30,16 @@
     border: none;
     border-top: 3px solid $button-edge;
     padding: 10px 24px 11px;
+  }
+
+  &[disabled], &.disabled {
+    &,
+    &:hover,
+    &:focus,
+    &:active {
+      @include button_base();
+      opacity: 0.5;
+    }
   }
 
 }
