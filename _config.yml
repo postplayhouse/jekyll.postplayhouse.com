@@ -2,6 +2,7 @@ season: "2018"
 casting_complete: false
 css_version: 2
 future: false
+maintainer_email: denton.don@gmail.com
 
 # Site settings
 title: Post Playhouse
