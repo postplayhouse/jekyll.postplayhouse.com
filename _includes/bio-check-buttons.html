@@ -1,0 +1,34 @@
+{% capture approval_email_subject %}Bio Approval: {{ person.first_name }} {{ person.last_name }}{% endcapture %}
+{% capture approval_email_body %}APPROVED
+
+----------
+
+No need to write anything in this email. Just sending it is enough for me.
+
+Don't worry, I check that these emails come from your actual email address. Other people cannot approve on your behalf.
+~Don
+{% endcapture %}
+
+{% capture change_email_subject %}Bio Approval: {{ person.first_name }} {{ person.last_name }}{% endcapture %}
+{% capture change_email_body %}Please describe the changes you'd like below:
+----------
+
+
+
+----------
+
+Don't worry, I check that these emails come from your actual email address. Other people cannot request a change on your behalf.
+~Don
+{% endcapture %}
+
+{% capture approve_email_link %}mailto:{{ site.maintainer_email }}?subject={{ approval_email_subject | uri_escape }}&body={{ approval_email_body | uri_escape }}{% endcapture %}
+
+{% capture change_email_link %}mailto:{{ site.maintainer_email }}?subject={{ change_email_subject | uri_escape }}&body={{ change_email_body | uri_escape }}{% endcapture %}
+
+{% if person.bio_approved %}
+  <span class="button disabled">Approved</span>
+{% else %}
+  <a class="button" href="{{ approve_email_link }}">Approve via email</a>
+{% endif %}
+
+<a class="button" href="{{ change_email_link }}">Change via email</a>

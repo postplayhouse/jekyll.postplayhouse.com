@@ -1,7 +1,7 @@
 ---
 title: Bio Check
 layout: page
-bio_year: "2017"
+bio_year: "2018"
 permalink: /bio-check/
 is_bio_check: true
 norobots: true
@@ -13,7 +13,7 @@ norobots: true
 
 {% endcomment %}
 
-Please email <a href="mailto:denton.don@gmail.com">denton.don@gmail.com</a> if you need to make changes. Changes can be made to the website bios at any time, however the actual printed program has a deadline (which I do not yet know for this year).
+Please email <a href="mailto:{{ site.maintainer_email }}">{{ site.maintainer_email }}</a> using the buttons below to approve your bio or to request changes. Changes can be made to the website bios at any time, however the actual printed program has a deadline (which I do not yet know for this year).
 
 <div class="bios-page">
 {% assign people = site.data.people[page.bio_year] %}
