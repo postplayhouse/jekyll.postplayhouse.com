@@ -1,6 +1,9 @@
+{% assign override_bio_approved_setting = override_bio_approved %}
+{% assign override_bio_approved = true %}
 <div class="bio-group board">
   <h2 class="bio-group-label">Board</h2>
   {% for person in people %}{% if person.groups contains "board" %}
     {% include bio.html %}
   {% endif %}{% endfor %}  
 </div>
+{% assign override_bio_approved = override_bio_setting %}

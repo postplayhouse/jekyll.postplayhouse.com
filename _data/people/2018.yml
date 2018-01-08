@@ -13,6 +13,7 @@
 #
 #   image_year: 2016
 #   image_file:
+#   bio_approved: false
 #
 #
 # Use the template above for quick entry
@@ -41,6 +42,7 @@
     # - Post Playhouse Artistic Director
     # - Director --- Shrek, Chicago, Young Frankenstein
     # - Season Choreographer
+  bio_approved: false
   bio: |
     Dewayne is very excited to be returning to the post playhouse this season as Artistic director as well as Directing and choreographing this season. Originally from Atlanta, Georgia, he moved to New York City and began his career/training in the Big Apple. He has performed leading roles around the country such as Rum Tum Tugger in _Cats_, Bobby Child in _Crazy For You_, Riff in _West Side Story_, Bobby in _A Chorus Line_ to name a few. He has directed and choreographed for national tours, regional theatres, dinner theaters, community theatres, cruise ships, movies, high schools, music videos, parades and dance companies. He know resides in Florida.
 
@@ -56,6 +58,7 @@
     - creative
   positions:
     - Season Costume Designer
+  bio_approved: false
   bio: >
     Pheobe Boynton is thrilled to be returning to The Post Playhouse for her fourth season! She is a freelance costume designer and technician originally from Ithaca, NY and currently based out of Los Angeles, California. She has a bachelors in art history from Cornell University, and an MFA in theater design and technology from the University of Missouri-Kansas City. She has done work for a wide variety of clients and companies including the Los Angeles Opera, Norwegian Cruise Line Holdings, Kanye West, Kansas City Repertory Theater, The Unicorn Theater, Legendary Digital, Relativity Media, Investigation Discovery and Theatrical Arts International.
   image_year: 2017
@@ -68,6 +71,7 @@
     - staff
   positions:
     - "Assistant Marketing Manager"
+  bio_approved: false
   bio: >
     Don Denton has been performing with Post Playhouse off and on since 2008. Since that time, he has been working with Tom to rethink all their marketing efforts. For the past few years, all the mailings and the website have been designed by Don. He is very proud to continue to help the Playhouse reach for new heights even from afar.
   image_year: 2015
@@ -82,6 +86,7 @@
   positions:
     - Season Lighting Designer
     - Season Scenic Designer
+  bio_approved: false
   bio: >
     Don is happy to be returning for his 4th season at the Post Playhouse.  A native of Colorado Springs, CO, he is based in Wenatchee, WA.  Recent and favorite credits include lighting design for the Atlantis Resort, Paradise Island, (_Great American Variety Show_), The Borgata Casino, Atlantic City, NJ (_The Burlesque Show_), Florida State University, Tallahassee, FL (_All Shook Up, Legally Blonde_), The Moscow Ballet North American Tours 2014, 2015 (_The Great Russian Nutcracker_), Numerica Performing Arts Center of Wenatchee, WA (_Young Frankenstein_, _August Osage County_), and he recently created and produced the world premiere of _EDM Antigone_ which is available as an educational production to tour nationally in 2017-2018 ([www.edmAntigone.com](http://www.edmantigone.com/)). His extensive portfolio can be viewed at [www.DonFoxDesigns.com](http://www.donfoxdesigns.com/).
   image_year: 2015
@@ -94,6 +99,7 @@
     - staff
   positions:
     - Accountant
+  bio_approved: false
   bio: >
     Tim is the franchise owner of the Chadron H&R Block office, and has been the accountant for the playhouse since 2007.  He and his wife Kari have four children, Kaylee, Aaron, Braxton, and Seth. Tim not only serves as the accountant, but also as the treasurer on the playhouse board. He enjoys working with the great talent and staff every summer, and looks forward to many years with the playhouse.
   image_year: 2015
@@ -108,6 +114,7 @@
     - creative
   positions:
     - Season Technical Director
+  bio_approved: false
   bio: >
     Leo Haselhorst is excited to be returning to the Post again this summer as tech director. A native of Randolph Nebraska, Leo is currently pursuing a BA in graphic design and theatre at Chadron State College. Leo has a variety of experience through carpentry and technical work at CSC, the Post Playhouse, and the Numerica Performing Arts Center. He would like to thank everyone at the Post for the opportunity to pursue his interests in theatre.
   image_year: 2017
@@ -120,6 +127,7 @@
     - staff
   positions:
     - Winter Box Office
+  bio_approved: false
   bio: >
     Conferencing --- Chadron State University
   image_year: 2015
@@ -135,6 +143,7 @@
   positions:
     - Post Playhouse Managing Director
     # - Director --- Mamma Mia!, Crazy For You
+  bio_approved: false
   bio: >
     Tom Ossowski is an Associate Professor for the BFA Music Theatre Program at FSU, the Producing Artistic Director for the Post Playhouse at Fort Robinson State Park in Nebraska, and a Professor for the Central Academy of Drama in Beijing, China. At the Post Playhouse, Tom has directed _Legally Blonde_, _Monty Python’s Spamalot_, _A Man of No Importance_, _All Shook Up_, _Guys and Dolls_, _9 to 5_, _My Way_, _The Drowsy Chaperone_, _Grease_, _The Wizard of Oz_, _Nunsense!_, _Always...Patsy Cline_, _Hello, Dolly!_, and _Oklahoma!_. FSU directing credits include _Beauty & the Beast_, _All Shook Up_, _Legally Blonde_, _Cabaret_, _The Drowsy Chaperone_, _How To Succeed..._, _On The Town_, _Hair_, _The Rocky Horror Show_, and _Sweeney Todd: The Demon Barber of Fleet Street_. Music directing credits include _A Chorus Line_, _Ragtime_, _Spring Awakening_, _Jesus Christ Superstar_, _The 25th Annual...Spelling Bee_, _RENT_, _Into The Woods_, and _Urinetown_. Tom directed and music directed _Into The Woods_ and _The Family_ for The Central Academy of Drama in Beijing. _The Family_ toured China and will be released as a major motion picture across China in 2017. Tom has also directed for theatres such as the Centennial Theatre Festival in Connecticut, Seaside Music Theatre in Daytona Beach, FL, and the Bigfork Summer Playhouse in Montana. His work has taken him to Zug, Switzerland and to St. Croix in the U.S. Virgin Islands. He is a member of the Stage Directors and Choreographers Society.
 
@@ -150,6 +159,7 @@
     - creative
   positions:
     - Production Stage Manager
+  bio_approved: false
   bio: >
     Ken is extremely happy to be coming back to a place that feels like a second home. This is his 4th consecutive year being the Production Stage Manager for the Post Playhouse! He is currently working on an MFA in Lighting Design at the University of Arizona. In the past, he has worked as a freelance Stage Manager in LA working at different venues from AMDA Conservatory College to Disney’s El Capitan Theatre. He has also been a Stage Combat enthusiast for many years and enjoys helping others bring sword fights and brawls to the stage. He is thrilled for this season and is very proud to work with some amazing people, new and old.
   image_year: 2016
@@ -177,6 +187,7 @@
   positions:
     - Box Office/Concessions
     - Front of House
+  bio_approved: false
   bio: >
     Crawford native, Ann Stephens, is happy to be returning to the Post Playhouse for the 2017 season.  At the Playhouse, she can often be found cleaning, popping corn, watering plants, or making reservations. Ann enjoys the opportunity to visit with returning customers as well as greeting those new to the Playhouse experience. In addition to her work here, Ann enjoys baking and spending time with grandkids and the rest of her family. Her husband, Dale, is an avid golfer and can be found nearly every day of the spring, summer and autumn on the Legend Buttes Golf course in Crawford.
   image_year: 2017
