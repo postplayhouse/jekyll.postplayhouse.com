@@ -4,16 +4,16 @@
 #   groups:
 #     -
 #   positions:
-#     - Shrek ---
-#     - Mamma Mia! ---
-#     - Crazy For You ---
-#     - Chicago ---
-#     - Young Frankenstein ---
-#   bio: >
-#
-#   image_year: 2016
-#   image_file:
+#     - The Little Mermaid ---
+#     - Footloose ---
+#     - Chitty Chitty Bang Bang ---
+#     - Urinetown ---
+#     - 42nd Street ---
 #   bio_approved: false
+#   bio: >
+#     
+#   image_year: 2018
+#   # image_file: .jpg
 #
 #
 # Use the template above for quick entry
@@ -31,6 +31,20 @@
 #
 #
 #
+
+
+- last_name: Agsten
+  first_name: Eric
+  location: "Downingtown, PA"
+  groups:
+    - creative
+  positions:
+    - Season Sound Design
+  bio_approved: false
+  bio: >
+    Weeks before starting the season at the Post Playhouse, Eric Agsten graduated from Indiana University of Pennsylvania (IUP) with a B.S. in Communications Media, and a minor in Theater. He spent the last three semesters of his undergrad as Sound Designer/Engineer for four of the IUP Theater Department’s shows, including a musical (_The 25th Annual Putnam County Spelling Bee_), a play (_We Are Proud To Present..._), an operetta (_Die Fledermaus_), and a devised piece (_The Electriad_).
+  image_year: 2017
+  image_file: eric-agsten.jpg
 
 
 - last_name: Barrett
@@ -63,6 +77,37 @@
     Pheobe Boynton is thrilled to be returning to The Post Playhouse for her fourth season! She is a freelance costume designer and technician originally from Ithaca, NY and currently based out of Los Angeles, California. She has a bachelors in art history from Cornell University, and an MFA in theater design and technology from the University of Missouri-Kansas City. She has done work for a wide variety of clients and companies including the Los Angeles Opera, Norwegian Cruise Line Holdings, Kanye West, Kansas City Repertory Theater, The Unicorn Theater, Legendary Digital, Relativity Media, Investigation Discovery and Theatrical Arts International.
   image_year: 2017
   image_file: pheobe-boynton.jpg
+
+
+- first_name: Thomas
+  last_name: Buckley
+  location: ""
+  groups:
+    - creative
+    - musicicans
+  positions:
+    - Music Director --- Urinetown, Footloose, 42nd Street
+    - Second Keyboard --- The Little Mermaid, Chitty Chitty Bang Bang
+  bio_approved: false
+  # bio: >
+
+  image_year: 2018
+  # image_file: .jpg
+
+
+- last_name: Cavin
+  first_name: Scott
+  location: "Chadron, NE via Lemoore, CA"
+  groups:
+    - creative
+    - staff
+  positions:
+    - Season Technical Director
+  bio_approved: false
+  bio: >
+    Scott graduated with a MFA from Illinois State College and a BFA from Stephens College in Columbia MO.  After graduation Scott worked and designed for theaters in Los Angles, Chicago, Albany GA, Boise ID before landing in Chadron.  Scott is currently employed at Chadron State College as an Associate Professor of Theatre. His responsibilities include Designer (Scenic, Lighting, Sound, Projection), Technical Director and Production Manager for theatre, college, community, Galaxy (touring), and Fine Arts events. Recent designs credits (Set and Light) include: *Money Shot*, *Rosencrantz & Guilderstein are Dead*, *Big River*, *Extremities*, *The Underpants*, *Little Shop of Horrors*, *Bus Stop*, *Almost Maine*, *Godspell*, *Cat on a Hot Tin Roof* and *Junglebook*. Always looking for a new challenge Scott has added Directing to his list of accomplishments.    Some of his most recent directing Credits include:  *Extremities*, *Money Shot*, *The Vampire Cowboy Trilogy*, *The Play About the Baby*, *Beautiful Child*, *The Shape of Things* and *Boy Gets Girl*.  You can see more of Scott’s work at his outdated website. [www.scottcavin.com](http://www.scottcavin.com)
+  image_year: 2015
+  image_file: scott-cavin.jpg
 
 
 - last_name: Denton
@@ -111,14 +156,27 @@
   location: "Randolph, NE"
   groups:
     - staff
-    - creative
   positions:
-    - Season Technical Director
+    - Technical Staff
   bio_approved: false
   bio: >
     Leo Haselhorst is excited to be returning to the Post again this summer as tech director. A native of Randolph Nebraska, Leo is currently pursuing a BA in graphic design and theatre at Chadron State College. Leo has a variety of experience through carpentry and technical work at CSC, the Post Playhouse, and the Numerica Performing Arts Center. He would like to thank everyone at the Post for the opportunity to pursue his interests in theatre.
   image_year: 2017
   image_file: leo-haselhorst.jpg
+
+
+- last_name: Hemmo
+  first_name: Josh
+  location: "Tucson, AZ"
+  groups:
+    - creative
+  positions:
+    - Assitant Lighting Designer
+  bio_approved: false
+  bio: >
+    Josh Hemmo is very excited to be working at the Post Playhouse for the first time! He is from Tucson, AZ and graduated with a BFA in Technical Theatre, Lighting Design emphasis from the University of Arizona. He recently partnered with Don Fox and has become a part of Don Fox Designs, LLC! Select credits include lighting fellow at Berkeley Rep, resident lighting designer for Totem Pole Playhouse, _Show Risqué_ for the Hard Rock Hotel and Casino Biloxi, and _Bat Boy_ for the Numerica Performing Arts Center in Wenatchee, WA. <jhemmolighting.com>
+  image_year: 2017
+  image_file: josh-hemmo.jpg
 
 
 - last_name: Johns
@@ -134,21 +192,49 @@
   image_file: shellie-johns.jpg
 
 
+- last_name: Jeremie
+  first_name: Michael
+  groups: >
+    - musicians
+  positions:
+    - Music Director --- The Little Mermaid, Chitty Chitty Bang Bang
+    - Second Keyboard --- Urinetown, Footloose, 42nd Street
+  bio_approved: false
+  # bio: >
+    
+  # image_year: 2015
+  # image_file: shellie-johns.jpg
+
+
 - last_name: Ossowski
   first_name: Tom
-  location: "Beatrice, NE via Beijing, China & Tallahasse, FL"
+  location: "Beijing, China & Tallahasse, FL via Beatrice, NE"
   groups:
     - creative
     - staff
   positions:
     - Post Playhouse Managing Director
-    # - Director --- Mamma Mia!, Crazy For You
+    - Director --- Urinetown, Footloose
   bio_approved: false
   bio: >
     Tom Ossowski is an Associate Professor for the BFA Music Theatre Program at FSU, the Producing Artistic Director for the Post Playhouse at Fort Robinson State Park in Nebraska, and a Professor for the Central Academy of Drama in Beijing, China. At the Post Playhouse, Tom has directed _Legally Blonde_, _Monty Python’s Spamalot_, _A Man of No Importance_, _All Shook Up_, _Guys and Dolls_, _9 to 5_, _My Way_, _The Drowsy Chaperone_, _Grease_, _The Wizard of Oz_, _Nunsense!_, _Always...Patsy Cline_, _Hello, Dolly!_, and _Oklahoma!_. FSU directing credits include _Beauty & the Beast_, _All Shook Up_, _Legally Blonde_, _Cabaret_, _The Drowsy Chaperone_, _How To Succeed..._, _On The Town_, _Hair_, _The Rocky Horror Show_, and _Sweeney Todd: The Demon Barber of Fleet Street_. Music directing credits include _A Chorus Line_, _Ragtime_, _Spring Awakening_, _Jesus Christ Superstar_, _The 25th Annual...Spelling Bee_, _RENT_, _Into The Woods_, and _Urinetown_. Tom directed and music directed _Into The Woods_ and _The Family_ for The Central Academy of Drama in Beijing. _The Family_ toured China and will be released as a major motion picture across China in 2017. Tom has also directed for theatres such as the Centennial Theatre Festival in Connecticut, Seaside Music Theatre in Daytona Beach, FL, and the Bigfork Summer Playhouse in Montana. His work has taken him to Zug, Switzerland and to St. Croix in the U.S. Virgin Islands. He is a member of the Stage Directors and Choreographers Society.
 
   image_year: 2015
   image_file: tom-ossowski.jpg
+
+
+- last_name: Owen
+  first_name: Anna
+  location: "Chadron, NE"
+  groups:
+    - staff
+  positions:
+    # - Stitcher
+  bio_approved: false
+  bio: >
+    Anna is very excited to be coming back to the Post! This is her second summer here and she couldn’t be happier. Anna graduated from Chadron State College with her BA in Theater May 2016 and is Currently Working in Tampa, FL at Norwegian Creative Studios. Anna took the summer off to come back to the Post and be closer to her family.  Thank you so much to everyone at The Post Play House for this wonderful opportunity and the chance to be part of this amazing community.
+  image_year: 2017
+  image_file: anna-owen.jpg
 
 
 - last_name: Phillips
@@ -166,17 +252,18 @@
   image_file: ken-phillips.jpg
 
 
-# - last_name: Schepers
-#   first_name: Jessica
-#   location: "Sturgis, SD"
-#   groups:
-#     - crew
-#   positions:
-#     - "Assistant Stage Manager"
-#   bio: >
-#     Jessica Steffen-Schepers, originally from Sturgis, South Dakota, is a recent graduate of Chadron State College (CSC) with a Bachelors Degree in Comprehensive Theatre- Emphasis Tech. While at CSC, Jessica had the opportunity to stage manage several different shows. Mostly recently _Rosencrantz & Guildenstern Are Dead_, _Peter and the Starcatcher_, and _Too Much Light Makes the Baby Go Blind_. Jessica is returning for her third season with the Post Playhouse and is very excited to celebrate 50 years of theatre entertainment in the Nebraska Panhandle. As a recent graduate she has nothing planned and is very excited for the future.
-#   image_year: 2017
-#   image_file: jessica-schepers.jpg
+- last_name: Schut
+  first_name: Tanner
+  location: "Corvallis, OR"
+  groups:
+    - musicians
+  positions:
+    - Percussion
+  bio_approved: false
+  bio: >
+    Tanner Schut is excited to be a part of the Post Playhouse company for its 50th season. Originally from Corvallis, Oregon, he is currently studying music, broadcasting and digital media at the University of Idaho, in Moscow. Tanner would like to extent his thanks to Dewayne for the opportunity, and his family for their constant love and support.
+  image_year: 2017
+  image_file: tanner-schut.jpg
 
 
 - last_name: Stephens
@@ -185,29 +272,12 @@
   groups:
     - staff
   positions:
-    - Box Office/Concessions
-    - Front of House
+    - Box Office Manager
   bio_approved: false
   bio: >
     Crawford native, Ann Stephens, is happy to be returning to the Post Playhouse for the 2017 season.  At the Playhouse, she can often be found cleaning, popping corn, watering plants, or making reservations. Ann enjoys the opportunity to visit with returning customers as well as greeting those new to the Playhouse experience. In addition to her work here, Ann enjoys baking and spending time with grandkids and the rest of her family. Her husband, Dale, is an avid golfer and can be found nearly every day of the spring, summer and autumn on the Legend Buttes Golf course in Crawford.
   image_year: 2017
   image_file: ann-stephens.jpg
-
-
-
-
-#
-#
-#
-#
-#
-#
-#  Additional Bios
-#
-#
-#
-#
-#
 
 
 #
@@ -228,7 +298,6 @@
     - board
   positions:
     - President of the Board
-  bio: >
   image_year: 2015
   image_file: wally-seiler.jpg
 
@@ -251,20 +320,18 @@
   groups: >
     - board
   positions:
-  bio: >
   image_year: 2015
   image_file: jo-buchheit.jpg
 
 
 - last_name: Hindman
-  first_name: Amy
+  first_name: Tony
   location: "Hay Springs, NE"
   groups: >
     - board
   positions:
-  bio: >
-  image_year: 2015
-  image_file: amy-hindman.jpg
+  image_year: 2018
+  image_file: tony-hindman.jpg
 
 
 - last_name: Rhine
@@ -285,7 +352,6 @@
   groups: >
     - board
   positions:
-  bio: >
   image_year: 2015
   image_file: kathie-king.jpg
 
@@ -296,7 +362,6 @@
   groups: >
     - board
   positions:
-  bio: >
   image_year: 2015
   image_file: joni-merrigan.jpg
 
@@ -354,8 +419,6 @@
   groups: >
     - board
   positions:
-  bio: >
-
   image_year: 2016
   image_file: jeanine-mohr.jpg
 
@@ -365,8 +428,6 @@
   groups: >
     - board
   positions:
-  bio: >
-
   image_year: 2017
   image_file: jess-espinoza.jpg
 
@@ -376,8 +437,6 @@
   groups: >
     - board
   positions:
-  bio: >
-
   image_year: 2017
   image_file: vicki-dewald.jpg
 
@@ -388,7 +447,5 @@
   groups: >
     - board
   positions:
-  bio: >
-
   image_year: 2017
   image_file: danielle-lecher.jpg
