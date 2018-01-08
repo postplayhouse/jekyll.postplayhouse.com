@@ -25,10 +25,21 @@ Don't worry, I check that these emails come from your actual email address. Othe
 
 {% capture change_email_link %}mailto:{{ site.maintainer_email }}?subject={{ change_email_subject | uri_escape }}&body={{ change_email_body | uri_escape }}{% endcapture %}
 
-{% if person.bio_approved %}
-  <span class="button disabled">Approved</span>
-{% else %}
-  <a class="button" href="{{ approve_email_link }}">Approve via email</a>
-{% endif %}
+{% if person.bio %}
+  {% if person.bio_approved %}
+    <span class="button disabled">Approved</span>
+  {% else %}
+    <a class="button" href="{{ approve_email_link }}">Approve via email</a>
+  {% endif %}
 
-<a class="button" href="{{ change_email_link }}">Change via email</a>
+  <a class="button" href="{{ change_email_link }}">Change via email</a>
+{% else %}
+  {% if submit_bio_email_link %}
+    <div>
+      No Bio. If you have not done so, use the button below to submit a bio.<br>
+      <a class="button" href="{{ submit_bio_email_link }}">Submit Bio via Email</a>
+    </div>
+  {% else %}
+    <div>No bio. If you have not done so, submit a bio with the button at the top of the page.</div>
+  {% endif %}
+{% endif %}

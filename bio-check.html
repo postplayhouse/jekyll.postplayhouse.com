@@ -1,5 +1,5 @@
 ---
-title: Bio Check
+title: Bio Submission and Approval
 layout: page
 bio_year: "2018"
 permalink: /bio-check/
@@ -12,8 +12,45 @@ norobots: true
   Unless such a need exists, nothing below needs to be altered year to year.
 
 {% endcomment %}
+{% assign submit_bio_email_subject = "Bio Submission: YOUR_NAME_HERE" %}
+{% capture submit_bio_email_body %}Please fill out the sections below, and attach a headshot to this email (or add a link where I can download it). Thanks!
 
-Please email <a href="mailto:{{ site.maintainer_email }}">{{ site.maintainer_email }}</a> using the buttons below to approve your bio or to request changes. Changes can be made to the website bios at any time, however the actual printed program has a deadline (which I do not yet know for this year).
+I'll email you when I have added your information to this page, so you can check that I got it right.
+
+~Don Denton
+----------------------------------------
+
+First Name:
+
+Last Name:
+
+City and state where you are from (multiple locations are fine):
+
+Positions:
+  - The Little Mermaid --- YOUR_ROLE_HERE
+  - Footloose --- YOUR_ROLE_HERE
+  - Chitty Chitty Bang Bang --- YOUR_ROLE_HERE
+  - Urinetown --- YOUR_ROLE_HERE
+  - 42nd Street --- YOUR_ROLE_HERE
+
+Bio (approximately 125 words or less):
+
+{% endcapture %}
+{% capture submit_bio_email_link %}mailto:{{ site.maintainer_email }}?subject={{ submit_bio_email_subject | uri_escape }}&body={{ submit_bio_email_body | uri_escape }}{% endcapture %}
+
+<h2>Bio Submission</h2>
+<p>
+  {% assign last_year = page.bio_year | minus: 1 %}
+  Use the button below to submit your headshot and bio to us via email. Instructions are provided inside the email when you click the button. Please have a look at <a href="{{ site.baseurl}}/who/{{ last_year }}">last year's bios</a> if you'd like some examples.
+</p>
+
+<a class="button" href="{{ submit_bio_email_link }}">Submit Bio via Email</a>
+
+<h2>Bio Approval</h2>
+
+<p>
+  Please email us using the buttons below to approve your bio or to request changes. Changes can be made to the website bios at any time, however the actual printed program has a deadline (which I do not yet know for this year).
+</p>
 
 <div class="bios-page">
 {% assign people = site.data.people[page.bio_year] %}
