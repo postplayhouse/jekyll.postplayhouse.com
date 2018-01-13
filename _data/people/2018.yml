@@ -192,15 +192,15 @@
   image_file: shellie-johns.jpg
 
 
-- last_name: Jeremie
-  first_name: Michael
+- last_name: Michael
+  first_name: Jeremie
   location: "Tallahassee, FL"
   groups: >
     - musicians
   positions:
     - Music Director --- The Little Mermaid, Chitty Chitty Bang Bang
     - Second Keyboard --- Urinetown, Footloose, 42nd Street
-  bio_approved: false
+  bio_approved: true
   bio: >
     Jeremie Michael is currently a pianist for the School of Theatre at Florida State University and holds a Master of Music in theory/composition from FSU, where he recently conducted and music directed _The Addams Family_ and _Beauty and the Beast_. Mr. Michael, among other distinctions, was musical director with the Off-Broadway production of _The Fantasticks_.  While residing in New York, he was a pit musician with Broadway musicals, including Beauty and the Beast and Chicago. As a soloist, he has been featured with major ensembles across the country, including the San Francisco Symphony and the Houston Symphony. He studied piano performance at the San Francisco Conservatory and The Juilliard School, and presently lives in Tallahassee, Florida, with his wife Elizabeth and daughter Mackenzie. More information at <http://www.jeremiemichael.com>.
   image_year: 2018
