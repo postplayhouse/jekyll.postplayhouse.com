@@ -20,7 +20,7 @@
     - bar
   supporter: true
   address:
-    street: 202 W 2nd Street
+    street: 202 West 2nd Street
     city: Chadron
     state: NE
     zip: 69337
@@ -174,7 +174,7 @@
     - lodging
   supporter: false
   address: 
-    street: 1100 W 10th St.
+    street: 1100 West 10th St.
     city: Chadron
     state: NE
     zip: 69337
