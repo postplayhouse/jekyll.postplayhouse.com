@@ -80,7 +80,7 @@
 - name: The Ice Cream Shop
   type:
     - ice cream
-    - candies
+    - chocolates
   supporter: true
   address:
     street: 341 West 3rd Street
