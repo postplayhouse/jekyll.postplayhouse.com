@@ -197,6 +197,24 @@
   image_file: josh-hemmo.jpg
 
 
+- last_name: Isom
+  first_name: Alix
+  location: "Los Angeles, CA"
+  groups:
+    - cast
+  positions:
+    - The Little Mermaid ---
+    - Footloose ---
+    - Chitty Chitty Bang Bang ---
+    - Urinetown ---
+    - 42nd Street ---
+  bio_approved: false
+  bio: >
+    Alix is an actress, singer, dancer, musician originally from Yakima, WA, currently living in Los Angeles, CA. Her most recent musical theater credits include: the world premiere of _EDM Antigone_ (Antigone), _The Fantasticks_ (Luisa), _Bat Boy: The Musical_ (Shelley), _The Rocky Horror Show_ (Janet). Alix is so excited to be a part of this Post Playhouse season and would like to thank Dewayne Barrett and Don Fox for bringing her along.
+  image_year: 2017
+  image_file: alix-isom.jpg
+
+
 - last_name: Johns
   first_name: Shellie
   groups: >
