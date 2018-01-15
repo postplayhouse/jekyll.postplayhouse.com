@@ -290,6 +290,22 @@
   image_file: ken-phillips.jpg
 
 
+- last_name: Rice
+  first_name: Jane A.
+  location: "Chadron, NE"
+  groups:
+    - cast
+  positions:
+    - Footloose --- Betty Buckley/Ensemble
+    - Chitty Chitty Bang Bang --- Ensemble
+    - Urinetown --- Josephine Strong
+  bio_approved: false
+  bio: |
+    Jane is excited and pleased to be returning to the Post Playhouse for a second season. Last season she returned to the Playhouse for its 50th anniversary after a 35 year hiatus.  She appeared in the ensemble for _Young Frankenstein_ and a few performances as Lotti Child in _Crazy for You_ (filling in for Marge Rotherham).  Throughout high school and college (Chadron State College) Jane participated in many plays and a few musicals.  She later  acted in and directed a few communiy theater productions in Valentine and Scottsbluff, NE.  She is now a retired elementaty teacher substituting for Chadron Public Schools.  She would like to thank Tom Ossowski and Dewayne Barrett for inviting her back for another season.
+  image_year: 2017
+  image_file: jane-rice.jpg
+
+
 - last_name: Schut
   first_name: Tanner
   location: "Corvallis, OR"
