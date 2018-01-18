@@ -215,19 +215,6 @@
   image_file: alix-isom.jpg
 
 
-- last_name: Johns
-  first_name: Shellie
-  groups: >
-    - staff
-  positions:
-    - Winter Box Office
-  bio_approved: false
-  bio: >
-    Conferencing --- Chadron State University
-  image_year: 2015
-  image_file: shellie-johns.jpg
-
-
 - last_name: Michael
   first_name: Jeremie
   location: "Tallahassee, FL"
