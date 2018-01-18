@@ -22,7 +22,7 @@ Please contact the box office at 308-665-1976 or email us at [tom@postplayhouse.
 Send donations via mail at:
 
 Post Playhouse  
-c/o Tim Gastwick  
+c/o Tim Gaswick  
 H&R Block  
 P.O. Box 749  
 Chadron, NE 69337
