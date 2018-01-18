@@ -470,16 +470,15 @@
   image_file: wally-seiler.jpg
 
 
-- last_name: Gaswick
-  first_name: Tim
+- last_name: Gramberg
+  first_name: Karleen
   location: "Chadron, NE"
   groups:
     - board
   positions:
-  bio: >
-    H & R Block
+    - Vice President of the Board
   image_year: 2015
-  image_file: tim-gaswick.jpg
+  image_file: karleen-gramberg.jpg
 
 
 - last_name: Buchheit
@@ -492,46 +491,36 @@
   image_file: jo-buchheit.jpg
 
 
-- last_name: Hindman
-  first_name: Tony
-  location: "Hay Springs, NE"
+- last_name: DeWald
+  first_name: Vicki
+  location: "Crawford, Nebraska"
   groups:
     - board
   positions:
-  image_year: 2018
-  image_file: tony-hindman.jpg
+  image_year: 2017
+  image_file: vicki-dewald.jpg
 
 
-- last_name: Rhine
-  first_name: Randy
-  location: "Chadron, NE"
+- last_name: Espinoza
+  first_name: Jess
+  location: "Crawford, Nebraska"
+  groups:
+    - board
+  positions:
+  image_year: 2017
+  image_file: jess-espinoza.jpg
+
+
+- last_name: Feldges
+  first_name: Ellen
+  location: "Alliance, Nebraska"
   groups:
     - board
   positions:
   bio: >
-    Chadron State College
+    New York Life Insurance Company
   image_year: 2015
-  image_file: randy-rhine.jpg
-
-
-- last_name: King
-  first_name: Kathie
-  location: "Gordon, NE"
-  groups:
-    - board
-  positions:
-  image_year: 2015
-  image_file: kathie-king.jpg
-
-
-- last_name: Merrigan
-  first_name: Joni
-  location: "Alliance, NE"
-  groups:
-    - board
-  positions:
-  image_year: 2015
-  image_file: joni-merrigan.jpg
+  image_file: ellen-feldges.jpg
 
 
 - last_name: Fodnes
@@ -546,16 +535,77 @@
   image_file: lyle-fodnes.jpg
 
 
-- last_name: Gramberg
-  first_name: Karleen
+- last_name: Gaswick
+  first_name: Tim
   location: "Chadron, NE"
   groups:
     - board
   positions:
   bio: >
-    Vice President of the Board
+    H & R Block
   image_year: 2015
-  image_file: karleen-gramberg.jpg
+  image_file: tim-gaswick.jpg
+
+
+- last_name: Hindman
+  first_name: Tony
+  location: "Hay Springs, NE"
+  groups:
+    - board
+  positions:
+  image_year: 2018
+  image_file: tony-hindman.jpg
+
+
+- last_name: King
+  first_name: Kathie
+  location: "Gordon, NE"
+  groups:
+    - board
+  positions:
+  image_year: 2015
+  image_file: kathie-king.jpg
+
+
+- last_name: Lecher
+  first_name: Danielle
+  location: "Chadron, Nebraska"
+  groups:
+    - board
+  positions:
+  image_year: 2017
+  image_file: danielle-lecher.jpg
+
+
+- last_name: Merrigan
+  first_name: Joni
+  location: "Alliance, NE"
+  groups:
+    - board
+  positions:
+  image_year: 2015
+  image_file: joni-merrigan.jpg
+
+
+- last_name: Mohr
+  first_name: Jeanine
+  location: "Chadron, Nebraska"
+  groups:
+    - board
+  positions:
+  image_year: 2016
+  image_file: jeanine-mohr.jpg
+
+- last_name: Rhine
+  first_name: Randy
+  location: "Chadron, NE"
+  groups:
+    - board
+  positions:
+  bio: >
+    Chadron State College
+  image_year: 2015
+  image_file: randy-rhine.jpg
 
 
 - last_name: Rotherham
@@ -570,50 +620,3 @@
   image_file: marge-rotherham.jpg
 
 
-- last_name: Feldges
-  first_name: Ellen
-  location: "Alliance, Nebraska"
-  groups:
-    - board
-  positions:
-  bio: >
-    New York Life Insurance Company
-  image_year: 2015
-  image_file: ellen-feldges.jpg
-
-- last_name: Mohr
-  first_name: Jeanine
-  location: "Chadron, Nebraska"
-  groups:
-    - board
-  positions:
-  image_year: 2016
-  image_file: jeanine-mohr.jpg
-
-- last_name: Espinoza
-  first_name: Jess
-  location: "Crawford, Nebraska"
-  groups:
-    - board
-  positions:
-  image_year: 2017
-  image_file: jess-espinoza.jpg
-
-- last_name: DeWald
-  first_name: Vicki
-  location: "Crawford, Nebraska"
-  groups:
-    - board
-  positions:
-  image_year: 2017
-  image_file: vicki-dewald.jpg
-
-
-- last_name: Lecher
-  first_name: Danielle
-  location: "Chadron, Nebraska"
-  groups:
-    - board
-  positions:
-  image_year: 2017
-  image_file: danielle-lecher.jpg
