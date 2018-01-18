@@ -69,3 +69,6 @@ Please make all checks payable to Post Playhouse and include your name, mailing 
 - Sponsorship announcement prior to each performance of your show ("this show is being sponsored by...")
 - 10 complimentary tickets for opening night of your sponsored show
 - Complimentary pre-show buffet for opening night for your 10 guests at the Fort Robinson Restaurant in the Lodge
+
+## Prefer Captial Donations?
+Sponsor one of our Interns ($3,000). Sponsor new furniture in our actor housing. Sponsor additional housing for our company. Donate needed box office and lobby technology. The sky is the limit!
