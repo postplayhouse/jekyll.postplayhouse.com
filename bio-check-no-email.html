@@ -1,0 +1,36 @@
+---
+title: Bio Submission and Approval via email
+layout: page
+permalink: /bio-check-no-email/
+norobots: true
+---
+
+<style>
+  pre {
+    white-space: pre-wrap;
+    padding: 1em;
+    background: #ddd;
+  }
+</style>
+
+<h2>Submitting via email</h2>
+
+<p>
+  Technically, the buttons <a href="{{ site.baseurl }}/bio-check/">on the bio page</a> that don't work for you are submission via email as well. They just launch your email client and pre-fill out the body and subject.
+</p>
+
+<p>
+  So if you just send an email to <a href="mailto:{{site.maintainer_email}}">{{site.maintainer_email}}</a> with the following subject:
+</p>
+
+<pre><code>{{ site.data.bio_check_emails.submit_subject }}</code></pre>
+
+<p>
+  Then paste the following into the body and fill it out:
+</p>
+
+<pre><code>{{ site.data.bio_check_emails.submit_body }}</code></pre>
+
+<p>
+  Thanks!
+</p>
