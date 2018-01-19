@@ -339,6 +339,21 @@
   image_file: jeremie-michael.jpg
 
 
+- last_name: Moritz
+  first_name: Garth
+  location: "Boulder, CO"
+  groups:
+    - staff
+    - crew
+  positions:
+    - Season Asst. Stage Manager
+  bio_approved: true
+  bio: >
+    Garth Moritz is excited for his first season with the Post Playhouse.  An Arkansas native, he's been working in Chicago for the last five years.  His favorite theater credits include _How to Succeed..._ and _Singing in the Rain_ with the Marriott Theater in Lincolnshire, _Legally Blonde_ and _The Little Mermaid_, with the Round Barn Theatre at Amish Acres in Nappanee, Ind., and _Sweeney Todd_ with Porchlight Music Theatre in Chicago.  He now lives in Boulder, Col.
+  image_year: 2018
+  image_file: garth-moritz.jpg
+
+
 - last_name: Ossowski
   first_name: Tom
   location: "Tallahasse, FL via Beatrice, NE"
