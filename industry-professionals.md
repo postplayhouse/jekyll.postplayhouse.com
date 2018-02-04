@@ -10,8 +10,6 @@ order: 7
 
 ## Available Crew/Staff Positions
 
-Assistant Stage Manager --- email [tom@postplayhouse.com](mailto:tom@postplayhouse.com)
-
 Box Office Staff (local hire: housing not provided) --- email [tom@postplayhouse.com](mailto:tom@postplayhouse.com)
 
 ## Actor Auditions
