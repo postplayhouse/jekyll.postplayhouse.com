@@ -1,7 +1,6 @@
 ---
 title: Program Bios
 layout: page
-bio_year: "2017"
 permalink: /program-bios/
 norobots: true
 ---
@@ -39,17 +38,55 @@ norobots: true
     margin: auto;
     margin-top: 10px;
   }
+
+  .bio-unapproved-text {
+    display: none;
+  }
+  .bio-approved-false {
+    opacity: 0.5;
+  }
+  .bio-approved-false .bio-unapproved-text {
+    display: block;
+    font-size: 1.5em;
+    color: #911;
+    text-align: center;
+    padding: 1em;
+  }
+
   br {
     line-height: 1;
   }
-</style>
-{% assign people = site.data.people[page.bio_year] %}
 
+  .approved-true::after {
+    color: green;
+    content: "\2713 ";
+  }
+
+  .approved-false::after {
+    color: red;
+    content: 'x ';
+  }
+
+  .approved-true, .approved-false {
+    margin-right: 1em;
+    margin-left: 3em
+  }
+
+  .plain-bio img, .bio image {
+    margin: auto;
+    display: block;
+    max-width: 400px;
+  }
+
+</style>
+{% assign people = site.data.people[site.season] %}
+
+Approved | Name<br>
 {% for person in people %}
   {% unless person.groups contains "board" %}
 
   {% capture nameId %}{{ person.first_name }}-{{ person.last_name }}{% endcapture %}
-  <a href="#{{ nameId | slugify }}">{{ person.first_name }} {{ person.last_name }}</a><br/>
+  <span class="approved-{{ person.bio_approved }}"></span><a href="#{{ nameId | slugify }}">{{ person.first_name }} {{ person.last_name }}</a><br/>
   {% endunless %}
 {% endfor %}
 
@@ -60,7 +97,7 @@ norobots: true
   {% unless person.groups contains "board" %}
 
   {% capture nameId %}{{ person.first_name }}-{{ person.last_name }}{% endcapture %}
-  <div class="plain-bio" id="{{ nameId | slugify }}">
+  <div class="plain-bio bio-approved-{{ person.bio_approved }}" id="{{ nameId | slugify }}">
 
     {% assign missing_text = "" %}
     {% if person.image_path != nil %}
@@ -73,6 +110,8 @@ norobots: true
     {% endif %}
 
     <img class="plain-bio-headshot" src="{{ headshot }}" alt="{{ missing_text }}picture of {{ person.first_name }}">
+
+    <div class="bio-unapproved-text">{{ person.first_name }}'s bio or roles are not yet approved.</div>
 
     <div class="plain-bio-text">
       {% capture name %}{{ person.first_name }} {{ person.last_name }}{% endcapture %}
