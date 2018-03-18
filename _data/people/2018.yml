@@ -79,24 +79,6 @@
   image_file: pheobe-boynton.jpg
 
 
-- last_name: Carter
-  first_name: Kathleen
-  location: "New York City, NY"
-  groups:
-    - cast
-  positions:
-    - The Little Mermaid ---
-    - Footloose ---
-    - Chitty Chitty Bang Bang ---
-    - Urinetown ---
-    - 42nd Street ---
-  bio_approved: false
-  bio: >
-    Kathleen Carter, originally from South Carolina, is now based in New York City. Favorite regional credits include _A Christmas Story_ (Miss Shields), _A Chorus Line_ (Cassie), _On Golden Pond_ (Chelsea), _Vanya and Sonia and Masha and Spike_ (Masha), and _Steel Magnolias_ (Shelby). She has appeared in national commercials for names like Tanqueray and Amway. She has also choreographed and danced in small production music videos. She is thrilled to spending her summer at The Post Playhouse!
-  image_year: 2017
-  image_file: kathleen-carter.jpg
-
-
 - last_name: Cavin
   first_name: Scott
   location: "Chadron, NE via Lemoore, CA"
