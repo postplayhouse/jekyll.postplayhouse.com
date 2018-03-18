@@ -8,38 +8,38 @@ layout: default
 
     {% assign stickies = site.posts | where:"sticky","true" %}
     {% if stickies.size != 0 %}
-      <div class="full sticky-feature">
       {% for sticky_post in stickies %}
-        {% if sticky_post.excerpt_image %}
-          <div class="sticky-feature-image"><img src="{{sticky_post.excerpt_image}}" /></div>
-        {% endif %}
-        <article class="post-content">
-          <h2>
-            {% if sticky_post.excerpt != sticky_post.content %}
-              <a href="{{ sticky_post.url | prepend: site.baseurl }}">
-                {{ sticky_post.title }}
-              </a>
-            {% else %}
-                {{ sticky_post.title }}
-            {% endif %}
-          </h2>
-          {% if sticky_post.excerpt != sticky_post.content %}
-            <p>{{ sticky_post.excerpt }}</p>
-            <p class="sticky-read-more">
-              <a href="{{ sticky_post.url | prepend: site.baseurl }}">Read more...</a>
-            </p>
-          {% else %}
-            {{ sticky_post.content }}
+        <div class="full {{sticky_post.css_class}} sticky-feature">
+          {% if sticky_post.excerpt_image %}
+            <div class="sticky-feature-image"><img src="{{sticky_post.excerpt_image}}" /></div>
           {% endif %}
-        </article>
+          <article class="post-content">
+            <h2>
+              {% if sticky_post.excerpt != sticky_post.content %}
+                <a href="{{ sticky_post.url | prepend: site.baseurl }}">
+                  {{ sticky_post.title }}
+                </a>
+              {% else %}
+                  {{ sticky_post.title }}
+              {% endif %}
+            </h2>
+            {% if sticky_post.excerpt != sticky_post.content %}
+              <p>{{ sticky_post.excerpt }}</p>
+              <p class="sticky-read-more">
+                <a href="{{ sticky_post.url | prepend: site.baseurl }}">Read more...</a>
+              </p>
+            {% else %}
+              {{ sticky_post.content }}
+            {% endif %}
+          </article>
+        </div>
       {% endfor %}
-      </div>
     {% endif %}
 
     {% assign posts = site.posts | where:"single_featured","true" %}
     {% assign post = posts[0] %}
     {% if post != nil %}
-      <div class="full single-feature">
+      <div class="full {{post.css_class}} single-feature">
         {% if post.excerpt != post.content %}
           <h2 style="font-weight: bold; font-family: azo-sans-uber">
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -62,27 +62,27 @@ layout: default
 
     {% assign posts = site.posts | where:"featured","true" %}
     {% if posts.size != 0 %}
-      <div class="full regular-feature">
       {% for post in posts %}
-        {% if post.excerpt != post.content %}
-          <h2 style="font-weight: bold; font-family: azo-sans-uber">
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-        {% else %}
-          <h2 style="font-weight: bold; font-family: azo-sans-uber">
-            {{ post.title }}
-          </h2>
-        {% endif %}
-        <article class="post-content">
+        <div class="full {{post.css_class}} regular-feature">
           {% if post.excerpt != post.content %}
-            {{ post.excerpt }}
-            <p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
+            <h2 style="font-weight: bold; font-family: azo-sans-uber">
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
           {% else %}
-            {{ post.content }}
+            <h2 style="font-weight: bold; font-family: azo-sans-uber">
+              {{ post.title }}
+            </h2>
           {% endif %}
-        </article>
+          <article class="post-content">
+            {% if post.excerpt != post.content %}
+              {{ post.excerpt }}
+              <p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
+            {% else %}
+              {{ post.content }}
+            {% endif %}
+          </article>
+        </div>
       {% endfor %}
-      </div>
     {% endif %}
 
     <div class="donations">
