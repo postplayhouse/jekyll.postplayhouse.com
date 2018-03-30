@@ -37,7 +37,7 @@
     <h2 class="bio-group-label">Cast</h2>
 
     {% for person in people %}
-      {% if person.groups contains "cast" %}
+      {% if person.groups contains "cast" and person.bio_approved %}
         {% include bio.html %}
       {% endif %}
     {% endfor %}
@@ -49,7 +49,7 @@
     <h2 class="bio-group-label">Crew</h2>
 
     {% for person in people %}
-      {% if person.groups contains "crew" %}
+      {% if person.groups contains "crew" and person.bio_approved %}
         {% include bio.html %}
       {% endif %}
     {% endfor %}
@@ -61,7 +61,7 @@
     <h2 class="bio-group-label">Creative</h2>
 
     {% for person in people %}
-      {% if person.groups contains "creative" %}
+      {% if person.groups contains "creative" and person.bio_approved %}
         {% include bio.html %}
       {% endif %}
     {% endfor %}
@@ -73,7 +73,7 @@
     <h2 class="bio-group-label">Musicians</h2>
 
     {% for person in people %}
-      {% if person.groups contains "musicians" %}
+      {% if person.groups contains "musicians" and person.bio_approved %}
         {% include bio.html %}
       {% endif %}
     {% endfor %}
