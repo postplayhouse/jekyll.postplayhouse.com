@@ -324,6 +324,20 @@
   image_file: tim-gaswick.jpg
 
 
+- last_name: Greene
+  first_name: Connor
+  location: ""
+  groups:
+    - staff
+  positions:
+    - Master Electrician
+  bio_approved: false
+  bio: >
+    
+  image_year: 2018
+  # image_file: connor-greene.jpg
+
+
 - last_name: Harlow
   first_name: Korey
   location: "Fredericksburg, Virginia"
