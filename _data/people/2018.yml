@@ -164,7 +164,7 @@
   groups:
     - cast
   positions:
-    - The Little Mermaid --- Sister Arista / Andrina / Gull
+    - The Little Mermaid --- Sister Arista / Gull
     - Footloose --- Rusty
     - Chitty Chitty Bang Bang --- Ensemble
     - Urinetown --- Hope
@@ -215,7 +215,7 @@
   positions:
     - The Little Mermaid --- Ursula
     - Footloose --- Vi Moore
-    - Chitty Chitty Bang Bang --- Ensamble  
+    - Chitty Chitty Bang Bang --- Ensemble  
     - Urinetown --- Pennywise 
     - 42nd Street --- Maggie Jones
   bio_approved: true
@@ -231,12 +231,12 @@
   groups:
     - cast
   positions:
-    - The Little Mermaid ---
-    - Footloose ---
-    - Chitty Chitty Bang Bang ---
-    - Urinetown ---
-    - 42nd Street ---
-  bio_approved: false
+    - The Little Mermaid --- Scuttle
+    - Footloose --- Wes Warnicker
+    - Chitty Chitty Bang Bang --- Baron Bomburst, Lord Scrumptious
+    - Urinetown --- Old Man Strong, Hot Blades
+    - 42nd Street --- Pat Denning
+  bio_approved: true
   bio: >
     Chuckie is a proud ECU alum and lives in NYC. Some favorite credits: Clifford...tour (Clifford), _Spamalot_ (French Taunter), _Peter Pan_ (Slightly Soiled), _Cats_ (Mungojerrie), _A Christmas Story_ (Scut Farkus), and _Fiddler On the Roof_ (Mendel). Thanks and love to the Post team, my incredible mom, and the miraculous Mal!
   image_year: 2017
@@ -267,7 +267,7 @@
   groups:
     - cast
   positions:
-    - The Little Mermaid --- Pilot / Sea / Ensemble
+    - The Little Mermaid --- Sea Creature
     - Footloose --- Chuck
     - Chitty Chitty Bang Bang --- Boris
     - Urinetown --- Bobby Strong
@@ -394,7 +394,7 @@
   groups:
     - cast
   positions:
-    - The Little Mermaid --- Sister Atina / Adella / Gull
+    - The Little Mermaid --- Sister Atina / Gull
     - Footloose --- Wendy Jo
     - Chitty Chitty Bang Bang --- Ensemble
     - Urinetown --- Little Becky Two Shoes / Miss Millenium
@@ -489,7 +489,7 @@
   groups:
     - cast
   positions:
-    - The Little Mermaid --- Grimsby / Seat Creature / Ensemble
+    - The Little Mermaid --- Grimsby / Sea Creature / Ensemble
     - Footloose --- Willard Hewitt
     - Chitty Chitty Bang Bang --- Toymaker / Ensemble
     - Urinetown --- Officer Lockstock
@@ -572,7 +572,7 @@
   groups:
     - musicians
   positions:
-    - Percussion
+    - Season Percussionist
   bio_approved: true
   bio: >
     Tanner Schut is excited to be  back at Post Playhouse for its 51st season. Originally from Corvallis, Oregon, he is currently studying journalism at the University of Idaho. Tanner would like to extent his thanks to Dewayne and Tom for the opportunity, and his family for their constant love and support.
