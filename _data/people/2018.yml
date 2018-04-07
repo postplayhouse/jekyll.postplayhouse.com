@@ -209,7 +209,7 @@
 
 - last_name: Dickinson
   first_name: Lily
-  location: "Atlanta via New York City, NY"
+  location: "New York City, NY via Atlanta"
   groups:
     - cast
   positions:
@@ -218,7 +218,7 @@
     - Chitty Chitty Bang Bang --- Ensamble  
     - Urinetown --- Pennywise 
     - 42nd Street --- Maggie Jones
-  bio_approved: false
+  bio_approved: true
   bio: >
     Lily is thrilled to be joining Post for the summer! Previous Credits include: _Mamma Mia!_ National Tour, _Cabaret_ (Serenbe Playhouse), _Jekyll & Hyde_ (Engeman Playhouse) and the Broadway Bound World Premier of _Bull Durham: A New Musical_, (The Alliance Theatre, Atlanta). Lily recently released her first EP album, _Debut_, featuring her original music. You can find her on iTunes/Spotify. Special thanks to CTG, teachers & mentors, and Broadway Dreams. Thank you to Dewayne and Tom for this opportunity! All my love and gratitude to my incredible family, especially my mom who taught me that true value is not measured in applause. You are my biggest inspiration. Enjoy the show! [www.lilydickinson.net](http://www.lilydickinson.net) 
   image_year: 2018
