@@ -566,6 +566,24 @@
   image_file: jonah-robinson.jpg
 
 
+- last_name: Salters
+  first_name: Ben
+  location: "New York, New York/ Biloxi, Mississippi"
+  groups:
+    - cast
+  positions:
+    - The Little Mermaid --- King Triton
+    - Footloose --- Reverend Shaw
+    - Chitty Chitty Bang Bang --- Grandpa Potts/Ensemble
+    - Urinetown --- President Cladwell
+    - 42nd Street --- Julian Marsh
+  bio_approved: true
+  bio: >
+    Ben is super excited for his first season at Post Playhouse! Originally from Mississippi, he relocated to New York to pursue a Master’s degree at NYU in Music Theatre performance and vocal pedagogy/voice science and health. Past favorite credits include: Madame Dilly (_On the Town_),  Pirate King (_Pirates of Penzance_), Antipholous of Ephesus (_Boys From Syracuse_), Henry Higgins (_My Fair Lady_), and Phil Davis (_White Christmas_). Huge shoutout to his mentors, friends and family for their continuous support and guidance in allowing him to continue to pursue his dreams. 
+  image_year: 2018
+  image_file: ben-salters.jpg
+
+
 - last_name: Schut
   first_name: Tanner
   location: "Corvallis, OR"
