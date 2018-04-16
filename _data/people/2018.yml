@@ -326,16 +326,16 @@
 
 - last_name: Greene
   first_name: Connor
-  location: ""
+  location: "Tucson, AZ"
   groups:
     - staff
   positions:
     - Master Electrician
   bio_approved: true
   bio: >
-    
+    Connor is excited to be joining the Post Playhouse Technical Team for his first year. Connor is working towards a BFA in Lighting Technology from the University of Arizona where he has worked for both Josh and Ken as Assistant Master Electrician on _RENT_ and _Epic Proportions_ respectively. More recent credits include Master Electrician on Arizona Repertory Theatre's _The Pajama Game_ and _Tigers Be Still_ and the Williamstown Theatre Festival's Professional Training Program productions of _Curse of the Starving Class_ and _5x10: A Night of Short Plays_. He would like to thank his families of both blood and water for their endless support and understanding. 
   image_year: 2018
-  # image_file: connor-greene.jpg
+  image_file: connor-greene.jpg
 
 
 - last_name: Harlow
