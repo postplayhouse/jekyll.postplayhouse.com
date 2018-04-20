@@ -1,7 +1,7 @@
-$('.site-nav').on('click', function(){
-  if ($(this).find(':checked').length === 0 && $(this).find('label').css('display') !== 'none' ) {
-    $(this).find('ul').css('display','none');
+$('.site-nav [for="menu"]').on('click', function(){
+  if ($(this.parentNode).find(':checked').length === 0 ) {
+    $(this.parentNode).find('ul').addClass('unhide');
   } else {
-    $(this).find('ul').css('display','block');
+    $(this.parentNode).find('ul').removeClass('unhide');
   }
 });

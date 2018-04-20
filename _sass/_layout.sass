@@ -127,16 +127,26 @@ header.site-header
 
 // Main Nav
 
+.site-nav ul
+  dislay: flex
+
 .js .site-nav ul
   display: none
   +breakpoint($medium)
     display: flex
+.js .site-nav ul.unhide
+  display: flex
 
 .site-nav
   font-size: $base-font-size
   text-align: center
+  font-size: 1.3em
   margin-bottom: $spacing-unit
   font-weight: 100
+
+  label
+    background-color: $subtle-bg
+    display: block
 
   ul
     display: flex
@@ -146,9 +156,7 @@ header.site-header
     margin: 0
     list-style: none
     background-color: $subtle-bg-alt
-
-  label, li
-    font-size: 1.3em
+  li
     flex-basis: 100%
 
     a
@@ -158,7 +166,6 @@ header.site-header
 
       &, &:link, &:hover, &:visited
         color: $text-color
-
 
       &:hover
         background-color: $subtle-bg
