@@ -1,3 +1,33 @@
+@mixin clearfix {
+  @include pie-clearfix;
+}
+
+@mixin pie-clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@mixin border-radius($rad) {
+  border-radius: $rad;
+}
+
+@mixin rotate ($amount) {
+  -webkit-transform: rotate($amount);
+  -moz-transform:    rotate($amount);
+  -ms-transform:     rotate($amount);
+  -o-transform:      rotate($amount);
+  transform:         rotate($amount);
+}
+
+@mixin breakpoint ($min) {
+  @media all and (min-width: $min) {
+    @content
+  }
+}
+
 @mixin button_base() {
   background: $button; /* Old browsers */
   background: -webkit-linear-gradient(top, $button 0%, $button-tint 100%); /* Chrome 10+, Safari 5.1+ */
