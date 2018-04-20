@@ -1,0 +1,62 @@
+---
+---
+.seating-chart
+  max-width: 700px
+  margin: auto
+
+  .stage
+    background-color: lightblue
+    padding-top: 12%
+    text-align: center
+    color: white
+
+  .seats
+    display: flex
+    flex-direction: column
+    width: 85%
+    margin: auto
+
+  .row
+    display: flex
+    width: 100%
+    margin-top: 1%
+    position: relative
+
+    &::after, &::before
+      content: attr(data-row)
+      position: absolute
+      padding-top: 1.5%
+      right: -1.2em
+      text-transform: capitalize
+    &::before
+      right: auto
+      left: -1.2em
+
+
+  .seat
+    margin: 3px
+    background-color: orange
+    flex-grow: 1
+    position: relative
+
+  .outer
+    background-color: green
+    position: relative
+    padding-bottom: 100%
+    width: 100%
+
+  .seat-number
+    position: absolute
+    top: 0
+    left: 0
+    bottom: 0
+    right: 0
+    padding-top: 20%
+    text-align: center
+    color: white
+
+  .placeholder
+    &, & .outer
+      background-color: transparent
+    .seat-number
+      display: none

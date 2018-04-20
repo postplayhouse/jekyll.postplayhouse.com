@@ -125,6 +125,10 @@ Please choose from the following shows to fill out your season subscription:
 
 Please remember that seats can only be reserved based on availability, so call the box office to secure your seats. Also note, as stated above, subscriptions may only be used on 4 or 5 *different productions*. This means they cannot be used to see the same production multiple times.
 
+## Seating Chart
+
+{% include seating-chart.html %}
+
 ## Payment, Cancellations, Exchanges, and Refunds
 
 ### Payment In Full Must Accompany Your Order
