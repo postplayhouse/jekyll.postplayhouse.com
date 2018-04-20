@@ -1,6 +1,8 @@
 <div class="bio-group staff">
   <h2 class="bio-group-label">Staff</h2>
-  {% for person in people %}{% if person.groups contains "staff" %}
-    {% include bio.html %}
-  {% endif %}{% endfor %}
+  <div class="people">
+    {% for person in people %}{% if person.groups contains "staff" %}
+      {% include bio.html %}
+    {% endif %}{% endfor %}
+  </div>
 </div>

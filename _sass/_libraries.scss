@@ -1,13 +1,3 @@
-$susy: (
-  global-box-sizing: border-box,
-  gutters: 1/8
-);
-
-@import
-        "../_includes/bower_components/breakpoint-sass/stylesheets/breakpoint",
-        "../_includes/bower_components/susy/sass/susy"
-;
-
 @mixin clearfix {
   @include pie-clearfix;
 }
@@ -30,4 +20,10 @@ $susy: (
   -ms-transform:     rotate($amount);
   -o-transform:      rotate($amount);
   transform:         rotate($amount);
+}
+
+@mixin breakpoint ($min) {
+  @media all and (min-width: $min) {
+    @content
+  }
 }

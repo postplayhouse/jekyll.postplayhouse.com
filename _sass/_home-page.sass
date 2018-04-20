@@ -39,6 +39,10 @@ div.full
     .sticky-feature-image
       margin-right: 12px
 
+
+
+
+
 a.a-wrap
   &, &:link, &:hover, &:visited
     color: $text-color
@@ -54,60 +58,50 @@ a.a-wrap
     text-decoration: underline
 
 
+
+
+// for articles on the front
+div.full
+  article
+    font-size: $base-font-size
+
+    p
+      text-align: left
+
+
+
+
 %front-boxes
   display: block
   background-color: $subtle-bg
   padding: 16px
-  margin-bottom: gutter(6)
 
   h3
     margin-top: 0
 
 
+
+
+
++breakpoint($large)
+  .engagement-box
+      display: flex
+
+  .connection
+    margin-right: 6px
+    display: flex
+    flex-direction: column
+
 .mail, .stay-connected
   @extend %front-boxes
+  margin-bottom: 6px
 
   +breakpoint($large)
     height: 155px
-    +span(2 of 6)
-    float: left
-    clear: left
 
 .donations
-  margin-bottom: gutter(6)
-
-  +breakpoint($large)
-    +span(4 of 6 at 3)
-    float: right
-
-.new-tickets
-  @extend %front-boxes
-
-  +breakpoint($large)
-    +span(6 of 6)
-
-
-.recent
-  @extend %front-boxes
-
-  +breakpoint($large)
-    +span(3 of 6)
-    min-height: 220px
-  & ~ &
-    +breakpoint($large)
-      +span(3 of 6 at 4)
-
-  p
-    font-size: 0.85em
-  img.preview
-    +breakpoint($large)
-      max-width: 50%
-      margin: 0 6px 6px 0
-      float: left
-      max-height: 130px
-
-.read-more
-  font-size: 0.65em
+    order: 2
+    margin-bottom: 6px
 
 .stay-connected
   a:hover
@@ -116,6 +110,45 @@ a.a-wrap
     max-width: 25%
     margin-left: 12%
     margin-right: 12%
+
+
+
+
+
+
+
+.non-featured-stories
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-between
+
+.recent
+  @extend %front-boxes
+  flex-basis: 100%
+  margin-bottom: 12px
+  +breakpoint($large)
+    flex-basis: 48%
+    margin-right: 1%
+    margin-left: 1%
+    flex-basis: calc(50% - 6px)
+    margin-left: calc(0px)
+    margin-right: calc(0px)
+    min-height: 220px
+
+  p
+    font-size: 0.85em
+
+  img.preview
+    +breakpoint($large)
+      max-width: 50%
+      margin: 0 6px 6px 0
+      float: left
+      max-height: 130px
+
+
+
+
+
 
 #mailer .modal
   background: white
@@ -148,11 +181,3 @@ a.a-wrap
 
 .mailer-open #mailer
   display: block
-
-// for articles on the front
-div.full
-  article
-    font-size: $base-font-size
-
-    p
-      text-align: left

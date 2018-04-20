@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <div class="group">
+  <div class="featured-stories">
 
     {% assign stickies = site.posts | where:"sticky","true" %}
     {% if stickies.size != 0 %}
@@ -85,29 +85,38 @@ layout: default
       {% endfor %}
     {% endif %}
 
+  </div>
+
+
+
+  <div class="engagement-box">
     <div class="donations">
       <a href="{{ site.baseurl }}/donate/"><img src="{{ site.baseurl }}/images/perennials/donations.jpg" alt="Your donations make all the difference!"></a>
     </div>
 
-    <a href="http://eepurl.com/7iIeH" name="mailer" class="a-wrap mail">
-      <h3 class="post-link">Join our mailing list</h3>
-      <p>Stay informed about what's happening at Post Playhouse. </p>
-    </a>
+    <div class="connection">
+      <a href="http://eepurl.com/7iIeH" name="mailer" class="a-wrap mail">
+        <h3 class="post-link">Join our mailing list</h3>
+        <p>Stay informed about what's happening at Post Playhouse. </p>
+      </a>
 
-    <div id="mailer">
-      <div class="modal">
-        <a class="close">close</a><a class="close">close</a>
-        {% include mailing-list.html %}
+      <div class="stay-connected">
+        <h3>Stay connected with Post</h3>
+        <a href="http://facebook.com/post.playhouse"><img src="{{ site.baseurl }}/images/facebook-logo.svg" alt=""></a>
+        <a href="http://twitter.com/postplayhouse"><img src="{{ site.baseurl }}/images/twitter-bird.svg" alt=""></a>
+        <p></p>
       </div>
     </div>
+  </div>
 
-    <div class="stay-connected">
-      <h3>Stay connected with Post</h3>
-      <a href="http://facebook.com/post.playhouse"><img src="{{ site.baseurl }}/images/facebook-logo.svg" alt=""></a>
-      <a href="http://twitter.com/postplayhouse"><img src="{{ site.baseurl }}/images/twitter-bird.svg" alt=""></a>
-      <p></p>
-    </div>
+  <div id="mailer"> <div class="modal">
+    <a class="close">close</a><a class="close">close</a>
+    {% include mailing-list.html %}
+  </div> </div>
 
+
+
+  <div class="non-featured-stories">
     {% for post in site.posts limit:0 offset:1 %}
       <a class="a-wrap recent" href="{{ post.url | prepend: site.baseurl }}">
         <h3 class="post-link">
@@ -119,8 +128,9 @@ layout: default
         <p>{{ post.excerpt | strip_html | markdownify }}</p>
       </a>
     {% endfor %}
-
   </div>
+
+
 
   <div class="featured-pictures">
     <div class="picture">

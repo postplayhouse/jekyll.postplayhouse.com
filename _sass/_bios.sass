@@ -49,32 +49,24 @@
         margin: 0
 
 +breakpoint($medium)
+  .bio-group.board .people
+    display: flex
+    flex-wrap: wrap
+    justify-content: space-between
   .bio-group.board .person
+    flex-basis: 49%
+    flex-basis: calc(50% - 12px)
+    padding: 0
     margin: 0
-    padding-bottom: $spacing-unit * 3
-    +span(1 of 2)
-
-    &:nth-of-type(odd)
-      clear: both
-
-    &:nth-of-type(even)
-      +span(1 of 2 at 2)
+    margin-bottom: $spacing-unit * 3
 
     img
       max-width: 100%
 
 +breakpoint($large)
   .bio-group.board .person
-    +span(1 of 3)
-
-    &:nth-of-type(odd)
-      clear: none
-    &:nth-of-type(even)
-      +span(1 of 3)
-    &:nth-of-type(3n)
-      +span(1 of 3 at 3)
-    &:nth-of-type(3n + 1)
-      clear: both
+    flex-basis: 33%
+    flex-basis: calc(33.3% - 12px)
 
 
 // Sticky titles
