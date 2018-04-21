@@ -1,8 +1,13 @@
 ---
 ---
+@import "includes"
+
 .seating-chart
+  font-size: 10px
   max-width: 700px
   margin: auto
+  +breakpoint($medium)
+    font-size: 16px
 
   .stage
     background-color: lightblue
@@ -25,9 +30,11 @@
     &::after, &::before
       content: attr(data-row)
       position: absolute
-      padding-top: 1.5%
+      padding-top: 1%
       right: -1.2em
       text-transform: capitalize
+      +breakpoint($medium)
+        padding-top: 1.5%
     &::before
       right: auto
       left: -1.2em
@@ -51,9 +58,11 @@
     left: 0
     bottom: 0
     right: 0
-    padding-top: 20%
+    padding-top: 0%
     text-align: center
     color: white
+    +breakpoint($medium)
+      padding-top: 20%
 
   .placeholder
     &, & .outer
