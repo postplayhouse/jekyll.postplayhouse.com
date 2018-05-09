@@ -732,16 +732,6 @@
   image_file: jo-buchheit.jpg
 
 
-- last_name: DeWald
-  first_name: Vicki
-  location: "Crawford, Nebraska"
-  groups:
-    - board
-  positions:
-  image_year: 2017
-  image_file: vicki-dewald.jpg
-
-
 - last_name: Espinoza
   first_name: Jess
   location: "Crawford, Nebraska"
