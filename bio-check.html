@@ -5,6 +5,7 @@ bio_year: "2018"
 permalink: /bio-check/
 is_bio_check: true
 norobots: true
+regenerate: true
 ---
 
 {% capture submit_bio_email_link %}mailto:{{ site.maintainer_email }}?subject={{ site.data.bio_check_emails.submit_subject | uri_escape }}&body={{ site.data.bio_check_emails.submit_body | uri_escape }}{% endcapture %}
