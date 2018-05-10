@@ -473,6 +473,20 @@
   image_file: alix-isom.jpg
 
 
+- last_name: Lemmon
+  first_name: Gunner Joseph
+  location: "Crawford, NE"
+  groups:
+    - cast
+  positions:
+    - Chitty Chitty Bang Bang --- Michael
+  bio_approved: true
+  bio: >
+    Gunner Joseph Lemmon is 10 years old and is from Crawford, Nebraska. He attends Crawford Elementary and will be entering the 5th grade this fall. Gunner loves singing, playing the piano and playing video games. He has 3 older sisters, 4 dogs, a rabbit and a fish. Gunner began singing and playing the piano at the age of 5. Typically Gunner's summers are filled with baseball, swimming and jumping on the trampoline. He is very excited for his new adventure of lights and sound out here at the Post Playhouse.
+  image_year: 2018
+  # image_file: gunner-lemmon.jpg
+
+
 - last_name: Lewis
   first_name: Taylor Lynn
   location: "Fort Worth, TX"
@@ -584,6 +598,20 @@
     Anna is very excited to be coming back to the Post Playhouse. This is her third summer here and she couldn’t be happier. Anna graduated from Chadron State College with her BA in Theater May 2016 and is currently working in Tampa, FL at Norwegian Creative Studios. Anna took the summer off to come back to the Post Playhouse and be closer to her family. She would like to thank everyone at The Post Playhouse for this wonderful opportunity and for the chance to return to this amazing community.
   image_year: 2018
   image_file: anna-owen.jpg
+
+
+- last_name: Owens
+  first_name: Hunter
+  location: "Crawford, NE"
+  groups:
+    - cast
+  positions:
+    - Chitty Chitty Bang Bang --- Jeremy Potts
+  bio_approved: true
+  bio: >
+    Hunter Owens is a 10 year old from Crawford, NE.  This is his second year at the Post Playhouse, and he couldn’t be more excited for the opportunity to return.  He will be in 5th grade this fall at Crawford Elementary School.  His hobbies include, reading, playing piano, riding horses and spending time with family.
+  image_year: 2018
+  image_file: hunter-owens.jpg
 
 
 - last_name: Paley
@@ -775,6 +803,20 @@
     Crawford native, Ann Stephens, is happy to be returning to the Post Playhouse for the 2018 season.  At the Playhouse, she can often be found cleaning, popping corn, watering plants, or making reservations. Ann enjoys the opportunity to visit with returning customers as well as greeting those new to the Playhouse experience. In addition to her work here, Ann enjoys baking and spending time with grandkids and the rest of her family. Her husband, Dale, is an avid golfer and can be found nearly every day of the spring, summer and autumn on the Legend Buttes Golf course in Crawford.
   image_year: 2017
   image_file: ann-stephens.jpg
+
+
+- last_name: Victory
+  first_name: Kendall
+  location: "Crawford, NE"
+  groups:
+    - cast
+  positions:
+    - Chitty Chitty Bang Bang --- Greta
+  bio_approved: true
+  bio: >
+    Kendall is returning to the Post Playhouse for her second season and is over the moon excited!! She appeared on the stage at Post Playhouse as Young Fiona in *Shrek the Musical* last year and can’t wait to grace the stage this year as Greta in *Chitty Chitty Bang Bang*. Kendall is 10 years old and lives in Crawford with her parents and her older sister who has also been on the post stage. She plays piano, sings and loves to be anywhere her sister is! Kendall would like to thank Tom and Dewayne for inviting her back to be a part of the Post family!! 
+  image_year: 2018
+  image_file: kendall-victory.jpg
 
 
 - last_name: Vogel
