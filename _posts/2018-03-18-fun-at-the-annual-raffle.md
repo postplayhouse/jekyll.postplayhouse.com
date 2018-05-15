@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Annual Raffle Winners"
-featured: true
+featured: false
 css_class: 'raffle-winners-2018'
 ---
 
