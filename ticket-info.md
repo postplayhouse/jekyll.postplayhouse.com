@@ -7,7 +7,7 @@ layout: page
 Ticket sales for every summer season begin November 1st of the previous calendar year. [Buy yours now](http://postplayhousetickets.com)!
 
 Or email us at [tickets@postplayhouse.com](mailto:tickets@postplayhouse.com)  
-Call our box office at 308-665-1976
+Call our box office at {{ site.box_office_phone }}
 
 
 ## Ticket Prices
@@ -61,7 +61,7 @@ Call our box office at 308-665-1976
 
 Groups of 25 or more may purchase tickets at the rate noted above. Tickets may be added to a group sale (if seats are available) up to show date but are never reduced or refunded. The Post Playhouse cannot be responsible for unused group tickets.
 
-Group rate tickets can not be purchased online. Please email us for group rate ticket needs at <a href="mailto:tickets@postplayhouse.com">tickets@postplayhouse.com</a> or call our box office 308-665-1976.
+Group rate tickets can not be purchased online. Please email us for group rate ticket needs at <a href="mailto:tickets@postplayhouse.com">tickets@postplayhouse.com</a> or call our box office {{ site.box_office_phone }}.
 
 
 ## Subscription Pricing
@@ -110,7 +110,7 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
   </table>
 </div>
 <div class="subscriber-alert">
-  Subscribers: After purchasing your subscription, you can reserve your seats to any 4 or 5 performances by emailing us at <a href="mailto:tickets@postplayhouse.com">tickets@postplayhouse.com</a> or calling our box office 308-665-1976. Seats are based on availability, so please make your reservations as soon as you can.
+  Subscribers: After purchasing your subscription, you can reserve your seats to any 4 or 5 performances by emailing us at <a href="mailto:tickets@postplayhouse.com">tickets@postplayhouse.com</a> or calling our box office {{ site.box_office_phone }}. Seats are based on availability, so please make your reservations as soon as you can.
 </div>
 
 ### Season Subscriptions {{ site.season }}

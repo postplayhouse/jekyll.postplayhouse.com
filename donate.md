@@ -17,7 +17,7 @@ order: 8
 
 Post Playhouse is a 501 ( c ) ( 3 ) non-profit organization. If you like our mission or are a fan of our productions, consider donating today. View our contributor levels below to see the benefits of donating to Post Playhouse.
 
-Please contact the box office at 308-665-1976 or email us at [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with any questions about donating.
+Please contact the box office at {{ site.box_office_phone }} or email us at [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with any questions about donating.
 
 Send donations via mail at:
 

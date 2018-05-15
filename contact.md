@@ -11,7 +11,7 @@ Ticketing Email Questions
 [tickets@postplayhouse.com](mailto:tickets@postplayhouse.com)
 
 Box Office  
-308-665-1976
+{{ site.box_office_phone }}
 
 Audition Submissions  
 [auditions@postplayhouse.com](mailto:auditions@postplayhouse.com)
