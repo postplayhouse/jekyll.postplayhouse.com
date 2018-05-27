@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pizza for Post"
-featured: true
+featured: false
 image: /images/2018/pizza-hut.png
 ---
 
