@@ -4,7 +4,7 @@ permalink: /ticket-info/
 layout: page
 ---
 
-Ticket sales for every summer season begin November 1st of the previous calendar year. [Buy yours now](https://http://postplayhousetickets.universitytickets.com/user_pages/event_listings.asp)!
+Ticket sales for every summer season begin November 1st of the previous calendar year. [Buy yours now](https://postplayhousetickets.universitytickets.com/user_pages/event_listings.asp)!
 
 Or email us at [tickets@postplayhouse.com](mailto:tickets@postplayhouse.com)  
 Call our box office at {{ site.box_office_phone }}
