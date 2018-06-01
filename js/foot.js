@@ -14,7 +14,7 @@ $(document).ready(function(){
   if ($('.calendar').length > 0) {
     {% include_relative _js/calendar.js %}
   }
-  $('a[href="https://postplayhousetickets.com"]').on('click', function(){
+  $('a[href="https://http://postplayhousetickets.universitytickets.com/user_pages/event_listings.asp"]').on('click', function(){
     ga('send', 'event', 'link', 'click', 'ticket-site');
   });
 });
