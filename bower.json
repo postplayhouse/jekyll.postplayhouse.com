@@ -1,5 +1,5 @@
 {
-  "name": "Post Playhouse",
+  "name": "post-playhouse",
   "version": "0.0.0",
   "authors": [
     "Don Denton <don@happycollision.com>"
@@ -9,9 +9,7 @@
   "homepage": "http://postplayhouse.com",
   "private": true,
   "dependencies": {
-    "susy": "^2.1.3",
-    "jquery": "~1.11",
-    "fitvids": "~1.1.0",
-    "breakpoint-sass": "^2.7.1"
+    "jquery": "~1.12",
+    "fitvids": "~1.2.0"
   }
 }
