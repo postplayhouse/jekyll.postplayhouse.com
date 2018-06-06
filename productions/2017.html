@@ -8,53 +8,6 @@ layout: page
 {% assign productions = site.data.productions[page.season] | sort: "opening" %}
 {% for production in productions %}
 
-  {% if production.image contains "/" %}
-    {% capture production_image %}{{ production.image | prepend: site.baseurl }}{% endcapture %}
-  {% elsif production.image != nil %}
-    {% capture production_image %}{{ site.baseurl }}/images/{{ page.season }}/{{production.image}}{% endcapture %}
-  {% else %}
-    {% assign production_image = nil %}
-  {% endif %}
-
-
-<article class="production">
-  <header class="entry-header">
-    <h1 class="production-title">
-        {{ production.title }}
-    </h1>
-      <img class="production-image" src="{{ production_image }}" alt="Show Logo for {{ production.title }}">
-  </header>
-
-  {% if production.opening %}
-    <div class="dates-message">
-      Opens {{ production.opening | date: "%B %-d, %Y"}}
-    </div>
-  {% endif %}
-
-  {% if production.writers %}
-    <div class="writers">
-      {{ production.writers | markdownify }}
-    </div>
-  {% endif %}
-
-  <div class="description">
-    {{ production.description | markdownify }}
-
-    {% if production.sponsor %}
-      <div class="sponsor">
-        <p>Sponsored By</p>
-        {% if production.sponsor.image %}
-            <img class="sponsor-image" src="{{ site.baseurl }}/images/sponsors/{{ production.sponsor.image }}">
-        {% elsif production.sponsor.text %}
-            {{ production.sponsor.text }}
-        {% endif %}
-      </div>
-
-    {% endif %}
-  </div>
-  {% if production.rating %}
-    <div class="production-rating"><a href="{{ site.baseurl }}\ratings">Rating: {{ production.rating }}</a></div>
-  {% endif %}
-</article>
+  {% include production-details.html %}
 
 {% endfor %}

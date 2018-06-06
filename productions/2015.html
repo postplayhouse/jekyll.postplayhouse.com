@@ -8,44 +8,6 @@ layout: page
 {% assign productions = site.data.productions[page.season] | sort: "opening" %}
 {% for production in productions %}
 
-  {% if production.image contains "/" %}
-    {% capture production_image %}{{ production.image | prepend: site.baseurl }}{% endcapture %}
-  {% elsif production.image != nil %}
-    {% capture production_image %}{{ site.baseurl }}/images/{{ page.season }}/{{production.image}}{% endcapture %}
-  {% else %}
-    {% assign production_image = nil %}
-  {% endif %}
-  
-
-<article class="production">
-  <header class="entry-header">
-    <h1 class="production-title">
-        {{ production.title }}
-    </h1>
-      <img class="production-image" src="{{ production_image }}" alt="Show Logo for {{ production.title }}">
-  </header>
-
-  {% if production.opening %}
-    <div class="dates-message">
-      Opens {{ production.opening | date: "%B %-d, %Y"}}
-    </div>
-  {% endif %}
-
-  <div class="writers">
-    {{ production.writers }}
-  </div>
-
-  <div class="description">
-    {{ production.description | markdownify }}
-    
-    {% if production.sponsor %}
-      <div class="sponsor">
-        <p>Sponsored By</p>
-        <img class="sponsor-image" src="{{ site.baseurl }}/images/sponsors/{{ production.sponsor.image }}">
-      </div>
-
-    {% endif %}
-  </div>
-</article>
+  {% include production-details.html %}
 
 {% endfor %}
