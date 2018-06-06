@@ -1,10 +1,4 @@
-{% if production.image contains "/" %}
-  {% capture production_image %}{{ production.image | prepend: site.baseurl }}{% endcapture %}
-{% elsif production.image != nil %}
-  {% capture production_image %}{{ site.baseurl }}/images/{{ page.season }}/{{production.image}}{% endcapture %}
-{% else %}
-  {% assign production_image = nil %}
-{% endif %}
+{% include normalize-production-image %}
 
 <article class="production">
   <header class="entry-header">
@@ -20,7 +14,7 @@
   </div>
   {% endif %} {% if production.rating %}
   <div class="production-rating">
-    <a href="{{ site.baseurl }}\ratings">Rating: {{ production.rating }}</a>
+    <a href="{{ site.baseurl }}/ratings">Rating: {{ production.rating }}</a>
     {% if production.rating_explanation %}
     <div class="production-rating-explanation">
       {{ production.rating_explanation | markdownify }}

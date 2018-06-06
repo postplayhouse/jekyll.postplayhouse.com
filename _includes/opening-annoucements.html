@@ -1,0 +1,60 @@
+{% for production in site.data.productions[site.season] %}
+  {% include normalize-production-image %}
+  <div class="full opening-announcement" data-opening-date="{{ production.opening | date: "%B %-d, %Y" }}">
+    <h2 style="font-weight: bold; font-family: azo-sans-uber">
+      <span class="title">{{ production.title }}</span>
+      opens 
+      <span class="opening-date-text">{{ production.opening | date: "%B %-d, %Y" }}</span>!
+    </h2>
+    <article class="post-content">
+      <img src="{{ production_image }}" alt="{{production.title}} logo">
+      {{ production.description | markdownify }}
+    </article>
+  </div>
+{% endfor %}
+
+<script>
+  (function() {
+    function getMomentFromOpening(element) {
+      return moment($(element).data('openingDate'), 'MMMM D, YYYY');
+    }
+    var today = moment().startOf('day');
+    var daysUntilByElementTuples = []; // [integer, Element][]
+    var nextOpening = null;
+    
+    $('.opening-announcement').each(function() {
+      $(this).hide();
+      var openingDate = moment($(this).data('openingDate'), 'MMMM D, YYYY');
+      var daysUntil = openingDate.diff(today, 'days');
+      $(this).data('daysUntil', daysUntil);
+      daysUntilByElementTuples.push([daysUntil, this]);
+    })
+
+    daysUntilByElementTuples.sort(function (a, b) {
+      return a[0] > b[0] ? 1 : -1;
+    })
+
+    daysUntilByElementTuples.forEach(function(tuple) {
+      if (nextOpening) return;
+      if (tuple[0] < 0) return;
+      nextOpening = tuple[1];
+    })
+
+    if (nextOpening) {
+      var $element = $(nextOpening)
+      var daysUntil = $element.data('daysUntil')
+      if (daysUntil > 5) return;
+      var opensText = (function() {
+        switch (daysUntil) {
+          case 0 : return 'today';
+          case 1 : return 'tomorrow';
+          default: return 'this ' + getMomentFromOpening($element).format('dddd')
+        }
+      })()
+      
+      //daysUntil === 0 ? 'today' : today.to(getMomentFromOpening($element))
+      $element.find('.opening-date-text').html(opensText)
+      $element.show();
+    }
+  })()
+</script>

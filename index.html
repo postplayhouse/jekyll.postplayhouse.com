@@ -61,6 +61,8 @@ regenerate: true
       </div>
     {% endif %}
 
+    {% include opening-annoucements.html %}
+
     {% assign posts = site.posts | where:"featured","true" %}
     {% if posts.size != 0 %}
       {% for post in posts %}
