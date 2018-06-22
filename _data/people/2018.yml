@@ -174,7 +174,7 @@
     - The Little Mermaid --- Sister Allana
     - Footloose --- Lulu / Ensemble
     - Chitty Chitty Bang Bang --- Ensemble
-    - Urinetown --- Soupy Sue / Secretary
+    - Urinetown --- Little Sally
     - 42nd Street --- Anytime Annie
   bio_approved: true
   bio: >
@@ -226,9 +226,9 @@
     - cast
   positions:
     - The Little Mermaid --- Sister Aquata
-    - Footloose --- Eleanor Dunbar / Ensemble
+    - Footloose --- Eleanor Dunbar / Urleen / Ensemble
     - Chitty Chitty Bang Bang --- Truly Scrumptious
-    - Urinetown --- Ensemble
+    - Urinetown --- Soupy Sue / Cop
     - 42nd Street --- Dorothy
   bio_approved: true
   bio: >
@@ -310,7 +310,7 @@
   groups:
     - cast
   positions:
-    - The Little Mermaid --- Sea Creature
+    - The Little Mermaid --- Windward / Leeward / Sea Creature
     - Footloose --- Chuck
     - Chitty Chitty Bang Bang --- Boris
     - Urinetown --- Bobby Strong
@@ -461,7 +461,7 @@
   groups:
     - cast
   positions:
-    - The Little Mermaid --- Windward / Leeward / Ensemble
+    - The Little Mermaid --- Atina / Gull / Ensemble
     - Footloose --- Ariel Moore
     - Chitty Chitty Bang Bang --- Ensemble
     - Urinetown --- Billy
@@ -493,7 +493,7 @@
   groups:
     - cast
   positions:
-    - The Little Mermaid --- Sister Atina / Gull
+    - The Little Mermaid --- Ariel
     - Footloose --- Wendy Jo
     - Chitty Chitty Bang Bang --- Ensemble
     - Urinetown --- Little Becky Two Shoes / Miss Millenium
