@@ -14,14 +14,19 @@
   }
 
   function rotateImages(el, urls) {
-    setInterval(function() {
+    setTimeout(function() {
       var src = getNextImage(el.src, urls)
       replaceImageWith(el, src)
-    }, 4000)
+      rotateImages(el, urls);
+    }, randomIntFromInterval(4000, 6000))
   }
 
   function prepareUrls(baseUrl, fileNames) {
     return fileNames.map(function (name) { return baseUrl + name; })
+  }
+
+  function randomIntFromInterval(min, max) {
+    return Math.floor(Math.random()*(max-min+1)+min);
   }
 
   window.initSwitchImage = function (el) {
