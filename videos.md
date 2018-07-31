@@ -2,7 +2,7 @@
 title: Videos
 permalink: /videos/
 layout: page
-group: main
+# group: main
 order: 7
 ---
 
