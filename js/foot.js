@@ -14,6 +14,12 @@ $(document).ready(function(){
   if ($('.calendar').length > 0) {
     {% include_relative _js/calendar.js %}
   }
+
+  (function() {
+    {% include_relative _js/image-switcher.js %}
+    $('[data-switch-image]').each((i, el) => initSwitchImage(el))
+  })()
+
   $('a[href="https://postplayhousetickets.universitytickets.com/user_pages/event_listings.asp"]').on('click', function(){
     ga('send', 'event', 'link', 'click', 'ticket-site');
   });
