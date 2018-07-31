@@ -12,6 +12,15 @@
     });
   }
 
+  function shuffleArray(array) {
+    for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+  }
+
   function getNextImage(current, urls) {
     var wrappedList = urls.concat(urls[0]);
     var currentIndex = wrappedList.indexOf(current);
@@ -37,6 +46,7 @@
   window.initSwitchImage = function (el) {
     var list = $(el).data('switch-image-list').replace(/\n\s+/g, '').split(',')
       .filter(function(v) { return v !== '' });
+    shuffleArray(list)
     var urls = prepareUrls(getBasePath(el.src), list);
     rotateImages(el, urls);
   };
