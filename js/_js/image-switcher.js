@@ -32,7 +32,7 @@
       var src = getNextImage(el.src, urls)
       replaceImageWith(el, src)
       rotateImages(el, urls);
-    }, randomIntFromInterval(4000, 6000))
+    }, randomIntFromInterval(6000, 10000))
   }
 
   function prepareUrls(baseUrl, fileNames) {
