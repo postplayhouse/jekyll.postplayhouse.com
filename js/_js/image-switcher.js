@@ -4,7 +4,12 @@
   }
 
   function replaceImageWith(el, url) {
-    el.src = url;
+    $(el).fadeTo(500, 0.01, function () {
+      el.src = url;
+      el.onload = function () {
+        $(el).fadeTo(500, 1);
+      }
+    });
   }
 
   function getNextImage(current, urls) {
