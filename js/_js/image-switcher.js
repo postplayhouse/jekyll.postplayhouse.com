@@ -65,15 +65,15 @@
   //   }, randomIntFromInterval(6000, 10000))
   // }
 
-  function rotateAllImagesTogether(el, urls) {
+  function rotateAllImagesTogether(el, urls, duration) {
     setTimeout(function() {
       registerEl(el);
-      var cb = function () {rotateAllImagesTogether(el, urls);}
+      var cb = function () {rotateAllImagesTogether(el, urls, duration);}
       registerCallback(cb);
       var afterTransition = function () { deregisterEl(el); }
       var src = getNextImage(el.src, urls)
       replaceImageWith(el, src, afterTransition)
-    }, 8000)
+    }, duration)
   }
 
   function prepareUrls(baseUrl, fileNames) {
@@ -84,11 +84,11 @@
     return Math.floor(Math.random()*(max-min+1)+min);
   }
 
-  window.initSwitchImage = function (el) {
+  window.initSwitchImage = function (el, duration) {
     var list = $(el).data('switch-image-list').replace(/\n\s+/g, '').split(',')
       .filter(function(v) { return v !== '' });
     shuffleArray(list)
     var urls = prepareUrls(getBasePath(el.src), list);
-    rotateAllImagesTogether(el, urls);
+    rotateAllImagesTogether(el, urls, duration || 8000);
   };
 })()
