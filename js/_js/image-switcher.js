@@ -1,14 +1,36 @@
 (function() {
+  var transitioningEls = [];
+  var callbacks = [];
+  function deregisterEl(el) {
+    transitioningEls = transitioningEls.filter(function(someEl) {
+      return someEl !== el;
+    })
+    if (transitioningEls.length === 0) {
+      doCallbacks();
+    }
+  }
+  function registerEl(el) {
+    transitioningEls.push(el);
+  }
+  function registerCallback(cb) {
+    callbacks.push(cb);
+  }
+  function doCallbacks() {
+    callbacks.forEach(function(cb) {cb();})
+    callbacks = [];
+  }
+
   function getBasePath(path) {
     return path.split('/').slice(0, -1).join('/') + '/';
   }
 
-  function replaceImageWith(el, url) {
+  function replaceImageWith(el, url, cb) {
     preload(url, function () {
       $(el).fadeTo(500, 0.01, function () {
         el.src = url;
         el.onload = function () {
           $(el).fadeTo(500, 1);
+          if (cb) cb();
         }
       });
     })    
@@ -35,12 +57,23 @@
     return wrappedList[currentIndex + 1];
   }
 
-  function rotateImages(el, urls) {
+  // function rotateImages(el, urls) {
+  //   setTimeout(function() {
+  //     var src = getNextImage(el.src, urls)
+  //     replaceImageWith(el, src)
+  //     rotateImages(el, urls);
+  //   }, randomIntFromInterval(6000, 10000))
+  // }
+
+  function rotateAllImagesTogether(el, urls) {
     setTimeout(function() {
+      registerEl(el);
+      var cb = function () {rotateAllImagesTogether(el, urls);}
+      registerCallback(cb);
+      var afterTransition = function () { deregisterEl(el); }
       var src = getNextImage(el.src, urls)
-      replaceImageWith(el, src)
-      rotateImages(el, urls);
-    }, randomIntFromInterval(6000, 10000))
+      replaceImageWith(el, src, afterTransition)
+    }, 8000)
   }
 
   function prepareUrls(baseUrl, fileNames) {
@@ -56,6 +89,6 @@
       .filter(function(v) { return v !== '' });
     shuffleArray(list)
     var urls = prepareUrls(getBasePath(el.src), list);
-    rotateImages(el, urls);
+    rotateAllImagesTogether(el, urls);
   };
 })()
