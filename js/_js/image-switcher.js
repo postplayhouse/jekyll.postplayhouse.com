@@ -4,12 +4,20 @@
   }
 
   function replaceImageWith(el, url) {
-    $(el).fadeTo(500, 0.01, function () {
-      el.src = url;
-      el.onload = function () {
-        $(el).fadeTo(500, 1);
-      }
-    });
+    preload(url, function () {
+      $(el).fadeTo(500, 0.01, function () {
+        el.src = url;
+        el.onload = function () {
+          $(el).fadeTo(500, 1);
+        }
+      });
+    })    
+  }
+
+  function preload(url, cb) {
+    var tempEl = new Image();
+    tempEl.onload = cb;
+    tempEl.src = url;
   }
 
   function shuffleArray(array) {
