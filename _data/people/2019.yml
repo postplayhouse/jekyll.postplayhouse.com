@@ -1,0 +1,257 @@
+# - first_name:
+#   last_name:
+#   location: ""
+#   groups:
+#     -
+#   positions:
+#     - Disney's Mary Poppins ---
+#     - Little Shop of Horrors ---
+#     - The Music Man ---
+#     - Sister Act ---
+#     - A Year With Frog & Toad ---
+#   bio_approved: false
+#   bio: >
+#     
+#   image_year: 2019
+#   # image_file: .jpg
+#
+#
+# Use the template above for quick entry
+# If you specify an 'image_path', the year and file are ignored and
+# the full path to the image (prepended by the baseurl) is used.
+# Start the 'image_path' with a '/'
+
+
+#
+#
+#
+#
+#        CAST CREW MUSICIANS CREATIVE ADDITIONAL STAFF
+#
+#
+#
+#
+
+
+- last_name: Barrett
+  first_name: Dewayne
+  location: "New York City via Atlanta, GA"
+  groups:
+    - creative
+  positions:
+    - Post Playhouse Artistic Director
+    - Season Choreographer
+  bio_approved: true
+  bio: |
+    Dewayne is very excited to be returning to the Post Playhouse for his 3rd season. as Artistic Director, Director, and Choreographer. Originally from Atlanta, Georgia, he moved to New York City and began his career/training in the Big Apple. He has performed leading roles around the country such as Rum Tum Tugger in _Cats_, Bobby Child in _Crazy For You_, Riff in _West Side Story_, Bobby in _A Chorus Line_ to name a few. He has directed and choreographed for national tours, regional theatres, dinner theaters, community theatres, cruise ships, movies, high schools, music videos, parades and dance companies. He now resides in Florida. This coming fall, Dewayne will be heading to Beijing, China to teach, direct/choreograph at The Central Academy of Drama. He recently premiered _EDM Antigone the Rock Opera_ with Don Fox in Wenatchee, Washington. Don and Dewayne are planning several US tours of _EDM Antigone_. He is currently in the works with Phillip Michael Thomas from _Miami Vice_ with a new musical with eyes set for Broadway.
+  image_year: 2016
+  image_file: dewayne-barrett.jpg
+
+
+- last_name: Cavin
+  first_name: Scott
+  location: "Chadron, NE via Lemoore, CA"
+  groups:
+    - creative
+    - staff
+  positions:
+    - Season Technical Director
+  bio_approved: true
+  bio: >
+    Scott is returning to the Post Playhouse after being a bum last summer. Scott is also an Associate Professor of Theatre at Chadron State College. His responsibilities include Designer (Scenic, Lighting, Sound, Projection), Technical Director and Production Manager for the Theatre Program. Recent designs credits (Set and/or Light) include: _Money Shot_, _Rosencrantz & Guilderstein are Dead_, _Big River_, _Extremities_, _The Underpants_, _Little Shop of Horrors_, _Bus Stop_, _Almost Maine_, _Godspell_, _Peter and the Starcatcher_, and _Lost in Yonkers_. Always looking for new challenges Scott also Directs at Chadron State College. Some of his recent directing Credits include:  _Extremities_, _Money Shot_, _The Vampire Cowboy Trilogy_, _The Play About the Baby_, _Too Much Light Makes the Baby Go Blind_, _The Shape of Things_, and _Stop Kiss_. You can see more of Scott’s work at [www.scottcavin.com](http://www.scottcavin.com)
+  image_year: 2015
+  image_file: scott-cavin.jpg
+
+
+- last_name: Denton
+  first_name: Don
+  groups:
+    - staff
+  positions:
+    - "Assistant Marketing Manager"
+  bio_approved: true
+  bio: >
+    Don Denton has been performing with Post Playhouse off and on since 2008. Since that time, he has been working with Tom to rethink all their marketing efforts. For the past few years, all the mailings and the website have been designed by Don. He is very proud to continue to help the Playhouse reach for new heights even from afar.
+  image_year: 2015
+  image_file: don-denton.jpg
+
+
+- last_name: Gaswick
+  first_name: Tim
+  groups:
+    - staff
+  positions:
+    - Accountant
+  bio_approved: true
+  bio: >
+    Tim is the franchise owner of the Chadron H&R Block office, and has been the accountant for the playhouse since 2007.  He and his wife Kari have four children, Kaylee, Aaron, Braxton, and Seth. Tim not only serves as the accountant, but also as the treasurer on the playhouse board. He enjoys working with the great talent and staff every summer, and looks forward to many years with the playhouse.
+  image_year: 2015
+  image_file: tim-gaswick.jpg
+
+
+- last_name: Ossowski
+  first_name: Tom
+  location: "Tallahasse, FL via Beatrice, NE"
+  groups:
+    - creative
+    - staff
+  positions:
+    - Post Playhouse Producing Artistic Director
+  bio_approved: true
+  bio: >
+    Tom Ossowski is an Associate Professor for the BFA Music Theatre Program at FSU and the Producing Artistic Director for the Post Playhouse at Fort Robinson State Park in Nebraska.  At the Post Playhouse, Tom has directed _Legally Blonde_, _Monty Python’s Spamalot_, _A Man of No Importance_, _All Shook Up_, _Guys and Dolls_, _9 to 5_, _My Way_, _The Drowsy Chaperone_, _Grease_, _The Wizard of Oz_, _Nunsense!_, _Always...Patsy Cline_, _Hello, Dolly!_, and _Oklahoma!_. FSU directing credits include _Beauty & the Beast_, _All Shook Up_, _Legally Blonde_, _Cabaret_, _The Drowsy Chaperone_, _How To Succeed in Business Without Really Trying_, _On The Town_, _Hair_, _The Rocky Horror Show_, and _Sweeney Todd: The Demon Barber of Fleet Street_. Music directing credits include _Guys and Dolls_, _A Chorus Line_, _Ragtime_, _Spring Awakening_, _Jesus Christ Superstar_, _The 25th Annual Putnam County Spelling Bee_, _RENT_, _Into The Woods_, and _Urinetown_. Tom directed and music directed _Into The Woods_ and _The Family_ for The Central Academy of Drama in Beijing.  He is a member of the Stage Directors and Choreographers Society.
+  image_year: 2015
+  image_file: tom-ossowski.jpg
+
+
+#
+#
+#
+#
+#        BOARD
+#
+#
+#
+#
+
+
+- last_name: Seiler
+  first_name: Wally
+  location: "Alliance, NE"
+  groups:
+    - board
+  positions:
+    - President of the Board
+  image_year: 2015
+  image_file: wally-seiler.jpg
+
+
+- last_name: Gramberg
+  first_name: Karleen
+  location: "Chadron, NE"
+  groups:
+    - board
+  positions:
+    - Vice President of the Board
+  image_year: 2015
+  image_file: karleen-gramberg.jpg
+
+
+- last_name: Buchheit
+  first_name: Jo
+  location: "Hemingford, NE"
+  groups:
+    - board
+  positions:
+  image_year: 2015
+  image_file: jo-buchheit.jpg
+
+
+- last_name: Espinoza
+  first_name: Jess
+  location: "Crawford, Nebraska"
+  groups:
+    - board
+  positions:
+  bio: >
+    Crawford Clipper/Harrison Sun LLC
+  image_year: 2017
+  image_file: jess-espinoza.jpg
+
+
+- last_name: Fodnes
+  first_name: Lyle
+  location: "Hemingford, NE"
+  groups:
+    - board
+  positions:
+  bio: >
+    Hemingford Ledger
+  image_year: 2015
+  image_file: lyle-fodnes.jpg
+
+
+- last_name: Gaswick
+  first_name: Tim
+  location: "Chadron, NE"
+  groups:
+    - board
+  positions:
+  bio: >
+    H & R Block
+  image_year: 2015
+  image_file: tim-gaswick.jpg
+
+
+- last_name: Hindman
+  first_name: Tony
+  location: "Hay Springs, NE"
+  groups:
+    - board
+  positions:
+  image_year: 2018
+  image_file: tony-hindman.jpg
+
+
+- last_name: King
+  first_name: Kathie
+  location: "Gordon, NE"
+  groups:
+    - board
+  positions:
+  image_year: 2015
+  image_file: kathie-king.jpg
+
+
+- last_name: Lecher
+  first_name: Danielle
+  location: "Chadron, Nebraska"
+  groups:
+    - board
+  positions:
+  image_year: 2017
+  image_file: danielle-lecher.jpg
+
+
+- last_name: Mohr
+  first_name: Jeanine
+  location: "Chadron, Nebraska"
+  groups:
+    - board
+  positions:
+  image_year: 2016
+  image_file: jeanine-mohr.jpg
+
+- last_name: Rhine
+  first_name: Randy
+  location: "Chadron, NE"
+  groups:
+    - board
+  positions:
+  bio: >
+    Chadron State College
+  image_year: 2015
+  image_file: randy-rhine.jpg
+
+
+- last_name: Rotherham
+  first_name: Marge
+  location: "Crawford, NE"
+  groups:
+    - board
+  positions:
+  bio: >
+    Post Playhouse Alum
+  image_year: 2015
+  image_file: marge-rotherham.jpg
+
+- last_name: Visser
+  first_name: Janelle
+  location: "Hemingford, NE"
+  groups:
+    - board
+  positions:
+  # bio: >
+  #   My name is Janelle Hansen and I’m a Health Educator with Panhandle Public Health District in Hemingford. Additionally, I am a Licensing Agent for a family trucking business I’ve managed for over 22 years. I thoroughly enjoy any time I can get with my three grown children, Hans lives in Washington DC and works in the Senate, Blake is a Senior at Chadron State College, and Emily is a Freshman at Chadron State College. I am a member of the Hemingford Methodist Church and on the Supervisory Committee at the Hemingford Community Federal Credit Union. I love the outdoors through gardening, flowers, and traveling. I am co-owner of a not-for-profit fitness center, The Body Shop, where I enjoy keeping active by taking classes and walking.
+  image_year: 2018
+  image_file: janelle-visser.jpg

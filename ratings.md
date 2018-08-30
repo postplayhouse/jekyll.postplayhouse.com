@@ -2,6 +2,7 @@
 title: Ratings
 permalink: /ratings/
 layout: page
+regenerate: true
 ---
 
 Starting in 2017, all of our productions have been labelled with an unofficial rating. We say "unofficial" because we are not adhering to any sort of national standard for theatre ratings, since no such thing exists.
