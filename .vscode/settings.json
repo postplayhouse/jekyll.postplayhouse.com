@@ -1,0 +1,8 @@
+{
+  "cSpell.enabled": true,
+  "files.associations": {
+    "*.html": "liquid"
+  },
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2
+}
