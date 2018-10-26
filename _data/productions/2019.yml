@@ -1,7 +1,7 @@
 - title: Mary Poppins
   pre_title: Disney and Cameron Mackintosh's
   rating: G
-  image: mermaid.jpg
+  image: mary-poppins.jpg
   opening: 2019-05-31
   writers: |
     ORIGINAL MUSIC & LYRICS BY  
@@ -30,7 +30,7 @@
 - title: Little Shop of Horrors
   rating: H
   rating_explanation: It's a funny and exciting show. Young children might get frightened once or twice.
-  image: footloose.png
+  image: little-shop.jpg
   opening: 2019-06-08
   writers: |
     BOOK & LYRICS BY  
@@ -51,7 +51,7 @@
 
 - title: The Music Man
   rating: G
-  image: chitty.png
+  image: music-man.png
   opening: 2019-06-15
   writers: |
     Book, Music & Lyrics:  
@@ -69,7 +69,7 @@
 
 - title: Sister Act
   rating: G
-  image: urinetown.jpg
+  image: sister-act.jpg
   opening: 2019-06-29
   writers: |
     MUSIC BY  
@@ -96,7 +96,7 @@
 
 - title: A Year With Frog & Toad
   rating: G
-  image: 42nd.png
+  image: frog-and-toad.jpg
   opening: 2019-07-06
   writers: |
     BOOK AND LYRICS BY  
