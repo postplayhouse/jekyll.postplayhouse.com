@@ -15,7 +15,7 @@
     </div>
 
 
-    {% assign rows = "c,d,e,f,g,h,i,j,k,l,m" | split: "," %}
+    {% assign rows = "c,d,e,f,g,h,j,k,l,m" | split: "," %}
     {% for row in rows %}
       <div data-row="{{row}}" class="row {{row}}">
       {% for i in (1..14) reversed %}
@@ -28,14 +28,35 @@
 
 
     <div data-row="n" class="row n">
-      <div class="seat placeholder"><div class="outer"><div class="seat-number">()</div></div></div>
-      {% for i in (2..13) reversed %}
+      <div class="seat handicap"><div class="outer"><div class="seat-number">14</div></div></div>
+      <div class="seat companion"><div class="outer"><div class="seat-number">13</div></div></div>
+      <div class="seat handicap"><div class="outer"><div class="seat-number">12</div></div></div>
+      <div class="seat companion"><div class="outer"><div class="seat-number">11</div></div></div>
+      {% for i in (1..10) reversed %}
         <div class="seat"><div class="outer">
           <div class="seat-number">{{i}}</div>
         </div></div>
       {% endfor %}
-      <div class="seat placeholder"><div class="outer"><div class="seat-number">()</div></div></div>
     </div>
 
+    <div data-row="p" class="row p">
+      {% for i in (11..14) reversed %}
+        <div class="seat hold"><div class="outer">
+          <div class="seat-number">{{i}}</div>
+        </div></div>
+      {% endfor %}
+      {% for i in (1..10) reversed %}
+        <div class="seat"><div class="outer">
+          <div class="seat-number">{{i}}</div>
+        </div></div>
+      {% endfor %}
+    </div>
   </div>
+
+  <ul class="legend">
+    <li><span class="bullet"></span> General seating</li>
+    <li><span class="bullet handicap"></span> Handicap seating</li>
+    <li><span class="bullet companion"></span> Companion seating</li>
+    <li><span class="bullet hold"></span> Held seating - Will be made available after we have confirmed the space is not needed for wheelchairs.</li>
+  </ul>
 </div>
