@@ -65,29 +65,30 @@
   sponsor:
     # image: csc.jpg
 
+
+
 - title: Sister Act
   rating: G
   image: urinetown.jpg
   opening: 2019-06-29
-  # writers: |
-  #   Music:  
-  #   Mark Hollmann
+  writers: |
+    MUSIC BY  
+    Alan Menken
+    
+    LYRICS BY  
+    Glenn Slater
+    
+    BOOK BY  
+    Cheri Steinkellner  
+    Bill Steinkellner
+    
+    ADDITIONAL BOOK MATERIAL BY  
+    Douglas Carter Beane
 
-  #   Lyrics:  
-  #   Mark Hollmann  
-  #   Greg Kotis
+  description: |
+    _Sister Act_ is the feel-good musical comedy smash based on the hit 1992 film that has audiences jumping to their feet!
 
-  #   Book:  
-  #   Greg Kotis
-
-  # description: |
-  #   A sidesplitting sendup of greed, love, revolution (and musicals!), in a time when water is worth its weight in gold.
-
-  #   Winner of three Tony Awards, three Outer Critics Circle Awards, two Lucille Lortel Awards and two Obie Awards, _Urinetown_ is a hilarious musical satire of the legal system, capitalism, social irresponsibility, populism, bureaucracy, corporate mismanagement, municipal politics and musical theatre itself! Hilariously funny and touchingly honest, _Urinetown_ provides a fresh perspective on one of America's greatest art forms.
-
-  #   In a Gotham-like city, a terrible water shortage, caused by a 20-year drought, has led to a government-enforced ban on private toilets. The citizens must use public amenities, regulated by a single malevolent company that profits by charging admission for one of humanity's most basic needs. Amid the people, a hero decides that he's had enough and plans a revolution to lead them all to freedom!
-
-  #   Inspired by the works of Bertolt Brecht and Kurt Weill, _Urinetown_ is an irreverently humorous satire in which no one is safe from scrutiny. Praised for reinvigorating the very notion of what a musical could be, _Urinetown_ catapults the "comedic romp" into the new millennium with its outrageous perspective, wickedly modern wit and sustained ability to produce gales of unbridled laughter.
+    When disco diva, Deloris Van Cartier, witnesses a murder, she is put in protective custody in the one place the cops are sure she won't be a found: a convent! Disguised as a nun, she finds herself at odds with both the rigid lifestyle and uptight Mother Superior. Using her unique disco moves and singing talent to inspire the choir, Deloris breathes new life into the church and community but, in doing so, blows her cover. Soon, the gang is giving chase, only to find them up against Deloris and the power of her newly found sisterhood.
   sponsor:
   #   text: "Tim Hindman &amp; Family"
 
