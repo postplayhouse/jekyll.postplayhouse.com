@@ -92,19 +92,24 @@
   sponsor:
   #   text: "Tim Hindman &amp; Family"
 
+
+
 - title: A Year With Frog & Toad
   rating: G
   image: 42nd.png
   opening: 2019-07-06
-  # writers: |
-  #   Music by Harry Warren  
-  #   Lyrics by Al Dubin  
-  #   Book by Michael Stewart & Mark Bramble  
-  #   Based on the Novel by Bradford Ropes
+  writers: |
+    BOOK AND LYRICS BY  
+    Willie Reale
+    
+    MUSIC BY  
+    Robert Reale
 
-  # description: |
-  #   The ultimate show-biz musical, _42nd Street_ is a celebration of Broadway, Times Square, and the people who make the magic of musical theatre. Aspiring chorus girl Peggy Sawyer comes to the big city from Allentown PA, and soon lands her first big job in the ensemble of a glitzy new Broadway show. But just before opening night, the leading lady breaks her ankle. Will Peggy be able to step in and become a star?
+  description: |
+    Based on Arnold Lobel's well-loved books, this whimsical show follows two great friends – the cheerful, popular Frog and the rather grumpy Toad – through four fun-filled seasons.
 
-  #   The score is chock-full of Broadway standards, including "You're Getting To Be A Habit With Me," "Dames," "We're In the Money," "Lullaby of Broadway," "Shuffle Off to Buffalo" and "Forty-Second Street."
+    Waking from hibernation in the Spring, Frog and Toad plant gardens, swim, rake leaves, go sledding and learn life lessons along the way. The two best friends celebrate and rejoice in the differences that make them unique and special. Part vaudeville, part make believe... all charm, A Year with Frog and Toad tells the story of a friendship that endures throughout the seasons.
+
+    The jazzy, upbeat score of A Year with Frog and Toad bubbles with melody and wit, making it an inventive, exuberant and enchanting musical for the whole family.
   sponsor:
   #   image: ice-cream-shop.png
