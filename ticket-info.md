@@ -28,31 +28,31 @@ Call our box office at {{ site.box_office_phone }}
     </tr>
     <tr class="dotted_under">
       <td>Adult</td>
+      <td class="centered">$23</td>
+      <td class="centered">$25</td>
+      <td class="centered">$28</td>
+      <td class="centered">$30</td>
+    </tr>
+    <tr class="dotted_under">
+      <td>Senior <span class="info"> (65+)</span></td>
       <td class="centered">$21</td>
       <td class="centered">$23</td>
       <td class="centered">$26</td>
       <td class="centered">$28</td>
     </tr>
     <tr class="dotted_under">
-      <td>Senior <span class="info"> (65+)</span></td>
-      <td class="centered">$19</td>
-      <td class="centered">$21</td>
-      <td class="centered">$24</td>
-      <td class="centered">$26</td>
-    </tr>
-    <tr class="dotted_under">
       <td>Youth <span class="info"> (12-)</span></td>
-      <td class="centered">$15</td>
       <td class="centered">$17</td>
-      <td class="centered">$17</td>
-      <td class="centered">$18</td>
+      <td class="centered">$19</td>
+      <td class="centered">$19</td>
+      <td class="centered">$20</td>
     </tr>
     <tr>
       <td>Group <span class="info"> (25 or more)</span></td>
-      <td class="centered">$17</td>
       <td class="centered">$19</td>
-      <td class="centered">$23</td>
+      <td class="centered">$21</td>
       <td class="centered">$25</td>
+      <td class="centered">$27</td>
     </tr>
   </tbody>
 </table>
@@ -82,9 +82,9 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
         <td width="33.333%" class="centered">Youth&nbsp;<span class="info">(12-)</span></td>
       </tr>
       <tr>
-        <td class="centered">$100</td>
-        <td class="centered">$95</td>
-        <td class="centered">$70</td>
+        <td class="centered">$110</td>
+        <td class="centered">$105</td>
+        <td class="centered">$80</td>
       </tr>
     </tbody>
   </table>
@@ -102,9 +102,9 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
         <td width="33.333%" class="centered">Youth <span class="info">(12-)</span></td>
       </tr>
       <tr>
-        <td class="centered">$77</td>
-        <td class="centered">$72</td>
-        <td class="centered">$57</td>
+        <td class="centered">$85</td>
+        <td class="centered">$80</td>
+        <td class="centered">$65</td>
       </tr>
     </tbody>
   </table>
