@@ -32,16 +32,18 @@
   rating_explanation: It's a funny and exciting show. Young children might get frightened once or twice.
   image: footloose.png
   opening: 2019-06-08
-  # writers: |
-  #   Music by Tom Snow  
-  #   Lyrics by Dean Pitchford  
-  #   Stage Adaptation by Dean Pitchford and Walter Bobbie  
-  #   Based on the original screenplay by Dean Pitchford  
-  #   Additional Music by Eric Carmen, Sammy Hagar, Kenny Loggins and Jim Steinman
-  # description: |
-  #   One of the most explosive movie musicals in recent memory bursts onto the live stage with exhilarating results. When Ren and his mother move from Chicago to a small farming town, Ren is prepared for the inevitable adjustment period at his new high school. What he isn't prepared for are the rigorous local edicts, including a ban on dancing instituted by the local preacher, determined to exercise the control over the town's youth that he cannot command in his own home. When the reverend's rebellious daughter sets her sights on Ren, her roughneck boyfriend tries to sabotage Ren's reputation, with many of the locals eager to believe the worst about the new kid.
+  writers: |
+    BOOK & LYRICS BY  
+    Howard AshmanHoward Ashman
 
-  #   The heartfelt story that emerges is of a father longing for the son he lost and of a young man aching for the father who walked out on him. To the rockin' rhythm of its Oscar and Tony-nominated top 40 score (the soundtrack album reached number one on the Billboard charts and has sold over 15 million copies!) and augmented with dynamic new songs for the stage musical, _Footloose_ celebrates the wisdom of listening to young people, guiding them with a warm heart and an open mind.
+    MUSIC BY  
+    Alan MenkenAlan Menken
+
+  description: |
+    The meek floral assistant Seymour Krelborn stumbles across a new breed of plant he names "Audrey II" - after his coworker crush. This foul-mouthed, R&B-singing carnivore promises unending fame and fortune to the down and out Krelborn as long as he keeps feeding it... BLOOD.
+    
+    A hilariously delicious Broadway and Hollywood sci-fi smash musical, _Little Shop Of Horrors_ has _devoured_ the hearts of theatre goers for over 30 years!
+
   sponsor:
     # image: hr-block.jpg
 
