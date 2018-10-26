@@ -47,23 +47,21 @@
   sponsor:
     # image: hr-block.jpg
 
+
+
 - title: The Music Man
   rating: G
   image: chitty.png
   opening: 2019-06-15
-  # writers: |
-  #   Music and Lyrics:  
-  #   Richard M. Sherman  
-  #   Robert B. Sherman
+  writers: |
+    Book, Music & Lyrics:  
+    Meredith Willson
 
-  #   Adapted for the stage by:  
-  #   Jeremy Sams
-  # description: |
-  #   Everyone's favorite flying car comes to life in the musical adaptation of the beloved family film.
+  description: |
+    By turns wicked, funny, warm, romantic and touching, _The Music Man_ is family entertainment at its best. Meredith Willson's six-time, Tony Award-winning musical comedy has been entertaining audiences since 1957 and is a family-friendly story to be shared with every generation.
 
-  #   Take a fantastic musical adventure with an out-of-this-world car that flies through the air and sails the seas. Based on the beloved 1968 film version of Ian Fleming's children's book, and featuring an unforgettable score by the Sherman Brothers (Mary Poppins), _Chitty Chitty Bang Bang_ is one family-friendly blockbuster that audiences will find "Truly Scrumptious."
+    _The Music Man_ follows fast-talking traveling salesman, Harold Hill, as he cons the people of River City, Iowa, into buying instruments and uniforms for a boys' band that he vows to organize – this, despite the fact that he doesn't know a trombone from a treble clef. Will his plans to skip town with the cash be foiled by the town librarian and music teacher, Marian Paroo, or will he be able to stay one step ahead of her, too?
 
-  #   An eccentric inventor, Caractacus Potts sets about restoring an old race car from a scrap heap with the help of his children, Jeremy and Jemima. They soon discover the car has magical properties, including the ability to float and take flight. Trouble occurs when the evil Baron Bomburst desires the magic car for himself. The family joins forces with Truly Scrumptious and batty Grandpa Potts to outwit the dastardly Baron and Baroness and their villainous henchman, the Child Catcher.
   sponsor:
     # image: csc.jpg
 
