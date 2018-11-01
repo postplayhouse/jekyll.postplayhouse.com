@@ -29,7 +29,7 @@
 
 - title: Little Shop of Horrors
   rating: H
-  rating_explanation: It's a funny and exciting show. Young children might get frightened once or twice.
+  rating_explanation: It's a funny and exciting show. Young children might get frightened once or twice, and there is a little bit of foul language in the show. If you are familiar with the movie, you'll know the content of the show.
   image: little-shop.jpg
   opening: 2019-06-08
   writers: |
@@ -68,7 +68,8 @@
 
 
 - title: Sister Act
-  rating: G
+  rating: H
+  rating_explanation: Although funny and heartwarming, his one probably isn't well-suited for young audiences. It conatins some language and adult situations.
   image: sister-act.jpg
   opening: 2019-06-29
   writers: |
