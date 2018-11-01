@@ -10,10 +10,14 @@
     font-size: 16px
 
   .stage
-    background-color: lightblue
-    padding-top: 12%
+    background-color: rgb(128, 91, 52)
+    padding-top: 3%
+    padding-bottom: 3%
+    font-size: 2rem
     text-align: center
     color: white
+    border-bottom-right-radius: 18px
+    border-bottom-left-radius: 18px
 
   .seats
     display: flex
@@ -51,6 +55,32 @@
     position: relative
     padding-bottom: 100%
     width: 100%
+
+  .legend
+    list-style: none
+    margin-top: 12px
+    
+    li
+      text-indent: -3em
+      padding-left: 3em
+  
+  .bullet
+    background-color: green
+    display: inline-block
+    border-radius: 999em
+    margin: 3px
+    width: 18px
+    height: 18px
+    vertical-align: middle
+
+  .hold .outer, .hold
+    background-color: black
+
+  .handicap .outer, .handicap
+    background-color: rgb(48, 178, 255)
+
+  .companion .outer, .companion
+    background-color: gray
 
   .seat-number
     position: absolute
