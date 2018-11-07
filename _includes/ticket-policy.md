@@ -12,13 +12,11 @@ The Post Playhouse will make every effort to accommodate everyone with seats of 
 
 ### Late Arrival
 
-If a patron does not arrive at the theatre 10 minutes prior to curtain, the theatre reserves the right to resell that patron's seat to someone on the waitlist. In the event that a patron knows they are running late and cannot arrive before the 10 minute deadline, they can call the theatre and leave a message with the box office, letting the box office staff know that they are indeed on their way, and the box office will hold their seat. This call must be completed 15 minutes prior to curtain, or the staff may not be able to review the message before unclaimed seats are released.
+If a patron does not arrive at the theatre 10 minutes prior to curtain, the theatre reserves the right to resell that patron's seat to someone on the waitlist.
 
-If a patron arrives too late for seating before curtain, the theatre reserves the right to move the patron to a seat that will be more convenient for late seating. In such circumstances, the original seat may remain available for post-intermission seating, or may be given to another patron. In the latter situation, the patron will not be able to reclaim their original seat after intermission.
+If a patron arrives too late for seating before curtain, even if the performance is not sold out and their seat was not resold, the theatre reserves the right to move the patron to a seat that will be more convenient for late seating.
 
-If a seat is resold at the box office due to a patron's absence, the patron who originally purchased the seat will be offered a gift certificate equal to the value of the resold seat.
-
-If a patron misses a performance and their seat was not resold, no refund of any kind will be available.
+If a seat is resold at the box office due to a patron's absence at ten minutes to curtain, and the patron subsequently arrives to the performance, they *may* be offered credit toward another production at the discretion of the theatre.
 
 If a patron arrives at the theatre too late to be seated before the show starts, the patron may be held in the lobby until an appropriate moment when the production and other patrons will be least disturbed by the late seating.
 
