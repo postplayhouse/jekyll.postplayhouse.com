@@ -12,10 +12,6 @@ Subscribers: even if it's not a gift, print off a subscription card for a conven
 
 Just download the one you want and print!
 
-## Coming soon!
-The gift certificate artwork is being finished shortly. In the meantime, you can still [purchase gift certificates](https://postplayhousetickets.universitytickets.com/user_pages/event_listings.asp) and just print them here when the print-outs become available.
-
-{% comment %}
 ## {{ page.season }} Gift Certificate
 
 <a href="{{ site.baseurl }}/documents/gift-certificate.pdf" download><img src="{{ site.baseurl }}/documents/gift-certificate.png" alt="Image of Gift Certificate"></a>
@@ -44,4 +40,3 @@ Click to download the PDF to print. Don't forget to fill out the record locator 
 <a href="{{ site.baseurl }}/documents/subscription-presenter.pdf" download><img src="{{ site.baseurl }}/documents/subscription-presenter.png" alt="Image of Subscription Presentation Card" style="border: 1px solid #eee"></a>
 
 Click to download the PDF. It contains the printing instructions.
-{% endcomment %}
