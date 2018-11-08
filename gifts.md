@@ -4,7 +4,6 @@ permalink: /gifts/
 layout: page
 group: main
 order: 4
-season: 2018
 ---
 Now when you buy a gift via our [Online Box Office](https://postplayhousetickets.universitytickets.com/user_pages/event_listings.asp), you can print off any of our certificates/subscription cards below and give them to the recipient! Use the information in your confirmation email to fill out the gift card. Be sure to write in your Record Locator number.
 
@@ -12,7 +11,7 @@ Subscribers: even if it's not a gift, print off a subscription card for a conven
 
 Just download the one you want and print!
 
-## {{ page.season }} Gift Certificate
+## {{ site.season }} Gift Certificate
 
 <a href="{{ site.baseurl }}/documents/gift-certificate.pdf" download><img src="{{ site.baseurl }}/documents/gift-certificate.png" alt="Image of Gift Certificate"></a>
 
@@ -21,14 +20,14 @@ You can also download and print a decorative backing if you like.
 <a href="{{ site.baseurl }}/documents/gift-certificate-backing.pdf" download><img src="{{ site.baseurl }}/documents/gift-certificate-backing.png" alt="Image of Gift Certificate Backing"></a>
 
 
-## {{ page.season }} Season 5 Show Subscription Card
+## {{ site.season }} Season 5 Show Subscription Card
 
 <a href="{{ site.baseurl }}/documents/subscription-card-5.pdf" download><img src="{{ site.baseurl }}/documents/subscription-card-5.png" alt="Image of Subscription Card"></a>
 
 Click to download the PDF to print. Don't forget to fill out the record locator (find it in your purchase confirmation email).
 
 
-## {{ page.season }} Season 4 Show Subscription Card
+## {{ site.season }} Season 4 Show Subscription Card
 
 <a href="{{ site.baseurl }}/documents/subscription-card-4.pdf" download><img src="{{ site.baseurl }}/documents/subscription-card-4.png" alt="Image of Subscription Card"></a>
 
