@@ -1,5 +1,5 @@
 ---
-title: Industry Professionals
+title: Work at Post Playhouse
 permalink: /industry-professionals/
 layout: page
 nav_title: Work at Post
