@@ -21,8 +21,7 @@
     "gulp-newer": "^1.1.0",
     "gulp-remember": "^0.3.0",
     "gulp-responsive": "^2.2.0",
-    "run-sequence": "^1.1.5",
-    "sharp": "^0.13.1"
+    "run-sequence": "^1.1.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -37,5 +36,9 @@
   "bugs": {
     "url": "https://github.com/happycollision/jekyll.postplayhouse.com/issues"
   },
-  "homepage": "https://github.com/happycollision/jekyll.postplayhouse.com#readme"
+  "homepage": "https://github.com/happycollision/jekyll.postplayhouse.com#readme",
+  "engines": {
+    "node": "8.*"
+  },
+  "engineStrict": true
 }
