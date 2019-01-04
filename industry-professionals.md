@@ -4,7 +4,7 @@ permalink: /industry-professionals/
 layout: page
 nav_title: Work at Post
 group: main
-#image: /images/2016/seasonslide2016.jpg
+image: /images/perennials/work-at-post.png
 order: 7
 ---
 
