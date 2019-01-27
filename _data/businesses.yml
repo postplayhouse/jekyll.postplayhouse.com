@@ -77,32 +77,6 @@
     zip: 69337
   phone: 308-432-4500
 
-- name: The Ice Cream Shop
-  type:
-    - ice cream
-    - chocolates
-  supporter: true
-  address:
-    street: 341 West 3rd Street
-    city: Chadron
-    state: NE
-    zip: 69337
-  about: |
-    Looking for a sweet treat in Chadron? Stop by The Ice Cream Shop for their "Premium Artisan Ice Cream" and "Fine Chocolates." They have over 40 fabulous flavors and you can't miss them across from the fire station on Highway 20.
-
-- name: Kountry Loft
-  type:
-    - ice cream
-    - antiques
-  supporter: true
-  address:
-    street: 300 Main Street
-    city: Crawford
-    state: NE
-    zip: 69339
-  about: |
-    A supporter of the Post Playhouse for years, the Kountry Loft is a lovely ice cream parlor and antique shop. Many of the props featured in our productions in years past have been donated for the summer by the Kountry Loft. So stop in for some ice cream and have a look around.
-
 - name: Mount Rushmore National Park
   site: http://www.nps.gov/moru/index.htm
   type:
