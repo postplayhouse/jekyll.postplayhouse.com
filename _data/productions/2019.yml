@@ -17,13 +17,12 @@
     
     CO-CREATED BY  
     Cameron Mackintosh
-  sponsor:
-    # image: security-first-bank.png
-
   description: |
     Based on the books by P.L. Travers and the classic Walt Disney film, Disney and Cameron Mackintosh's Mary Poppins delighted Broadway audiences for over 2,500 performances and received nominations for nine Olivier and seven Tony Awards, including Best Musical.
 
     The jack-of-all trades, Bert, introduces us to England in 1910 and the troubled Banks family. Young Jane and Michael have sent many a nanny packing before Mary Poppins arrives on their doorstep. Using a combination of magic and common sense, she must teach the family members how to value each other again. Mary Poppins takes the children on many magical and memorable adventures, but Jane and Michael aren't the only ones upon whom she has a profound effect. Even grown-ups can learn a lesson or two from the nanny who advises that "Anything can happen if you let it."
+  sponsor:
+    image: hr-block.jpg
 
 
 
@@ -45,7 +44,7 @@
     A hilariously delicious Broadway and Hollywood sci-fi smash musical, _Little Shop Of Horrors_ has _devoured_ the hearts of theatre goers for over 30 years!
 
   sponsor:
-    # image: hr-block.jpg
+    text: "Tim Hindman &amp; Family"
 
 
 
@@ -63,7 +62,7 @@
     _The Music Man_ follows fast-talking traveling salesman, Harold Hill, as he cons the people of River City, Iowa, into buying instruments and uniforms for a boys' band that he vows to organize – this, despite the fact that he doesn't know a trombone from a treble clef. Will his plans to skip town with the cash be foiled by the town librarian and music teacher, Marian Paroo, or will he be able to stay one step ahead of her, too?
 
   sponsor:
-    # image: csc.jpg
+    image: security-first-bank.png
 
 
 
@@ -91,8 +90,7 @@
 
     When disco diva, Deloris Van Cartier, witnesses a murder, she is put in protective custody in the one place the cops are sure she won't be a found: a convent! Disguised as a nun, she finds herself at odds with both the rigid lifestyle and uptight Mother Superior. Using her unique disco moves and singing talent to inspire the choir, Deloris breathes new life into the church and community. But how long can she keep up the act and steer clear of the gang that is out to get her?
   sponsor:
-  #   text: "Tim Hindman &amp; Family"
-
+    image: stuart-trust.png
 
 
 - title: A Year With Frog & Toad
@@ -113,4 +111,4 @@
 
     The jazzy, upbeat score of A Year with Frog and Toad bubbles with melody and wit, making it an inventive, exuberant and enchanting musical for the whole family.
   sponsor:
-  #   image: ice-cream-shop.png
+    image: big-bats.png
