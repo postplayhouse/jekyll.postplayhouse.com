@@ -64,6 +64,34 @@
   image_file: dewayne-barrett.jpg
 
 
+- last_name: Boynton
+  first_name: Pheobe H.
+  location: "Ithaca, NY / Los Angeles, CA"
+  groups:
+    - creative
+  positions:
+    - Season Costume Designer
+  bio_approved: true
+  bio: >
+    Pheobe Boynton is thrilled to be returning to The Post Playhouse for her fifth season! She is a freelance costume designer and technician originally from Ithaca, NY and currently based out of Los Angeles, California. She has a bachelors in art history from Cornell University, and an MFA in theater design and technology from the University of Missouri-Kansas City. She has done work for a wide variety of clients and companies including the Los Angeles Opera, Norwegian Cruise Line Holdings, Kanye West, Kansas City Repertory Theater, The Unicorn Theater, Legendary Digital, Relativity Media, Investigation Discovery and Theatrical Arts International.
+  image_year: 2017
+  image_file: pheobe-boynton.jpg
+
+
+- last_name: Brintnall
+  first_name: Cody
+  location: "Crawford, NE"
+  groups:
+    - staff
+  positions:
+    - Box Office Staff
+  bio_approved: true
+  bio: >
+    Cody is very excited for his second season at the Post Playhouse. Cody just finished his junior year at Crawford High School and has performed multiple times in the school plays. He lives on his family's sheep ranch with their four dogs. He's looking forward to meeting everyone and hopes for a good year.
+  image_year: 2018
+  image_file: cody-brintnall.jpg
+
+
 - last_name: Cavin
   first_name: Scott
   location: "Chadron, NE via Lemoore, CA"
@@ -92,6 +120,21 @@
   image_file: don-denton.jpg
 
 
+- last_name: Fox
+  first_name: Don
+  location: "Wenatchee, WA"
+  groups:
+    - creative
+  positions:
+    - Season Scenic Designer
+    - Lighting Designer --- Mary Poppins, Sister Act, The Music Man, Frog & Toad
+  bio_approved: true
+  bio: >
+    Don is happy to be returning for his 5th season at the Post Playhouse.  A native of Colorado Springs, CO, he is based in Wenatchee, WA.  Recent and favorite credits include lighting design for the Atlantis Resort, Paradise Island, (_Great American Variety Show_), The Borgata Casino, Atlantic City, NJ (_The Burlesque Show_), Florida State University, Tallahassee, FL (_All Shook Up, Legally Blonde_), The Moscow Ballet North American Tours 2014, 2015 (_The Great Russian Nutcracker_), Numerica Performing Arts Center of Wenatchee, WA (_Young Frankenstein_, _August Osage County_), and he recently created and produced the world premiere of _EDM Antigone_ which is available as an educational production to tour nationally in 2017-2018 ([www.edmAntigone.com](http://www.edmantigone.com/)). His extensive portfolio can be viewed at [www.DonFoxDesigns.com](http://www.donfoxdesigns.com/).
+  image_year: 2015
+  image_file: don-fox.jpg
+
+
 - last_name: Gaswick
   first_name: Tim
   groups:
@@ -103,6 +146,21 @@
     Tim is the franchise owner of the Chadron H&R Block office, and has been the accountant for the playhouse since 2007.  He and his wife Kari have four children, Kaylee, Aaron, Braxton, and Seth. Tim not only serves as the accountant, but also as the treasurer on the playhouse board. He enjoys working with the great talent and staff every summer, and looks forward to many years with the playhouse.
   image_year: 2015
   image_file: tim-gaswick.jpg
+
+
+- last_name: Moritz
+  first_name: Garth
+  location: "Boulder, CO"
+  groups:
+    - staff
+    - crew
+  positions:
+    - Season Asst. Stage Manager
+  bio_approved: true
+  bio: >
+    Garth Moritz is excited for his first season with the Post Playhouse.  An Arkansas native, he's been working in Chicago for the last five years.  His favorite theater credits include _How to Succeed..._ and _Singing in the Rain_ with the Marriott Theater in Lincolnshire, _Legally Blonde_ and _The Little Mermaid_, with the Round Barn Theatre at Amish Acres in Nappanee, Ind., and _Sweeney Todd_ with Porchlight Music Theatre in Chicago.  He now lives in Boulder, Col.
+  image_year: 2018
+  image_file: garth-moritz.jpg
 
 
 - last_name: Ossowski
@@ -118,6 +176,36 @@
     Tom Ossowski is an Associate Professor for the BFA Music Theatre Program at FSU and the Producing Artistic Director for the Post Playhouse at Fort Robinson State Park in Nebraska.  At the Post Playhouse, Tom has directed _Legally Blonde_, _Monty Python’s Spamalot_, _A Man of No Importance_, _All Shook Up_, _Guys and Dolls_, _9 to 5_, _My Way_, _The Drowsy Chaperone_, _Grease_, _The Wizard of Oz_, _Nunsense!_, _Always...Patsy Cline_, _Hello, Dolly!_, and _Oklahoma!_. FSU directing credits include _Beauty & the Beast_, _All Shook Up_, _Legally Blonde_, _Cabaret_, _The Drowsy Chaperone_, _How To Succeed in Business Without Really Trying_, _On The Town_, _Hair_, _The Rocky Horror Show_, and _Sweeney Todd: The Demon Barber of Fleet Street_. Music directing credits include _Guys and Dolls_, _A Chorus Line_, _Ragtime_, _Spring Awakening_, _Jesus Christ Superstar_, _The 25th Annual Putnam County Spelling Bee_, _RENT_, _Into The Woods_, and _Urinetown_. Tom directed and music directed _Into The Woods_ and _The Family_ for The Central Academy of Drama in Beijing.  He is a member of the Stage Directors and Choreographers Society.
   image_year: 2015
   image_file: tom-ossowski.jpg
+
+
+- last_name: Phillips
+  first_name: Ken
+  location: "Tucson, AZ"
+  groups:
+    - crew
+    - creative
+  positions:
+    - Production Stage Manager
+    - Lighting Designer --- Little Shop of Horrors
+  bio_approved: true
+  bio: >
+    Ken is extremely happy to be coming back for his sixth consecutive year at the Post Playhouse as the Production Stage Manager! Ken holds a BFA in Stage Management and graduated last year with an MFA in Lighting Design from the University of Arizona. In the past, he has worked as a freelance Stage Manager in LA, working on various productions ranging from _Bronies: The Musical!_ to the _Big Hero 6 Laser Light Show_ at Disney's historic El Capitan Theatre in Hollywood. In Lighting Design, he has worked on a variety of different productions both academically and professionally, with the bulk of them being in Musical Theatre and Opera. He is also an avid stage combat enthusiast, where he has helped bring some of the Post's past production's stage fighting to life. He would like to thank Dewayne and Tom for having him back another year, and to give his love to his girlfriend Alexandra for all her support. To see more of his work, look at [www.KGPhillips.com](http://www.KGPhillips.com)
+  image_year: 2018
+  image_file: ken-phillips.jpg
+
+
+- last_name: Stephens
+  first_name: Ann
+  location: "Crawford, NE"
+  groups:
+    - staff
+  positions:
+    - Box Office Manager
+  bio_approved: true
+  bio: >
+    Crawford native, Ann Stephens, is happy to be returning to the Post Playhouse for the 2019 season.  At the Playhouse, she can often be found cleaning, popping corn, watering plants, or making reservations. Ann enjoys the opportunity to visit with returning customers as well as greeting those new to the Playhouse experience. In addition to her work here, Ann enjoys baking and spending time with grandkids and the rest of her family. Her husband, Dale, is an avid golfer and can be found nearly every day of the spring, summer and autumn on the Legend Buttes Golf course in Crawford.
+  image_year: 2017
+  image_file: ann-stephens.jpg
 
 
 #
