@@ -12,7 +12,19 @@ order: 7
 
 ## Summer 2019
 
-### Professional Auditions (by appointment)
+### Keyboard 3 Player
+
+Please send an email to [auditions@postplayhouse.com](mailto:auditions@postplayhouse.com) with the subject "Key 3 Player: YOUR_NAME"
+
+The email must include the following:
+- Resum&eacute;
+- link (not attachment) to a video of you playing
+
+If you are considered, we will respond with the pay rate (and other information) for the job.
+
+Please note: Transportation to Post Playhouse is not provided. Housing is provided.
+
+### Professional Actor Auditions (by appointment)
 
 - Chicago, IL --- Feb 2
 - NYC --- March 20 and 21
@@ -41,7 +53,7 @@ considered.__
 
 We look forward to hearing from you!
 
-### Local Auditions (No appointment necessary)
+### Local Actor Auditions (No appointment necessary)
 
 Auditions for Adults and Young Actors will be held at Post Playhouse. Join
 us at either of our local auditions:
