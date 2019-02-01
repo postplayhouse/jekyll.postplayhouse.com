@@ -36,7 +36,7 @@ Seeking actors to play multiple roles in 4 of 5 shows in our repertory season:
 1. {{ production.title }}
 {%- endfor %}
 
-All professional actors will perform in _Mary Poppins_, _Sister Act_, and _The Music Man_. All professional actors will perform in either _A Year With Frod and Toad_ or _Little Shop of Horrors_. This is a 14 week contract with competitive pay from May 13 to August 18.
+All professional actors will perform in _Mary Poppins_, _Sister Act_, and _The Music Man_. All professional actors will perform in either _A Year With Frog and Toad_ or _Little Shop of Horrors_. This is a 14 week contract with competitive pay from May 13 to August 18.
 
 Auditions will be by appointment only, so please __INCLUDE ALL OF THE
 FOLLOWING__ in an email to [auditions@postplayhouse.com](mailto:auditions@postplayhouse.com):
