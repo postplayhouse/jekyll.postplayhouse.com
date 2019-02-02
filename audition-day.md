@@ -10,13 +10,19 @@ Please note that we do not have callback materials for every single part we are 
 ## MUSIC MAN
 
 ### Barbershop Quartet Men
-- Lida Rose - The end of the counterpoint with Marian. Audio is up a half step from where it is written. Skip the first measure (it's there for context), and begin singing at "Lida Rose I'm home again Rose..."
-  - [Sheet Music](https://www.dropbox.com/s/ctzxeij8vua2x0k/Lida%20Rose%20End.pdf?dl=0)
-  - All Parts [Audio File](https://www.dropbox.com/s/6hv7an193ro5xgk/Lida%20Rose%20Equal%20Parts%20%28ending%29.mp3?dl=0)
-  - No Tenor [Audio File](https://www.dropbox.com/s/jkjvu4hyykbx543/Lida%20Rose%20No%20Tenor%20%28ending%29.mp3?dl=0)
-  - No Lead [Audio File](https://www.dropbox.com/s/hyzr6ua0c0x246v/Lida%20Rose%20No%20Lead%20%28ending%29.mp3?dl=0)
-  - No Baritone [Audio File](https://www.dropbox.com/s/0iwklf1n6npzxru/Lida%20Rose%20No%20Baritone%20%28ending%29.mp3?dl=0)
-  - No Bass [Audio File](https://www.dropbox.com/s/ybe952sf5jun5dx/Lida%20Rose%20No%20Bass%20%28ending%29.mp3?dl=0)
+- Lida Rose - The end of the counterpoint with Marian. Audio is down a half step from where the sheet music is written. Skip the first measure (it's there for context), and begin singing at "Lida Rose I'm home again Rose..."
+  - Learning Material (For audio files, your part is in the left speaker):
+    - [Sheet Music](https://www.dropbox.com/s/ctzxeij8vua2x0k/Lida%20Rose%20End.pdf?dl=0)
+    - [Tenor Part](https://www.dropbox.com/s/jy4aqitkexaurs0/Lida%20Rose%20Tenor%20Part%20%28ending%29.mp3?dl=0)
+    - [Lead Part](https://www.dropbox.com/s/k5invq35qdl5mxe/Lida%20Rose%20Lead%20Part%20%28ending%29.mp3?dl=0)
+    - [Baritone Part](https://www.dropbox.com/s/jywm29ql03dn0rs/Lida%20Rose%20Baritone%20Part%20%28ending%29.mp3?dl=0)
+    - [Bass Part](https://www.dropbox.com/s/9u7n41hhtqqyh0v/Lida%20Rose%20Bass%20Part%20%28ending%29.mp3?dl=0)
+  - Practice Material
+    - All Voices [Audio File](https://www.dropbox.com/s/6hv7an193ro5xgk/Lida%20Rose%20Equal%20Parts%20%28ending%29.mp3?dl=0)
+    - No Tenor Voice [Audio File](https://www.dropbox.com/s/jkjvu4hyykbx543/Lida%20Rose%20No%20Tenor%20%28ending%29.mp3?dl=0)
+    - No Lead Voice [Audio File](https://www.dropbox.com/s/hyzr6ua0c0x246v/Lida%20Rose%20No%20Lead%20%28ending%29.mp3?dl=0)
+    - No Baritone Voice [Audio File](https://www.dropbox.com/s/0iwklf1n6npzxru/Lida%20Rose%20No%20Baritone%20%28ending%29.mp3?dl=0)
+    - No Bass Voice [Audio File](https://www.dropbox.com/s/ybe952sf5jun5dx/Lida%20Rose%20No%20Bass%20%28ending%29.mp3?dl=0)
 
 ### Harold
 - “Seventy-Six Trombones” p 86-7 meas 1-20 [sheet music](https://www.dropbox.com/s/utxcy4r8omy57vn/Harold%20Hill.pdf?dl=0)
