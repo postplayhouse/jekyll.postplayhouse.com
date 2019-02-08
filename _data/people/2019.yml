@@ -4,12 +4,12 @@
 #   groups:
 #     -
 #   positions:
-#     - Disney's Mary Poppins ---
-#     - Little Shop of Horrors ---
-#     - The Music Man ---
-#     - Sister Act ---
-#     - A Year With Frog & Toad ---
-#   bio_approved: false
+#     - Mary Poppins --- YOUR_ROLE_HERE
+#     - Sister Act --- YOUR_ROLE_HERE
+#     - The Music Man --- YOUR_ROLE_HERE
+#     - Frog and Toad --- YOUR_ROLE_HERE
+#     - Little Shop of Horrors --- YOUR_ROLE_HERE
+#   bio_approved: true
 #   bio: >
 #     
 #   image_year: 2019
@@ -35,7 +35,7 @@
 
 - last_name: Agustin
   first_name: Julio
-  location: "New York City"
+  location: "New York City, NY"
   groups:
     - creative
   positions:
@@ -43,9 +43,23 @@
     - Choreographer --- Sister Act 
   bio_approved: true
   bio: |
-    Broadway credits:  _Fosse_, _Steel Pier_, _Never Gonna Dance_, _Bells Are Ringing_ (revival), _Women on the Verge of a Nervous Breakdown_, _Chicago_.  Recent publication: _The Professional Actor’s Handbook: From Casting Call to Curtain Call_ (Rowman & Littlefield, 2017). Award nominations: Audelco Award, Best Director (_Sweet Charity_ @ New Haarlem Arts Theatre, NYC); Syracuse Area Live Theatre, Best Choreographer (_In the Heights_ @ Hangar Theatre); Houston Press, Best Choreographer (_Guys and Dolls_ @ Theatre Under the Stars). BM in Musical Theatre, FSU; MFA in Directing, Penn State. Assistant Professor of Theatre, University of Miami.  Julio runs The Transition Workshop, a monthly audition studio in New York City ([www.JulioAgustin.com](http://www.JulioAgustin.com)).
+    Julio is grateful to Tom and Dewayne for this opportunity, and is excited to be making his Post Playhouse debut! Broadway credits:  _Fosse_, _Steel Pier_, _Never Gonna Dance_, _Bells Are Ringing_ (revival), _Women on the Verge of a Nervous Breakdown_, _Chicago_.  Recent publication: _The Professional Actor’s Handbook: From Casting Call to Curtain Call_ (Rowman & Littlefield, 2017). Award nominations: Audelco Award, Best Director (_Sweet Charity_ @ New Haarlem Arts Theatre, NYC); Syracuse Area Live Theatre, Best Choreographer (_In the Heights_ @ Hangar Theatre); Houston Press, Best Choreographer (_Guys and Dolls_ @ Theatre Under the Stars). BM in Musical Theatre, FSU; MFA in Directing, Penn State. Assistant Professor of Theatre, University of Miami.  Julio runs The Transition Workshop, a monthly audition studio in New York City ([www.JulioAgustin.com](http://www.JulioAgustin.com)).
   image_year: 2019
   image_file: julio-agustin.jpg
+
+
+- first_name: Chari
+  last_name: Arespacochaga
+  location: "New York City, NY and Tallahassee, FL"
+  groups:
+    - staff
+  positions:
+    - Director --- Little Shop of Horrors
+  bio_approved: true
+  bio: >
+    Directing credits include: _Birthmark, Love’s Labour’s Lost The Musical, 25th Annual Putnam County Spelling Bee, Spring Awakening The Musical, Rock Of Ages, Amadeus, Doubt, Legally Blonde, Avenue Q, Disney’s The Little Mermaid, Disney’s Tarzan, The Full Monty, Aida, Honk_.  Director of Creative Development:  _Princess Ten Ten and The Dark Skies, Missing_.  MFA in Theatre Directing. Thank you, Jeff.  Musical Staging credits include: _Next To Normal, A Little Night Music, Tick...Tick...Boom!_  MFA in Directing.  Assistant Professor of Theatre, Florida State University. [chariarespacochaga.com](https://www.chariarespacochaga.com)
+  image_year: 2019
+  image_file: chari-arespacochaga.png
 
 
 - last_name: Barrett
@@ -70,7 +84,7 @@
   groups:
     - creative
   positions:
-    - Season Costume Designer
+    - Costume Designer --- Mary Poppins, Sister Act, Little Shop
   bio_approved: true
   bio: >
     Pheobe Boynton is thrilled to be returning to The Post Playhouse for her fifth season! She is a freelance costume designer and technician originally from Ithaca, NY and currently based out of Los Angeles, California. She has a bachelors in art history from Cornell University, and an MFA in theater design and technology from the University of Missouri-Kansas City. She has done work for a wide variety of clients and companies including the Los Angeles Opera, Norwegian Cruise Line Holdings, Kanye West, Kansas City Repertory Theater, The Unicorn Theater, Legendary Digital, Relativity Media, Investigation Discovery and Theatrical Arts International.
@@ -87,7 +101,7 @@
     - Box Office Staff
   bio_approved: true
   bio: >
-    Cody is very excited for his second season at the Post Playhouse. Cody just finished his junior year at Crawford High School and has performed multiple times in the school plays. He lives on his family's sheep ranch with their four dogs. He's looking forward to meeting everyone and hopes for a good year.
+    Cody is very happy to be returning to the Post Playhouse for his second season. He just finished his senior year at Crawford High School and is getting ready for college. Cody is looking forward to meeting everyone and having another great summer out at Post Playhouse.
   image_year: 2018
   image_file: cody-brintnall.jpg
 
@@ -102,7 +116,7 @@
     - Season Technical Director
   bio_approved: true
   bio: >
-    Scott is returning to the Post Playhouse after being a bum last summer. Scott is also an Associate Professor of Theatre at Chadron State College. His responsibilities include Designer (Scenic, Lighting, Sound, Projection), Technical Director and Production Manager for the Theatre Program. Recent designs credits (Set and/or Light) include: _Money Shot_, _Rosencrantz & Guilderstein are Dead_, _Big River_, _Extremities_, _The Underpants_, _Little Shop of Horrors_, _Bus Stop_, _Almost Maine_, _Godspell_, _Peter and the Starcatcher_, and _Lost in Yonkers_. Always looking for new challenges Scott also Directs at Chadron State College. Some of his recent directing Credits include:  _Extremities_, _Money Shot_, _The Vampire Cowboy Trilogy_, _The Play About the Baby_, _Too Much Light Makes the Baby Go Blind_, _The Shape of Things_, and _Stop Kiss_. You can see more of Scott’s work at [www.scottcavin.com](http://www.scottcavin.com)
+    Scott is excited to be returning to the Post Playhouse for his second season. Scott is also an Associate Professor of Theatre at Chadron State College. His responsibilities include Designer (Scenic, Lighting, Sound, Projection), Technical Director and Production Manager for the Theatre Program. Recent designs credits (Set and/or Light) include: _Money Shot_, _Rosencrantz & Guilderstein are Dead_, _Big River_, _Extremities_, _The Underpants_, _Little Shop of Horrors_, _Bus Stop_, _Almost Maine_, _Godspell_, _Peter and the Starcatcher_, and _Lost in Yonkers_. Always looking for new challenges Scott also Directs at Chadron State College. Some of his recent directing Credits include:  _Extremities_, _Money Shot_, _The Vampire Cowboy Trilogy_, _The Play About the Baby_, _Too Much Light Makes the Baby Go Blind_, _The Shape of Things_, and _Stop Kiss_. You can see more of Scott’s work at [www.scottcavin.com](http://www.scottcavin.com)
   image_year: 2015
   image_file: scott-cavin.jpg
 
@@ -118,6 +132,21 @@
     Don Denton has been performing with Post Playhouse off and on since 2008. Since that time, he has been working with Tom to rethink all their marketing efforts. For the past few years, all the mailings and the website have been designed by Don. He is very proud to continue to help the Playhouse reach for new heights even from afar.
   image_year: 2015
   image_file: don-denton.jpg
+
+
+- first_name: Melissa
+  last_name: Emery
+  location: "Tallahassee, FL via Boca Raton, FL"
+  groups:
+    - creative
+    - crew
+  positions:
+    - Season Sound Designer/Mixer/Board Op
+  bio_approved: true
+  bio: >
+    Melissa is a current student at Florida State University double-majoring in Theater and Electrical Engineering and has completed her minor in Physics. She has been involved in the sound-designing process for numerous main-stage productions at the University’s School of Theater, including _Guys and Dolls_ in October 2017, _The Addams Family_ in February 2018, and _Hairspray_ in February of 2019. She also recently designed the sound for A New Brain in The Lab Theater at Florida State in November of 2018.  She wants to thank Tom Ossowski for inviting her to be a part of this season at the Post Playhouse and is so grateful for the opportunity. She also sends thanks to Zachary Cramer at Florida State for being so patient with her while she learns and for always believing in her.
+  image_year: 2019
+  image_file: melissa-emery.jpg
 
 
 - last_name: Fox
@@ -148,6 +177,63 @@
   image_file: tim-gaswick.jpg
 
 
+- first_name: Tom
+  last_name: Hudson
+  location: "Minnesota"
+  groups:
+    - 
+  positions:
+    - Costume Designer --- The Music Man, Frog & Toad
+  bio_approved: true
+  bio: |
+    This is Tom Hudson's first season with Post Playhouse, and he couldn't be more thrilled to be part of this amazing company, and to meet the wonderful, supportive patrons and citizens of in northwestern Nebraska!
+    
+    Raised on the beaches of Galveston, Tom Hudson is a native Texan who has never quite been able to stay in one place! Mr. Hudson became interested in design early on when, as a young boy, he was taken to an exhibit of costume s worn in the BBC production of The Six Wives of Henry the Eighth, and discovered that the jewelry was made from sprockets, nuts, and bolts. Thus began a career of seeing things not as they are, but of what they might become. Notably, while only 15 years of age, Mr. Hudson, accidentally, became the youngest recipient of the USITT Design America Commendation when, his high school theater teacher misunderstood the requirements for entry (it only being open to working professionals), and sent in three costume designs executed by Tom for the play The Torchbearers, where he was displayed alongside such venerable artists such as Theoni V. Aldredge and Ming Cho Lee
+    
+    Mr. Hudson received his BFA from East Texas State University, and his MA from Carnegie Mellon University, and is a museum curator with his discipline being historic textiles and conservation. Over the past 30 years Tom has designed costumes on more than 250 productions for such institutions as, New York City Opera, Seattle Opera, and Club Med, with Monteverdi's Il Rittorno d'Ullisse in Patria and Rossini's La Cenerentola being two favorites.
+    
+    In recent years, Mr. Hudson has made forays into the Central and South American theatrical markets with works for the Republic of Panama, and Carnival in Sao Paulo, Brazil.
+    
+    Tom Hudson, is also a proud veteran of the United States Navy, achieving the rank of Petty Officer Second Class, and served during the first Gulf War. It was during his European deployment that he was able to develop and refine his design skills by working with Ta Fantastika in Prague, Republic of Czech and Teatro Massimo Bellini in Catania, Sicily, and where he discovered his passion for masks, large scale puppetry, and youth theater.
+    
+    Tom is also a writer and producer for his own companies, Spellbound Theatricals, and Inner Circle, with scripts that range from adult-oriented farces such as: Attack of the Martian Space Babes and, A Very Naughty Lady, to classics, The Odyssey and Anne of Green Gables, as well as faith based offerings; The Story of Esther, and Respectfully Yours, Daniel. He is also working on writing his first textbook for young costume designers as a compendium of tips and tricks for setting up and operating a small costume shop.
+    
+    Tom currently calls southwestern Minnesota home, and lives in a 110 year old converted hunting cabin, on the shores of a spring fed lake, with an over-fed Beagle, a neurotic Toy Aussie Shepherd, and a cat who will never know he isn't the King of Siam.
+  image_year: 2019
+  image_file: tom-hudson.jpg
+
+
+- first_name: Alexis
+  last_name: Konruff
+  location: "Crawford, NE"
+  groups:
+    - staff
+  positions:
+    - Box Office Staff
+  bio_approved: true
+  bio: >
+    Alexis just finished her junior year of high school and is over the moon to work at the Post Playhouse this summer. She has been into drama for a few years now and it is one of her favorite activities at school. She lives with her family and dogs in a small town house and has lived in Crawford for nearly 10 years. She is looking forward this season and I hopes it is a great year. 
+  image_year: 2019
+  image_file: alexis-konruff.jpg
+
+
+- first_name: Em
+  last_name: Laudeman
+  location: "San Diego, CA via Cleveland, OH"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- Winifred Banks
+    - Sister Act --- Mary Robert
+    - The Music Man --- Marian Paroo
+    - Little Shop of Horrors --- Ronnette
+  bio_approved: true
+  bio: >
+    Em is returning to Post Playhouse this season after 7 years. You may have seen her in past productions as Irene in _Hello Dolly!_ (2009), Dorothy in _The Wizard of Oz_ (2010), or Laurey in _Oklahoma!_ (2012). Em holds her BFA in music theatre from Elon University and her MPA in nonprofit management from Indiana University. She has worked in regional theatres around the country and in NYC for 15 years and most recently worked in development at The Cleveland Orchestra. Fort Robinson feels like home away from home, and she is thrilled to be back in Western Nebraksa! Gratitude to the production team, to her amazing husband Jake, mom, and Marie, and most of all to the memory of her dad who gave her the gift of music.
+  image_year: 2019
+  image_file: em-laudeman.jpg
+
+
 - last_name: Moritz
   first_name: Garth
   location: "Boulder, CO"
@@ -158,8 +244,8 @@
     - Season Asst. Stage Manager
   bio_approved: true
   bio: >
-    Garth Moritz is excited for his first season with the Post Playhouse.  An Arkansas native, he's been working in Chicago for the last five years.  His favorite theater credits include _How to Succeed..._ and _Singing in the Rain_ with the Marriott Theater in Lincolnshire, _Legally Blonde_ and _The Little Mermaid_, with the Round Barn Theatre at Amish Acres in Nappanee, Ind., and _Sweeney Todd_ with Porchlight Music Theatre in Chicago.  He now lives in Boulder, Col.
-  image_year: 2018
+    Garth Moritz is happy to be returning for his second season with the Post Playhouse. An Arkansas native, he spent five years living and working in the Chicago theatre scene and now lives in Boulder, Colorado.
+  image_year: 2019
   image_file: garth-moritz.jpg
 
 
@@ -206,6 +292,20 @@
     Crawford native, Ann Stephens, is happy to be returning to the Post Playhouse for the 2019 season.  At the Playhouse, she can often be found cleaning, popping corn, watering plants, or making reservations. Ann enjoys the opportunity to visit with returning customers as well as greeting those new to the Playhouse experience. In addition to her work here, Ann enjoys baking and spending time with grandkids and the rest of her family. Her husband, Dale, is an avid golfer and can be found nearly every day of the spring, summer and autumn on the Legend Buttes Golf course in Crawford.
   image_year: 2017
   image_file: ann-stephens.jpg
+
+
+- first_name: Ken
+  last_name: Swinkin
+  location: "New York City, NY"
+  groups:
+    - musicians
+  positions:
+    - Season Drummer
+  bio_approved: true
+  bio: >
+    Ken Swinkin is a New York City-based musical theater drummer. He has played for U.S. tours of _The Music Man_, _Stand By Your Man--The Tammy Wynette Story_, _A Christmas Carol_, and _Miracle on 34th Street_. In Europe he played for a tour of _Grease_. Regional/summer-stock credits include The Mac-Haydn Theater, Surflight Theater, Merry-Go-Round Playhouse, and Meadow Brook Theater. He's very excited to be playing for the first time at Post Playhouse and thanks Tom and Dewayne for the opportunity.
+  image_year: 2019
+  image_file: ken-swinkin.jpg
 
 
 #
