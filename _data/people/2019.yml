@@ -121,6 +121,24 @@
   image_file: scott-cavin.jpg
 
 
+- last_name: Dabbs
+  first_name: Linda
+  location: "Crawford and Omaha, NE"
+  groups:
+    - staff
+  positions:
+    - Technical Staff
+    - Paint Charge
+  bio_approved: true
+  bio: >
+    Linda is a recent transplant from Omaha to the Crawford area. She has been painting theater sets for 14 years. After being in the art field as an Art Director for various ad agencies, an outdoor billboard company, along with Art Director at Omaha's Henry Doorly Zoo.
+    Some of the theatres she has painted for are Kountze Memorial at Mahoney State Park, Lofté Community Theatre, Manley, NE, Lincoln Community Theatre, Opera Omaha and Lincoln University Opera.
+    Now semi retired to paint and produce pottery for her own enjoyment. She lives on a ranch north of Crawford with her faithful, but noisy dog, "Beau." On good days she can be found wandering the hills with either camera in hand or watercolor brushes.
+    Linda wishes to thank Kevin Colbert from the Lofté Theatre for a chance to enter the theatre world and paint his sets, but is looking forward to calling the Post Playhouse her new "Home!"
+  image_year: 2018
+  image_file: linda-dabs.jpg
+
+
 - last_name: Denton
   first_name: Don
   groups:
