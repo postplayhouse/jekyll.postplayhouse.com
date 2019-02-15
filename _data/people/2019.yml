@@ -248,6 +248,22 @@
   image_file: em-laudeman.jpg
 
 
+- last_name: Michaelsen
+  first_name: Scott
+  location: "Bend, OR"
+  groups:
+    - creative
+    - musicians
+  positions:
+    - Music Director --- Sister Act, A Year with Frog and Toad
+    - Keyboard 2 --- The Music Man, Mary Poppins
+  bio_approved: true
+  bio: >
+    Scott is humbled to be joining Post Playhouse for his first season! A freelance musician, raised in beautiful Central Oregon, he has had the privilege to music direct and conduct _Spamalot, Shrek, The Little Mermaid, Annie, Guys and Dolls, Willy Wonka, Rock of Ages, 13, Evita, Mary Poppins_ and _Cats_ at Bend's historic Tower Theatre over the previous 6 years. Other recent favorite credits include _Beauty and the Beast, The Last 5 Years, The 25th Annual Putnam County Spelling Bee_ and _Kiss of the Spider Woman_. In November 2018, Scott dipped his toe into stage direction with Bugsy Malone Jr. for 5th-8th graders at Trinity Lutheran School, where he also serves as band director. Scott has a BA in Music Composition and Music Technology from Seattle Pacific University. He is grateful to Tom Ossowski for the opportunity to join the Post team for 2019.
+  image_year: 2019
+  image_file: scott-michaelsen.jpg
+
+
 - last_name: Moritz
   first_name: Garth
   location: "Boulder, CO"
