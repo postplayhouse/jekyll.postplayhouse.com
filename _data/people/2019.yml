@@ -164,6 +164,20 @@
   image_file: don-fox.jpg
 
 
+- last_name: Fox
+  first_name: Javier
+  location: "Colorado Springs, CO"
+  groups:
+    - creative
+  positions:
+    - Season Props Master
+  bio_approved: true
+  bio: >
+    Javier Fox is pleased to officially join the Post Playhouse company this summer as Props Master.  Javier has previously served as props master for Numerica Performing Arts Center's productions of _Bat Boy the Musical_, _Cabaret_, _Chicago_, and _La Cage aux Folles_.  Javier is currently pursuing his Elementary Education certification at the University of Colorado, Colorado Springs.
+  image_year: 2019
+  image_file: javier-fox.jpg
+
+
 - last_name: Gaswick
   first_name: Tim
   groups:
