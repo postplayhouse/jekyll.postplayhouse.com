@@ -248,6 +248,22 @@
   image_file: em-laudeman.jpg
 
 
+- first_name: Sarah
+  last_name: Mattis
+  location: "Tallahassee, FL via Myrtle Beach, SC"
+  groups:
+    - crew
+  positions:
+    - Season Stage Manager Intern
+    - Backstage Manager --- Frog & Toad
+    - Calling Stage Manager --- Little Shop of Horrors
+  bio_approved: true
+  bio: >
+    Sarah Mattis is excited for her first season with the Post Playhouse! Sarah is a senior at Florida State University studying Theatre with an emphasis on Stage Management. Previous theatre credits include FSU’s 2019 Senior Showcase and _A New Brain_ as well as Quincy Music Theatre’s _The Lion King Kids, Seussical Jr., How to Succeed…_, and _Annie_. Previous opera credits include FSU’s _Of Mice and Men, The Medium_, and _The Prodigal Child_. She is incredibly grateful for this learning opportunity! Sarah would like to thank her friends and family for their constant love, support, and patience.
+  image_year: 2019
+  image_file: sarah-mattis.jpg
+
+
 - first_name: Micheal
   last_name: Lovette
   location: "Chicago IL via Lawton OK"
