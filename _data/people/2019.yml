@@ -248,6 +248,23 @@
   image_file: em-laudeman.jpg
 
 
+- first_name: Micheal
+  last_name: Lovette
+  location: "Chicago IL via Lawton OK"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- Ensemble
+    - Sister Act --- Curtis Jackson
+    - The Music Man --- Oliver Hix
+    - Little Shop of Horrors --- Voice of Audrey II
+  bio_approved: true
+  bio: >
+    Micheal is so excited to be making his Post Playhouse debut! Originally from Lawton Oklahoma Micheal has made his way to Chicago IL where he has been seen in productions like _Caroline or Change_ and _Jesus Christ Superstar_. Micheal would like to thank Tom and Dewayne for this amazing opportunity and his family and friends for their love and support. Micheal is a member of the Illinois Theatre Association.
+  image_year: 2019
+  image_file: micheal-lovette.jpg
+
+
 - last_name: Michaelsen
   first_name: Scott
   location: "Bend, OR"
