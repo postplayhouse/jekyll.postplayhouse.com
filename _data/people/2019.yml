@@ -458,6 +458,20 @@
   image_file: tyler-symone.jpg
 
 
+- first_name: Arn
+  last_name: Xu
+  location: "Miami, FL"
+  groups:
+    - musicians
+  positions:
+    - Season Keys 3 Player
+  bio_approved: true
+  bio: >
+    Arn Xu is a recent graduate of University of Miami’s Frost School of Music where he studied piano performance.  He is also an avid member of the music theater community in Miami, working in recent productions of _Heathers, The 25th Annual Putnam County Spelling Bee, In The Heights, Hairspray_, and working with the University of Miami’s Department of Theater Arts.  Arn is very excited to join Post Playhouse for 2019. 
+  image_year: 2019
+  image_file: arn-xu.jpg
+
+
 #
 #
 #
