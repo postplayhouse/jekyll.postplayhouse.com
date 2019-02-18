@@ -152,6 +152,21 @@
   image_file: don-denton.jpg
 
 
+- last_name: Tasha
+  first_name: DeYoung
+  location: "New Haven, CT / Granville, OH"
+  groups:
+    - staff
+  positions:
+    - Costume Shop Manager
+    - Season Stitcher
+  bio_approved: true
+  bio: >
+    Tasha DeYoung is thrilled to be joining The Post Playhouse for her first season. She is a current student at Denison University in Ohio pursuing a Theatre major. She has spent her time at school getting experience in all areas of theatre, including costume and lighting design, wardrobe supervising, and board operating. Tasha spent her last summer as the Wardrobe Assistant at Theatre Aspen, gaining invaluable experience with _Ragtime_ and _Our Town_. Prior to this, she worked at the Saratoga Shakespeare Company not only as stitcher but wearer of all necessary hats like wardrobe crew, launderer, designer, and more.
+  image_year: 2019
+  image_file: tasha-deyoung.jpg
+
+
 - first_name: Melissa
   last_name: Emery
   location: "Tallahassee, FL via Boca Raton, FL"
