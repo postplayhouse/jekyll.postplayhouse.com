@@ -152,8 +152,8 @@
   image_file: don-denton.jpg
 
 
-- last_name: Tasha
-  first_name: DeYoung
+- first_name: Tasha
+  last_name: DeYoung
   location: "New Haven, CT / Granville, OH"
   groups:
     - staff
