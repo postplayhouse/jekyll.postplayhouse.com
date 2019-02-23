@@ -33,8 +33,8 @@
 #
 
 
-- last_name: Agustin
-  first_name: Julio
+- first_name: Julio
+  last_name: Agustin
   location: "New York City, NY"
   groups:
     - creative
@@ -62,8 +62,8 @@
   image_file: chari-arespacochaga.png
 
 
-- last_name: Barrett
-  first_name: Dewayne
+- first_name: Dewayne
+  last_name: Barrett
   location: "New York City via Atlanta, GA"
   groups:
     - creative
@@ -78,8 +78,8 @@
   image_file: dewayne-barrett.jpg
 
 
-- last_name: Boynton
-  first_name: Pheobe H.
+- first_name: Pheobe H.
+  last_name: Boynton
   location: "Ithaca, NY / Los Angeles, CA"
   groups:
     - creative
@@ -92,8 +92,8 @@
   image_file: pheobe-boynton.jpg
 
 
-- last_name: Brintnall
-  first_name: Cody
+- first_name: Cody
+  last_name: Brintnall
   location: "Crawford, NE"
   groups:
     - staff
@@ -106,8 +106,8 @@
   image_file: cody-brintnall.jpg
 
 
-- last_name: Cavin
-  first_name: Scott
+- first_name: Scott
+  last_name: Cavin
   location: "Chadron, NE via Lemoore, CA"
   groups:
     - creative
@@ -121,8 +121,8 @@
   image_file: scott-cavin.jpg
 
 
-- last_name: Dabbs
-  first_name: Linda
+- first_name: Linda
+  last_name: Dabbs
   location: "Crawford and Omaha, NE"
   groups:
     - staff
@@ -139,8 +139,8 @@
   image_file: linda-dabs.jpg
 
 
-- last_name: Denton
-  first_name: Don
+- first_name: Don
+  last_name: Denton
   groups:
     - staff
   positions:
@@ -202,8 +202,8 @@
   image_file: matthew-everingham.jpg
 
 
-- last_name: Fox
-  first_name: Don
+- first_name: Don
+  last_name: Fox
   location: "Wenatchee, WA"
   groups:
     - creative
@@ -217,8 +217,8 @@
   image_file: don-fox.jpg
 
 
-- last_name: Fox
-  first_name: Javier
+- first_name: Javier
+  last_name: Fox
   location: "Colorado Springs, CO"
   groups:
     - creative
@@ -231,8 +231,8 @@
   image_file: javier-fox.jpg
 
 
-- last_name: Gaswick
-  first_name: Tim
+- first_name: Tim
+  last_name: Gaswick
   groups:
     - staff
   positions:
@@ -351,8 +351,8 @@
   image_file: hope-schafer.jpg
 
 
-- last_name: Michaelsen
-  first_name: Scott
+- first_name: Scott
+  last_name: Michaelsen
   location: "Bend, OR"
   groups:
     - creative
@@ -367,8 +367,8 @@
   image_file: scott-michaelsen.jpg
 
 
-- last_name: Moritz
-  first_name: Garth
+- first_name: Garth
+  last_name: Moritz
   location: "Boulder, CO"
   groups:
     - staff
@@ -382,8 +382,8 @@
   image_file: garth-moritz.jpg
 
 
-- last_name: Ossowski
-  first_name: Tom
+- first_name: Tom
+  last_name: Ossowski
   location: "Tallahasse, FL via Beatrice, NE"
   groups:
     - creative
@@ -397,8 +397,8 @@
   image_file: tom-ossowski.jpg
 
 
-- last_name: Phillips
-  first_name: Ken
+- first_name: Ken
+  last_name: Phillips
   location: "Tucson, AZ"
   groups:
     - crew
@@ -413,8 +413,8 @@
   image_file: ken-phillips.jpg
 
 
-- last_name: Stephens
-  first_name: Ann
+- first_name: Ann
+  last_name: Stephens
   location: "Crawford, NE"
   groups:
     - staff
@@ -483,8 +483,8 @@
 #
 
 
-- last_name: Seiler
-  first_name: Wally
+- first_name: Wally
+  last_name: Seiler
   location: "Alliance, NE"
   groups:
     - board
@@ -494,8 +494,8 @@
   image_file: wally-seiler.jpg
 
 
-- last_name: Gramberg
-  first_name: Karleen
+- first_name: Karleen
+  last_name: Gramberg
   location: "Chadron, NE"
   groups:
     - board
@@ -505,8 +505,8 @@
   image_file: karleen-gramberg.jpg
 
 
-- last_name: Buchheit
-  first_name: Jo
+- first_name: Jo
+  last_name: Buchheit
   location: "Hemingford, NE"
   groups:
     - board
@@ -515,8 +515,8 @@
   image_file: jo-buchheit.jpg
 
 
-- last_name: Espinoza
-  first_name: Jess
+- first_name: Jess
+  last_name: Espinoza
   location: "Crawford, Nebraska"
   groups:
     - board
@@ -527,8 +527,8 @@
   image_file: jess-espinoza.jpg
 
 
-- last_name: Fodnes
-  first_name: Lyle
+- first_name: Lyle
+  last_name: Fodnes
   location: "Hemingford, NE"
   groups:
     - board
@@ -539,8 +539,8 @@
   image_file: lyle-fodnes.jpg
 
 
-- last_name: Gaswick
-  first_name: Tim
+- first_name: Tim
+  last_name: Gaswick
   location: "Chadron, NE"
   groups:
     - board
@@ -551,8 +551,8 @@
   image_file: tim-gaswick.jpg
 
 
-- last_name: Hindman
-  first_name: Tony
+- first_name: Tony
+  last_name: Hindman
   location: "Hay Springs, NE"
   groups:
     - board
@@ -561,8 +561,8 @@
   image_file: tony-hindman.jpg
 
 
-- last_name: King
-  first_name: Kathie
+- first_name: Kathie
+  last_name: King
   location: "Gordon, NE"
   groups:
     - board
@@ -571,8 +571,8 @@
   image_file: kathie-king.jpg
 
 
-- last_name: Lecher
-  first_name: Danielle
+- first_name: Danielle
+  last_name: Lecher
   location: "Chadron, Nebraska"
   groups:
     - board
@@ -581,8 +581,8 @@
   image_file: danielle-lecher.jpg
 
 
-- last_name: Mohr
-  first_name: Jeanine
+- first_name: Jeanine
+  last_name: Mohr
   location: "Chadron, Nebraska"
   groups:
     - board
@@ -590,8 +590,8 @@
   image_year: 2016
   image_file: jeanine-mohr.jpg
 
-- last_name: Rhine
-  first_name: Randy
+- first_name: Randy
+  last_name: Rhine
   location: "Chadron, NE"
   groups:
     - board
@@ -602,8 +602,8 @@
   image_file: randy-rhine.jpg
 
 
-- last_name: Rotherham
-  first_name: Marge
+- first_name: Marge
+  last_name: Rotherham
   location: "Crawford, NE"
   groups:
     - board
@@ -613,8 +613,8 @@
   image_year: 2015
   image_file: marge-rotherham.jpg
 
-- last_name: Visser
-  first_name: Janelle
+- first_name: Janelle
+  last_name: Visser
   location: "Hemingford, NE"
   groups:
     - board
