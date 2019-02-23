@@ -527,18 +527,6 @@
   image_file: jess-espinoza.jpg
 
 
-- first_name: Lyle
-  last_name: Fodnes
-  location: "Hemingford, NE"
-  groups:
-    - board
-  positions:
-  bio: >
-    Hemingford Ledger
-  image_year: 2015
-  image_file: lyle-fodnes.jpg
-
-
 - first_name: Tim
   last_name: Gaswick
   location: "Chadron, NE"
