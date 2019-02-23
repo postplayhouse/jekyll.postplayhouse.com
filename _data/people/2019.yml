@@ -334,6 +334,23 @@
   image_file: micheal-lovette.jpg
 
 
+- first_name: Juwon Tyrel
+  last_name: Perry
+  location: "Chicago IL"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- Admiral Boom
+    - Sister Act --- TJ
+    - The Music Man --- Jacey Squires
+    - A Year With Frog & Toad --- Toad
+  bio_approved: true
+  bio: >
+    Juwon Tyrel Perry is eager to be making his Post Playhouse debut! Juwon is a recent graduate of Columbia College Chicago where he received his BFA in  Musical Theatre. Some previous credits include: _Ragtime_ with Griffin Theater Company which won the 2018 Jeff Award for Best Ensemble, _The Gospel at Colonus Gala_ with Court Theater, _New Faces Sing 1941_ with Porchlight Music Theatre _The View Upstairs_ with Circle Theatre, _Tarzan_ with NightBlue Theater Company, _Once On This Island, Xanadu, Caroline, or Change, Sweet Charity_, and _High Fidelity_ with Columbia College Chicago. Learn more about Juwon at [www.juwontyrelperry.weebly.com](http://www.juwontyrelperry.weebly.com) 
+  image_year: 2019
+  image_file: juwon-perry.jpg
+
+
 - first_name: Hope Elizabeth
   last_name: Schafer
   location: "Chicago, IL"
