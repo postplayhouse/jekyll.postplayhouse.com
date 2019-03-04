@@ -475,6 +475,23 @@
   image_file: tyler-symone.jpg
 
 
+- first_name: Jerod
+  last_name: Turner
+  location: "Chicago, IL via St. Louis, MO"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- Neleus
+    - Sister Act --- Ensemble
+    - The Music Man --- Tommy Djilas
+    - Frog & Toad --- Bird, Snail, Ensemble
+  bio_approved: true
+  bio: >
+    Jerod Turner is a native to St. Louis, Missouri, but currently resides in Chicago, Illinois. He is enrolled at Columbia College Chicago as a BFA musical theater performance major. Previous credits include work at The Muny in St. Louis, Navy Pier in Chicago, and productions at Columbia. He is absolutely thrilled to be making his Post Playhouse debut!
+  image_year: 2019
+  image_file: jerod-turner.jpg
+
+
 - first_name: Arn
   last_name: Xu
   location: "Miami, FL"
