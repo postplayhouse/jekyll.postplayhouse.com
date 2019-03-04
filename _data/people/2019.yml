@@ -270,6 +270,20 @@
   image_file: tom-hudson.jpg
 
 
+- first_name: Talen
+  last_name: Huggett
+  location: "Crawford, NE"
+  groups:
+    - staff
+  positions:
+    - Box Office Staff
+  bio_approved: true
+  bio: >
+    Talen is very excited to be working at the Post Playhouse this season and thinks it will be a great learning experience for him. Talen just finished his Freshman year (9th grade) at Crawford High School. 
+  image_year: 2019
+  image_file: talen-huggett.jpg
+
+
 - first_name: Alexis
   last_name: Konruff
   location: "Crawford, NE"
