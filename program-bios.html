@@ -20,8 +20,9 @@ regenerate: true
     font-family: Helvetica !important;
     line-height: 1.2;
   }
-  .plain-bio .name *{
-    font-size: 20px !important;
+  .plain-bio-text .name {
+    font-size: 20px;
+    color: black;
   }
   .plain-bio p {
     margin: 0 !important;
@@ -79,6 +80,10 @@ regenerate: true
     max-width: 400px;
   }
 
+  .plain-bio p.positions {
+    margin: 12px auto !important;
+  }
+
 </style>
 {% assign people = site.data.people[site.season] %}
 
@@ -115,26 +120,25 @@ Approved | Name<br>
     <div class="bio-unapproved-text">{{ person.first_name }}'s bio or roles are not yet approved.</div>
 
     <div class="plain-bio-text">
-      {% capture name %}{{ person.first_name }} {{ person.last_name }}{% endcapture %}
-      <span class="name">{{ name | markdownify }}</span><br>
+      <h3 class="name">{{ person.first_name }} {{ person.last_name }}</h3>
 
       {% if person.location %}
-      {{ person.location | markdownify }}<br>
+      {{ person.location | markdownify }}
       {% endif %}
 
       {% if person.positions != nil %}
-      <span class="positions">
+      <p class="positions">
         {% for position in person.positions %}
-        {{ position | markdownify }}
-        {% endfor %}<br>
-      </span>
+        {{ position | replace: "---", "&mdash;" }}<br>
+        {% endfor %}
+      </p>
       {% endif %}
 
       {{ person.bio | markdownify }}
     </div>
   </div>
 
-  <a href="#TheTop">Back to Top</a>
+  {% comment %} <a href="#TheTop">Back to Top</a> {% endcomment %}
 
 
   {% endunless %}
