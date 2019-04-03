@@ -414,6 +414,24 @@
   image_file: hope-schafer.jpg
 
 
+- first_name: Kelsey
+  last_name: McCollaum
+  location: "New York, NY"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- YOUR_ROLE_HERE
+    - Sister Act --- YOUR_ROLE_HERE
+    - The Music Man --- YOUR_ROLE_HERE
+    - Frog and Toad --- YOUR_ROLE_HERE
+    - Little Shop of Horrors --- YOUR_ROLE_HERE
+  bio_approved: false
+  bio: >
+    Kelsey McCollaum is humbled to be making her Post Playhouse debut! Kelsey is a New York based actor and is a graduate of Marymount Manhattan College where she received her BA in theatre arts/musical theatre.  Some of her favorite credits include _Merrily We Roll Along_ (Mary Flynn), _Grease_ (Jan), BEEHIVE (Judy) and _42 Nd Street_ (Maggie Jones) in which she was a 2019 Broadway World Award Winner for best supporting actress in a musical.  Kelsey would like to thank the entire Post Playhouse team for this amazing opportunity!  Finally, she would like to thank her parents for their constant love, patience and support. Enjoy the show!  
+      Proverbs 31:25
+  image_year: 2019
+
+
 - first_name: Scott
   last_name: Michaelsen
   location: "Bend, OR"
