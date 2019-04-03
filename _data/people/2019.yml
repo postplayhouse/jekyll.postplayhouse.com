@@ -506,6 +506,22 @@
   image_year: 2018
 
 
+- first_name: Luke
+  last_name: Sikora
+  location: "New York, NY"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- YOUR_ROLE_HERE
+    - Sister Act --- YOUR_ROLE_HERE
+    - The Music Man --- YOUR_ROLE_HERE
+    - Frog and Toad --- YOUR_ROLE_HERE
+    - Little Shop of Horrors --- YOUR_ROLE_HERE
+  bio_approved: false
+  bio: >
+    The powerhouse high-tenor voice of Ramin Karimloo with the boy-next-door look of Andrew Rannells is a simple way to describe Luke Sikora. He worked as a singer/actor for five years up and down the West Coast before moving to New York to finish his education. Luke received his bachelor's degree at the Manhattan School of Music in 2017, where he studied voice with Catherine Malfitano. Past performances include Enoch Snow in _Carousel_, Henrik in _A Little Night Music_, Enjolras in _Les Miserables_, Henry in _Next to Normal_, Pirelli in _Sweeney Todd_, The Wolf/Cinderella’s Prince in _Into the Woods_, Brian in _Avenue Q_, and Roger (Cover) in _RENT_. Luke has sung for charity events such as the Breast Health Project, Relay For Life, and KHUM radio’s annual Stop the Violence Campaign. He has a passion for education; not only did he coach acting for the singer seminar at the Manhattan School of Music, but has now opened his own vocal studio in NYC. Luke would like to thank the Post Playhouse for this wonderful opportunity.
+  image_year: 2019
+
 - first_name: Ann
   last_name: Stephens
   location: "Crawford, NE"
