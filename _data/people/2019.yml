@@ -414,6 +414,22 @@
   image_file: hope-schafer.jpg
 
 
+- first_name: Corinne
+  last_name: Marshall
+  location: "Bridgeport, CT"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- Mrs. Brill
+    - Sister Act --- Mother Superior
+    - The Music Man --- Alma Hix
+    - Frog and Toad --- Ensemble
+  bio_approved: false
+  bio: >
+    Corinne is excited to be making her Post Playhouse debut and wants to thank Tom, Julio, and the rest of the Post Playhouse creative team for this wonderful opportunity! Corinne graduated from Western Connecticut State University with a B.A. in Musical Theatre Performance in 2015. Some of her favorite credits include, Miss Hannigan (_Annie_), Tracy Turnblad (_Hairspray_), Matron Mama Morton (_Chicago_), B.J. (_Smokey Joe’s Café_), Lucia (_Mornings of April and May_) *National Tour, Martha Bessel (_Spring Awakening_), Maria (_Twelfth Night_), Alysha (_American Idiot_). Corinne considers herself very lucky to be joining the Post Playhouse family this summer! Follow her journey and see what’s next at [Corinne-Marshall.com](https://corinne-marshall.com).
+  image_year: 2019
+
+
 - first_name: Kelsey
   last_name: McCollaum
   location: "New York, NY"
