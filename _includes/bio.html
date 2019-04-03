@@ -1,12 +1,6 @@
 <div class="person">
   
-  {% if person.image_path != nil %}
-    {% capture headshot %}{{ person.image_path | prepend: site.baseurl }}{% endcapture %}
-  {% elsif person.image_year != nil and person.image_file != nil %}
-    {% capture headshot %}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.image_file}}{% endcapture %}
-  {% else %}
-    {% assign headshot = nil %}
-  {% endif %}
+  {% include headshot-path %}
   
   {% if headshot != nil %}
     <img src="{{ headshot | replace: '.jpg', '_300.jpg' }}" alt="Picture of {{ person.first_name }}">

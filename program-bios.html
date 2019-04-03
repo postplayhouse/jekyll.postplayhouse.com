@@ -106,12 +106,8 @@ Approved | Name<br>
   <div class="plain-bio bio-approved-{{ person.bio_approved }}" id="{{ nameId | slugify }}">
 
     {% assign missing_text = "" %}
-    {% if person.image_path != nil %}
-      {% capture headshot %}{{ person.image_path | prepend: site.baseurl }}{% endcapture %}
-    {% elsif person.image_year != nil and person.image_file != nil %}
-      {% capture headshot %}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.image_file}}{% endcapture %}
-    {% else %}
-      {% assign headshot = nil %}
+    {% include headshot-path %}
+    {% if headshot == nil %}
       {% assign missing_text = "missing " %}
     {% endif %}
 
