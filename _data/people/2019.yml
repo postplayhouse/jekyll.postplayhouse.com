@@ -247,12 +247,11 @@
   groups:
     - cast
   positions:
-    - Mary Poppins --- YOUR_ROLE_HERE
-    - Sister Act --- YOUR_ROLE_HERE
-    - The Music Man --- YOUR_ROLE_HERE
-    - Frog and Toad --- YOUR_ROLE_HERE
-    - Little Shop of Horrors --- YOUR_ROLE_HERE
-  bio_approved: false
+    - Mary Poppins --- Bert
+    - Sister Act --- Pablo
+    - The Music Man --- Ewart Dunlop
+    - Frog and Toad --- Frog
+  bio_approved: true
   bio: >
     Steven is so thrilled and grateful to be making his Post Playhouse debut! A Pennsylvania native, Steven is currently a rising junior BFA musical theatre major at Rider University. Some of his favorite credits include _Beauty and the Beast_ at the Fulton Opera House, _The Music Man_ at the Dutch Apple Dinner Theatre, and _Carrie: The Musical_ at the Ephrata Performing Arts Center. He would like to thank Tom, Dewayne, and the team at Post Playhouse for this incredible opportunity! Enjoy the shows!!
   image_year: 2019
