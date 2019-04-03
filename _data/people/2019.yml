@@ -117,6 +117,23 @@
   image_year: 2015
 
 
+- first_name: Katie
+  last_name: Collins
+  location: "Delaware"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- YOUR_ROLE_HERE
+    - Sister Act --- YOUR_ROLE_HERE
+    - The Music Man --- YOUR_ROLE_HERE
+    - Frog and Toad --- YOUR_ROLE_HERE
+    - Little Shop of Horrors --- YOUR_ROLE_HERE
+  bio_approved: false
+  bio: >
+    Katie Collins is a Delaware native and is a sophomore musical theatre at Rider University, in New Jersey. She is so thrilled to be making her Post Playhouse debut and to be seeing Nebraska for the very first time. Since enrollment in Rider, Katie has been in _Assassins: The Musical_ as Squeaky Fromme, and _Oklahoma!_ as ensemble. She also has done many community productions throughout her training. She thanks all the cast and crew for their hard work and hopes that you enjoy the production.
+  image_year: 2019
+
+
 - first_name: Linda
   last_name: Dabbs
   location: "Crawford and Omaha, NE"
