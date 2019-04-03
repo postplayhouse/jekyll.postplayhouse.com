@@ -16,6 +16,8 @@
 #   # image_file: .jpg
 #
 #
+
+
 # Use the template above for quick entry
 # If you specify an 'image_path', the year and file are ignored and
 # the full path to the image (prepended by the baseurl) is used.
@@ -265,6 +267,19 @@
   bio: >
     Tim is the franchise owner of the Chadron H&R Block office, and has been the accountant for the playhouse since 2007.  He and his wife Kari have four children, Kaylee, Aaron, Braxton, and Seth. Tim not only serves as the accountant, but also as the treasurer on the playhouse board. He enjoys working with the great talent and staff every summer, and looks forward to many years with the playhouse.
   image_year: 2015
+
+
+- first_name: Shanie
+  last_name: Hollenbeck
+  location: "Crawford, NE"
+  groups:
+    - staff
+  positions:
+    - Box Office Staff
+  bio_approved: true
+  bio: >
+    Shanie just finished her junior year at Chadron State College and she is elated for her first season at the Post Playhouse. As a theatre major, Shanie has been involved with the CSC theatre program, both performing onstage and working backstage. She looks forward to getting to know a myriad of fantastic people and believes it's going to be a great season.
+  image_year: 2019
 
 
 - first_name: Tom
