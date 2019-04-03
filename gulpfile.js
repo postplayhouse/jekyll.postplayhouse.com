@@ -18,7 +18,10 @@ gulp.task('newer-image-sizes-to-temp', function() {
       }],
       '2016/raffle/*': [{
         width: 600,
-      }]
+      }],
+      '2019/raffle/*': [{
+        width: 1200,
+      }],
     }, {
       // Global configuration for all images
       // The output quality for JPEG, WebP and TIFF output formats
@@ -50,10 +53,8 @@ gulp.task('clean', function(){
 gulp.task('default', function(){
   rs(
     'clean',
-    [
-      'copy-newer-images-to-temp',
-      'newer-image-sizes-to-temp'
-    ],
+    'copy-newer-images-to-temp',
+    'newer-image-sizes-to-temp',
     'optimize-temp-images',
     'clean'
   );
