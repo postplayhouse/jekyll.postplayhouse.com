@@ -9,7 +9,7 @@
 #     - The Music Man --- YOUR_ROLE_HERE
 #     - Frog and Toad --- YOUR_ROLE_HERE
 #     - Little Shop of Horrors --- YOUR_ROLE_HERE
-#   bio_approved: true
+#   bio_approved: false
 #   bio: >
 #     
 #   image_year: 2019
@@ -347,21 +347,6 @@
   image_year: 2019
 
 
-- first_name: Sarah
-  last_name: Mattis
-  location: "Tallahassee, FL via Myrtle Beach, SC"
-  groups:
-    - crew
-  positions:
-    - Assistant Season Stage Manager
-    - Backstage Manager --- Frog & Toad
-    - Calling Stage Manager --- Little Shop of Horrors
-  bio_approved: true
-  bio: >
-    Sarah Mattis is excited for her first season with the Post Playhouse! Sarah is a senior at Florida State University studying Theatre with an emphasis on Stage Management. Previous theatre credits include FSU’s 2019 Senior Showcase and _A New Brain_ as well as Quincy Music Theatre’s _The Lion King Kids, Seussical Jr., How to Succeed…_, and _Annie_. Previous opera credits include FSU’s _Of Mice and Men, The Medium_, and _The Prodigal Child_. She is incredibly grateful for this learning opportunity! Sarah would like to thank her friends and family for their constant love, support, and patience.
-  image_year: 2019
-
-
 - first_name: Micheal
   last_name: Lovette
   location: "Chicago IL via Lawton OK"
@@ -375,56 +360,6 @@
   bio_approved: true
   bio: >
     Micheal is so excited to be making his Post Playhouse debut! Originally from Lawton Oklahoma Micheal has made his way to Chicago IL where he has been seen in productions like _Caroline or Change_ and _Jesus Christ Superstar_. Micheal would like to thank Tom and Dewayne for this amazing opportunity and his family and friends for their love and support. Micheal is a member of the Illinois Theatre Association.
-  image_year: 2019
-
-
-- first_name: Juwon Tyrel
-  last_name: Perry
-  location: "Chicago IL"
-  groups:
-    - cast
-  positions:
-    - Mary Poppins --- Admiral Boom
-    - Sister Act --- TJ
-    - The Music Man --- Jacey Squires
-    - A Year With Frog & Toad --- Toad
-  bio_approved: true
-  bio: >
-    Juwon Tyrel Perry is eager to be making his Post Playhouse debut! Juwon is a recent graduate of Columbia College Chicago where he received his BFA in  Musical Theatre. Some previous credits include: _Ragtime_ with Griffin Theater Company which won the 2018 Jeff Award for Best Ensemble, _The Gospel at Colonus Gala_ with Court Theater, _New Faces Sing 1941_ with Porchlight Music Theatre _The View Upstairs_ with Circle Theatre, _Tarzan_ with NightBlue Theater Company, _Once On This Island, Xanadu, Caroline, or Change, Sweet Charity_, and _High Fidelity_ with Columbia College Chicago. Learn more about Juwon at [www.juwontyrelperry.weebly.com](http://www.juwontyrelperry.weebly.com) 
-  image_year: 2019
-  image_file: juwon-perry.jpg
-
-
-- first_name: Hope Elizabeth
-  last_name: Schafer
-  location: "Chicago, IL"
-  groups:
-    - cast
-  positions:
-    - Mary Poppins --- Mary Poppins
-    - Sister Act --- Mary Patrick
-    - The Music Man --- Ethel Toffelmier
-    - Little Shop of Horrors --- Chiffon
-  bio_approved: true
-  bio: >
-    Hope (EMC) is ecstatic to be making her Post Playhouse debut! Originally from Oklahoma, Hope has been a resident of Chicago for 5 years now. After receiving her BFA in musical theatre at The Chicago College of Performing Arts at Roosevelt University in May of 2018, Hope has hit the ground running in the Chicago theatre community. In this past year you may have seen Hope in Theo Ubique’s Jeff award winning production of _Sweeney Todd_, where she played the Soprano 1 and went on for the role of Johana throughout the run. Following this, she performed as Charity in Music Theatre Works’ production of _Anything Goes_, where she also understudied the role of Reno Sweeney. Most recently, she performed in Theatre at The Center’s production of _Miracle on 34th Street the Musical_. Some of Hope’s favorite roles include Liesl in _The Sound of Music_, Hope in _Urinetown_, Cobweb in _A Midsummer Night’s Dream_, and Yonah in _Children of Eden_. She would like to thank her teachers, family, and friends for all of the support and love over the years. She can’t wait to have a "practically perfect" summer in Nebraska!
-  image_year: 2019
-  image_file: hope-schafer.jpg
-
-
-- first_name: Brynn
-  last_name: Sweere
-  location: "New York City, NY"
-  groups:
-    - cast
-  positions:
-    - Mary Poppins --- Mrs. Corry, Ensemble
-    - Sister Act --- Mary Theresa
-    - The Music Man --- Mrs. Squires
-    - A Year With Frog & Toad --- Lady Bird 2, Ensemble
-  bio_approved: false
-  bio: >
-    Brynn, originally from Muscatine, Iowa, is so happy to be back in the Midwest making her Post Playhouse debut! Regional credits include: Spotlight Repertory Theatre: _Mamma Mia!_ (Sophie), Weathervane Theatre: _Hairspray_ (Amber), _Anne of Green Gables_ (Anne), _West Side Story_ (Anybodys), _Gypsy_ (Thelma), Timbers Dinner Theatre: _Music In Time_ (Emma).  BFA in Musical Theatre: Shenandoah Conservatory. Endless thanks to this cast, crew, and creative team for 14 weeks of fun! [www.brynnsweere.com](https://www.brynnsweere.com)
   image_year: 2019
 
 
@@ -459,6 +394,21 @@
   bio_approved: false
   bio: >
     Corinne is excited to be making her Post Playhouse debut and wants to thank Tom, Julio, and the rest of the Post Playhouse creative team for this wonderful opportunity! Corinne graduated from Western Connecticut State University with a B.A. in Musical Theatre Performance in 2015. Some of her favorite credits include, Miss Hannigan (_Annie_), Tracy Turnblad (_Hairspray_), Matron Mama Morton (_Chicago_), B.J. (_Smokey Joe’s Café_), Lucia (_Mornings of April and May_) *National Tour, Martha Bessel (_Spring Awakening_), Maria (_Twelfth Night_), Alysha (_American Idiot_). Corinne considers herself very lucky to be joining the Post Playhouse family this summer! Follow her journey and see what’s next at [Corinne-Marshall.com](https://corinne-marshall.com).
+  image_year: 2019
+
+
+- first_name: Sarah
+  last_name: Mattis
+  location: "Tallahassee, FL via Myrtle Beach, SC"
+  groups:
+    - crew
+  positions:
+    - Assistant Season Stage Manager
+    - Backstage Manager --- Frog & Toad
+    - Calling Stage Manager --- Little Shop of Horrors
+  bio_approved: true
+  bio: >
+    Sarah Mattis is excited for her first season with the Post Playhouse! Sarah is a senior at Florida State University studying Theatre with an emphasis on Stage Management. Previous theatre credits include FSU’s 2019 Senior Showcase and _A New Brain_ as well as Quincy Music Theatre’s _The Lion King Kids, Seussical Jr., How to Succeed…_, and _Annie_. Previous opera credits include FSU’s _Of Mice and Men, The Medium_, and _The Prodigal Child_. She is incredibly grateful for this learning opportunity! Sarah would like to thank her friends and family for their constant love, support, and patience.
   image_year: 2019
 
 
@@ -523,6 +473,23 @@
   image_year: 2015
 
 
+- first_name: Juwon Tyrel
+  last_name: Perry
+  location: "Chicago IL"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- Admiral Boom
+    - Sister Act --- TJ
+    - The Music Man --- Jacey Squires
+    - A Year With Frog & Toad --- Toad
+  bio_approved: true
+  bio: >
+    Juwon Tyrel Perry is eager to be making his Post Playhouse debut! Juwon is a recent graduate of Columbia College Chicago where he received his BFA in  Musical Theatre. Some previous credits include: _Ragtime_ with Griffin Theater Company which won the 2018 Jeff Award for Best Ensemble, _The Gospel at Colonus Gala_ with Court Theater, _New Faces Sing 1941_ with Porchlight Music Theatre _The View Upstairs_ with Circle Theatre, _Tarzan_ with NightBlue Theater Company, _Once On This Island, Xanadu, Caroline, or Change, Sweet Charity_, and _High Fidelity_ with Columbia College Chicago. Learn more about Juwon at [www.juwontyrelperry.weebly.com](http://www.juwontyrelperry.weebly.com) 
+  image_year: 2019
+  image_file: juwon-perry.jpg
+
+
 - first_name: Ken
   last_name: Phillips
   location: "Tucson, AZ"
@@ -536,6 +503,23 @@
   bio: >
     Ken is extremely happy to be coming back for his sixth consecutive year at the Post Playhouse as the Production Stage Manager! Ken holds a BFA in Stage Management and graduated last year with an MFA in Lighting Design from the University of Arizona. In the past, he has worked as a freelance Stage Manager in LA, working on various productions ranging from _Bronies: The Musical!_ to the _Big Hero 6 Laser Light Show_ at Disney's historic El Capitan Theatre in Hollywood. In Lighting Design, he has worked on a variety of different productions both academically and professionally, with the bulk of them being in Musical Theatre and Opera. He is also an avid stage combat enthusiast, where he has helped bring some of the Post's past production's stage fighting to life. He would like to thank Dewayne and Tom for having him back another year, and to give his love to his girlfriend Alexandra for all her support. To see more of his work, look at [www.KGPhillips.com](http://www.KGPhillips.com)
   image_year: 2018
+
+
+- first_name: Hope Elizabeth
+  last_name: Schafer
+  location: "Chicago, IL"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- Mary Poppins
+    - Sister Act --- Mary Patrick
+    - The Music Man --- Ethel Toffelmier
+    - Little Shop of Horrors --- Chiffon
+  bio_approved: true
+  bio: >
+    Hope (EMC) is ecstatic to be making her Post Playhouse debut! Originally from Oklahoma, Hope has been a resident of Chicago for 5 years now. After receiving her BFA in musical theatre at The Chicago College of Performing Arts at Roosevelt University in May of 2018, Hope has hit the ground running in the Chicago theatre community. In this past year you may have seen Hope in Theo Ubique’s Jeff award winning production of _Sweeney Todd_, where she played the Soprano 1 and went on for the role of Johana throughout the run. Following this, she performed as Charity in Music Theatre Works’ production of _Anything Goes_, where she also understudied the role of Reno Sweeney. Most recently, she performed in Theatre at The Center’s production of _Miracle on 34th Street the Musical_. Some of Hope’s favorite roles include Liesl in _The Sound of Music_, Hope in _Urinetown_, Cobweb in _A Midsummer Night’s Dream_, and Yonah in _Children of Eden_. She would like to thank her teachers, family, and friends for all of the support and love over the years. She can’t wait to have a "practically perfect" summer in Nebraska!
+  image_year: 2019
+  image_file: hope-schafer.jpg
 
 
 - first_name: Luke
@@ -565,6 +549,22 @@
   bio: >
     Crawford native, Ann Stephens, is happy to be returning to the Post Playhouse for the 2019 season.  At the Playhouse, she can often be found cleaning, popping corn, watering plants, or making reservations. Ann enjoys the opportunity to visit with returning customers as well as greeting those new to the Playhouse experience. In addition to her work here, Ann enjoys baking and spending time with grandkids and the rest of her family. Her husband, Dale, is an avid golfer and can be found nearly every day of the spring, summer and autumn on the Legend Buttes Golf course in Crawford.
   image_year: 2017
+
+
+- first_name: Brynn
+  last_name: Sweere
+  location: "New York City, NY"
+  groups:
+    - cast
+  positions:
+    - Mary Poppins --- Mrs. Corry, Ensemble
+    - Sister Act --- Mary Theresa
+    - The Music Man --- Mrs. Squires
+    - A Year With Frog & Toad --- Lady Bird 2, Ensemble
+  bio_approved: false
+  bio: >
+    Brynn, originally from Muscatine, Iowa, is so happy to be back in the Midwest making her Post Playhouse debut! Regional credits include: Spotlight Repertory Theatre: _Mamma Mia!_ (Sophie), Weathervane Theatre: _Hairspray_ (Amber), _Anne of Green Gables_ (Anne), _West Side Story_ (Anybodys), _Gypsy_ (Thelma), Timbers Dinner Theatre: _Music In Time_ (Emma).  BFA in Musical Theatre: Shenandoah Conservatory. Endless thanks to this cast, crew, and creative team for 14 weeks of fun! [www.brynnsweere.com](https://www.brynnsweere.com)
+  image_year: 2019
 
 
 - first_name: Ken
