@@ -278,6 +278,19 @@
   image_year: 2015
 
 
+- first_name: Brian
+  last_name: Graham
+  location: "Arizona"
+  groups:
+    - staff
+  positions:
+    - Master Electrician
+  bio_approved: true
+  bio: >
+    Brian Graham is a candidate for a BFA in Theatre Production; Design and Technology, with an emphasis in Lighting Design from The University of Arizona. He is in his third year at the university and looks forward to putting his skills and knowledge to use for the Post Playhouse. He is excited to meet new people and work with UofA Alumni this summer!
+  image_year: 2019
+
+
 - first_name: Shanie
   last_name: Hollenbeck
   location: "Crawford, NE"
