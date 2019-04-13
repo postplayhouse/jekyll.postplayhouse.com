@@ -151,6 +151,19 @@
   image_file: linda-dabs.jpg
 
 
+- first_name: Jacki
+  last_name: Dailey
+  location: "Chadron, NE"
+  groups:
+    - staff
+  positions:
+    - Season Stitcher
+  bio_approved: true
+  bio: >
+    Jacki, a huge fan of the Post Playhouse, is excited to join the costuming team for her first season.  She is a mother of five, who have required many costumes, an avid sewer and crafter, and currently serves as the Chadron State College costume shop manager.  There she assists with alterations, costume building and repair, and organization.  
+  image_year: 2019
+
+
 - first_name: Don
   last_name: Denton
   groups:
