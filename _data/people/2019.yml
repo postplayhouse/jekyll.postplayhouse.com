@@ -4,11 +4,11 @@
 #   groups:
 #     -
 #   positions:
-#     - Mary Poppins --- YOUR_ROLE_HERE
-#     - Sister Act --- YOUR_ROLE_HERE
-#     - The Music Man --- YOUR_ROLE_HERE
-#     - Frog and Toad --- YOUR_ROLE_HERE
-#     - Little Shop of Horrors --- YOUR_ROLE_HERE
+#     Mary Poppins: YOUR_ROLE_HERE
+#     Sister: --- YOUR_ROLE_HERE
+#     The Music: --- YOUR_ROLE_HERE
+#     Frog and Toad: YOUR_ROLE_HERE
+#     Little Shop of Horrors: YOUR_ROLE_HERE
 #   bio_approved: false
 #   bio: >
 #     
@@ -125,11 +125,11 @@
   location: "Delaware"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Ms. Lark, Ensemble
-    - Sister Act --- Mary Lazarus
-    - The Music Man --- Maud Dunlop
-    - Little Shop of Horrors --- Audrey
+  roles:
+    Mary Poppins: Ms. Lark, Ensemble
+    Sister Act: Mary Lazarus
+    The Music Man: Maud Dunlop
+    Little Shop of Horrors: Audrey
   bio_approved: true
   bio: >
     Katie Collins is a Delaware native and she is a BFA musical theatre student at Rider University, in New Jersey. She is so thrilled to be making her Post Playhouse debut and to be seeing Nebraska for the very first time. Since enrollment in Rider, Katie has been in _Assassins: The Musical_ as Squeaky Fromme, and _Oklahoma!_ as ensemble. She also has done many community productions throughout her training. She thanks all the cast and crew for their hard work and hopes that you enjoy the production.
@@ -228,11 +228,11 @@
   location: "New York City, NY"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- George Banks
-    - Sister Act --- Monsignor O'Hara
-    - The Music Man --- Charlie Cowell, Olin Britt
-    - Little Shop of Horrors --- Mr. Mushnik
+  roles:
+    Mary Poppins: George Banks
+    Sister Act: Monsignor O'Hara
+    The Music Man: Charlie Cowell, Olin Britt
+    Little Shop of Horrors: Mr. Mushnik
   bio_approved: true
   bio: >
     Sam is overjoyed to be performing in his first season with Post Playhouse! A New York City based actor who graduated from The Catholic University of America with a Bachelor in Music. Previous credits include _A Christmas Carol_ (Jacob Marley), _Jesus Christ Superstar_ (Simon), and _Shrek the Musical_ (Lord Farquaad). Shout out to his friends and family who support him in everything he does! [www.samdforgie.com](https://www.samdforgie.com) 
@@ -347,11 +347,11 @@
   location: "Pennsylvania"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Bert
-    - Sister Act --- Pablo
-    - The Music Man --- Ewart Dunlop
-    - Frog and Toad --- Frog
+  roles:
+    Mary Poppins: Bert
+    Sister Act: Pablo
+    The Music Man: Ewart Dunlop
+    Frog and Toad: Frog
   bio_approved: true
   bio: >
     Brenton Jeffery is a Kansas City native, and is honored to be joining the Post Playhouse creative team this summer.  Regionally Brenton has performed in _CATS_ (Mungojerrie), _Seven Brides_ (Caleb), _Smokey Joe’s Cafe_ (Michael), _Hairspray_ (Sketch), and many original revues.  Much thanks to family and friends for unending support as well as Post Playhouse for this opportunity.  Break legs!
@@ -376,11 +376,11 @@
   location: "San Diego, CA via Cleveland, OH"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Winifred Banks
-    - Sister Act --- Mary Robert
-    - The Music Man --- Marian Paroo
-    - Little Shop of Horrors --- Ronnette
+  roles:
+    Mary Poppins: Winifred Banks
+    Sister Act: Mary Robert
+    The Music Man: Marian Paroo
+    Little Shop of Horrors: Ronnette
   bio_approved: true
   bio: >
     Em is returning to Post Playhouse this season after 7 years. You may have seen her in past productions as Irene in _Hello Dolly!_ (2009), Dorothy in _The Wizard of Oz_ (2010), or Laurey in _Oklahoma!_ (2012). Em holds her BFA in music theatre from Elon University and her MPA in nonprofit management from Indiana University. She has worked in regional theatres around the country and in NYC for 15 years and most recently worked in development at The Cleveland Orchestra. Fort Robinson feels like home away from home, and she is thrilled to be back in western Nebraska! Gratitude to the production team, to her amazing husband Jake, mom, and Marie, and most of all to the memory of her dad who gave her the gift of music.
@@ -392,11 +392,11 @@
   location: "Chicago IL via Lawton OK"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Ensemble
-    - Sister Act --- Curtis Jackson
-    - The Music Man --- Oliver Hix
-    - Little Shop of Horrors --- Voice of Audrey II
+  roles:
+    Mary Poppins: Ensemble
+    Sister Act: Curtis Jackson
+    The Music Man: Oliver Hix
+    Little Shop of Horrors: Voice of Audrey II
   bio_approved: true
   bio: >
     Micheal is so excited to be making his Post Playhouse debut! Originally from Lawton Oklahoma Micheal has made his way to Chicago IL where he has been seen in productions like _Caroline or Change_ and _Jesus Christ Superstar_. Micheal would like to thank Tom and Dewayne for this amazing opportunity and his family and friends for their love and support. Micheal is a member of the Illinois Theatre Association.
@@ -408,11 +408,11 @@
   location: "Chicago, IL"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Robertson Ay, Ensemble
-    - Sister Act --- Lt. Eddie
-    - The Music Man --- Mayor Shinn
-    - Little Shop of Horrors --- Puppeteer, Wino 2
+  roles:
+    Mary Poppins: Robertson Ay, Ensemble
+    Sister Act: Lt. Eddie
+    The Music Man: Mayor Shinn
+    Little Shop of Horrors: Puppeteer, Wino 2
   bio_approved: true
   bio: >
     Marvin is so excited to be a part of the Post Playhouse 2019 summer Season! He recently graduated from Columbia College Chicago with his BFA in Musical Theatre! Marvin is Cleveland born and now, Chicago based. His favorite credits include Radames in _Aida_ (Playhouse Square), Yonkers in _Gypsy_ (Porchlight MT), Ensemble in _Something in the Game_, (American MT Project), Oscar in _Sweet Charity_ and Papa Ge in _Once on this Island_ (Columbia Chicago). Be sure to keep up with Marvin on Instagram & Twitter @MarvinMaloneii. For Mom & Dad! Amos 9:13-15 MSG. Proudly represented by DDO Artists Agency.
@@ -425,11 +425,11 @@
   location: "Bridgeport, CT"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Mrs. Brill
-    - Sister Act --- Mother Superior
-    - The Music Man --- Alma Hix
-    - Frog and Toad --- Ensemble
+  roles:
+    Mary Poppins: Mrs. Brill
+    Sister Act: Mother Superior
+    The Music Man: Alma Hix
+    Frog and Toad: Ensemble
   bio_approved: true
   bio: >
     Corinne is excited to be making her Post Playhouse debut and wants to thank Tom, Julio, and the rest of the Post Playhouse creative team for this wonderful opportunity! Corinne graduated from Western Connecticut State University with a B.A. in Musical Theatre Performance in 2015. Some of her favorite credits include, Miss Hannigan (_Annie_), Tracy Turnblad (_Hairspray_), Matron Mama Morton (_Chicago_), B.J. (_Smokey Joe’s Café_), Lucia (_Mornings of April and May_) *National Tour, Martha Bessel (_Spring Awakening_), Maria (_Twelfth Night_), Alysha (_American Idiot_). Corinne considers herself very lucky to be joining the Post Playhouse family this summer! Follow her journey and see what’s next at [Corinne-Marshall.com](https://corinne-marshall.com).
@@ -456,11 +456,11 @@
   location: "New York, NY"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Ms. Andrew, Ensemble
-    - Sister Act --- Mary Marin-of-Tours
-    - The Music Man --- Zaneeta Shinn
-    - Frog and Toad --- Squirrel, Ensemble
+  roles:
+    Mary Poppins: Ms. Andrew, Ensemble
+    Sister Act: Mary Marin-of-Tours
+    The Music Man: Zaneeta Shinn
+    Frog and Toad: Squirrel, Ensemble
   bio_approved: true
   bio: >
     Kelsey McCollaum is humbled to be making her Post Playhouse debut! Kelsey is a New York based actor and is a graduate of Marymount Manhattan College where she received her BA in Musical Theatre.  Some of her favorite credits include _Merrily We Roll Along_ (Mary Flynn), _Grease_ (Jan), _Beehive_ (Judy) and _42 Nd Street_ (Maggie Jones) in which she was a 2019 Broadway World Award Winner for best supporting actress in a musical.  Kelsey would like to thank the entire Post Playhouse team for this amazing opportunity!  Finally, she would like to thank her parents for their constant love, patience and support. Enjoy the show!  
@@ -473,11 +473,11 @@
   location: "Fremont, NE"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Bank Chairman, Ensemble
-    - Sister Act --- Joey
-    - The Music Man --- Marcellus Washburn
-    - Little Shop of Horrors --- Seymour
+  roles:
+    Mary Poppins: Bank Chairman, Ensemble
+    Sister Act: Joey
+    The Music Man: Marcellus Washburn
+    Little Shop of Horrors: Seymour
   bio_approved: true
   bio: >
     Trey Mendlik is beyond ecstatic to be making his Post Playhouse debut this summer.  He recently graduated from Midland University with a Bachelors in Arts Management and Theatre.  Trey previously toured with The Young Americans doing music outreach.  He has traveled all over Germany, Poland, Japan, and the U.S., using the arts to empower students and promote the importance of performing arts in schools.  Regional credits include: Ike Skidmore (u/s, Curly) in _Oklahoma_ at the Black Hills Playhouse.  Other theatre credits include: Don Quixote in _Man of LaMancha_, Trevor Graydon in _Thoroughly Modern Millie_, Mr. Green in _Clue_, Troy Bolton in _High School Musical_ and Seymour in _Little Shop of Horrors_.  He is incredibly grateful to Tom and Dewayne for seeing something special in him. Instagram: @trey.mendlik
@@ -532,11 +532,11 @@
   location: "Chicago IL"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Admiral Boom
-    - Sister Act --- TJ
-    - The Music Man --- Jacey Squires
-    - A Year With Frog & Toad --- Toad
+  roles:
+    Mary Poppins: Admiral Boom
+    Sister Act: TJ
+    The Music Man: Jacey Squires
+    Frog and Toad: Toad
   bio_approved: true
   bio: >
     Juwon Tyrel Perry is eager to be making his Post Playhouse debut! Juwon is a recent graduate of Columbia College Chicago where he received his BFA in  Musical Theatre. Some previous credits include: _Ragtime_ with Griffin Theater Company which won the 2018 Jeff Award for Best Ensemble, _The Gospel at Colonus Gala_ with Court Theater, _New Faces Sing 1941_ with Porchlight Music Theatre _The View Upstairs_ with Circle Theatre, _Tarzan_ with NightBlue Theater Company, _Once On This Island, Xanadu, Caroline, or Change, Sweet Charity_, and _High Fidelity_ with Columbia College Chicago. Learn more about Juwon at [www.juwontyrelperry.weebly.com](http://www.juwontyrelperry.weebly.com) 
@@ -564,11 +564,11 @@
   location: "Chicago, IL"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Mary Poppins
-    - Sister Act --- Mary Patrick
-    - The Music Man --- Ethel Toffelmier
-    - Little Shop of Horrors --- Chiffon
+  roles:
+    Mary Poppins: Mary Poppins
+    Sister Act: Mary Patrick
+    The Music Man: Ethel Toffelmier
+    Little Shop of Horrors: Chiffon
   bio_approved: true
   bio: >
     Hope (EMC) is ecstatic to be making her Post Playhouse debut! Originally from Oklahoma, Hope has been a resident of Chicago for 5 years now. After receiving her BFA in musical theatre at The Chicago College of Performing Arts at Roosevelt University in May of 2018, Hope has hit the ground running in the Chicago theatre community. In this past year you may have seen Hope in Theo Ubique’s Jeff award winning production of _Sweeney Todd_, where she played the Soprano 1 and went on for the role of Johana throughout the run. Following this, she performed as Charity in Music Theatre Works’ production of _Anything Goes_, where she also understudied the role of Reno Sweeney. Most recently, she performed in Theatre at The Center’s production of _Miracle on 34th Street the Musical_. Some of Hope’s favorite roles include Liesl in _The Sound of Music_, Hope in _Urinetown_, Cobweb in _A Midsummer Night’s Dream_, and Yonah in _Children of Eden_. She would like to thank her teachers, family, and friends for all of the support and love over the years. She can’t wait to have a "practically perfect" summer in Nebraska!
@@ -581,11 +581,11 @@
   location: "New York, NY"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Policeman, Ensemble
-    - Sister Act --- Ernie, Ensemble
-    - The Music Man --- Harold Hill
-    - Little Shop of Horrors --- Orin
+  roles:
+    Mary Poppins: Policeman, Ensemble
+    Sister Act: Ernie, Ensemble
+    The Music Man: Harold Hill
+    Little Shop of Horrors: Orin
   bio_approved: true
   bio: >
     The powerhouse high-tenor voice of Ramin Karimloo with the boy-next-door look of Andrew Rannells is a simple way to describe Luke Sikora. He worked as a singer/actor for five years up and down the West Coast before moving to New York to finish his education. Luke received his bachelor's degree at the Manhattan School of Music in 2017, where he studied voice with Catherine Malfitano. Past performances include Enoch Snow in _Carousel_, Henrik in _A Little Night Music_, Enjolras in _Les Miserables_, Henry in _Next to Normal_, Pirelli in _Sweeney Todd_, The Wolf/Cinderella’s Prince in _Into the Woods_, Brian in _Avenue Q_, and Roger (Cover) in _RENT_. Luke has sung for charity events such as the Breast Health Project, Relay For Life, and KHUM radio’s annual Stop the Violence Campaign. He has a passion for education; not only did he coach acting for the singer seminar at the Manhattan School of Music, but has now opened his own vocal studio in NYC. Luke would like to thank the Post Playhouse for this wonderful opportunity.
@@ -609,11 +609,11 @@
   location: "New York City, NY"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Mrs. Correy, Ensemble
-    - Sister Act --- Mary Theresa
-    - The Music Man --- Mrs. Squires
-    - A Year With Frog & Toad --- Lady Bird 2, Ensemble
+  roles:
+    Mary Poppins: Mrs. Correy, Ensemble
+    Sister Act: Mary Theresa
+    The Music Man: Mrs. Squires
+    Frog and Toad: Lady Bird 2, Ensemble
   bio_approved: true
   bio: >
     Brynn, originally from Muscatine, Iowa, is so happy to be back in the Midwest making her Post Playhouse debut! Regional credits include: Spotlight Repertory Theatre: _Mamma Mia!_ (Sophie), Weathervane Theatre: _Hairspray_ (Amber), _Anne of Green Gables_ (Anne), _West Side Story_ (Anybodys), _Gypsy_ (Thelma), Timbers Dinner Theatre: _Music In Time_ (Emma).  BFA in Musical Theatre: Shenandoah Conservatory. Endless thanks to this cast, crew, and creative team for 14 weeks of fun! [www.brynnsweere.com](https://www.brynnsweere.com)
@@ -638,11 +638,11 @@
   location: "Chicago, IL"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Katie Nanna
-    - Sister Act --- Deloris Van Cartier
-    - The Music Man --- Eulalie Shinn
-    - Little Shop of Horrors --- Crystal
+  roles:
+    Mary Poppins: Katie Nanna
+    Sister Act: Deloris Van Cartier
+    The Music Man: Eulalie Shinn
+    Little Shop of Horrors: Crystal
   bio_approved: true
   bio: >
     Tyler is thrilled to be a part of Post Playhouse's 2019 season. Tyler is a recent graduate of the BFA Musical Theatre Performance program at Columbia College Chicago. Previous credits include _Caroline Or Change_ and _9 to 5_ (Firebrand Theatre) _The Full Monty_ and _A New Brain_ (Theo Ubique), _High Fidelity_ (Refuge Theatre Project), _Tonya & Nancy: The Rock Opera_ (Underscore Theatre Company), _Little Me_ and _They’re Playing Our Song_ (Porchlight Music Theatre), _Annie_, _A Gentlemen’s Guide To Love and Murder_ and _The Full Monty_ (Rocky Mountain Repertory Theatre). Find out more about Tyler at [tylersymone.com](http://tylersymone.com). Tyler is proudly represented by the agents at Shirley Hamilton Inc.
@@ -653,11 +653,11 @@
   location: "Chicago, IL via St. Louis, MO"
   groups:
     - cast
-  positions:
-    - Mary Poppins --- Neleus
-    - Sister Act --- Ensemble
-    - The Music Man --- Tommy Djilas
-    - Frog & Toad --- Bird, Snail, Ensemble
+  roles:
+    Mary Poppins: Neleus
+    Sister Act: Ensemble
+    The Music Man: Tommy Djilas
+    Frog and Toad: Bird, Snail, Ensemble
   bio_approved: true
   bio: >
     Jerod Turner is a native to St. Louis, Missouri, but currently resides in Chicago, Illinois. He is enrolled at Columbia College Chicago as a BFA musical theater performance major. Previous credits include work at The Muny in St. Louis, Navy Pier in Chicago, and productions at Columbia. He is absolutely thrilled to be making his Post Playhouse debut!

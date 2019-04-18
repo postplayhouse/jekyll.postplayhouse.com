@@ -12,10 +12,13 @@
     <h3 class="location">{{ person.location }}</h3>
   {% endif %}
   
-  {% if person.positions != nil %}
+  {% if person.positions != nil or person.roles != nil%}
     <ul class="positions">
       {% for position in person.positions %}
         <li>{{ position | markdownify }}</li>
+      {% endfor %}
+      {% for role in person.roles %}
+        <li>{{ role[0] }} &mdash; {{role[1]}}</li>
       {% endfor %}
     </ul>
   {% endif %}

@@ -122,10 +122,14 @@ Approved | Name<br>
       {{ person.location | markdownify }}
       {% endif %}
 
-      {% if person.positions != nil %}
+      {% if person.positions != nil or person.roles != nil%}
       <p class="positions">
         {% for position in person.positions %}
         {{ position | replace: "---", "&mdash;" }}<br>
+        {% endfor %}
+
+        {% for role in person.roles %}
+        {{ role[0] }} &mdash; {{ role[1] }}<br>
         {% endfor %}
       </p>
       {% endif %}
