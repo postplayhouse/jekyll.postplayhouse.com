@@ -31,13 +31,14 @@
   {% endif %}
 
   <div class="description">
-    {{ production.description | markdownify }} {% if production.sponsor %}
-    <div class="sponsor">
-      <p>Sponsored By</p>
-      {% if production.sponsor.image %}
-      <img class="sponsor-image" src="{{ site.baseurl }}/images/sponsors/{{ production.sponsor.image }}"> {% elsif production.sponsor.text %} {{ production.sponsor.text }} {% endif %}
-    </div>
-
+    {{ production.description | markdownify }}
+    
+    {% if production.sponsor %}
+      <div class="sponsor">
+        <p>Sponsored By</p>
+        {% if production.sponsor.image %}
+        <img class="sponsor-image" src="{{ site.baseurl }}/images/sponsors/{{ production.sponsor.image }}"> {% elsif production.sponsor.text %} {{ production.sponsor.text }} {% endif %}
+      </div>
     {% endif %}
   </div>
 </article>
