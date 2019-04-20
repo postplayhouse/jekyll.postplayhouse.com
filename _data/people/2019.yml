@@ -559,6 +559,20 @@
   image_year: 2018
 
 
+- first_name: Jane A.
+  last_name: Rice
+  location: "Chadron, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Mrs. Paroo
+  bio_approved: true
+  bio: |
+    Jane is excited and pleased to be returning to the Post Playhouse for a third season. Two years ago she returned to the Playhouse for its 50th anniversary after a 35 year hiatus.  She has appeared in the ensemble for _Young Frankenstein_, a few performances as Lotti Child in _Crazy for You_ (filling in for Marge Rotherham), as Betty Buckley in _Footloose_, as Josephine Strong in _Urinetown_, and in the ensemble for _Chitty Chitty Bang Bang_.  Throughout high school and college (Chadron State College) Jane participated in many plays and a few musicals.  She later  acted in and directed a few communiy theater productions in Valentine and Scottsbluff, NE.  She is now a retired elementaty teacher substituting for Chadron Public Schools.  She would like to thank Tom Ossowski and Dewayne Barrett for inviting her back for another season.
+  image_year: 2017
+  image_file: jane-rice.jpg
+
+
 - first_name: Hope Elizabeth
   last_name: Schafer
   location: "Chicago, IL"
@@ -576,6 +590,19 @@
   image_file: hope-schafer.jpg
 
 
+- first_name: Wally
+  last_name: Seiler
+  location: "Alliance, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Constable Locke
+  bio_approved: true
+  bio: >
+    Wally is returning to the Post Playhouse, Inc., for an eighth season and can't think of a better way to spend a summer.  Previously, he has appeared on the Playhouse stage as Andrew Carnes (_Oklahoma!_), Pawnee Bill (_Annie Get Your Gun_), Baron Elberfeld (_The Sound of Music_), Arvide Abernathy (_Guys and Dolls_), Russell Tinsworthy (_Nine to Five_), Ensemble (_Hollywood: a Cabaret_), Baldy (_A Man of No Importance_), the King (_Cinderella_), Mayor Rufus Poindexter and Senator Wingwoah (_The Best Little Whorehouse in Texas_), Sir Not Appearing and Monk (_Spamalot_) and Bookseller and Ensemble (_Beauty and the Beast_), Ziggy and Mr. Hilltop (_Young Frankenstein_), Everett Baker (_Crazy for You_), Father Alexandrios (_Mamma Mia!_), Principal/Ensemble (_Footloose_), Ensemble (_Chitty Chitty..._), and Abner (_42nd Street_).  Wally is grateful to be a part of the magic that is created on the stage of the Post Playhouse, Inc.
+  image_year: 2015
+
+
 - first_name: Luke
   last_name: Sikora
   location: "New York, NY"
@@ -590,6 +617,7 @@
   bio: >
     The powerhouse high-tenor voice of Ramin Karimloo with the boy-next-door look of Andrew Rannells is a simple way to describe Luke Sikora. He worked as a singer/actor for five years up and down the West Coast before moving to New York to finish his education. Luke received his bachelor's degree at the Manhattan School of Music in 2017, where he studied voice with Catherine Malfitano. Past performances include Enoch Snow in _Carousel_, Henrik in _A Little Night Music_, Enjolras in _Les Miserables_, Henry in _Next to Normal_, Pirelli in _Sweeney Todd_, The Wolf/Cinderella’s Prince in _Into the Woods_, Brian in _Avenue Q_, and Roger (Cover) in _RENT_. Luke has sung for charity events such as the Breast Health Project, Relay For Life, and KHUM radio’s annual Stop the Violence Campaign. He has a passion for education; not only did he coach acting for the singer seminar at the Manhattan School of Music, but has now opened his own vocal studio in NYC. Luke would like to thank the Post Playhouse for this wonderful opportunity.
   image_year: 2019
+
 
 - first_name: Ann
   last_name: Stephens
