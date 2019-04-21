@@ -124,6 +124,15 @@ regenerate: true
 </style>
 {% assign people = site.data.people[site.season] %}
 
+<div class="cast-list-per-show">
+  {% for production in site.data.productions[site.season] %}
+    <div class="show">
+      <h3>{{production.title}}</h3>
+      {% include cast-list.html people=people production=production %}
+    </div>
+  {% endfor %}
+</div>
+
 Approved | Name<br>
 {% for person in people %}
   {% unless person.groups contains "board" %}
@@ -134,61 +143,6 @@ Approved | Name<br>
 {% endfor %}
 
 <a href="#TheBoard">Board Headshots and Names</a><br/>
-
-<div class="cast-list-per-show">
-  {% for production in site.data.productions[site.season] %}
-    <div class="show">
-      <h3>{{production.title}}</h3>
-
-      {% assign role_names = '' | split: '' %}
-      {% for person in site.data.people[site.season] %}
-        {% if person.groups contains "cast" and person.bio_approved and person.roles != nil %}
-          {% for role in person.roles %}
-            {% if role[0] == production.title or role[0] == production.short_title %}
-              {% assign role_as_arr = role[1] | split: 'NEVER_APPEARS' %}
-              {% assign role_names = role_names | concat: role_as_arr %}
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
-
-      {% assign role_names = role_names | sort_natural | uniq %}
-      {% assign ensemble_members = '' | split: '' %}
-      <ul class="cast-list">
-        {% for role_name in role_names %}
-          {% for person in site.data.people[site.season] %}
-            {% for role in person.roles %}
-              {% if role[0] == production.title or role[0] == production.short_title %}
-                {% capture name %}{{person.first_name}} {{person.last_name}}{% endcapture %}
-                {% if role[1] == role_name %}
-                  {% if role_name != 'Ensemble' %}
-                    <li>
-                      <span class="role">{{role_name | replace: 'Ensemble', 'Ens.'}}</span>
-                      <span class="separator"></span>
-                      <span class="actors"><span class="actor">{{name}}</span></span>
-                    </li>
-                  {% else %}
-                    {% assign name_as_arr = name | split: 'NEVER_APPEARS' %}
-                    {% assign ensemble_members = ensemble_members | concat: name_as_arr %}
-                  {% endif %}
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-        {% endfor %}
-
-        {% if ensemble_members.size > 0 %}
-          <li>
-            <span class="role">Ensemble</span>
-            <span class="separator"></span>
-            <span class="actors"><span class="actor">{{ ensemble_members | join: '</span>, <span class="actor">'}}</span></span>
-          </li>
-        {% endif %}
-      </ul>
-
-    </div>
-  {% endfor %}
-</div>
 
 <div class="not-bios-page-wink-wink">
 {% for person in people %}
