@@ -1,4 +1,5 @@
 - title: Mary Poppins
+  short_title:
   pre_title: Disney and Cameron Mackintosh's
   rating: G
   image: mary-poppins.jpg
@@ -27,6 +28,7 @@
 
 
 - title: Little Shop of Horrors
+  short_title: Little Shop
   rating: H
   rating_explanation: It's a funny and exciting show. Young children might get frightened once or twice, and there is a little bit of foul language in the show. If you are familiar with the movie, you'll know the content of the show.
   image: little-shop.jpg
@@ -49,6 +51,7 @@
 
 
 - title: The Music Man
+  short_title: Music Man
   rating: G
   image: music-man.jpg
   opening: 2019-06-14
@@ -93,7 +96,8 @@
     image: stuart-trust.png
 
 
-- title: A Year With Frog & Toad
+- title: A Year With Frog and Toad
+  short_title: Frog & Toad
   rating: G
   image: frog-and-toad.jpg
   opening: 2019-06-28
