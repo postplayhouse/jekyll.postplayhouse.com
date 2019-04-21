@@ -157,7 +157,9 @@ Approved | Name<br>
       {% assign missing_text = "missing " %}
     {% endif %}
 
-    <img class="plain-bio-headshot" src="{{ headshot }}" alt="{{ missing_text }}picture of {{ person.first_name }}">
+    {% unless person.groups contains "additional" and headshot == nil %}
+      <img class="plain-bio-headshot" src="{{ headshot }}" alt="{{ missing_text }}picture of {{ person.first_name }}">
+    {% endunless %}
 
     <div class="bio-unapproved-text">{{ person.first_name }}'s bio or roles are not yet approved.</div>
 
