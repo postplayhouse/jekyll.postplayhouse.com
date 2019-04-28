@@ -84,12 +84,12 @@ regenerate: true
     margin: 12px auto !important;
   }
 
-  .cast-list-per-show .cast-list {
+  .people-list {
     max-width: 400px;
     list-style: none;
   }
 
-  .cast-list-per-show .cast-list li {
+  .people-list li {
     width: 100%;
     display: flex;
   }
@@ -113,23 +113,22 @@ regenerate: true
     height: 1.5em;
   }
 
-  li .actors {
+  li .actors, li .fulfiller {
     text-align: right;
   }
 
-  li .actors .actor {
+  li .actors .actor, li .fulfiller {
     white-space: nowrap;
   }
 
 </style>
 {% assign people = site.data.people[site.season] %}
 
-<div class="cast-list-per-show">
+<div class="lists-per-show">
   {% for production in site.data.productions[site.season] %}
-    <div class="show">
-      <h3>{{production.title}}</h3>
-      {% include cast-list.html people=people production=production %}
-    </div>
+    <h3>{{production.title}}</h3>
+    {% include cast-list.html people=people production=production %}
+    {% include production-list.html people=people production=production %}
   {% endfor %}
 </div>
 
@@ -170,16 +169,26 @@ Approved | Name<br>
       {{ person.location | markdownify }}
       {% endif %}
 
-      {% if person.positions != nil or person.roles != nil%}
-      <p class="positions">
-        {% for position in person.positions %}
-        {{ position | replace: "---", "&mdash;" }}<br>
-        {% endfor %}
+      {% if person.positions != nil%}
+        <p class="positions">
+          {% for position in person.positions %}
+            {{ position | replace: '---', '&mdash;' }}<br>
+          {% endfor %}
+        </p>
+      {% elsif person.production_positions != nil or person.roles != nil or person.staff_positions != nil %}
+        <p class="positions">
+          {% for position in person.staff_positions %}
+            {{ position | replace: '---', '&mdash;' }}<br>
+          {% endfor %}
 
-        {% for role in person.roles %}
-        {{ role[0] }} &mdash; {{ role[1] }}<br>
-        {% endfor %}
-      </p>
+          {% for show_x_positions in person.production_positions %}
+            {{ show_x_positions[0] }} &mdash; {{ show_x_positions[1] | join: ", " }}<br>
+          {% endfor %}
+          
+          {% for role in person.roles %}
+            {{ role[0] }} &mdash; {{role[1]}}<br>
+          {% endfor %}
+        </p>
       {% endif %}
 
       {{ person.bio | markdownify }}

@@ -1,0 +1,7 @@
+{%- assign included = "false" -%}
+{%- for item in include.array -%}
+  {%- if item == include.item -%}
+    {%- assign included = "true" -%}
+  {%- endif -%}
+{%- endfor -%}
+{{- included -}}

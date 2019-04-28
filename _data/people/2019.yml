@@ -3,10 +3,10 @@
 #   location: ""
 #   groups:
 #     -
-#   positions:
+#   roles:
 #     Mary Poppins: YOUR_ROLE_HERE
-#     Sister: --- YOUR_ROLE_HERE
-#     The Music: --- YOUR_ROLE_HERE
+#     Sister: YOUR_ROLE_HERE
+#     The Music: YOUR_ROLE_HERE
 #     Frog & Toad: YOUR_ROLE_HERE
 #     Little Shop: YOUR_ROLE_HERE
 #   bio_approved: false
@@ -40,9 +40,10 @@
   location: "New York City, NY"
   groups:
     - creative
-  positions:
-    - Director --- Sister Act
-    - Choreographer --- Sister Act 
+  production_positions:
+    Sister Act:
+      - Director
+      - Choreographer
   bio_approved: true
   bio: |
     Julio is grateful to Tom and Dewayne for this opportunity, and is excited to be making his Post Playhouse debut! Broadway credits:  _Fosse_, _Steel Pier_, _Never Gonna Dance_, _Bells Are Ringing_ (revival), _Women on the Verge of a Nervous Breakdown_, _Chicago_.  Recent publication: _The Professional Actor’s Handbook: From Casting Call to Curtain Call_ (Rowman & Littlefield, 2017). Award nominations: Audelco Award, Best Director (_Sweet Charity_ @ New Haarlem Arts Theatre, NYC); Syracuse Area Live Theatre, Best Choreographer (_In the Heights_ @ Hangar Theatre); Houston Press, Best Choreographer (_Guys and Dolls_ @ Theatre Under the Stars). BM in Musical Theatre, FSU; MFA in Directing, Penn State. Assistant Professor of Theatre, University of Miami.  Julio runs The Transition Workshop, a monthly audition studio in New York City ([www.JulioAgustin.com](http://www.JulioAgustin.com)).
@@ -54,8 +55,9 @@
   location: "New York City, NY and Tallahassee, FL"
   groups:
     - creative
-  positions:
-    - Director --- Little Shop of Horrors
+  production_positions:
+    Little Shop:
+      - Director
   bio_approved: true
   bio: >
     Directing credits include: _Birthmark, Love’s Labour’s Lost The Musical, 25th Annual Putnam County Spelling Bee, Spring Awakening The Musical, Rock Of Ages, Amadeus, Doubt, Legally Blonde, Avenue Q, Disney’s The Little Mermaid, Disney’s Tarzan, The Full Monty, Aida, Honk_.  Director of Creative Development:  _Princess Ten Ten and The Dark Skies, Missing_.  MFA in Theatre Directing. Musical Staging credits include: _Next To Normal, A Little Night Music, Tick...Tick...Boom!_  MFA in Directing.  Assistant Professor of Theatre, Florida State University. [chariarespacochaga.com](https://www.chariarespacochaga.com)
@@ -71,8 +73,21 @@
     - staff
   positions:
     - Post Playhouse Artistic Director
-    - Choreographer --- Mary Poppins, The Music Man, Little Shop, Frog & Toad
-    - Director --- Mary Poppins, Frog & Toad
+    - Director/Choreographer --- Mary Poppins, Frog & Toad
+    - Choreographer --- The Music Man, Little Shop
+  staff_positions:
+    - Post Playhouse Artistic Director
+  production_positions:
+    Mary Poppins:
+      - Director
+      - Choreographer
+    The Music Man:
+      - Choreographer
+    Little Shop:
+      - Choreographer
+    Frog & Toad:
+      - Director
+      - Choreographer
   bio_approved: true
   bio: |
     Dewayne is very excited to be returning to the Post Playhouse for his 4th season as Artistic Director, Director, and Choreographer. Originally from Atlanta, Georgia, he moved to New York City and began his career/training in the Big Apple. He has performed leading roles around the country such as Rum Tum Tugger in _Cats_, Bobby Child in _Crazy For You_, Riff in _West Side Story_, Bobby in _A Chorus Line_ to name a few. He has directed and choreographed for national tours, regional theatres, dinner theaters, community theatres, cruise ships, movies, high schools, music videos, parades and dance companies. He now resides in Florida. This coming fall, Dewayne will be heading to Beijing, China to teach, direct/choreograph at The Central Academy of Drama. He recently premiered _EDM Antigone the Rock Opera_ with Don Fox in Wenatchee, Washington. Don and Dewayne are planning several US tours of _EDM Antigone_. Dewayne would love to thank Tom Ossowski and Don Fox for all the doors they have opened for him and all the wonderful designers and crew that return every year.
@@ -86,6 +101,13 @@
     - creative
   positions:
     - Costume Designer --- Mary Poppins, Sister Act, Little Shop
+  production_positions:
+    Mary Poppins:
+      - Costume Designer
+    Sister Act:
+      - Costume Designer
+    Little Shop:
+      - Costume Designer
   bio_approved: true
   bio: >
     Pheobe H. Boynton is thrilled to be returning to The Post Playhouse for her sixth season! She is a freelance costume designer originally from Ithaca, NY and currently based out of the Theatreworks costume shop in Colorado Springs, CO. She has a bachelors in art history from Cornell University, and an MFA in theater design and technology from the University of Missouri-Kansas City. She has done work for a wide variety of clients and companies including the Los Angeles Opera, Norwegian Cruise Line Holdings, Kanye West, Kansas City Repertory Theater, The Arvada Center, Theatreworks, Chadron State College, The Unicorn Theater, The Hangar Theatre, Legendary Pictures, YouTube Studios, Relativity Media, Investigation Discovery and Theatrical Arts International. [www.pheobebird.com](http://www.pheobebird.com)
@@ -98,8 +120,9 @@
   location: "Crawford, NE"
   groups:
     - staff
-  positions:
+  staff_positions:
     - Box Office Staff
+    - Follow Spot Operator
   bio_approved: true
   bio: >
     Cody is very happy to be returning to the Post Playhouse for his second season. He just finished his senior year at Crawford High School and is getting ready for college. Cody is looking forward to meeting everyone and having another great summer out at Post Playhouse.
@@ -114,6 +137,17 @@
     - staff
   positions:
     - Season Technical Director
+  production_positions:
+    Mary Poppins:
+      - Technical Director
+    The Music Man:
+      - Technical Director
+    Sister Act:
+      - Technical Director
+    Little Shop:
+      - Technical Director
+    Frog & Toad:
+      - Technical Director
   bio_approved: true
   bio: >
     Scott is excited to be returning to the Post Playhouse for his second season. Scott is also an Associate Professor of Theatre at Chadron State College. His responsibilities include Designer (Scenic, Lighting, Sound, Projection), Technical Director and Production Manager for the Theatre Program. Recent designs credits (Set and/or Light) include: _Money Shot_, _Rosencrantz & Guilderstein are Dead_, _Big River_, _Extremities_, _The Underpants_, _Little Shop of Horrors_, _Bus Stop_, _Almost Maine_, _Godspell_, _Peter and the Starcatcher_, and _Lost in Yonkers_. Always looking for new challenges Scott also Directs at Chadron State College. Some of his recent directing Credits include:  _Extremities_, _Money Shot_, _The Vampire Cowboy Trilogy_, _The Play About the Baby_, _Too Much Light Makes the Baby Go Blind_, _The Shape of Things_, and _Stop Kiss_. You can see more of Scott’s work at [www.scottcavin.com](http://www.scottcavin.com)
@@ -142,8 +176,18 @@
   groups:
     - staff
   positions:
-    - Technical Staff
-    - Paint Charge
+    - Season Paint Charge
+  production_positions:
+    Mary Poppins:
+      - Paint Charge
+    The Music Man:
+      - Paint Charge
+    Sister Act:
+      - Paint Charge
+    Little Shop:
+      - Paint Charge
+    Frog & Toad:
+      - Paint Charge
   bio_approved: true
   bio: >
     Linda is a recent transplant from Omaha to the Crawford area. She has been painting theater sets for 14 years. After being in the art field as an Art Director for various ad agencies, an outdoor billboard company, along with Art Director at Omaha's Henry Doorly Zoo. Some of the theatres she has painted for are Kountze Memorial at Mahoney State Park, Lofté Community Theatre, Manley, NE, Lincoln Community Theatre, Opera Omaha and Lincoln University Opera. Now semi retired to paint and produce pottery for her own enjoyment. She lives on a ranch north of Crawford with her faithful, but noisy dog, Beau. On good days she can be found wandering the hills with either camera in hand or watercolor brushes. Linda wishes to thank Dewayne and Tom for bringing her into the Post Playhouse family.  
@@ -156,8 +200,8 @@
   location: "Chadron, NE"
   groups:
     - staff
-  positions:
-    - Season Stitcher
+  staff_positions:
+    - Stitcher
   bio_approved: true
   bio: >
     Jacki, a huge fan of the Post Playhouse, is excited to join the costuming team for her first season.  She is a mother of five, who have required many costumes, an avid sewer and crafter, and currently serves as the Chadron State College costume shop manager.  There she assists with alterations, costume building and repair, and organization.  
@@ -168,8 +212,8 @@
   last_name: Denton
   groups:
     - staff
-  positions:
-    - "Assistant Marketing Manager"
+  staff_positions:
+    - Marketing Designer
   bio_approved: true
   bio: >
     Don Denton has been performing with Post Playhouse off and on since 2008. Since that time, he has also been working with Tom to shape all of the Playhouse's marketing efforts. For the past several years, he has designed all of Post's printed materials along with the website and logo. Don has very fond memories of all the years he has been at the playhouse, and regrets that he cannot be there this year. But a very lovely actress whom he met at Post in 2008 will have brought his first child into the world just a little while before opening night, so he'll be home with Paige and the new baby instead.
@@ -181,9 +225,9 @@
   location: "New Haven, CT / Granville, OH"
   groups:
     - staff
-  positions:
+  staff_positions:
     - Costume Shop Manager
-    - Season Stitcher
+    - Stitcher
   bio_approved: true
   bio: >
     Tasha DeYoung is thrilled to be joining The Post Playhouse for her first season. She is a current student at Denison University in Ohio pursuing a Theatre major. She has spent her time at school getting experience in all areas of theatre, including costume and lighting design, wardrobe supervising, and board operating. Tasha spent her last summer as the Wardrobe Assistant at Theatre Aspen, gaining invaluable experience with _Ragtime_ and _Our Town_. Prior to this, she worked at the Saratoga Shakespeare Company not only as stitcher but wearer of all necessary hats like wardrobe crew, launderer, designer, and more.
@@ -197,7 +241,23 @@
     - creative
     - crew
   positions:
-    - Season Sound Designer/Mixer/Board Op
+    - Season Sound Designer & Mix Engineer
+  production_positions:
+    Mary Poppins:
+      - Sound Designer
+      - Sound Mix Engineer
+    The Music Man:
+      - Sound Designer
+      - Sound Mix Engineer
+    Sister Act:
+      - Sound Designer
+      - Sound Mix Engineer
+    Little Shop:
+      - Sound Designer
+      - Sound Mix Engineer
+    Frog & Toad:
+      - Sound Designer
+      - Sound Mix Engineer
   bio_approved: true
   bio: >
     Melissa is a current student at Florida State University double-majoring in Theater and Electrical Engineering and has completed her minor in Physics. She has been involved in the sound-designing process for numerous main-stage productions at the University’s School of Theater, including _Guys and Dolls_ in October 2017, _The Addams Family_ in February 2018, and _Hairspray_ in February of 2019. She also recently designed the sound for A New Brain in The Lab Theater at Florida State in November of 2018.  She wants to thank Tom Ossowski for inviting her to be a part of this season at the Post Playhouse and is so grateful for the opportunity. She also sends thanks to Zachary Cramer at Florida State for being so patient with her while she learns and for always believing in her.
@@ -211,8 +271,19 @@
     - creative
     - musicians
   positions:
-    - Music Director --- Mary Poppins, The Music Man, Little Shop of Horrors
-    - Second Keys --- Sister Act, Frog & Toad
+    - Music Director/Conductor --- Mary Poppins, The Music Man, Little Shop
+  production_positions:
+    Mary Poppins:
+      - Music Director
+      - First Keys/Conductor
+    The Music Man:
+      - Music Director
+      - First Keys/Conductor
+    Sister Act:
+      - Second Keys
+    Little Shop:
+      - Music Director
+      - First Keys/Conductor
   bio_approved: true
   bio: |
     Matthew is a music director, composer and pianist whose music has been heard around New Zealand and the world. He holds a Bachelor of Music (Composition) and Bachelor of Laws with Honours from the University of Canterbury, and an ATCL diploma in piano performance while also lecturing in music theory, composition, keyboard musicianship and musical theatre at the University of Canterbury School of Music and Ara Institute of Canterbury. Matthew is an alumni of the New York University Summer Film Scoring workshop (2017) and was recently appointed Artistic Director of the Christchurch Pops Choir.
@@ -247,6 +318,21 @@
   positions:
     - Season Scenic Designer
     - Lighting Designer --- Mary Poppins, Sister Act, The Music Man, Frog & Toad
+  production_positions:
+    Mary Poppins:
+      - Scenic Designer
+      - Lighting Designer
+    Sister Act:
+      - Scenic Designer
+      - Lighting Designer
+    The Music Man:
+      - Scenic Designer
+      - Lighting Designer
+    Little Shop:
+      - Scenic Designer
+    Frog & Toad:
+      - Scenic Designer
+      - Lighting Designer
   bio_approved: true
   bio: >
     Don is thrilled to be returning for his 6th season designing for the Post Playhouse.  Don is a native of Colorado Springs, CO, where he recently served as Production Manager for the launch of the brand new Ent Center for the Arts at the University of Colorado, Colorado Springs.  Recent and favorite credits include lighting designs for the Atlantis Resort, Paradise Island, (_Great American Variety Show_), The Borgata Casino, Atlantic City, NJ (_The Burlesque Show_), Florida State University, Tallahassee, FL (_All Shook Up, Legally Blonde, Addams Family_), THEATREWORKS AT UCCS (_A Christmas Carol_), The Moscow Ballet's North American Tours 2014, 2015, 2017, 2018 (_The Great Russian Nutcracker_), and the Numerica Performing Arts Center of Wenatchee, WA (_Young Frankenstein, August Osage County_). Don recently created and produced the world premiere of EDM Antigone which is available as an educational production to tour nationally ([www.edmAntigone.com](http://www.edmAntigone.com)).  His extensive portfolio can be viewed at [www.DonFoxDesigns.com](http://www.DonFoxDesigns.com).
@@ -260,6 +346,17 @@
     - creative
   positions:
     - Season Props Master
+  production_positions:
+    Mary Poppins:
+      - Props Master
+    Sister Act:
+      - Props Master
+    The Music Man:
+      - Props Master
+    Little Shop:
+      - Props Master
+    Frog & Toad:
+      - Props Master
   bio_approved: true
   bio: >
     Javier Fox is pleased to officially join the Post Playhouse company this summer as Props Master.  Javier has previously served as props master for Numerica Performing Arts Center's productions of _Bat Boy the Musical_, _Cabaret_, _Chicago_, and _La Cage aux Folles_.  Javier is currently pursuing his Elementary Education certification at the University of Colorado, Colorado Springs.
@@ -270,7 +367,7 @@
   last_name: Gaswick
   groups:
     - staff
-  positions:
+  staff_positions:
     - Accountant
   bio_approved: true
   bio: >
@@ -285,6 +382,17 @@
     - staff
   positions:
     - Master Electrician
+  production_positions:
+    Mary Poppins:
+      - Master Electrician
+    Sister Act:
+      - Master Electrician
+    The Music Man:
+      - Master Electrician
+    Little Shop:
+      - Master Electrician
+    Frog & Toad:
+      - Master Electrician
   bio_approved: true
   bio: >
     Brian Graham is a candidate for a BFA in Theatre Production; Design and Technology, with an emphasis in Lighting Design from The University of Arizona. He is in his third year at the university and looks forward to putting his skills and knowledge to use for the Post Playhouse. He is excited to meet new people and work with UofA Alumni this summer!
@@ -296,8 +404,9 @@
   location: "Crawford, NE"
   groups:
     - staff
-  positions:
+  staff_positions:
     - Box Office Staff
+    - Follow Spot Operator
   bio_approved: true
   bio: >
     Shanie just finished her junior year at Chadron State College and she is elated for her first season at the Post Playhouse. As a theatre major, Shanie has been involved with the CSC theatre program, both performing onstage and working backstage. She looks forward to getting to know a myriad of fantastic people and believes it's going to be a great season.
@@ -311,6 +420,11 @@
     - creative
   positions:
     - Costume Designer --- The Music Man, Frog & Toad
+  production_positions:
+    The Music Man:
+      - Costume Designer
+    Frog & Toad:
+      - Costume Designer
   bio_approved: true
   bio: |
     This is Tom Hudson's first season with Post Playhouse, and he couldn't be more thrilled to be part of this amazing company, and to meet the wonderful, supportive patrons and citizens of in northwestern Nebraska!
@@ -334,8 +448,9 @@
   location: "Crawford, NE"
   groups:
     - staff
-  positions:
+  staff_positions:
     - Box Office Staff
+    - Follow Spot Operator
   bio_approved: true
   bio: >
     Talen is very excited to be working at the Post Playhouse this season and thinks it will be a great learning experience for him. Talen just finished his Freshman year (9th grade) at Crawford High School. 
@@ -363,8 +478,9 @@
   location: "Crawford, NE"
   groups:
     - staff
-  positions:
+  staff_positions:
     - Box Office Staff
+    - Follow Spot Operator
   bio_approved: true
   bio: >
     Alexis just finished her junior year of high school and is over the moon to work at the Post Playhouse this summer. She has been into drama for a few years now and it is one of her favorite activities at school. She lives with her family and dogs in a small town house and has lived in Crawford for nearly 10 years. She is looking forward this season and I hopes it is a great year. 
@@ -393,10 +509,10 @@
   groups:
     - cast
   roles:
-    Mary Poppins: Poseidon, Ensemble
+    Mary Poppins: Park Keeper, Ensemble
     Sister Act: Curtis Jackson
     The Music Man: Oliver Hix
-    Little Shop: Voice of Audrey II, Wino 1
+    Little Shop: Audrey II Voice, Wino 1
   bio_approved: true
   bio: >
     Micheal is so excited to be making his Post Playhouse debut! Originally from Lawton Oklahoma Micheal has made his way to Chicago IL where he has been seen in productions like _Caroline or Change_ and _Jesus Christ Superstar_. Micheal would like to thank Tom and Dewayne for this amazing opportunity and his family and friends for their love and support. Micheal is a member of the Illinois Theatre Association.
@@ -412,7 +528,7 @@
     Mary Poppins: Robertson Ay, Ensemble
     Sister Act: Lt. Eddie
     The Music Man: Mayor Shinn
-    Little Shop: Puppeteer, Wino 2
+    Little Shop: Audrey II Puppeteer, Wino 2
   bio_approved: true
   bio: >
     Marvin is so excited to be a part of the Post Playhouse 2019 summer Season! He recently graduated from Columbia College Chicago with his BFA in Musical Theatre! Marvin is Cleveland born and now, Chicago based. His favorite credits include Radames in _Aida_ (Playhouse Square), Yonkers in _Gypsy_ (Porchlight MT), Ensemble in _Something in the Game_, (American MT Project), Oscar in _Sweet Charity_ and Papa Ge in _Once on this Island_ (Columbia Chicago). Be sure to keep up with Marvin on Instagram & Twitter @MarvinMaloneii. For Mom & Dad! Amos 9:13-15 MSG. Proudly represented by DDO Artists Agency.
@@ -442,9 +558,22 @@
   groups:
     - crew
   positions:
-    - Assistant Season Stage Manager
+    - Season Assistant Stage Manager
+    - Calling Stage Manager --- Little Shop
     - Backstage Manager --- Frog & Toad
-    - Calling Stage Manager --- Little Shop of Horrors
+  production_positions:
+    Mary Poppins:
+      - Assistant Stage Manager
+    Sister Act:
+      - Assistant Stage Manager
+    The Music Man:
+      - Assistant Stage Manager
+    Little Shop:
+      - Assistant Stage Manager
+      - Calling Stage Manager
+    Frog & Toad:
+      - Assistant Stage Manager
+      - Backstage Manager
   bio_approved: true
   bio: >
     Sarah Mattis is excited for her first season with the Post Playhouse! Sarah is a senior at Florida State University studying Theatre with an emphasis on Stage Management. Previous theatre credits include FSU’s 2019 Senior Showcase and _A New Brain_ as well as Quincy Music Theatre’s _The Lion King Kids, Seussical Jr., How to Succeed…_, and _Annie_. Previous opera credits include FSU’s _Of Mice and Men, The Medium_, and _The Prodigal Child_. She is incredibly grateful for this learning opportunity! Sarah would like to thank her friends and family for their constant love, support, and patience.
@@ -458,7 +587,7 @@
     - cast
   roles:
     Mary Poppins: Ms. Andrew, Ensemble
-    Sister Act: Mary Marin-of-Tours
+    Sister Act: Mary Martin-of-Tours
     The Music Man: Zaneeta Shinn
     Frog & Toad: Squirrel, Ensemble
   bio_approved: true
@@ -491,8 +620,19 @@
     - creative
     - musicians
   positions:
-    - Music Director --- Sister Act, A Year with Frog and Toad
-    - Keyboard 2 --- The Music Man, Mary Poppins
+    - Music Director/Conductor --- Sister Act, Frog & Toad
+    - Second Keys --- Mary Poppins, The Music Man
+  production_positions:
+    Mary Poppins:
+      - Second Keys
+    Sister Act:
+      - Music Director
+      - First Keys/Conductor
+    The Music Man:
+      - Second Keys
+    Frog & Toad:
+      - Music Director
+      - First Keys/Conductor
   bio_approved: true
   bio: >
     Scott is humbled to be joining Post Playhouse for his first season! A freelance musician, raised in beautiful Central Oregon, he has had the privilege to music direct and conduct _Spamalot, Shrek, The Little Mermaid, Annie, Guys and Dolls, Willy Wonka, Rock of Ages, 13, Evita, Mary Poppins_ and _Cats_ at Bend's historic Tower Theatre over the previous 6 years. Other recent favorite credits include _Beauty and the Beast, The Last 5 Years, The 25th Annual Putnam County Spelling Bee_ and _Kiss of the Spider Woman_. In November 2018, Scott dipped his toe into stage direction with Bugsy Malone Jr. for 5th-8th graders at Trinity Lutheran School, where he also serves as band director. Scott has a BA in Music Composition and Music Technology from Seattle Pacific University. He is grateful to Tom Ossowski for the opportunity to join the Post team for 2019.
@@ -506,7 +646,23 @@
     - staff
     - crew
   positions:
-    - Season Asst. Stage Manager
+    - Season Rehearsal Stage Manager
+    - Backstage Manager --- Mary Poppins, Sister Act, The Music Man, Little Shop
+  production_positions:
+    Mary Poppins:
+      - Rehearsal Stage Manager
+      - Backstage Manager
+    Sister Act:
+      - Rehearsal Stage Manager
+      - Backstage Manager
+    The Music Man:
+      - Rehearsal Stage Manager
+      - Backstage Manager
+    Little Shop:
+      - Rehearsal Stage Manager
+      - Backstage Manager
+    Frog & Toad:
+      - Rehearsal Stage Manager
   bio_approved: true
   bio: >
     Garth Moritz is happy to be returning for his second season with the Post Playhouse. An Arkansas native, he spent five years living and working in the Chicago theatre scene and now lives in Boulder, Colorado.
@@ -519,8 +675,11 @@
   groups:
     - creative
     - staff
-  positions:
-    - Post Playhouse Producing Artistic Director
+  staff_positions:
+    - Producing Artistic Director
+  production_positions:
+    The Music Man:
+      - Director
   bio_approved: true
   bio: >
     Tom Ossowski is an Associate Professor for the BFA Music Theatre Program at FSU and the Producing Artistic Director for the Post Playhouse at Fort Robinson State Park in Nebraska.  At the Post Playhouse, Tom has directed _Legally Blonde_, _Monty Python’s Spamalot_, _A Man of No Importance_, _All Shook Up_, _Guys and Dolls_, _9 to 5_, _My Way_, _The Drowsy Chaperone_, _Grease_, _The Wizard of Oz_, _Nunsense!_, _Always...Patsy Cline_, _Hello, Dolly!_, and _Oklahoma!_. FSU directing credits include _Beauty & the Beast_, _All Shook Up_, _Legally Blonde_, _Cabaret_, _The Drowsy Chaperone_, _How To Succeed in Business Without Really Trying_, _On The Town_, _Hair_, _The Rocky Horror Show_, and _Sweeney Todd: The Demon Barber of Fleet Street_. Music directing credits include _Guys and Dolls_, _A Chorus Line_, _Ragtime_, _Spring Awakening_, _Jesus Christ Superstar_, _The 25th Annual Putnam County Spelling Bee_, _RENT_, _Into The Woods_, and _Urinetown_. Tom directed and music directed _Into The Woods_ and _The Family_ for The Central Academy of Drama in Beijing.  He is a member of the Stage Directors and Choreographers Society.
@@ -551,8 +710,24 @@
     - crew
     - creative
   positions:
-    - Production Stage Manager
-    - Lighting Designer --- Little Shop of Horrors
+    - Season Production Stage Manager
+    - Lighting Designer --- Little Shop
+  production_positions:
+    Mary Poppins:
+      - Production Stage Manager
+      - Calling Stage Manager
+    Sister Act:
+      - Production Stage Manager
+      - Calling Stage Manager
+    The Music Man:
+      - Production Stage Manager
+      - Calling Stage Manager
+    Little Shop:
+      - Production Stage Manager
+      - Lighting Designer
+    Frog & Toad:
+      - Production Stage Manager
+      - Calling Stage Manager
   bio_approved: true
   bio: >
     Ken is extremely happy to be coming back for his sixth consecutive year at the Post Playhouse as the Production Stage Manager! Ken holds a BFA in Stage Management and graduated last year with an MFA in Lighting Design from the University of Arizona. In the past, he has worked as a freelance Stage Manager in LA, working on various productions ranging from _Bronies: The Musical!_ to the _Big Hero 6 Laser Light Show_ at Disney's historic El Capitan Theatre in Hollywood. In Lighting Design, he has worked on a variety of different productions both academically and professionally, with the bulk of them being in Musical Theatre and Opera. He is also an avid stage combat enthusiast, where he has helped bring some of the Post's past production's stage fighting to life. He would like to thank Dewayne and Tom for having him back another year, and to give his love to his girlfriend Alexandra for all her support. To see more of his work, look at [www.KGPhillips.com](http://www.KGPhillips.com)
@@ -624,7 +799,7 @@
   location: "Crawford, NE"
   groups:
     - staff
-  positions:
+  staff_positions:
     - Box Office Manager
   bio_approved: true
   bio: >
@@ -654,7 +829,16 @@
   groups:
     - musicians
   positions:
-    - Season Drummer
+    - Drummer --- Mary Poppins, Sister Act, The Music Man, Little Shop
+  production_positions:
+    Mary Poppins:
+      - Drummer
+    Sister Act:
+      - Drummer
+    The Music Man:
+      - Drummer
+    Little Shop:
+      - Drummer
   bio_approved: true
   bio: >
     Ken Swinkin is a New York City-based musical theater drummer. He has played for U.S. tours of _The Music Man_, _Stand By Your Man--The Tammy Wynette Story_, _A Christmas Carol_, and _Miracle on 34th Street_. In Europe he played for a tour of _Grease_. Regional/summer-stock credits include The Mac-Haydn Theater, Surflight Theater, Merry-Go-Round Playhouse, and Meadow Brook Theater. He's very excited to be playing for the first time at Post Playhouse and thanks Tom and Dewayne for the opportunity.
@@ -667,7 +851,7 @@
   groups:
     - cast
   roles:
-    Mary Poppins: Katie Nanna, Ensemble
+    Mary Poppins: Bird Woman, Ensemble
     Sister Act: Deloris Van Cartier
     The Music Man: Eulalie Shinn
     Little Shop: Crystal
@@ -698,7 +882,17 @@
   groups:
     - musicians
   positions:
-    - Season Keys 3 Player
+    - Second Keys --- Frog & Toad, Little Shop
+    - Third Keys --- Mary Poppins, Sister Act
+  production_positions:
+    Mary Poppins:
+      - Third Keys
+    Sister Act:
+      - Third Keys
+    Little Shop:
+      - Second Keys
+    Frog & Toad:
+      - Second Keys
   bio_approved: true
   bio: >
     Arn Xu is a recent graduate of University of Miami’s Frost School of Music where he studied piano performance.  He is also an avid member of the music theater community in Miami, working in recent productions of _Heathers, The 25th Annual Putnam County Spelling Bee, In The Heights, Hairspray_, and working with the University of Miami’s Department of Theater Arts.  Arn is very excited to join Post Playhouse for 2019. 
