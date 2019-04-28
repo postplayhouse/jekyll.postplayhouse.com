@@ -1,5 +1,12 @@
 // Footer
 
+.main-footer-image
+  display: block
+  margin: 0 auto 24px
+  +breakpoint(790px)
+    margin: 0 24px 24px 0
+    float: left
+
 .site-footer
   background-color: $subtle-bg-alt
   margin-top: $spacing-unit *2
@@ -13,6 +20,7 @@
     font-weight: normal
 
 .final-thanks
+  clear: both
   margin: 0 auto
   padding: 0 $body-padding
   text-align: left
@@ -25,22 +33,6 @@
     &:hover, &
       text-decoration: underline
 
-  .sponsors:before
-    content: ''
-    display: block
-    width: 310px
-    height: 174px
-    float: none
-    background: url(#{ $baseurl }/images/playhouse-pic.jpg)
-    margin: 24px auto
-    max-width: 100%
-
-    +breakpoint(790px)
-      float: left
-      margin-right: 12px
-      margin-top: 5px
-    
-  
   .sponsor
     +clearfix
     position: relative
