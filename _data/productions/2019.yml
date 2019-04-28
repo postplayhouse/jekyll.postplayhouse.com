@@ -29,7 +29,7 @@
     - Winifred Banks
     # - Admiral Boom, Ensemble
     # - Bank Chairman, Ensemble
-    # - Katie Nanna, Ensemble
+    # - Bird Woman, Ensemble
     # - Mrs. Brill, Ensemble
     # - Mrs. Correy, Ensemble
     # - Ms. Andrew, Ensemble
@@ -64,13 +64,13 @@
   roles_sorting:
     - Seymour
     - Audrey
-    - Voice of Audrey II, Wino 1
+    - Ronnette
+    - Crystal
+    - Chiffon
     - Mr. Mushnik
     - Orin, Customers
-    - Chiffon
-    - Crystal
-    - Ronnette
-    - Puppeteer, Wino 2
+    - Audrey II Voice, Wino 1
+    - Audrey II Puppeteer, Wino 2
   sponsor:
     text: "Tim Hindman &amp; Family"
 
@@ -138,19 +138,19 @@
     When disco diva, Deloris Van Cartier, witnesses a murder, she is put in protective custody in the one place the cops are sure she won't be a found: a convent! Disguised as a nun, she finds herself at odds with both the rigid lifestyle and uptight Mother Superior. Using her unique disco moves and singing talent to inspire the choir, Deloris breathes new life into the church and community. But how long can she keep up the act and steer clear of the gang that is out to get her?
   roles_sorting:
     - Deloris Van Cartier
+    - Mother Superior
+    - Mary Robert
+    - Mary Patrick
+    - Mary Lazarus
+    - Monsignor O'Hara
     - Curtis Jackson
     - Lt. Eddie
-    # - Ernie
-    # - Joey
-    # - Mary Lazarus
-    # - Mary Marin-of-Tours
-    # - Mary Patrick
-    # - Mary Robert
-    # - Mary Theresa
-    # - Monsignor O'Hara
-    # - Mother Superior
-    # - Pablo
-    # - TJ
+    - TJ
+    - Joey
+    - Pablo
+    - Mary Martin-of-Tours
+    - Mary Theresa
+    - Ernie
   sponsor:
     image: stuart-trust.png
 

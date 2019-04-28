@@ -1,0 +1,109 @@
+{%- assign sorted_positions = "
+Director,
+Choreographer,
+Music Director,
+Production Stage Manager,
+Lighting Designer,
+Sound Designer,
+Costume Designer,
+Scenic Designer,
+Technical Director,
+Rehearsal Stage Manager,
+Assistant Stage Manager,
+Backstage Manager,
+Calling Stage Manager,
+Master Electrician,
+Paint Charge,
+Costume Shop Manager,
+Stitcher,
+Props Master,
+Sound Mix Engineer
+" | strip_newlines | split: "," -%}
+
+{%- assign sorted_pit = "
+First Keys/Conductor,
+Second Keys,
+Third Keys,
+Drummer,
+" | strip_newlines | split: "," -%}
+
+{%- assign all_sorted_positions = sorted_positions | concat: sorted_pit -%}
+
+{%- comment -%} get all positions {%- endcomment -%}
+{%- assign position_names = '' | split: '' -%}
+{%- assign people_with_production_positions = '' | split: '' -%}
+{%- for person in include.people -%}
+  {%- if person.production_positions != nil -%}
+    {%- for show_x_positions in person.production_positions -%}
+      {%- if show_x_positions[0] == include.production.title or show_x_positions[0] == include.production.short_title -%}
+        {%- assign position_names = position_names | concat: show_x_positions[1] -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign position_names = position_names | uniq -%}
+
+{%- comment -%} discover unknown positions {%- endcomment -%}
+{%- assign unknown_positions = '' | split: '' -%}
+{%- for position_name in position_names -%}
+  {%- capture is_in_all_sorted -%}
+    {%- include array_includes.func.html array=all_sorted_positions item=position_name -%}
+  {%- endcapture -%}
+  {%- if is_in_all_sorted == "false" -%}
+    {%- assign position_name_as_arr = position_name | split: '//////' -%}
+    {%- assign unknown_positions = unknown_positions | concat: position_name_as_arr -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- if unknown_positions.size > 0 -%}
+  WARNING: FOUND UNSORTED POSITIONS:
+  {{ unknown_positions | join: ', '}}
+{%- endif -%}
+
+<h4 class="production-positions-heading">Production Staff</h4>
+<ul class="production-positions people-list">
+  {%- for sorted_position in sorted_positions -%}
+    {%- for person in include.people -%}
+      {%- if person.production_positions != nil -%}
+        {%- for show_x_positions in person.production_positions -%}
+          {%- if show_x_positions[0] == include.production.title or show_x_positions[0] == include.production.short_title -%}
+            {%- for position in show_x_positions[1] -%}
+              {%- if sorted_position == position -%}
+              {%- capture name -%}{{person.first_name}} {{person.last_name}}{%- endcapture -%}
+                <li>
+                  <span class="position">{{position}}</span>
+                  <span class="separator"></span>
+                  <span class="fulfiller">{{name}}</span>
+                </li>
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+</ul>
+
+<h4 class="band-positions-heading">Band</h4>
+<ul class="band-positions people-list">
+  {%- for sorted_position in sorted_pit -%}
+    {%- for person in include.people -%}
+      {%- if person.production_positions != nil -%}
+        {%- for show_x_positions in person.production_positions -%}
+          {%- if show_x_positions[0] == include.production.title or show_x_positions[0] == include.production.short_title -%}
+            {%- for position in show_x_positions[1] -%}
+              {%- if sorted_position == position -%}
+              {%- capture name -%}{{person.first_name}} {{person.last_name}}{%- endcapture -%}
+                <li>
+                  <span class="position">{{position}}</span>
+                  <span class="separator"></span>
+                  <span class="fulfiller">{{name}}</span>
+                </li>
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+</ul>

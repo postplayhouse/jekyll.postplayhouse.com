@@ -28,7 +28,8 @@
 <!-- -->
 
 {% assign ensemble_members = '' | split: '' %}
-<ul class="cast-list">
+<h4 class="production-positions-heading">Cast</h4>
+<ul class="cast-list people-list">
   {% for role_name in role_names %}
     {% for person in include.people %}
       {% for role in person.roles %}
