@@ -15,10 +15,10 @@ If you are ever curious about the content of a production, you can call our box 
 
 ## Ratings for {{site.season}}
 
-{% assign productions = site.data.productions[site.season] | sort: "opening" %}
-{% for production in productions %}
+{%- assign productions = site.data.productions[site.season] | sort: "opening" -%}
+{%- for production in productions -%}
   * {{ production.title }} - {{ production.rating }}
 
     {{ production.rating_explanation }}
 
-{% endfor %}
+{%- endfor -%}

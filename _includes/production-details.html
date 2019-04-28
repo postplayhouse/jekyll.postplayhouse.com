@@ -1,44 +1,44 @@
-{% include normalize-production-image %}
+{%- include normalize-production-image -%}
 
 <article class="production">
   <header class="entry-header">
     <h1 class="production-title">
-      {% if production.pre_title %}
+      {%- if production.pre_title -%}
         <div class="production-pre-title">{{ production.pre_title }}</div>
-      {% endif %}
+      {%- endif -%}
       {{ production.title }}
     </h1>
     <img class="production-image" src="{{ production_image }}" alt="Show Logo for {{ production.title }}">
   </header>
 
-  {% if production.opening %}
+  {%- if production.opening -%}
   <div class="dates-message">
     Opens {{ production.opening | date: "%B %-d, %Y"}}
   </div>
-  {% endif %} {% if production.rating %}
+  {%- endif -%} {%- if production.rating -%}
   <div class="production-rating">
     <a href="{{ site.baseurl }}/ratings">Rating: {{ production.rating }}</a>
-    {% if production.rating_explanation %}
+    {%- if production.rating_explanation -%}
     <div class="production-rating-explanation">
       {{ production.rating_explanation | markdownify }}
     </div>
-    {% endif %}
+    {%- endif -%}
   </div>
-  {% endif %} {% if production.writers %}
+  {%- endif -%} {%- if production.writers -%}
   <div class="writers">
     {{ production.writers | markdownify }}
   </div>
-  {% endif %}
+  {%- endif -%}
 
   <div class="description">
     {{ production.description | markdownify }}
     
-    {% if production.sponsor %}
+    {%- if production.sponsor -%}
       <div class="sponsor">
         <p>Sponsored By</p>
-        {% if production.sponsor.image %}
-        <img class="sponsor-image" src="{{ site.baseurl }}/images/sponsors/{{ production.sponsor.image }}"> {% elsif production.sponsor.text %} {{ production.sponsor.text }} {% endif %}
+        {%- if production.sponsor.image -%}
+        <img class="sponsor-image" src="{{ site.baseurl }}/images/sponsors/{{ production.sponsor.image }}"> {%- elsif production.sponsor.text -%} {{ production.sponsor.text }} {%- endif -%}
       </div>
-    {% endif %}
+    {%- endif -%}
   </div>
 </article>

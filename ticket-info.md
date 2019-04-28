@@ -118,16 +118,16 @@ Subscriptions are the best way to see what Post Playhouse has to offer each summ
 
 Please choose from the following shows to fill out your season subscription:
 
-{% assign productions = site.data.productions[site.season] | sort: "opening" %}
+{%- assign productions = site.data.productions[site.season] | sort: "opening" -%}
 {%- for production in productions -%}
 1. {{ production.title }}
-{% endfor %}
+{%- endfor -%}
 
 
 Please remember that seats can only be reserved based on availability, so call the box office to secure your seats. Also note, as stated above, subscriptions may only be used on 4 or 5 *different productions*. This means they cannot be used to see the same production multiple times.
 
 ## Seating Chart
 
-{% include seating-chart.html %}
+{%- include seating-chart.html -%}
 
-{% include ticket-policy.md %}
+{%- include ticket-policy.md -%}

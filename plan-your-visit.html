@@ -16,58 +16,58 @@ excerpt: "There are so many things to do nearby, we thought we'd share some of o
 </p>
 
 <div class="business-cards">
-  {% for item in site.data.businesses %}
-    {% capture typeCss %}{% for type in item.type %} type-{{type | slugify}}{% endfor%}{% endcapture %}
+  {%- for item in site.data.businesses -%}
+    {%- capture typeCss -%}{%- for type in item.type %} type-{{type | slugify}}{%- endfor%}{% endcapture -%}
     
     <div class="business{% if item.supporter %} supporter{% endif %}{{typeCss}}">
 
       <div class="business-nameplate">
-        {% if item.site %}
+        {%- if item.site -%}
           <a class="name-site" href="{{ item.site }}">
             <span class="name">{{ item.name }}</span>
-            {% if item.prettyURL %}
+            {%- if item.prettyURL -%}
               <span class="site" style="max-width: 100%">{{ item.prettyURL }}</span>
-            {% else %}     
+            {%- else -%}     
               <span class="site" style="max-width: 100%">{{ item.site }}</span>
-            {% endif %}
+            {%- endif -%}
           </a>
-        {% else %} 
+        {%- else -%} 
           <span class="name">{{ item.name }}</span> 
-        {% endif %}
+        {%- endif -%}
       </div>
 
       <ul class="type">
-        {% for type in item.type %}<li>{{type}}</li>{% endfor %}
+        {%- for type in item.type -%}<li>{{type}}</li>{%- endfor -%}
       </ul>
 
-      {% if item.phone %}
+      {%- if item.phone -%}
         <div class="phone">{{ item.phone }}</div>
-      {% endif %}
+      {%- endif -%}
             
-      {% if item.address %}
+      {%- if item.address -%}
         <div class="address">
-          {% if item.address.street %}
+          {%- if item.address.street -%}
             <span class="street">{{item.address.street}}</span>
-          {% endif %}
-          {% if item.address.city %}
+          {%- endif -%}
+          {%- if item.address.city -%}
             <span class="city">{{item.address.city}}</span>
-          {% endif %}
-          {% if item.address.state %}
+          {%- endif -%}
+          {%- if item.address.state -%}
             <span class="state">{{item.address.state}}</span>
-          {% endif %}
-          {% if item.address.zip %}
+          {%- endif -%}
+          {%- if item.address.zip -%}
             <span class="zip">{{item.address.zip}}</span>
-          {% endif %}
+          {%- endif -%}
         </div>
-      {% endif %}
+      {%- endif -%}
       
-      {% if item.about %}
+      {%- if item.about -%}
         <div class="about">{{ item.about | markdownify }}</div>
-      {% endif %}
+      {%- endif -%}
 
     </div>
 
-  {% endfor %}
+  {%- endfor -%}
 </div>
 
 <div>

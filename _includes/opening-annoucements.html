@@ -1,5 +1,5 @@
-{% for production in site.data.productions[site.season] %}
-  {% include normalize-production-image %}
+{%- for production in site.data.productions[site.season] -%}
+  {%- include normalize-production-image -%}
   <div class="full opening-announcement" data-opening-date="{{ production.opening | date: "%B %-d, %Y" }}">
     <h2 style="font-weight: bold; font-family: azo-sans-uber">
       <span class="title">{{ production.title }}</span>
@@ -11,7 +11,7 @@
       {{ production.description | markdownify }}
     </article>
   </div>
-{% endfor %}
+{%- endfor -%}
 
 <script>
   (function() {

@@ -1,5 +1,5 @@
-{% capture approval_email_subject %}Bio Approval: {{ person.first_name }} {{ person.last_name }}{% endcapture %}
-{% capture approval_email_body %}APPROVED
+{%- capture approval_email_subject -%}Bio Approval: {{ person.first_name }} {{ person.last_name }}{%- endcapture -%}
+{%- capture approval_email_body -%}APPROVED
 
 ----------
 
@@ -7,10 +7,10 @@ No need to write anything in this email. Just sending it is enough for me.
 
 Don't worry, I check that these emails come from your actual email address. Other people cannot approve on your behalf.
 ~Don
-{% endcapture %}
+{%- endcapture -%}
 
-{% capture change_email_subject %}Bio Approval: {{ person.first_name }} {{ person.last_name }}{% endcapture %}
-{% capture change_email_body %}Please describe the changes you'd like below:
+{%- capture change_email_subject -%}Bio Approval: {{ person.first_name }} {{ person.last_name }}{%- endcapture -%}
+{%- capture change_email_body -%}Please describe the changes you'd like below:
 ----------
 
 
@@ -19,27 +19,27 @@ Don't worry, I check that these emails come from your actual email address. Othe
 
 Don't worry, I check that these emails come from your actual email address. Other people cannot request a change on your behalf.
 ~Don
-{% endcapture %}
+{%- endcapture -%}
 
-{% capture approve_email_link %}mailto:{{ site.maintainer_email }}?subject={{ approval_email_subject | uri_escape }}&body={{ approval_email_body | uri_escape }}{% endcapture %}
+{%- capture approve_email_link -%}mailto:{{ site.maintainer_email }}?subject={{ approval_email_subject | uri_escape }}&body={{ approval_email_body | uri_escape }}{%- endcapture -%}
 
-{% capture change_email_link %}mailto:{{ site.maintainer_email }}?subject={{ change_email_subject | uri_escape }}&body={{ change_email_body | uri_escape }}{% endcapture %}
+{%- capture change_email_link -%}mailto:{{ site.maintainer_email }}?subject={{ change_email_subject | uri_escape }}&body={{ change_email_body | uri_escape }}{%- endcapture -%}
 
-{% if person.bio %}
-  {% if person.bio_approved %}
+{%- if person.bio -%}
+  {%- if person.bio_approved -%}
     <span class="button disabled">Approved</span>
-  {% else %}
+  {%- else -%}
     <a class="button" href="{{ approve_email_link }}">Approve via email</a>
-  {% endif %}
+  {%- endif -%}
 
   <a class="button" href="{{ change_email_link }}">Change via email</a>
-{% else %}
-  {% if submit_bio_email_link %}
+{%- else -%}
+  {%- if submit_bio_email_link -%}
     <div>
       No Bio. If you have not done so, use the button below to submit a bio.<br>
       <a class="button" href="{{ submit_bio_email_link }}">Submit Bio via Email</a>
     </div>
-  {% else %}
+  {%- else -%}
     <div>No bio. If you have not done so, submit a bio with the button at the top of the page.</div>
-  {% endif %}
-{% endif %}
+  {%- endif -%}
+{%- endif -%}

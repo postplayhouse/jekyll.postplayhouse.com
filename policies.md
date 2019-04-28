@@ -5,4 +5,4 @@ layout: page
 regenerate: true
 ---
 
-{% include ticket-policy.md %}
+{%- include ticket-policy.md -%}

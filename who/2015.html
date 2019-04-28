@@ -5,21 +5,21 @@ bio_year: "2015"
 permalink: /who/2015/
 image: /images/people/2015/full-cast-collage.jpg
 ---
-{% comment %}
+{%- comment -%}
 
   If needs be, each group can reference a different year in transitional times.
   Unless such a need exists, nothing below needs to be altered year to year.
 
-{% endcomment %}
+{%- endcomment -%}
 
 <div class="bios-page">
-{% assign people = site.data.people[page.bio_year] | sort: "last_name" %}
-{% include cast.html %}
+{%- assign people = site.data.people[page.bio_year] | sort: "last_name" -%}
+{%- include cast.html -%}
 
-{% assign people = site.data.people[page.bio_year] | sort: "last_name" %}
-{% include staff.html %}
+{%- assign people = site.data.people[page.bio_year] | sort: "last_name" -%}
+{%- include staff.html -%}
 
-{% assign people = site.data.people[page.bio_year] %}
-{% include board.html %}  
+{%- assign people = site.data.people[page.bio_year] -%}
+{%- include board.html -%}  
 </div>
 

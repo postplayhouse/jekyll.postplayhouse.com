@@ -1,42 +1,42 @@
 <div class="person">
   
-  {% include headshot-path %}
+  {%- include headshot-path -%}
   
-  {% if headshot != nil %}
+  {%- if headshot != nil -%}
     <img src="{{ headshot | replace: '.jpg', '_300.jpg' }}" alt="Picture of {{ person.first_name }}">
-  {% endif %}
+  {%- endif -%}
 
   <h2 class="name">{{ person.first_name }} {{ person.last_name }}</h2>
 
-  {% if person.location %}
+  {%- if person.location -%}
     <h3 class="location">{{ person.location }}</h3>
-  {% endif %}
+  {%- endif -%}
 
   {% if person.positions != nil%}
     <ul class="positions">
-      {% for position in person.positions %}
+      {%- for position in person.positions -%}
         <li>{{ position | replace: '---', '&mdash;' }}</li>
-      {% endfor %}
+      {%- endfor -%}
     </ul>
-  {% elsif person.production_positions != nil or person.roles != nil or person.staff_positions != nil %}
+  {%- elsif person.production_positions != nil or person.roles != nil or person.staff_positions != nil -%}
     <ul class="positions">
-      {% for position in person.staff_positions %}
+      {%- for position in person.staff_positions -%}
         <li>{{ position | replace: '---', '&mdash;' }}</li>
-      {% endfor %}
+      {%- endfor -%}
 
-      {% for show_x_positions in person.production_positions %}
+      {%- for show_x_positions in person.production_positions -%}
         <li>{{ show_x_positions[0] }} &mdash; {{ show_x_positions[1] | join: ", " }}</li>
-      {% endfor %}
+      {%- endfor -%}
       
-      {% for role in person.roles %}
+      {%- for role in person.roles -%}
         <li>{{ role[0] }} &mdash; {{role[1]}}</li>
-      {% endfor %}
+      {%- endfor -%}
     </ul>
-  {% endif %}
+  {%- endif -%}
 
-  {% if person.bio_approved or override_bio_approved or page.is_bio_check %}
+  {%- if person.bio_approved or override_bio_approved or page.is_bio_check -%}
     <div class="bio">
       {{ person.bio | markdownify }}
     </div>
-  {% endif %}
+  {%- endif -%}
 </div>

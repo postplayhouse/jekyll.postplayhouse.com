@@ -9,20 +9,20 @@ order: 5
 nav_title: Who's Who
 regenerate: true
 ---
-{% comment %}
+{%- comment -%}
 
   If needs be, each group can reference a different year in transitional times.
   Unless such a need exists, nothing below needs to be altered year to year.
 
-{% endcomment %}
+{%- endcomment -%}
 
 <div class="bios-page">
-{% assign people = site.data.people[page.bio_year] %}
-{% include cast.html %}
+{%- assign people = site.data.people[page.bio_year] -%}
+{%- include cast.html -%}
 
-{% assign people = site.data.people[page.bio_year] %}
-{% include staff.html %}
+{%- assign people = site.data.people[page.bio_year] -%}
+{%- include staff.html -%}
 
-{% assign people = site.data.people[page.bio_year] %}
-{% include board.html %}
+{%- assign people = site.data.people[page.bio_year] -%}
+{%- include board.html -%}
 </div>

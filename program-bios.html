@@ -5,12 +5,12 @@ permalink: /program-bios/
 norobots: true
 regenerate: true
 ---
-{% comment %}
+{%- comment -%}
 
   If needs be, each group can reference a different year in transitional times.
   Unless such a need exists, nothing below needs to be altered year to year.
 
-{% endcomment %}
+{%- endcomment -%}
 
 <div id="TheTop"></div>
 <style>
@@ -122,113 +122,113 @@ regenerate: true
   }
 
 </style>
-{% assign people = site.data.people[site.season] %}
+{%- assign people = site.data.people[site.season] -%}
 
 <div class="lists-per-show">
-  {% for production in site.data.productions[site.season] %}
+  {%- for production in site.data.productions[site.season] -%}
     <h3>{{production.title}}</h3>
-    {% include cast-list.html people=people production=production %}
-    {% include production-list.html people=people production=production %}
-  {% endfor %}
+    {%- include cast-list.html people=people production=production -%}
+    {%- include production-list.html people=people production=production -%}
+  {%- endfor -%}
 </div>
 
 Approved | Name<br>
-{% for person in people %}
-  {% unless person.groups contains "board" %}
+{%- for person in people -%}
+  {%- unless person.groups contains "board" -%}
 
-  {% capture nameId %}{{ person.first_name }}-{{ person.last_name }}{% endcapture %}
+  {%- capture nameId -%}{{ person.first_name }}-{{ person.last_name }}{%- endcapture -%}
   <span class="approved-{{ person.bio_approved }}"></span><a href="#{{ nameId | slugify }}">{{ person.first_name }} {{ person.last_name }}</a><br/>
-  {% endunless %}
-{% endfor %}
+  {%- endunless -%}
+{%- endfor -%}
 
 <a href="#TheBoard">Board Headshots and Names</a><br/>
 
 <div class="not-bios-page-wink-wink">
-{% for person in people %}
-  {% unless person.groups contains "board" %}
+{%- for person in people -%}
+  {%- unless person.groups contains "board" -%}
 
-  {% capture nameId %}{{ person.first_name }}-{{ person.last_name }}{% endcapture %}
+  {%- capture nameId -%}{{ person.first_name }}-{{ person.last_name }}{%- endcapture -%}
   <div class="plain-bio bio-approved-{{ person.bio_approved }}" id="{{ nameId | slugify }}">
 
-    {% assign missing_text = "" %}
-    {% include headshot-path %}
-    {% if headshot == nil %}
-      {% assign missing_text = "missing " %}
-    {% endif %}
+    {%- assign missing_text = "" -%}
+    {%- include headshot-path -%}
+    {%- if headshot == nil -%}
+      {%- assign missing_text = "missing " -%}
+    {%- endif -%}
 
-    {% unless person.groups contains "additional" and headshot == nil %}
+    {%- unless person.groups contains "additional" and headshot == nil -%}
       <img class="plain-bio-headshot" src="{{ headshot }}" alt="{{ missing_text }}picture of {{ person.first_name }}">
-    {% endunless %}
+    {%- endunless -%}
 
     <div class="bio-unapproved-text">{{ person.first_name }}'s bio or roles are not yet approved.</div>
 
     <div class="plain-bio-text">
       <h3 class="name">{{ person.first_name }} {{ person.last_name }}</h3>
 
-      {% if person.location %}
+      {%- if person.location -%}
       {{ person.location | markdownify }}
-      {% endif %}
+      {%- endif -%}
 
       {% if person.positions != nil%}
         <p class="positions">
-          {% for position in person.positions %}
+          {%- for position in person.positions -%}
             {{ position | replace: '---', '&mdash;' }}<br>
-          {% endfor %}
+          {%- endfor -%}
         </p>
-      {% elsif person.production_positions != nil or person.roles != nil or person.staff_positions != nil %}
+      {%- elsif person.production_positions != nil or person.roles != nil or person.staff_positions != nil -%}
         <p class="positions">
-          {% for position in person.staff_positions %}
+          {%- for position in person.staff_positions -%}
             {{ position | replace: '---', '&mdash;' }}<br>
-          {% endfor %}
+          {%- endfor -%}
 
-          {% for show_x_positions in person.production_positions %}
+          {%- for show_x_positions in person.production_positions -%}
             {{ show_x_positions[0] }} &mdash; {{ show_x_positions[1] | join: ", " }}<br>
-          {% endfor %}
+          {%- endfor -%}
           
-          {% for role in person.roles %}
+          {%- for role in person.roles -%}
             {{ role[0] }} &mdash; {{role[1]}}<br>
-          {% endfor %}
+          {%- endfor -%}
         </p>
-      {% endif %}
+      {%- endif -%}
 
       {{ person.bio | markdownify }}
     </div>
   </div>
 
-  {% comment %} <a href="#TheTop">Back to Top</a> {% endcomment %}
+  {%- comment -%} <a href="#TheTop">Back to Top</a> {%- endcomment -%}
 
 
-  {% endunless %}
-{% endfor %}
+  {%- endunless -%}
+{%- endfor -%}
 
 </div>
 
 <h1 id="TheBoard" style="font-size:3em;">Board Headshots and Names</h1>
 
-{% for person in people %}
+{%- for person in people -%}
   {% if person.groups contains "board"%}
 
   <div class="plain-bio">
 
-    {% assign missing_text = "" %}
-    {% if person.image_path != nil %}
-      {% capture headshot %}{{ person.image_path | prepend: site.baseurl }}{% endcapture %}
-    {% elsif person.image_year != nil and person.image_file != nil %}
-      {% capture headshot %}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.image_file}}{% endcapture %}
-    {% else %}
-      {% assign headshot = nil %}
-      {% assign missing_text = "missing " %}
-    {% endif %}
+    {%- assign missing_text = "" -%}
+    {%- if person.image_path != nil -%}
+      {%- capture headshot -%}{{ person.image_path | prepend: site.baseurl }}{%- endcapture -%}
+    {%- elsif person.image_year != nil and person.image_file != nil -%}
+      {%- capture headshot -%}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.image_file}}{%- endcapture -%}
+    {%- else -%}
+      {%- assign headshot = nil -%}
+      {%- assign missing_text = "missing " -%}
+    {%- endif -%}
 
     <img class="plain-bio-headshot" src="{{ headshot }}" alt="{{ missing_text }}picture of {{ person.first_name }}">
 
     <div class="plain-bio-text">
 
-      {% capture name %}{{ person.first_name }} {{ person.last_name }}{% endcapture %}
+      {%- capture name -%}{{ person.first_name }} {{ person.last_name }}{%- endcapture -%}
       <span class="name">{{ name | markdownify }}</span><br>
     </div>
   </div>
 
 
-  {% endif %}
-{% endfor %}
+  {%- endif -%}
+{%- endfor -%}

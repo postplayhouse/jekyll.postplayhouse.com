@@ -1,15 +1,15 @@
-{% if page.season != nil %}
-  {% assign production_season = page.season %}
-{% elsif season != nil %}
-  {% assign production_season = season %}
-{% else %}
-  {% assign production_season = site.season %}
-{% endif %}
+{%- if page.season != nil -%}
+  {%- assign production_season = page.season -%}
+{%- elsif season != nil -%}
+  {%- assign production_season = season -%}
+{%- else -%}
+  {%- assign production_season = site.season -%}
+{%- endif -%}
 
-{% if production.image contains "/" %}
-  {% capture production_image %}{{ production.image | prepend: site.baseurl }}{% endcapture %}
-{% elsif production.image != nil %}
-  {% capture production_image %}{{ site.baseurl }}/images/{{ production_season }}/{{production.image}}{% endcapture %}
-{% else %}
-  {% assign production_image = nil %}
-{% endif %}
+{%- if production.image contains "/" -%}
+  {%- capture production_image -%}{{ production.image | prepend: site.baseurl }}{%- endcapture -%}
+{%- elsif production.image != nil -%}
+  {%- capture production_image -%}{{ site.baseurl }}/images/{{ production_season }}/{{production.image}}{%- endcapture -%}
+{%- else -%}
+  {%- assign production_image = nil -%}
+{%- endif -%}

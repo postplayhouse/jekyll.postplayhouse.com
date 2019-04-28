@@ -1,98 +1,98 @@
 
-{% assign has_cast = false %}
-{% assign has_crew = false %}
-{% assign has_creative = false %}
-{% assign has_musicians = false %}
-{% for person in people %}
+{%- assign has_cast = false -%}
+{%- assign has_crew = false -%}
+{%- assign has_creative = false -%}
+{%- assign has_musicians = false -%}
+{%- for person in people -%}
   
-  {% if person.groups contains "cast" %}
-    {% assign has_cast = true %}
-  {% endif %}
+  {%- if person.groups contains "cast" -%}
+    {%- assign has_cast = true -%}
+  {%- endif -%}
   
-  {% if person.groups contains "crew" %}
-    {% assign has_crew = true %}
-  {% endif %}
+  {%- if person.groups contains "crew" -%}
+    {%- assign has_crew = true -%}
+  {%- endif -%}
   
-  {% if person.groups contains "creative" %}
-    {% assign has_creative = true %}
-  {% endif %}
+  {%- if person.groups contains "creative" -%}
+    {%- assign has_creative = true -%}
+  {%- endif -%}
   
-  {% if person.groups contains "musicians" %}
-    {% assign has_musicians = true %}
-  {% endif %}
+  {%- if person.groups contains "musicians" -%}
+    {%- assign has_musicians = true -%}
+  {%- endif -%}
 
-  {% if person.groups contains "additional" %}
-    {% assign has_additional = true %}
-  {% endif %}
+  {%- if person.groups contains "additional" -%}
+    {%- assign has_additional = true -%}
+  {%- endif -%}
 
-{% endfor %}
+{%- endfor -%}
 
-{% if site.casting_complete != true and site.season == page.bio_year %}
+{%- if site.casting_complete != true and site.season == page.bio_year -%}
   <div class="bio-group cast">
     <h2 class="bio-group-label">Cast</h2>
     <p>Casting is not yet complete for the {{ site.season }} Summer season.</p>
   </div>
-{% elsif has_cast %}
+{%- elsif has_cast -%}
   <div class="bio-group cast">
     <h2 class="bio-group-label">Cast</h2>
     <div class="people">
-      {% for person in people %}
-        {% if person.groups contains "cast" and person.bio_approved %}
-          {% include bio.html %}
-        {% endif %}
-      {% endfor %}
+      {%- for person in people -%}
+        {%- if person.groups contains "cast" and person.bio_approved -%}
+          {%- include bio.html -%}
+        {%- endif -%}
+      {%- endfor -%}
     </div>
   </div>
-{% endif %}
+{%- endif -%}
 
-{% if has_crew %}
+{%- if has_crew -%}
   <div class="bio-group crew">
     <h2 class="bio-group-label">Crew</h2>
     <div class="people">
-      {% for person in people %}
-        {% if person.groups contains "crew" and person.bio_approved %}
-          {% include bio.html %}
-        {% endif %}
-      {% endfor %}
+      {%- for person in people -%}
+        {%- if person.groups contains "crew" and person.bio_approved -%}
+          {%- include bio.html -%}
+        {%- endif -%}
+      {%- endfor -%}
     </div>
   </div>
-{% endif %}
+{%- endif -%}
 
-{% if has_creative %}
+{%- if has_creative -%}
   <div class="bio-group creative">
     <h2 class="bio-group-label">Creative</h2>
     <div class="people">
-      {% for person in people %}
-        {% if person.groups contains "creative" and person.bio_approved %}
-          {% include bio.html %}
-        {% endif %}
-      {% endfor %}
+      {%- for person in people -%}
+        {%- if person.groups contains "creative" and person.bio_approved -%}
+          {%- include bio.html -%}
+        {%- endif -%}
+      {%- endfor -%}
     </div>
   </div>
-{% endif %}
+{%- endif -%}
 
-{% if has_musicians %}
+{%- if has_musicians -%}
   <div class="bio-group musicians">
     <h2 class="bio-group-label">Musicians</h2>
     <div class="people">
-      {% for person in people %}
-        {% if person.groups contains "musicians" and person.bio_approved %}
-          {% include bio.html %}
-        {% endif %}
-      {% endfor %}
+      {%- for person in people -%}
+        {%- if person.groups contains "musicians" and person.bio_approved -%}
+          {%- include bio.html -%}
+        {%- endif -%}
+      {%- endfor -%}
     </div>
   </div>
-{% endif %}
+{%- endif -%}
 
-{% if has_additional %}
+{%- if has_additional -%}
   <div class="bio-group additional">
     <h2 class="bio-group-label">Additional Bios</h2>
     <div class="people">
-      {% for person in people %}
-        {% if person.groups contains "additional" %}
-          {% include bio.html %}
-        {% endif %}
-      {% endfor %}
+      {%- for person in people -%}
+        {%- if person.groups contains "additional" -%}
+          {%- include bio.html -%}
+        {%- endif -%}
+      {%- endfor -%}
     </div>
   </div>
-{% endif %}
+{%- endif -%}

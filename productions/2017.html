@@ -5,9 +5,9 @@ season: "2017"
 layout: page
 ---
 
-{% assign productions = site.data.productions[page.season] | sort: "opening" %}
-{% for production in productions %}
+{%- assign productions = site.data.productions[page.season] | sort: "opening" -%}
+{%- for production in productions -%}
 
-  {% include production-details.html %}
+  {%- include production-details.html -%}
 
-{% endfor %}
+{%- endfor -%}

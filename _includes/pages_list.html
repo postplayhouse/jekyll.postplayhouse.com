@@ -1,15 +1,15 @@
-{% for node in pages_list %}
-  {% assign nav_title = node.nav_title %}
-  {% if node.nav_title == null %}
-    {% assign nav_title = node.title %}
-  {% endif %}
-  {% if group == null or group == node.group %}
-    {% if page.url == node.url %}
+{%- for node in pages_list -%}
+  {%- assign nav_title = node.nav_title -%}
+  {%- if node.nav_title == null -%}
+    {%- assign nav_title = node.title -%}
+  {%- endif -%}
+  {%- if group == null or group == node.group -%}
+    {%- if page.url == node.url -%}
       <li class="active"><a href="{{ node.url | prepend: site.baseurl }}" class="active {{node.link_class}}">{{nav_title}}</a></li>
-    {% else %}
+    {%- else -%}
       <li><a href="{{ node.url | prepend: site.baseurl }}" class="{{node.link_class}}">{{nav_title}}</a></li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign pages_list = nil -%}
+{%- assign group = nil -%}

@@ -9,9 +9,9 @@ order: 2
 regenerate: true
 ---
 
-{% assign productions = site.data.productions[page.season] | sort: "opening" %}
-{% for production in productions %}
+{%- assign productions = site.data.productions[page.season] | sort: "opening" -%}
+{%- for production in productions -%}
 
-  {% include production-details.html %}
+  {%- include production-details.html -%}
 
-{% endfor %}
+{%- endfor -%}
