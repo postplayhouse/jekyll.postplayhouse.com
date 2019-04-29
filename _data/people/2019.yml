@@ -457,20 +457,20 @@
   image_year: 2019
 
 
-- first_name: Brenton
-  last_name: Jeffery
-  location: "Pennsylvania"
-  groups:
-    - cast
-  roles:
-    Mary Poppins: Bert
-    Sister Act: Pablo
-    The Music Man: Ewart Dunlop
-    Frog & Toad: Frog
-  bio_approved: true
-  bio: >
-    Brenton Jeffery is a Kansas City native, and is honored to be joining the Post Playhouse creative team this summer.  Regionally Brenton has performed in _CATS_ (Mungojerrie), _Seven Brides_ (Caleb), _Smokey Joe’s Cafe_ (Michael), _Hairspray_ (Sketch), and many original revues.  Much thanks to family and friends for unending support as well as Post Playhouse for this opportunity.  Break legs!
-  image_year: 2019
+# - first_name: Brenton
+#   last_name: Jeffery
+#   location: "Pennsylvania"
+#   groups:
+#     - cast
+#   roles:
+#     Mary Poppins: Bert
+#     Sister Act: Pablo
+#     The Music Man: Ewart Dunlop
+#     Frog & Toad: Frog
+#   bio_approved: true
+#   bio: >
+#     Brenton Jeffery is a Kansas City native, and is honored to be joining the Post Playhouse creative team this summer.  Regionally Brenton has performed in _CATS_ (Mungojerrie), _Seven Brides_ (Caleb), _Smokey Joe’s Cafe_ (Michael), _Hairspray_ (Sketch), and many original revues.  Much thanks to family and friends for unending support as well as Post Playhouse for this opportunity.  Break legs!
+#   image_year: 2019
 
 
 - first_name: Alexis
