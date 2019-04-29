@@ -9,8 +9,6 @@ excerpt: "There are so many things to do nearby, we thought we'd share some of o
 
 <h2>Nearby Activities, Attractions, Food, and Lodging</h2>
 
-<p>Any businesses marked &ldquo;Playhouse Supporter&rdquo; have donated $500 or more in cash or in-kind donations to Post Playhouse within the last year.</p>
-
 <p>
   If you&rsquo;d like to see your business listed here, please contact us at <a href="mailto:webmaster@postplayhouse.com">webmaster@postplayhouse.com</a>. If you'd like to donate to the playhouse, visit our <a href="{{ site.baseurl }}/donate/">donations page</a>.
 </p>
@@ -46,16 +44,16 @@ excerpt: "There are so many things to do nearby, we thought we'd share some of o
             
       {%- if item.address -%}
         <div class="address">
-          {%- if item.address.street -%}
+          {%- if item.address.street %}
             <span class="street">{{item.address.street}}</span>
           {%- endif -%}
-          {%- if item.address.city -%}
+          {%- if item.address.city %}
             <span class="city">{{item.address.city}}</span>
           {%- endif -%}
-          {%- if item.address.state -%}
+          {%- if item.address.state %}
             <span class="state">{{item.address.state}}</span>
           {%- endif -%}
-          {%- if item.address.zip -%}
+          {%- if item.address.zip %}
             <span class="zip">{{item.address.zip}}</span>
           {%- endif -%}
         </div>
