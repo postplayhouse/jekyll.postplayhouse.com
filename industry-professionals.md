@@ -20,10 +20,6 @@ us at either of our local auditions:
 - Sunday May 5: 1:00pm  
 - Monday May 6: 6:30pm
 
-> The schedule for each day and the specific roles we are seeking is currently
-> TBD. Check back here closer to the dates of the auditions for more
-> information.
-
 Please bring the following:
 
 1. Closed-toe shoes --- sneakers are best; no sandals, please
@@ -33,3 +29,23 @@ Please bring the following:
    photo of you and just have you fill out a form, so please attend anyway!)
 4. Your schedule for the entire summer (so we can discuss any conflicts)
 
+**Seeking:**  
+#### _The Music Man_  
+
+**Girls**  
+Amaryilis --- 8-12 looking  
+Gracie Shinn --- 6-12 looking  
+Ensemble Girls --- 8-16 looking  
+
+**Boys**  
+Winthrop Paroo --- 8-12 looking  
+Ensemble Boys --- 8-16 looking  
+
+**Adults**  
+Ensemble Adults --- all ages  
+
+#### _Mary Poppins_
+
+Jane Banks --- 10-12 looking  
+Michael Banks --- 8-10 looking  
+Ensemble Adults --- all ages  
