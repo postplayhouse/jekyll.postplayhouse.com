@@ -294,6 +294,22 @@
   image_year: 2019
 
 
+- first_name: Corey
+  last_name: Fern
+  location: "Shakopee, MN"
+  groups:
+    - cast
+  roles:
+    Mary Poppins: Bert
+    Sister Act: Pablo
+    The Music Man: Ewart Dunlop
+    Frog & Toad: Frog
+  bio_approved: true
+  bio: >
+    Corey Fern is ecstatic to be leaving his home grounds of Shakopee, Minnesota to join the Post Playhouse team for his Nebraska debut! He is a recent graduate from the University of Wisconsin-River Falls with degrees in theatre and creative writing. Some recent credits include _Little Shop of Horrors_ (Seymour), _A Year With Frog and Toad_ (Snail), and _The Spitfire Grill_ (Joe Sutter). Corey has an extreme passion for performing, directing, and writing and is excited to spend the summer with the Post Playhouse crew!
+  image_year: 2019
+
+
 - first_name: Sam
   last_name: Forgie
   location: "New York City, NY"
@@ -455,22 +471,6 @@
   bio: >
     Talen is very excited to be working at the Post Playhouse this season and thinks it will be a great learning experience for him. Talen just finished his Freshman year (9th grade) at Crawford High School. 
   image_year: 2019
-
-
-# - first_name: Brenton
-#   last_name: Jeffery
-#   location: "Pennsylvania"
-#   groups:
-#     - cast
-#   roles:
-#     Mary Poppins: Bert
-#     Sister Act: Pablo
-#     The Music Man: Ewart Dunlop
-#     Frog & Toad: Frog
-#   bio_approved: true
-#   bio: >
-#     Brenton Jeffery is a Kansas City native, and is honored to be joining the Post Playhouse creative team this summer.  Regionally Brenton has performed in _CATS_ (Mungojerrie), _Seven Brides_ (Caleb), _Smokey Joe’s Cafe_ (Michael), _Hairspray_ (Sketch), and many original revues.  Much thanks to family and friends for unending support as well as Post Playhouse for this opportunity.  Break legs!
-#   image_year: 2019
 
 
 - first_name: Alexis
