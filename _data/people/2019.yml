@@ -927,6 +927,20 @@
   image_year: 2019
 
 
+- first_name: Hunter
+  last_name: Owens
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    Mary Poppins: Michael
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    Hunter Owens is an 11 year old from Crawford, NE. This is his third year at the Post Playhouse. He played Young Shrek and Little Pig in _Shrek_, Jeremy in _Chitty Chitty Bang Bang_ and is Michael this year in _Mary Poppins_. He enjoys playing piano, any kind of art, and spending time with his family and animals. He welcomes you all to our beautiful area of Nebraska!
+  image_year: 2019
+
+
 #
 #
 #
