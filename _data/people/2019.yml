@@ -899,18 +899,17 @@
   image_year: 2019
 
 
-- first_name: Joshua
-  last_name: Smith
-  location: "Chadron, NE"
+- first_name: Keslyn
+  last_name: Vogel
+  location: "Crawford, NE"
   groups:
     - cast
   roles:
-    Mary Poppins: Michael
-    The Music Man: Winthrop Paroo
+    Mary Poppins: Jane
   bio_approved: true
   bio: >
-    Joshua Smith is 11 years old, homeschooled, and will be in the 7th grade. Born in Colorado Springs, CO. Moved to Chadron NE at age 5. Acting experiences include Post Playhouse role as Jeremy in _Chitty Chitty Bang Bang_; Missoula Children’s Theater: Wolfie in _The Jungle Book_, Michael in _Peter and Wendy_, Yahoo in _Gulliver’s Travels in Space_, and Fernando in _Snow White And The Seven Dwarfs_; Stars of Tomorrow Talent Show: "Gregorian chant" (3rd Place), "Taps on Trumpet" (3rd Place), "Homeschool Line Dance" (1st place), "Homeschool Square Dance" (2nd place); _Annie Jr._ Chadron High School Presentation --- Sandy and Ensemble; Felicity American Girl Play performance at Pioneer Manor (Haysprings) --- Father; Ongoing self-directing YouTube videos. He is excited to return to the Post Playhouse for his second year. He would like to thank all his family for all their time and support for him. And thank Tom And Dwayne for fantasmagorical opportunity.
-  image_year: 2019
+    
+  image_year: 2018
 
 
 - first_name: Sara Rose
@@ -939,6 +938,202 @@
   bio: >
     Hunter Owens is an 11 year old from Crawford, NE. This is his third year at the Post Playhouse. He played Young Shrek and Little Pig in _Shrek_, Jeremy in _Chitty Chitty Bang Bang_ and is Michael this year in _Mary Poppins_. He enjoys playing piano, any kind of art, and spending time with his family and animals. He welcomes you all to our beautiful area of Nebraska!
   image_year: 2019
+
+
+- first_name: Joshua
+  last_name: Smith
+  location: "Chadron, NE"
+  groups:
+    - cast
+  roles:
+    Mary Poppins: Michael
+    The Music Man: Winthrop Paroo
+  bio_approved: true
+  bio: >
+    Joshua Smith is 11 years old, homeschooled, and will be in the 7th grade. Born in Colorado Springs, CO. Moved to Chadron NE at age 5. Acting experiences include Post Playhouse role as Jeremy in _Chitty Chitty Bang Bang_; Missoula Children’s Theater: Wolfie in _The Jungle Book_, Michael in _Peter and Wendy_, Yahoo in _Gulliver’s Travels in Space_, and Fernando in _Snow White And The Seven Dwarfs_; Stars of Tomorrow Talent Show: "Gregorian chant" (3rd Place), "Taps on Trumpet" (3rd Place), "Homeschool Line Dance" (1st place), "Homeschool Square Dance" (2nd place); _Annie Jr._ Chadron High School Presentation --- Sandy and Ensemble; Felicity American Girl Play performance at Pioneer Manor (Haysprings) --- Father; Ongoing self-directing YouTube videos. He is excited to return to the Post Playhouse for his second year. He would like to thank all his family for all their time and support for him. And thank Tom And Dwayne for fantasmagorical opportunity.
+  image_year: 2019
+
+
+- first_name: Gunner
+  last_name: Lemmon
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Winthrop Paroo
+  bio_approved: true
+  bio: >
+    Gunner Joseph Lemmon is 11 years old & from Crawford, NE. He attends Crawford Elementary and will be entering the 6th grade this fall. Gunner loves singing, playing the piano and playing video games. He is the youngest of 4 children. Gunner began singing and playing the piano at the age of 5. Last year was his first season here at the Post. He enjoyed his experience so much he had to return to the lights and sounds of the playhouse.
+  image_year: 2019
+
+
+- first_name: Kendall
+  last_name: Victory
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Amaryllis, Gracie Shinn (swing)
+  bio_approved: true
+  bio: >
+    Kendall Victory is honored to be returning to the Post Playhouse for her 3rd season! She is a 5th grade student at Crawford Elementary. Her past credits at the Post Playhouse include Young Fiona in _Shrek the Musical_ and one of the gutter kids (Ensemble) in _Chitty Chitty Bang Bang_. Kendall likes to read, draw, play volleyball and spend time with her family. But making music is what she loves to do the most!! She plays the piano and French Horn and loves to sing with her sister, dad and sing in church. This year she gets to sing and play both instruments in _The Music Man_ and is beyond ecstatic!! Kendall would like to thank Tom and Dewayne for giving her another awesome opportunity to learn and grow in music!!
+  image_year: 2018
+
+
+- first_name: Grace
+  last_name: Dreyer
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Gracie Shinn
+  bio_approved: true
+  bio: >
+    
+  # image_year: 2019
+
+
+- first_name: Justus
+  last_name: Frahm
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    Justus is a 7th Grader from Crawford NE. This is his second year at the Post Playhouse. Originally from Pierre, South Dakota, he is the youngest of 6 children Justus is an avid reader, he plays the trombone and taught himself how to play piano. Last year, He played Father Darling in the Missoula Children’s Theatre production of _Peter and Wendy_.  Justus would like to be a professional actor when he grows up and he is looking forward to another summer of hard work, fun and learning with the cast of _The Music Man_.
+  image_year: 2019
+
+
+- first_name: Boady
+  last_name: Hunter
+  location: "Hemingford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    Inspired by his older brother, Boady Hunter is excited for the opportunity to join _The Music Man_ cast for the 2019 Post Playhouse season!  Boady is from Hemingford, Nebraska and will be a 7th grader at Hemingford Junior Highschool this fall.  Boady enjoys performing and has had the rolls of LeRoy in _The Best Christmas Pageant Ever_; Al in _On The Worst Day of Christmas_; Policeman/Ensemble in _Elf Jr. The Musical_; and an Oompa Loompa in _Willie Wonka and the Chocolate Factory_.
+  image_year: 2019
+
+
+- first_name: Taren
+  last_name: Hunter
+  location: "Hemingford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    Taren Hunter is excited to be joining _The Music Man_ cast!  He will be a high school freshman this fall and calls Hemingford, Nebraska home. You may remember him as Tobi in _Chitty, Chitty, Bang, Bang_ from the 2018 Post Playhouse season.  Other past rolls include Charles Seabury in _Hollywood Hillbillies_; Jake Marley in _A Seussified Christmas Carol_; Rolf Rizzo in _Night at the Wax Museum_; Adam McCafee in _On The Worst Day of Christmas_; Michael Hobbs in _Elf Jr. The Musical_; and was tech crew for the one-act plays _At the Bottom of Lake Missoula_ and _Lagooned_.
+  image_year: 2019
+
+
+- first_name: Spencer
+  last_name: Blundell
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    
+  image_year: 2018
+
+
+- first_name: Connor
+  last_name: Butler
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    Connor Butler is 100% Nebraska cowboy. When he’s not galloping across his family’s horse ranch on his trusty pony, Shaggy, or forging steel at their horseshoeing school, you can usually find him behind his little camera, directing Westerns starring his siblings and cousins --- or in front of the camera, filling roles left by his limited cast. He can often be heard practicing his yodeling or strumming on his ukulele and singing, and there is always evidence of his presence left wherever he’s been in the form of his funny and detailed sketches. Connor is smack dab in the middle of four siblings and will attend 4th grade at Hemingford Elementary this fall, where he is excited to participate in his fourth year of the Hemingford Holiday Play in December.
+  image_year: 2019
+
+
+- first_name: Gabriel
+  last_name: Frazee
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    
+  # image_year: 2019
+
+
+- first_name: Jaelyn
+  last_name: Brown
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    Jaelyn Brown is the 11 year-old daughter of Tiffany Brown-Waldron and Jay Waldron and the late Rob Brown. She will be a 6th grader at Chadron Middle School this fall. Jaelyn began dancing for The Dance Boutique in Chadron when she was 3 years-old and enjoys attending dance conventions and competitions. Besides performing on stage, she also loves playing basketball, volleyball and softball. Jaelyn is excited to return to the Post Playhouse this summer after performing in last year’s _Chitty Chitty Bang Bang_. Thank you to Dewayne and Tom for giving her this opportunity!
+  image_year: 2019
+
+
+- first_name: Jacee
+  last_name: Bates
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    Jacee Rayne Bates was born and raised in Chadron, Nebraska. She is 14 years old and will be a freshman in high school in the fall of 2019. She played the lead role in _Annie Jr._ in 7th grade, is a member of Jr. Cardinal Singers, and she won 2nd place in the Stars of Tomorrow Contest singing the national anthem when she was in third grade. Jacee loves singing, acting, drawing and playing her many instruments. She competed at the State Spelling Bee in 2018 and has been a member of the Scholastics Team for 7th and 8th grade. Her favorite subject in school is science and her dream job is to be a voice actress. Something that most people don’t know about Jacee is that she loves to draw and write characters when she’s not learning how to play random instruments by ear. Currently, Jacee is enjoying her summer vacation and can be seen in _The Music Man_ production.
+  image_year: 2019
+
+
+- first_name: Kember
+  last_name: Mitton
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    
+  # image_year: 2019
+
+
+- first_name: Bill
+  last_name: Huntington
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    
+  # image_year: 2019
+
+
+- first_name: Dara
+  last_name: Edwards
+  location: "Crawford, NE"
+  groups:
+    - cast
+  roles:
+    The Music Man: Ensemble
+  bio_approved: true
+  bio: >
+    
+  # image_year: 2019
 
 
 #
