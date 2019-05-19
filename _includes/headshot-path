@@ -3,7 +3,7 @@
 {%- elsif person.image_year != nil and person.image_file != nil -%}
   {%- capture headshot -%}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.image_file}}{%- endcapture -%}
 {%- elsif person.image_year != nil and person.image_file == nil -%}
-  {%- capture headshot -%}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.first_name | downcase}}-{{person.last_name | downcase}}.jpg{%- endcapture -%}
+  {%- capture headshot -%}{{ site.baseurl }}/images/people/{{person.image_year}}/{{person.first_name | downcase | replace: " ", "-"}}-{{person.last_name | downcase | replace: " ", "-"}}.jpg{%- endcapture -%}
 {%- else -%}
   {%- assign headshot = nil -%}
 {%- endif -%}
