@@ -1047,7 +1047,7 @@
 
 - first_name: Connor
   last_name: Butler
-  location: "Crawford, NE"
+  location: "Hemingford, NE"
   groups:
     - cast
   roles:
@@ -1073,7 +1073,7 @@
 
 - first_name: Jaelyn
   last_name: Brown
-  location: "Crawford, NE"
+  location: "Chadron, NE"
   groups:
     - cast
   roles:
@@ -1086,7 +1086,7 @@
 
 - first_name: Jacee
   last_name: Bates
-  location: "Crawford, NE"
+  location: "Chadron, NE"
   groups:
     - cast
   roles:
@@ -1112,7 +1112,7 @@
 
 - first_name: Bill
   last_name: Huntington
-  location: "Crawford, NE"
+  location: "Hay Springs, NE"
   groups:
     - cast
   roles:
