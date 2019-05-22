@@ -1067,8 +1067,8 @@
     The Music Man: Ensemble
   bio_approved: true
   bio: >
-    
-  # image_year: 2019
+    Gabriel Frazee is ecstatic to join the Post Playhouse team this year in The Music Man. Gabriel is a 5th grader from Crawford NE. He enjoys riding horses, basketball, reading and playing his saxophone and xylophone. Gabriel performed for the first time in _Peter and Wendy_ as Micheal through the Missoula Children's Theatre. Gabriel would like to thank Tom, Dewayne and the Post Playhouse team for this exciting opportunity!
+  image_year: 2019
 
 
 - first_name: Jaelyn
@@ -1106,8 +1106,8 @@
     The Music Man: Ensemble
   bio_approved: true
   bio: >
-    
-  # image_year: 2019
+    Kember  Mittan was born in Fremont NE. She grew up in Mead NE, Maxwell NE and recently moved to Crawford where she will be entering the 6th grade in the fall. Kember loves to ride her horse, hunting with her family,  running, and volleyball . She has a profound love of animals and plans to become a veterinarian.
+  image_year: 2019
 
 
 - first_name: Bill
@@ -1133,6 +1133,19 @@
   bio_approved: true
   bio: >
     Dara is very excited for her first year at the Post! A native of Nebraska, she recently graduated from Chadron State College with an Interdisciplinary degree. She plans to go on for a degree in vocal performance this fall. She would like to thank everyone at the Post for this amazing opportunity and hopes we all have an amazing summer!
+  image_year: 2019
+
+
+- first_name: Jasper
+  last_name: Laudeman
+  location: "San Diego, CA via Cleveland, OH"
+  groups:
+    - cast
+  roles:
+    Mary Poppins: Willoughby
+  bio_approved: true
+  bio: >
+    Jasper is wiggling with joy over his Post Playhouse debut! When Jasper is not onstage he enjoys long walks in the park, snuggles, and playing with his favorite stuffed animals. Jasper would like to thank his mom and dad for spoiling him rotten. Woof!
   image_year: 2019
 
 
