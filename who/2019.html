@@ -16,8 +16,15 @@ regenerate: true
 
 {%- endcomment -%}
 
-{%- assign people = site.data.people[page.bio_year] -%}
 {%- assign board = site.data.people[page.bio_year] -%}
+
+{%- assign people = '' | split: '' -%}
+{%- assign people_grouped = site.data.people[page.bio_year] | group_by: 'sort_group' -%}
+
+{%- for group in people_grouped -%}
+  {%- assign sorted_group = group.items | sort_natural: 'last_name' -%}
+  {%- assign people = people | concat: sorted_group -%}
+{%- endfor -%}
 
 <div class="bios-page">
   {%- include cast.html people=people -%}
