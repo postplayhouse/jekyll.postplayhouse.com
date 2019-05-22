@@ -996,6 +996,7 @@
 - first_name: Justus
   last_name: Frahm
   location: "Crawford, NE"
+  sort_group: 2
   groups:
     - cast
   roles:
@@ -1009,6 +1010,7 @@
 - first_name: Boady
   last_name: Hunter
   location: "Hemingford, NE"
+  sort_group: 2
   groups:
     - cast
   roles:
@@ -1022,6 +1024,7 @@
 - first_name: Taren
   last_name: Hunter
   location: "Hemingford, NE"
+  sort_group: 2
   groups:
     - cast
   roles:
@@ -1035,6 +1038,7 @@
 - first_name: Spencer
   last_name: Blundell
   location: "Chadron, NE"
+  sort_group: 2
   groups:
     - cast
   roles:
@@ -1048,6 +1052,7 @@
 - first_name: Connor
   last_name: Butler
   location: "Hemingford, NE"
+  sort_group: 2
   groups:
     - cast
   roles:
@@ -1061,6 +1066,7 @@
 - first_name: Gabriel
   last_name: Frazee
   location: "Crawford, NE"
+  sort_group: 2
   groups:
     - cast
   roles:
@@ -1074,6 +1080,7 @@
 - first_name: Jaelyn
   last_name: Brown
   location: "Chadron, NE"
+  sort_group: 2
   groups:
     - cast
   roles:
@@ -1087,6 +1094,7 @@
 - first_name: Jacee
   last_name: Bates
   location: "Chadron, NE"
+  sort_group: 2
   groups:
     - cast
   roles:
@@ -1100,6 +1108,7 @@
 - first_name: Kember
   last_name: Mitton
   location: "Crawford, NE"
+  sort_group: 2
   groups:
     - cast
   roles:
@@ -1112,6 +1121,7 @@
 
 - first_name: Bill
   last_name: Huntington
+  sort_group: 2
   location: "Hay Springs, NE"
   groups:
     - cast
@@ -1126,6 +1136,7 @@
 - first_name: Dara
   last_name: Edwards
   location: "Chadron, NE"
+  sort_group: 2
   groups:
     - cast
   roles:
@@ -1139,6 +1150,7 @@
 - first_name: Jasper
   last_name: Laudeman
   location: "San Diego, CA via Cleveland, OH"
+  sort_group: 2
   groups:
     - cast
   roles:

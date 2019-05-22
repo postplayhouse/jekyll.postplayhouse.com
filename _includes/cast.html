@@ -3,7 +3,7 @@
 {%- assign has_crew = false -%}
 {%- assign has_creative = false -%}
 {%- assign has_musicians = false -%}
-{%- for person in people -%}
+{%- for person in include.people -%}
   
   {%- if person.groups contains "cast" -%}
     {%- assign has_cast = true -%}
@@ -38,7 +38,7 @@
     <div class="people">
       {%- for person in people -%}
         {%- if person.groups contains "cast" and person.bio_approved -%}
-          {%- include bio.html -%}
+          {%- include bio.html person=person -%}
         {%- endif -%}
       {%- endfor -%}
     </div>
@@ -51,7 +51,7 @@
     <div class="people">
       {%- for person in people -%}
         {%- if person.groups contains "crew" and person.bio_approved -%}
-          {%- include bio.html -%}
+          {%- include bio.html person=person -%}
         {%- endif -%}
       {%- endfor -%}
     </div>
@@ -64,7 +64,7 @@
     <div class="people">
       {%- for person in people -%}
         {%- if person.groups contains "creative" and person.bio_approved -%}
-          {%- include bio.html -%}
+          {%- include bio.html person=person -%}
         {%- endif -%}
       {%- endfor -%}
     </div>
@@ -77,7 +77,7 @@
     <div class="people">
       {%- for person in people -%}
         {%- if person.groups contains "musicians" and person.bio_approved -%}
-          {%- include bio.html -%}
+          {%- include bio.html person=person -%}
         {%- endif -%}
       {%- endfor -%}
     </div>
@@ -90,7 +90,7 @@
     <div class="people">
       {%- for person in people -%}
         {%- if person.groups contains "additional" -%}
-          {%- include bio.html -%}
+          {%- include bio.html person=person -%}
         {%- endif -%}
       {%- endfor -%}
     </div>
