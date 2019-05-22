@@ -17,7 +17,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "images": "gulp"
+    "images": "gulp",
+    "start": "bundle exec jekyll serve --incremental --config=_config.yml,_config.dev.yml --host=0.0.0.0 & bundle exec guard"
   },
   "repository": {
     "type": "git",
