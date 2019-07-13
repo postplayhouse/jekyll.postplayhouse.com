@@ -288,12 +288,27 @@
   roles:
     Mary Poppins: Bert
     Sister Act: Pablo
-    The Music Man: Ewart Dunlop
+    The Music Man: Harold Hill
     Frog & Toad: Frog
+    Little Shop: Orin
   bio_approved: true
   bio: >
     Corey Fern is ecstatic to be leaving his home grounds of Shakopee, Minnesota to join the Post Playhouse team for his Nebraska debut! He is a recent graduate from the University of Wisconsin-River Falls with degrees in theatre and creative writing. Some recent credits include _Little Shop of Horrors_ (Seymour), _A Year With Frog and Toad_ (Snail), and _The Spitfire Grill_ (Joe Sutter). Corey has an extreme passion for performing, directing, and writing and is excited to spend the summer with the Post Playhouse crew!
   image_year: 2019
+
+
+- first_name: Simone
+  last_name: Jones
+  location: ""
+  groups:
+    - cast
+  roles:
+    Sister Act: Delores
+    Little Shop: Crystal
+  bio_approved: true
+  bio: >
+    
+  # image_year: 2019
 
 
 - first_name: Sam
@@ -585,6 +600,20 @@
   image_year: 2019
 
 
+- first_name: Michelle
+  last_name: Owens
+  location: ""
+  groups:
+    - cast
+  roles:
+    Mary Poppins: Bird Woman
+    The Music Man: Mrs. Beatrice
+  bio_approved: true
+  bio: >
+    
+  # image_year: 2019
+
+
 - first_name: Scott
   last_name: Michaelsen
   location: "Bend, OR"
@@ -737,6 +766,22 @@
   image_file: hope-schafer.jpg
 
 
+- first_name: Doug
+  last_name: Schneider
+  location: ""
+  groups:
+    - cast
+  roles:
+    Mary Poppins: Policeman, Ensemble
+    Sister Act: Ernie, Cab Driver, Homeless, Altar Boy, Drag Queen
+    The Music Man: Ewart Dunlop, Salesman
+    Little Shop: Patrick Martin, Skip Snip, Mrs. Luce, Bernstein, Customer
+  bio_approved: true
+  bio: >
+    Doug Schneider is stoked to be making his Post Playhouse debut this summer! Doug is a rising junior musical theatre major at Shenandoah Conservatory and a Syracuse, New York native. Some previous credits include Billy Crocker in _Anything Goes_, Brett Sampson in _13: The Musical_, Ernst in _Spring Awakening_, Leaf Coneybear in _The 25th... Spelling Bee_, and the male swing in _Nice Work If You Can Get It_. Huge shoutout to mom, dad, and everyone who has helped him to pursue his passion and follow his dreams.
+  image_year: 2019
+
+
 - first_name: Wally
   last_name: Seiler
   location: "Alliance, NE"
@@ -807,10 +852,8 @@
   groups:
     - cast
   roles:
-    Mary Poppins: Bird Woman, Ensemble
-    Sister Act: Deloris Van Cartier
+    Mary Poppins: Katie Nanna, Ensemble
     The Music Man: Eulalie Shinn
-    Little Shop: Crystal
   bio_approved: true
   bio: >
     Tyler is thrilled to be a part of Post Playhouse's 2019 season. Tyler is a recent graduate of the BFA Musical Theatre Performance program at Columbia College Chicago. Previous credits include _Caroline Or Change_ and _9 to 5_ (Firebrand Theatre) _The Full Monty_ and _A New Brain_ (Theo Ubique), _High Fidelity_ (Refuge Theatre Project), _Tonya & Nancy: The Rock Opera_ (Underscore Theatre Company), _Little Me_ and _They’re Playing Our Song_ (Porchlight Music Theatre), _Annie_, _A Gentlemen’s Guide To Love and Murder_ and _The Full Monty_ (Rocky Mountain Repertory Theatre). Find out more about Tyler at [tylersymone.com](http://tylersymone.com). Tyler is proudly represented by the agents at Shirley Hamilton Inc.
