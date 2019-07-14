@@ -29,7 +29,11 @@
       {%- endfor -%}
       
       {%- for role in include.person.roles -%}
+        {%- if role[0] == "Season" -%}
+        <li>{{ role[0] }} {{role[1]}}</li>
+        {%- else -%}
         <li>{{ role[0] }} &mdash; {{role[1]}}</li>
+        {%- endif -%}
       {%- endfor -%}
     </ul>
   {%- endif -%}
