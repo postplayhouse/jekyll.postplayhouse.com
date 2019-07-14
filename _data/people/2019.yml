@@ -308,7 +308,7 @@
   bio_approved: true
   bio: >
     
-  # image_year: 2019
+  image_year: 2019
 
 
 - first_name: Sam
@@ -606,12 +606,13 @@
   groups:
     - cast
   roles:
+    Season: Female Swing
     Mary Poppins: Bird Woman
     The Music Man: Mrs. Beatrice
   bio_approved: true
   bio: >
-    
-  # image_year: 2019
+    Michelle is so excited to be joining the company at Post Playhouse this summer!  Originally from Oklahoma, Michelle has performed regionally in New York City, Chicago, Oklahoma City, and northern California.  She has also worked internationally in Milan and Oslo.  Favorite roles include Olive Ostrovsky (_25th Annual Putnam County Spelling Bee_); Mary Flynn (_Merrily We Roll Along_); Lucy (_A Charlie Brown Christmas_); Sue Snell (_Carrie: The Musical_); Emma Goldman (_Ragtime_); and Kate Monster (_Avenue Q_). Last year, Michelle originated the role of Jamie in a new play by Nicholas Pappas called The Place in Brooklyn.  Michelle has a BFA in Musical Theatre from the University of Oklahoma.
+  image_year: 2019
 
 
 - first_name: Scott
@@ -772,6 +773,7 @@
   groups:
     - cast
   roles:
+    Season: Male Swing
     Mary Poppins: Policeman, Ensemble
     Sister Act: Ernie, Cab Driver, Homeless, Altar Boy, Drag Queen
     The Music Man: Ewart Dunlop, Salesman
