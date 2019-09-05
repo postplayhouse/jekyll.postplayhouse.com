@@ -18,7 +18,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "images": "gulp",
-    "start": "bundle exec jekyll serve --incremental --config=_config.yml,_config.dev.yml --host=0.0.0.0 & bundle exec guard"
+    "dev": "bundle exec jekyll serve --incremental --config=_config.yml,_config.dev.yml --host=0.0.0.0",
+    "livereload": "bundle exec guard",
+    "start": "yarn dev & yarn livereload"
   },
   "repository": {
     "type": "git",

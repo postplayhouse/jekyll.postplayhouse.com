@@ -20,7 +20,7 @@ $(document).ready(function(){
     $('[data-switch-image]').each((i, el) => initSwitchImage(el))
   })()
 
-  $('a[href="https://postplayhousetickets.universitytickets.com/user_pages/event_listings.asp"]').on('click', function(){
+  $('a[href="{{ site.tickets_link }}"]').on('click', function(){
     ga('send', 'event', 'link', 'click', 'ticket-site');
   });
 });

@@ -4,6 +4,7 @@ css_version: 4
 future: false
 maintainer_email: don@postplayhouse.com
 box_office_phone: "1-888-665-1976"
+tickets_link: https://postplayhousetickets.universitytickets.com
 
 # Site settings
 title: Post Playhouse
