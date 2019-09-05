@@ -36,11 +36,3 @@ exclude:
 timezone:       US/Mountain
 locale:         en_us
 icon:           /images/post-playhouse-logo.png
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      share: true
