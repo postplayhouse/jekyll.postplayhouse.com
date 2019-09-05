@@ -9,23 +9,10 @@
     </a>
 
     <div class="get-tickets">
-      <form id="get-tickets-form-link" action="https://postplayhousetickets.universitytickets.com/user_pages/event_listings.asp" method="link">
-        <button class="online">Get Tickets Online</button>
-      </form>
-
-      <!-- Add event to the button's click handler -->
-      <script type="text/javascript">
-      $( '#get-tickets-form-link' ).on('submit.box_office', function(e) {
-        e.preventDefault();
-        fbq('track', 'LinkToBoxOffice');
-        setTimeout(function () {
-          document.location.href = "https://postplayhousetickets.universitytickets.com/user_pages/event_listings.asp";
-        }, 500);
-      });
-      </script>
+      <a href="https://postplayhousetickets.universitytickets.com/" class="button buy-tickets">Get Tickets Online</a>
 
 
-      <a href="{{ site.baseurl }}/ticket-info/">Ticket Information</a>
+      <a class="info-link" href="{{ site.baseurl }}/ticket-info/">Ticket Information</a>
       <br />
       <span class="phone-number">{{ site.box_office_phone }}<span>
     </div>
