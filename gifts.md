@@ -11,6 +11,18 @@ Subscribers: even if it's not a gift, print off a subscription card for a conven
 
 Just download the one you want and print!
 
+
+
+
+
+
+
+
+## {{ site.season }} Materials Coming Soon
+
+We are putting tickets on sale much sooner this year than in the past, and a few things will lag behind just a bit. One of those things is our printable gift certificates and subscription cards. Rest assured that if you bought anything from our online box office, you don't need any of the materials on this page to use it. But do check back here by November 1st to print off materials that you can use for yourself or for others.
+
+<!-- 
 ## {{ site.season }} Gift Certificate
 
 <a href="{{ site.baseurl }}/documents/gift-certificate.pdf" download><img src="{{ site.baseurl }}/documents/gift-certificate.png" alt="Image of Gift Certificate"></a>
@@ -31,7 +43,7 @@ Click to download the PDF to print. Don't forget to fill out the record locator 
 
 <a href="{{ site.baseurl }}/documents/subscription-card-4.pdf" download><img src="{{ site.baseurl }}/documents/subscription-card-4.png" alt="Image of Subscription Card"></a>
 
-Click to download the PDF to print. Don't forget to fill out the record locator (find it in your purchase confirmation email).
+Click to download the PDF to print. Don't forget to fill out the record locator (find it in your purchase confirmation email). -->
 
 
 ## Post Playhouse Season Subscription Presentation Card
