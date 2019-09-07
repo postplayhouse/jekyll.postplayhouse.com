@@ -112,7 +112,7 @@ $ratio: 100% * $paperHeight / $paperWidth
       border-color: lighten($show-5-color, 20)
       +drop-shadow($show-5-color-drop-shadow)
 
-    &.show-6, &.show-7
+    &.show-6, &.show-7, &.show-8, &.show-9
       display: none
 
     &.show-1.selected
@@ -375,6 +375,15 @@ $cal-border-style: 0 solid $cal-border-color
   &.show-5
     background-color: $show-5-color
     +drop-shadow($show-5-color-drop-shadow)
+  &.show-
+    &6, &7, &8, &9
+      background-color: #eee
+      color: #777
+      text-shadow: -1px -1px 0px #fff, -1px -1px 1px #fff, -1px -1px 1px #fff,
+      box-shadow: inset 2px 2px 8px rgba(0,0,0,0.2)
+  & + &.show-
+    &6, &7, &8, &9
+      border-top: 1px solid #fff
 
 
 $base-height: 2.16em  
