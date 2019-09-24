@@ -21,17 +21,17 @@ $red-shadow: darken($red, 20)
 $yellow-shadow: darken($yellow, 35)
 $green-shadow: darken($green, 10)
 
-$show-1-color: $blue
+$show-1-color: $yellow
 $show-2-color: $green
-$show-3-color: $red
-$show-4-color: $yellow
-$show-5-color: $purple
+$show-3-color: $purple
+$show-4-color: $red
+$show-5-color: $blue
 
-$show-1-color-drop-shadow: $blue-shadow
+$show-1-color-drop-shadow: $yellow-shadow
 $show-2-color-drop-shadow: $green-shadow
-$show-3-color-drop-shadow: $red-shadow
-$show-4-color-drop-shadow: $yellow-shadow
-$show-5-color-drop-shadow: $purple-shadow
+$show-3-color-drop-shadow: $purple-shadow
+$show-4-color-drop-shadow: $red-shadow
+$show-5-color-drop-shadow: $blue-shadow
 
 $font-body: proxima-nova, sans-serif
 $font-condensed: proxima-nova-condensed
@@ -112,7 +112,7 @@ $ratio: 100% * $paperHeight / $paperWidth
       border-color: lighten($show-5-color, 20)
       +drop-shadow($show-5-color-drop-shadow)
 
-    &.show-6, &.show-7
+    &.show-6, &.show-7, &.show-8, &.show-9
       display: none
 
     &.show-1.selected
@@ -250,24 +250,17 @@ $cal-border-style: 0 solid $cal-border-color
       top: -1em
       transform: rotate(0)
 
-  &.day-1
-    .month-name
-      display: block
-
-      &.jun
-        // left: -2em
-        // top: -0.8em
-      &.jul
-        // top: -0.3em
-        // right: -3.5em
-        display: none
-      &.aug
-        // top: -0.8em
-        // left: -0.55em
-  &.day-31 .may.month-name
+  &.day-29 .month-name.may
     display: block
-  &.day-2 .jul.month-name
+  &.day-2  .month-name.jun
     display: block
+  &.day-1  .month-name.jul
+    display: block
+  &.day-1  .month-name.aug
+    transform: rotate(-10)
+    display: block
+    top: -1em
+    left: 0.5em
 
 
 .day-name
@@ -301,6 +294,8 @@ $cal-border-style: 0 solid $cal-border-color
       display: inline
   .day.dark .day-name
     color: white
+  & .tuesday .day-name
+    display: none
 
 .day-identifiers
   font-size: $cal-base-font-size * 1.3
@@ -346,7 +341,7 @@ $cal-border-style: 0 solid $cal-border-color
 
 .showing
   font-size: $cal-base-font-size * 1.2
-  font-weight: 300
+  font-weight: 400
   text-align: center
   background-color: grey
   color: white
@@ -380,6 +375,15 @@ $cal-border-style: 0 solid $cal-border-color
   &.show-5
     background-color: $show-5-color
     +drop-shadow($show-5-color-drop-shadow)
+  &.show-
+    &6, &7, &8, &9
+      background-color: #eee
+      color: #777
+      text-shadow: -1px -1px 0px #fff, -1px -1px 1px #fff, -1px -1px 1px #fff,
+      box-shadow: inset 2px 2px 8px rgba(0,0,0,0.2)
+  & + &.show-
+    &6, &7, &8, &9
+      border-top: 1px solid #fff
 
 
 $base-height: 2.16em  
@@ -395,6 +399,7 @@ $base-height: 2.16em
     flex-basis: 1em
 
 .show-time
+  font-family: $font-condensed
   color: black
   margin-left: 2%
   text-shadow: none
