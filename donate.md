@@ -7,6 +7,19 @@ nav_title: Donate
 order: 8
 ---
 
+<div id="donate">
+  {%- comment -%}See script at the bottom for behavior{%- endcomment -%}
+  <h2 id="donate-now">Donate Now!</h2>
+
+  <iframe name='ELEOForm' id='ELEOForm' style='width:100%;min-width:320px;max-width:900px;min-height:1000px;border-width:0px;border-style:none;' scrolling='no' src='https://www.eleoonline.net/Pages/WebForms/Mobile/ShowFormMobile.aspx?id=f790c257-b67f-4508-9ff9-0fc3a16f04d2&linkto=670' ></iframe>
+</div>
+
+
+Post Playhouse is a 501(c)(3) non-profit organization.
+<div style="text-align: center">
+  <a class="button" href="#donate-now" onclick="showDonate()">Donate Online Now</a>
+</div>
+
 ## Our Mission
 
 <div class="call-out">
@@ -15,7 +28,11 @@ order: 8
 
 ## You can help
 
-Post Playhouse is a 501 ( c ) ( 3 ) non-profit organization. If you like our mission or are a fan of our productions, consider donating today. View our contributor levels below to see the benefits of donating to Post Playhouse.
+If you like our mission or are a fan of our productions, consider donating today. View our contributor levels below to see the benefits of donating to Post Playhouse.
+
+<div style="text-align: center">
+  <a class="button" href="#donate-now">Donate Online Now</a>
+</div>
 
 Please contact the box office at {{ site.box_office_phone }} or email us at [tom@postplayhouse.com](mailto:tom@postplayhouse.com) with any questions about donating.
 
@@ -70,5 +87,18 @@ Please make all checks payable to Post Playhouse and include your name, mailing 
 - 10 complimentary tickets for opening night of your sponsored show
 - Complimentary pre-show buffet for opening night for your 10 guests at the Fort Robinson Restaurant in the Lodge
 
-## Prefer Captial Donations?
+## Prefer Capital Donations?
+
 Sponsor one of our Interns ($3,000). Sponsor new furniture in our actor housing. Sponsor additional housing for our company. Donate needed box office and lobby technology. The sky is the limit!
+
+
+<script>
+  $("#donate").hide()
+  const showDonate = function () {
+    $("#donate").show()
+    $('html, body').animate({
+      scrollTop: ($('#donate').offset().top)
+    },500);
+  }
+</script>
+
