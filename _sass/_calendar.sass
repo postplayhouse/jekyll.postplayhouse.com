@@ -325,6 +325,31 @@ $cal-border-style: 0 solid $cal-border-color
   display: flex
   flex-direction: column
   height: 100%
+  position: relative
+
+.announce-wrapper
+  background-color: #999
+  color: #fff
+  padding: 3px
+  font-size: 0.45em
+  line-height: 1
+  position: absolute
+  top: 1.3rem
+  text-align: center
+  width: 212%
+  .short
+    display: none  
+  +breakpoint($cal-xs)
+    font-size: 0.4em
+    top: 0.70rem
+    padding: 1px
+    .short
+      display: inline
+    .full
+      display: none
+  +breakpoint($cal-medium)
+    font-size: 0.75em
+  
 
 .day-content
   flex-grow: 1
@@ -337,7 +362,8 @@ $cal-border-style: 0 solid $cal-border-color
     +breakpoint($cal-small)
       flex-basis: 0.75em
     +breakpoint($cal-xs)
-      display: none
+      flex-grow: 0
+      flex-basis: 0.5em
 
 .showing
   font-size: $cal-base-font-size * 1.2
@@ -375,15 +401,6 @@ $cal-border-style: 0 solid $cal-border-color
   &.show-5
     background-color: $show-5-color
     +drop-shadow($show-5-color-drop-shadow)
-  &.show-
-    &6, &7, &8, &9
-      background-color: #eee
-      color: #777
-      text-shadow: -1px -1px 0px #fff, -1px -1px 1px #fff, -1px -1px 1px #fff,
-      box-shadow: inset 2px 2px 8px rgba(0,0,0,0.2)
-  & + &.show-
-    &6, &7, &8, &9
-      border-top: 1px solid #fff
 
 
 $base-height: 2.16em  
