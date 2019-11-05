@@ -10,7 +10,7 @@ image: /images/2020/homestake.jpg
 
 Post Playhouse has been producing fantastic live entertainment in the Northwest corner of Nebraska for over 50 years, with the last several years seeing an emphasis on bringing professional actors into the mix. One or our big goals at Post Playhouse is to bring professional talent, on stage and off, to your doorstep. The vast majority of the shows we have produced have been at the theatre on Fort Robinson.
 
-On occasion, however, we have brought shows to other venues for a small part of the summer. With that in mind, we are thrilled to announce an exciting new partnership for our 2020 season: Post Playhouse will be taking 2 productions on the road for four special performances at the [Homestake Opera House](https://www.homestakeoperahouse.org) in Lead, South Dakota! 
+On occasion, however, we have brought shows to other venues for a small part of the summer. With that in mind, we are thrilled to announce an exciting new partnership for our 2020 season: Post Playhouse will be taking 2 productions on the road for four special performances at the [Homestake Opera House](https://www.homestakeoperahouse.org) in Lead, South Dakota!
 
 We have been in discussions with the fine folks who run the Homestake Opera House for a few months now, and we can finally let everyone know the great news. You'll see the shows previously represented on our calendar in July as "secrets" have been revealed as performances in Lead, SD. There will be two performances of _Church Basement Ladies_ (July 15 and 16) and two performances of _Damn Yankees!_ (July 22 and 23) to enjoy out at the opera house.
 
@@ -18,9 +18,6 @@ We have been in discussions with the fine folks who run the Homestake Opera Hous
 
 <img src="{{ site.baseurl }}/images/2020/damn-yankees.jpg" alt="" style="max-width: calc(50% - 8px); float: right; margin-bottom: 16px">
 
-
 You can purchase tickets for these performances just like you'd purchase tickets for our regular season: online through our website or by calling our box office. In addition, if you purchase a Season Subscription (either the four or five show variety), you'll be free to choose a performance in Lead as one of your picks if you so desire.
-
-<blockquote style="clear: both"> Note that at this time, individual tickets are not yet on sale. They will be soon, but in the meantime our Season Subscriptions—which make wonderful gifts for the holidays—are ready for purchase!</blockquote>
 
 So come on out to the Homestake Opera House in Lead, South Dakota this summer and enjoy a show!
